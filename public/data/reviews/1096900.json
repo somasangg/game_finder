@@ -1,0 +1,1006 @@
+{
+  "positive": [
+    {
+      "review": "I'm truly enjoying my MZ experience.  It just works.  I have 0 game dev experience but the learning curve wasn't bad. The built in tutorials to cover most of the basic stuff and tons of guides/resources everywhere had me comfortably designing and building in no time.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I highly recommend this tool. It is super user friendly and easy to use. It lets you create any kind of game, not only RPGs.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Used this to make a language learning simulator for my master's thesis - a bit of an unusual project, but it was up to the task! The ability to connect AI features takes some skill, but is a welcome feature. It's a little janky sometimes, but that may be up to my own failings. There's a large community with a lot of advice if you need help.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "- Do my eyes deceive me.. or is that the sword of a thousand truths?\n- I'm afraid it is\n- [strike] Making a good game is really hard even with RPG Maker [/strike] \n- [b] SHUT UP [/b]",
+      "voted_up": true,
+      "votes_helpful": 12
+    },
+    {
+      "review": "This RPG Maker was a great way to introduce someone into have games are made and how they work. the tutorial in general is very well designed, however there are a very few occassions where the \"click this button\" indicator are WAY off. but i was able to figure out where that button actually was. This happened 3 or 4 times over the span of 20 hours. nothing \"game breaking\" but was very frustrating when it did happen.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I don't even have the game though, how am I making this?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Idk, i love using it when i can.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Really helpfull, couldn't recommend it enough.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Great",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "RPG Maker MZ is an incredible toolset, with the capability to create incredible RPG-based games. I've got over 6000 hours on the clock. I've used every pixel of it.\r\n\r\nYeah, it's 2D. But that adds to the charm, imho. 3D based games will RINSE you in assets.\r\n\r\nThe interface is simple enough that you can 'pick up and go' almost right away, and as your mind thinks of more creative things to do and you do eventually reach the limitations of the toolset, you can insert script, and write plugins to do the rest. The toolset is build and designed for it.\r\n\r\n\"Do I need to code?\" No, not really. JavaScript is pretty easy to pick up and understand visually, though, and can help with advanced stuff. But the majority of what you need is a google away.\r\n\r\n\"Do I need to be capable of making art?\" No. But I would advise yes. You can use the stuff that comes with, but your game isn't going to stand out against the thousands of shovel-ware out there.\r\n\r\nWhere it fails: The toolset doesn't. It's the things associated with it.\r\n\r\nThe RPGMaker Forums (english speaking)\r\nI've been using the internet since the 90s. I have never come across a more rude, uppity, self-important, post-count-hungry shower of pricks in all of my life. And I've used 4chan, reddit, twitter AND WoW barrens chat. It doesn't matter how much you search. It doesn't matter if your problem has never existed, it doesn't matter how polite and apologetic you are... the residents of the english speaking forum will find a way to belittle you and make you feel like a prick for posting. But... there are free resources there if you can bear it.\r\n\r\nRPG Maker MZ DLC is recycled MV stuff.\r\nOut of ALL of the DLC for RPGMaker MZ, there are only TWO that actually match the packed-in artwork and style. The 8 Wizards, and the Dark Fantasy. \r\nOther tilesets/portraits/art are either MV tailored, or their own art (which is never, ever enough to build a game around) so a warning there: don't waste money on DLC. I'll pre-empt it now. Learn to draw. Learn to edit your tilesets. Just do it. The DLC is just a cash grab.\r\n\r\nEVERY single generator pack, hero pack, etc, are re-packed MV DLCs, and even though there's file compatibility between MV and MZ, the art style, (and the facing direction of portraits, and the poses in SV battles) differ. MV's parts will make a blistering mess of your generator. Save your money.\r\n\r\nRegarding difference to MV:\r\nThey are virtually the same in structure. The art differs slightly between the two. MZ allows map building with layer control (invaluable), MV does not (learning curve, harder to make map edits on complex maps). MZ allows the collapsing of conditionals in event editor, MV does not. MZ ships with a 64-bit compatible nw.js, MV does not*. MZ by default allows keyboard input for name input, MV uses a console-esque letter selection. MZ has better code support, MV uses older JS libraries.\r\n\r\nWhat else? Oh yeah, Plugins.\r\nMV has a metric TON of plugins to use, these add features to your game, or modify existing ones.\r\nMZ has less, which people will tell you is 'a bad thing' but MV ones can be converted to work in MZ.\r\nThere's paid ones, tht are pretty good, but for most stuff, the free things will get you far.\r\n\r\nLastly... I want to add a warning. If you plan on developing a game, and you've never done it before - it will - irreversibly - change your relationship with video games. The curtain lifts.\r\nYou will see all the shortcuts. \r\nYou will see all the lazy effort, \r\n...and see right through the recycled slop that's shovelled out year after year by 'Big Game'. \r\n...and your library of games you actually play will drop significantly.\r\n\r\n\r\n*compiled games can be made compatible with latest OS releases, but that's extra work",
+      "voted_up": true,
+      "votes_helpful": 30
+    },
+    {
+      "review": "RPG Maker MZ – “I accidentally made a game about sandwiches”\r\n\r\nI bought RPG Maker MZ because I thought it would make me a role-playing game developer. Now I’m a guy who yells at tilesets. Every time I open the program, I feel like I’m standing in a room full of buttons that all want to be pressed, but they don’t know why. It’s like being at a party where everyone’s polite and slightly terrified of variables.\r\n\r\nYou don’t need to know how to code to use it, but that’s a trap. It’s like saying you don’t need to know how to swim to own a pool. You can still drown, you’ll just look happier doing it.\r\n\r\nThe default hero in my first game was named Harold. I didn’t pick Harold. He just showed up like, “Hey man, I’m your protagonist now.” I said, “Cool, Harold, we’re making a game about saving the world.” He said, “Nah, I’m here for the random encounter system.” Harold doesn’t do quests. He just walks into forests and regrets it.\r\n\r\nThe event system is wild. You can make an NPC do anything. Talk, teleport, dance, explode. I made a guy whose only line was “I forgot my line.” He’s still in there, waiting to remember.\r\n\r\nEvery time I playtest my game, I find a new way to mess it up. Last time my hero got stuck in a chair. Not on the chair. In it. That’s immersion. I call it avant-garde level design. My friend called it “broken.” But art is subjective, man.\r\n\r\nRPG Maker MZ has so many plugins, I think it’s secretly an online bazaar. People are out there trading scripts like Pokémon cards. “I’ll give you one animated menu for two weather effects and a parallax background.”\r\n\r\nBut honestly, it’s fun. It’s not perfect, but neither am I. My game crashes sometimes, I crash sometimes. We understand each other.\r\n\r\nIf you’ve ever wanted to make a game without knowing what you’re doing — and have a good time doing it — this is the tool for you. Just remember: your first boss battle will always be against yourself.\r\n\r\n10/10, Harold approves.",
+      "voted_up": true,
+      "votes_helpful": 19
+    },
+    {
+      "review": "I developed a whole game and released it on Steam using this. It's worth the money, especially now it uses Javascript and Node.JS for its code and plugins.",
+      "voted_up": true,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Me starting the engine for the first time: haha this looks cool maybe I can make a little game or something!!\n\nMe two hours later: I think I'll make a deckbuilding roguelike with twelve character classes, a procedurally generated open world, and 50 enemies that each have different attacks. WAIT WHAT IF... it was also an MMO?\n\nI expect my game to be finished by next Monday and sell roughly two million copies in the first year of release. Updates soon, folks.\n\n\n\nEdit: Thanks for the award!\n\nEdit #2: Thanks for a 2nd award! I am rolling in cash rn fr\n\nEdit #3: Finally, I got my first jester...i-it's beautiful...tears in my eyes looking at his beautiful face...\n\nEdit: #4: I feel like a lab rat that experimenters are giving treats to as a reward for doing tricks, but instead of treats it's steam awards. What on earth does this simile mean? I'm not entirely sure myself, but I hope I'll understand someday.",
+      "voted_up": true,
+      "votes_helpful": 29
+    },
+    {
+      "review": "I love the program. I hate that I  am stuck using windows to use it. I would love to see the day this goes to Linux as well. I cannot support Microsoft anymore. Linux here I come.",
+      "voted_up": true,
+      "votes_helpful": 12
+    },
+    {
+      "review": "I'm truly enjoying my MZ experience.  It just works.  I have 0 game dev experience but the learning curve wasn't bad. The built in tutorials to cover most of the basic stuff and tons of guides/resources everywhere had me comfortably designing and building in no time.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Amazing horror game development tool, also it’s pretty good for making RPGs too",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Best game engine ever. Like seriously the game is basically already done.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "MZ is really good, but doesn't have the amazing plugin library that MV does(In my opinion). I'd say if your gonna make more basic rpgs, this is for you, otherwise you might be better off getting MV and Yanfly plugins (that's $120 dollars all together so it's understandable if you don't want to), however MZ is easier to use, so it really just comes down to preference.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I want to give this a positive review, but how can I if I can't even get started?\n\nWhenever I launch the application, it'll hang for a few seconds before crashing. The culprit is with Qt5Qml.dll. I've tried uninstalling and reinstalling, tried verifying file integrity and a lot of other things. Nothing has worked for me to get this program up and running.\n\nIf anyone has any ideas or suggestions on fixing the issue, I'm willing to listen, but for now, I have to give it a no on recommendation.\n\nEdit: After some finagling, I am now able to launch the application and work on projects with no issues. As a longtime fan of the RPG Maker series, I am kinda disappointed that this has been an issue, but I also can't fault the developers as they can't take every PC build permutation into account for how the application will behave.\n\nThat being said, I am now looking forward to continuing to expand my RPG Maker knowledge.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Great engine \r\n\r\nDefault assets are a little more silly looking compare to MV, but overall a great engine that really improved\r\nMV. \r\n\r\nwould highly suggest it to anybody looking to get into making games without tons of coding.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I highly recommend this tool. It is super user friendly and easy to use. It lets you create any kind of game, not only RPGs.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I absolutely love this engine. While I do wish it could do more in terms of game mechanics and features, the ease of use far outweighs all that.\n\nIf it were up to me, every child would receive a copy of this engine to allow them to try it out and explore ideas, since it really is THAT easy to use.\n\nNo code and it even includes art and music. This is where anyone should begin their game dev journey.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Fun and creative rpg maker... lots of options. I'm certainly enjoying it!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great engine, bug-less and feature rich. The program is easy to start and difficult to master. It is highly extensible because it supports Javascript. I've utilized several frameworks and plugins that allow professional developers to thrive.\n\nOverall, an incredible product!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's an overall amazing and good engine - and very easy to use with lots of pre-made assets. However, one key-complaint is that it focuses on people who have little to none programming experience and for experienced users like myself I couldn't feel like I could completely take advantage of all the features the engine could have - despite building many of my own RPG Maker MZ plugins. I wish it had an \"Advanced Mode\" feature for people who want to use advanced commands with javascript on the devconsole or even support for more programming languages like C# or Python since barely anyone is using JavaScript anymore (minus the people who specialize in building websites)",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Used this to make a language learning simulator for my master's thesis - a bit of an unusual project, but it was up to the task! The ability to connect AI features takes some skill, but is a welcome feature. It's a little janky sometimes, but that may be up to my own failings. There's a large community with a lot of advice if you need help.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Super duper easy to use! I upgraded from RPG XP and it’s a big gust of fresh air for my lungs!!!!! I LOVE IT!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good but does need most of the other components for diverse creation without using your own, other wise amazing.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "RPG Maker MZ is the latest in the quintessential RPG-making tools that let you make RPGs. I'm not sure what the MZ stands for, but if you're really ambitious, you might even be able to make something without default assets.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "- Do my eyes deceive me.. or is that the sword of a thousand truths?\n- I'm afraid it is\n- [strike] Making a good game is really hard even with RPG Maker [/strike] \n- [b] SHUT UP [/b]",
+      "voted_up": true,
+      "votes_helpful": 11
+    },
+    {
+      "review": "THE engine if you don't want to code and have the artistic skill (and plugins) to make something awesome. You get what you put into it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ITS SO GREAT KINDA MODDING BUT A ABSOLUTE TIME SAVER WOULD RECOMMEND ITS EASY TO USE",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This RPG Maker was a great way to introduce someone into have games are made and how they work. the tutorial in general is very well designed, however there are a very few occassions where the \"click this button\" indicator are WAY off. but i was able to figure out where that button actually was. This happened 3 or 4 times over the span of 20 hours. nothing \"game breaking\" but was very frustrating when it did happen.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Love how easy it is to use and I'm having a lot of fun creating my own game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Pretty much everything a game making engine needs.\r\n\r\n10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really easy to use once you get the hang of it, fun too!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I don't even have the game though, how am I making this?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So much fun to tool around with!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Am I finished my game yet? \r\nDude I haven't even started it",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Idk, i love using it when i can.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's cool but my pubes just fell off",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "so good it makes me urinate",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "great place to make your games!!!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Really helpfull, couldn't recommend it enough.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Its cool",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "easy to use",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Great",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The best gam engine i have ever had so far",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its ok",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "RPG Maker MZ is an incredible toolset, with the capability to create incredible RPG-based games. I've got over 6000 hours on the clock. I've used every pixel of it.\r\n\r\nYeah, it's 2D. But that adds to the charm, imho. 3D based games will RINSE you in assets.\r\n\r\nThe interface is simple enough that you can 'pick up and go' almost right away, and as your mind thinks of more creative things to do and you do eventually reach the limitations of the toolset, you can insert script, and write plugins to do the rest. The toolset is build and designed for it.\r\n\r\n\"Do I need to code?\" No, not really. JavaScript is pretty easy to pick up and understand visually, though, and can help with advanced stuff. But the majority of what you need is a google away.\r\n\r\n\"Do I need to be capable of making art?\" No. But I would advise yes. You can use the stuff that comes with, but your game isn't going to stand out against the thousands of shovel-ware out there.\r\n\r\nWhere it fails: The toolset doesn't. It's the things associated with it.\r\n\r\nThe RPGMaker Forums (english speaking)\r\nI've been using the internet since the 90s. I have never come across a more rude, uppity, self-important, post-count-hungry shower of pricks in all of my life. And I've used 4chan, reddit, twitter AND WoW barrens chat. It doesn't matter how much you search. It doesn't matter if your problem has never existed, it doesn't matter how polite and apologetic you are... the residents of the english speaking forum will find a way to belittle you and make you feel like a prick for posting. But... there are free resources there if you can bear it.\r\n\r\nRPG Maker MZ DLC is recycled MV stuff.\r\nOut of ALL of the DLC for RPGMaker MZ, there are only TWO that actually match the packed-in artwork and style. The 8 Wizards, and the Dark Fantasy. \r\nOther tilesets/portraits/art are either MV tailored, or their own art (which is never, ever enough to build a game around) so a warning there: don't waste money on DLC. I'll pre-empt it now. Learn to draw. Learn to edit your tilesets. Just do it. The DLC is just a cash grab.\r\n\r\nEVERY single generator pack, hero pack, etc, are re-packed MV DLCs, and even though there's file compatibility between MV and MZ, the art style, (and the facing direction of portraits, and the poses in SV battles) differ. MV's parts will make a blistering mess of your generator. Save your money.\r\n\r\nRegarding difference to MV:\r\nThey are virtually the same in structure. The art differs slightly between the two. MZ allows map building with layer control (invaluable), MV does not (learning curve, harder to make map edits on complex maps). MZ allows the collapsing of conditionals in event editor, MV does not. MZ ships with a 64-bit compatible nw.js, MV does not*. MZ by default allows keyboard input for name input, MV uses a console-esque letter selection. MZ has better code support, MV uses older JS libraries.\r\n\r\nWhat else? Oh yeah, Plugins.\r\nMV has a metric TON of plugins to use, these add features to your game, or modify existing ones.\r\nMZ has less, which people will tell you is 'a bad thing' but MV ones can be converted to work in MZ.\r\nThere's paid ones, tht are pretty good, but for most stuff, the free things will get you far.\r\n\r\nLastly... I want to add a warning. If you plan on developing a game, and you've never done it before - it will - irreversibly - change your relationship with video games. The curtain lifts.\r\nYou will see all the shortcuts. \r\nYou will see all the lazy effort, \r\n...and see right through the recycled slop that's shovelled out year after year by 'Big Game'. \r\n...and your library of games you actually play will drop significantly.\r\n\r\n\r\n*compiled games can be made compatible with latest OS releases, but that's extra work",
+      "voted_up": true,
+      "votes_helpful": 34
+    },
+    {
+      "review": "RPG Maker MZ – “I accidentally made a game about sandwiches”\r\n\r\nI bought RPG Maker MZ because I thought it would make me a role-playing game developer. Now I’m a guy who yells at tilesets. Every time I open the program, I feel like I’m standing in a room full of buttons that all want to be pressed, but they don’t know why. It’s like being at a party where everyone’s polite and slightly terrified of variables.\r\n\r\nYou don’t need to know how to code to use it, but that’s a trap. It’s like saying you don’t need to know how to swim to own a pool. You can still drown, you’ll just look happier doing it.\r\n\r\nThe default hero in my first game was named Harold. I didn’t pick Harold. He just showed up like, “Hey man, I’m your protagonist now.” I said, “Cool, Harold, we’re making a game about saving the world.” He said, “Nah, I’m here for the random encounter system.” Harold doesn’t do quests. He just walks into forests and regrets it.\r\n\r\nThe event system is wild. You can make an NPC do anything. Talk, teleport, dance, explode. I made a guy whose only line was “I forgot my line.” He’s still in there, waiting to remember.\r\n\r\nEvery time I playtest my game, I find a new way to mess it up. Last time my hero got stuck in a chair. Not on the chair. In it. That’s immersion. I call it avant-garde level design. My friend called it “broken.” But art is subjective, man.\r\n\r\nRPG Maker MZ has so many plugins, I think it’s secretly an online bazaar. People are out there trading scripts like Pokémon cards. “I’ll give you one animated menu for two weather effects and a parallax background.”\r\n\r\nBut honestly, it’s fun. It’s not perfect, but neither am I. My game crashes sometimes, I crash sometimes. We understand each other.\r\n\r\nIf you’ve ever wanted to make a game without knowing what you’re doing — and have a good time doing it — this is the tool for you. Just remember: your first boss battle will always be against yourself.\r\n\r\n10/10, Harold approves.",
+      "voted_up": true,
+      "votes_helpful": 19
+    },
+    {
+      "review": "I developed a whole game and released it on Steam using this. It's worth the money, especially now it uses Javascript and Node.JS for its code and plugins.",
+      "voted_up": true,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Me starting the engine for the first time: haha this looks cool maybe I can make a little game or something!!\n\nMe two hours later: I think I'll make a deckbuilding roguelike with twelve character classes, a procedurally generated open world, and 50 enemies that each have different attacks. WAIT WHAT IF... it was also an MMO?\n\nI expect my game to be finished by next Monday and sell roughly two million copies in the first year of release. Updates soon, folks.\n\n\n\nEdit: Thanks for the award!\n\nEdit #2: Thanks for a 2nd award! I am rolling in cash rn fr\n\nEdit #3: Finally, I got my first jester...i-it's beautiful...tears in my eyes looking at his beautiful face...\n\nEdit: #4: I feel like a lab rat that experimenters are giving treats to as a reward for doing tricks, but instead of treats it's steam awards. What on earth does this simile mean? I'm not entirely sure myself, but I hope I'll understand someday.",
+      "voted_up": true,
+      "votes_helpful": 29
+    },
+    {
+      "review": "I love the program. I hate that I  am stuck using windows to use it. I would love to see the day this goes to Linux as well. I cannot support Microsoft anymore. Linux here I come.",
+      "voted_up": true,
+      "votes_helpful": 12
+    },
+    {
+      "review": "I'm truly enjoying my MZ experience.  It just works.  I have 0 game dev experience but the learning curve wasn't bad. The built in tutorials to cover most of the basic stuff and tons of guides/resources everywhere had me comfortably designing and building in no time.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Amazing horror game development tool, also it’s pretty good for making RPGs too",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Best game engine ever. Like seriously the game is basically already done.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "MZ is really good, but doesn't have the amazing plugin library that MV does(In my opinion). I'd say if your gonna make more basic rpgs, this is for you, otherwise you might be better off getting MV and Yanfly plugins (that's $120 dollars all together so it's understandable if you don't want to), however MZ is easier to use, so it really just comes down to preference.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I want to give this a positive review, but how can I if I can't even get started?\n\nWhenever I launch the application, it'll hang for a few seconds before crashing. The culprit is with Qt5Qml.dll. I've tried uninstalling and reinstalling, tried verifying file integrity and a lot of other things. Nothing has worked for me to get this program up and running.\n\nIf anyone has any ideas or suggestions on fixing the issue, I'm willing to listen, but for now, I have to give it a no on recommendation.\n\nEdit: After some finagling, I am now able to launch the application and work on projects with no issues. As a longtime fan of the RPG Maker series, I am kinda disappointed that this has been an issue, but I also can't fault the developers as they can't take every PC build permutation into account for how the application will behave.\n\nThat being said, I am now looking forward to continuing to expand my RPG Maker knowledge.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Great engine \r\n\r\nDefault assets are a little more silly looking compare to MV, but overall a great engine that really improved\r\nMV. \r\n\r\nwould highly suggest it to anybody looking to get into making games without tons of coding.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I highly recommend this tool. It is super user friendly and easy to use. It lets you create any kind of game, not only RPGs.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I absolutely love this engine. While I do wish it could do more in terms of game mechanics and features, the ease of use far outweighs all that.\n\nIf it were up to me, every child would receive a copy of this engine to allow them to try it out and explore ideas, since it really is THAT easy to use.\n\nNo code and it even includes art and music. This is where anyone should begin their game dev journey.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Fun and creative rpg maker... lots of options. I'm certainly enjoying it!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great engine, bug-less and feature rich. The program is easy to start and difficult to master. It is highly extensible because it supports Javascript. I've utilized several frameworks and plugins that allow professional developers to thrive.\n\nOverall, an incredible product!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's an overall amazing and good engine - and very easy to use with lots of pre-made assets. However, one key-complaint is that it focuses on people who have little to none programming experience and for experienced users like myself I couldn't feel like I could completely take advantage of all the features the engine could have - despite building many of my own RPG Maker MZ plugins. I wish it had an \"Advanced Mode\" feature for people who want to use advanced commands with javascript on the devconsole or even support for more programming languages like C# or Python since barely anyone is using JavaScript anymore (minus the people who specialize in building websites)",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Used this to make a language learning simulator for my master's thesis - a bit of an unusual project, but it was up to the task! The ability to connect AI features takes some skill, but is a welcome feature. It's a little janky sometimes, but that may be up to my own failings. There's a large community with a lot of advice if you need help.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Super duper easy to use! I upgraded from RPG XP and it’s a big gust of fresh air for my lungs!!!!! I LOVE IT!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good but does need most of the other components for diverse creation without using your own, other wise amazing.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "RPG Maker MZ is the latest in the quintessential RPG-making tools that let you make RPGs. I'm not sure what the MZ stands for, but if you're really ambitious, you might even be able to make something without default assets.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "- Do my eyes deceive me.. or is that the sword of a thousand truths?\n- I'm afraid it is\n- [strike] Making a good game is really hard even with RPG Maker [/strike] \n- [b] SHUT UP [/b]",
+      "voted_up": true,
+      "votes_helpful": 13
+    },
+    {
+      "review": "ITS SO GREAT KINDA MODDING BUT A ABSOLUTE TIME SAVER WOULD RECOMMEND ITS EASY TO USE",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This RPG Maker was a great way to introduce someone into have games are made and how they work. the tutorial in general is very well designed, however there are a very few occassions where the \"click this button\" indicator are WAY off. but i was able to figure out where that button actually was. This happened 3 or 4 times over the span of 20 hours. nothing \"game breaking\" but was very frustrating when it did happen.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Love how easy it is to use and I'm having a lot of fun creating my own game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Pretty much everything a game making engine needs.\r\n\r\n10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really easy to use once you get the hang of it, fun too!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I don't even have the game though, how am I making this?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So much fun to tool around with!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Am I finished my game yet? \r\nDude I haven't even started it",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Idk, i love using it when i can.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "so good it makes me urinate",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "great place to make your games!!!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Really helpfull, couldn't recommend it enough.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Its cool",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "easy to use",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Great",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "The best gam engine i have ever had so far",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its ok",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "yes",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "RPG Maker MZ is an incredible toolset, with the capability to create incredible RPG-based games. I've got over 6000 hours on the clock. I've used every pixel of it.\r\n\r\nYeah, it's 2D. But that adds to the charm, imho. 3D based games will RINSE you in assets.\r\n\r\nThe interface is simple enough that you can 'pick up and go' almost right away, and as your mind thinks of more creative things to do and you do eventually reach the limitations of the toolset, you can insert script, and write plugins to do the rest. The toolset is build and designed for it.\r\n\r\n\"Do I need to code?\" No, not really. JavaScript is pretty easy to pick up and understand visually, though, and can help with advanced stuff. But the majority of what you need is a google away.\r\n\r\n\"Do I need to be capable of making art?\" No. But I would advise yes. You can use the stuff that comes with, but your game isn't going to stand out against the thousands of shovel-ware out there.\r\n\r\nWhere it fails: The toolset doesn't. It's the things associated with it.\r\n\r\nThe RPGMaker Forums (english speaking)\r\nI've been using the internet since the 90s. I have never come across a more rude, uppity, self-important, post-count-hungry shower of pricks in all of my life. And I've used 4chan, reddit, twitter AND WoW barrens chat. It doesn't matter how much you search. It doesn't matter if your problem has never existed, it doesn't matter how polite and apologetic you are... the residents of the english speaking forum will find a way to belittle you and make you feel like a prick for posting. But... there are free resources there if you can bear it.\r\n\r\nRPG Maker MZ DLC is recycled MV stuff.\r\nOut of ALL of the DLC for RPGMaker MZ, there are only TWO that actually match the packed-in artwork and style. The 8 Wizards, and the Dark Fantasy. \r\nOther tilesets/portraits/art are either MV tailored, or their own art (which is never, ever enough to build a game around) so a warning there: don't waste money on DLC. I'll pre-empt it now. Learn to draw. Learn to edit your tilesets. Just do it. The DLC is just a cash grab.\r\n\r\nEVERY single generator pack, hero pack, etc, are re-packed MV DLCs, and even though there's file compatibility between MV and MZ, the art style, (and the facing direction of portraits, and the poses in SV battles) differ. MV's parts will make a blistering mess of your generator. Save your money.\r\n\r\nRegarding difference to MV:\r\nThey are virtually the same in structure. The art differs slightly between the two. MZ allows map building with layer control (invaluable), MV does not (learning curve, harder to make map edits on complex maps). MZ allows the collapsing of conditionals in event editor, MV does not. MZ ships with a 64-bit compatible nw.js, MV does not*. MZ by default allows keyboard input for name input, MV uses a console-esque letter selection. MZ has better code support, MV uses older JS libraries.\r\n\r\nWhat else? Oh yeah, Plugins.\r\nMV has a metric TON of plugins to use, these add features to your game, or modify existing ones.\r\nMZ has less, which people will tell you is 'a bad thing' but MV ones can be converted to work in MZ.\r\nThere's paid ones, tht are pretty good, but for most stuff, the free things will get you far.\r\n\r\nLastly... I want to add a warning. If you plan on developing a game, and you've never done it before - it will - irreversibly - change your relationship with video games. The curtain lifts.\r\nYou will see all the shortcuts. \r\nYou will see all the lazy effort, \r\n...and see right through the recycled slop that's shovelled out year after year by 'Big Game'. \r\n...and your library of games you actually play will drop significantly.\r\n\r\n\r\n*compiled games can be made compatible with latest OS releases, but that's extra work",
+      "voted_up": true,
+      "votes_helpful": 34
+    },
+    {
+      "review": "RPG Maker MZ – “I accidentally made a game about sandwiches”\r\n\r\nI bought RPG Maker MZ because I thought it would make me a role-playing game developer. Now I’m a guy who yells at tilesets. Every time I open the program, I feel like I’m standing in a room full of buttons that all want to be pressed, but they don’t know why. It’s like being at a party where everyone’s polite and slightly terrified of variables.\r\n\r\nYou don’t need to know how to code to use it, but that’s a trap. It’s like saying you don’t need to know how to swim to own a pool. You can still drown, you’ll just look happier doing it.\r\n\r\nThe default hero in my first game was named Harold. I didn’t pick Harold. He just showed up like, “Hey man, I’m your protagonist now.” I said, “Cool, Harold, we’re making a game about saving the world.” He said, “Nah, I’m here for the random encounter system.” Harold doesn’t do quests. He just walks into forests and regrets it.\r\n\r\nThe event system is wild. You can make an NPC do anything. Talk, teleport, dance, explode. I made a guy whose only line was “I forgot my line.” He’s still in there, waiting to remember.\r\n\r\nEvery time I playtest my game, I find a new way to mess it up. Last time my hero got stuck in a chair. Not on the chair. In it. That’s immersion. I call it avant-garde level design. My friend called it “broken.” But art is subjective, man.\r\n\r\nRPG Maker MZ has so many plugins, I think it’s secretly an online bazaar. People are out there trading scripts like Pokémon cards. “I’ll give you one animated menu for two weather effects and a parallax background.”\r\n\r\nBut honestly, it’s fun. It’s not perfect, but neither am I. My game crashes sometimes, I crash sometimes. We understand each other.\r\n\r\nIf you’ve ever wanted to make a game without knowing what you’re doing — and have a good time doing it — this is the tool for you. Just remember: your first boss battle will always be against yourself.\r\n\r\n10/10, Harold approves.",
+      "voted_up": true,
+      "votes_helpful": 19
+    },
+    {
+      "review": "I developed a whole game and released it on Steam using this. It's worth the money, especially now it uses Javascript and Node.JS for its code and plugins.",
+      "voted_up": true,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Me starting the engine for the first time: haha this looks cool maybe I can make a little game or something!!\n\nMe two hours later: I think I'll make a deckbuilding roguelike with twelve character classes, a procedurally generated open world, and 50 enemies that each have different attacks. WAIT WHAT IF... it was also an MMO?\n\nI expect my game to be finished by next Monday and sell roughly two million copies in the first year of release. Updates soon, folks.\n\n\n\nEdit: Thanks for the award!\n\nEdit #2: Thanks for a 2nd award! I am rolling in cash rn fr\n\nEdit #3: Finally, I got my first jester...i-it's beautiful...tears in my eyes looking at his beautiful face...\n\nEdit: #4: I feel like a lab rat that experimenters are giving treats to as a reward for doing tricks, but instead of treats it's steam awards. What on earth does this simile mean? I'm not entirely sure myself, but I hope I'll understand someday.",
+      "voted_up": true,
+      "votes_helpful": 29
+    },
+    {
+      "review": "I love the program. I hate that I  am stuck using windows to use it. I would love to see the day this goes to Linux as well. I cannot support Microsoft anymore. Linux here I come.",
+      "voted_up": true,
+      "votes_helpful": 12
+    },
+    {
+      "review": "I'm truly enjoying my MZ experience.  It just works.  I have 0 game dev experience but the learning curve wasn't bad. The built in tutorials to cover most of the basic stuff and tons of guides/resources everywhere had me comfortably designing and building in no time.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Amazing horror game development tool, also it’s pretty good for making RPGs too",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Best game engine ever. Like seriously the game is basically already done.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "MZ is really good, but doesn't have the amazing plugin library that MV does(In my opinion). I'd say if your gonna make more basic rpgs, this is for you, otherwise you might be better off getting MV and Yanfly plugins (that's $120 dollars all together so it's understandable if you don't want to), however MZ is easier to use, so it really just comes down to preference.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I want to give this a positive review, but how can I if I can't even get started?\n\nWhenever I launch the application, it'll hang for a few seconds before crashing. The culprit is with Qt5Qml.dll. I've tried uninstalling and reinstalling, tried verifying file integrity and a lot of other things. Nothing has worked for me to get this program up and running.\n\nIf anyone has any ideas or suggestions on fixing the issue, I'm willing to listen, but for now, I have to give it a no on recommendation.\n\nEdit: After some finagling, I am now able to launch the application and work on projects with no issues. As a longtime fan of the RPG Maker series, I am kinda disappointed that this has been an issue, but I also can't fault the developers as they can't take every PC build permutation into account for how the application will behave.\n\nThat being said, I am now looking forward to continuing to expand my RPG Maker knowledge.",
+      "voted_up": true,
+      "votes_helpful": 3
+    }
+  ],
+  "negative": [
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I got this on sale for like fifteen bucks after I had already owned MV for awhile. I just assumed that a newer version of RPG Maker meant it was better. \n\nSo far, that remains to be seen. The graphics are backwards compatible with MV and other versions of the engine but I don't know why you'd want them, they're ugly.\n\nMZ has extra layers when mapping but that feature alone isn't worth the cost of entry for MZ, especially when parallax mapping completely removes any issues with the limit on layers in MV.\n\nMZ and MV's plugins are not backwards compatible out of the box but you can get a plugin for MZ that can help convert most of MV's plugins to MZ, although these days most plugin developers normally release MZ and MV plugins side by side.\n\nIf a plugin can make MV's plugins compatible with MZ, it really makes me wonder if all Gotcha did was make very slight changes so the plugins would break.\n\nIf you want MZ and can get it on a steep discount, sure, whatever, buy it. But frankly I don't see any reason to spend full price on this software. It's MV in different clothing with just enough changed to break anything from MV projects.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "unity is way better than this shit",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I got this on sale for like fifteen bucks after I had already owned MV for awhile. I just assumed that a newer version of RPG Maker meant it was better. \n\nSo far, that remains to be seen. The graphics are backwards compatible with MV and other versions of the engine but I don't know why you'd want them, they're ugly.\n\nMZ has extra layers when mapping but that feature alone isn't worth the cost of entry for MZ, especially when parallax mapping completely removes any issues with the limit on layers in MV.\n\nMZ and MV's plugins are not backwards compatible out of the box but you can get a plugin for MZ that can help convert most of MV's plugins to MZ, although these days most plugin developers normally release MZ and MV plugins side by side.\n\nIf a plugin can make MV's plugins compatible with MZ, it really makes me wonder if all Gotcha did was make very slight changes so the plugins would break.\n\nIf you want MZ and can get it on a steep discount, sure, whatever, buy it. But frankly I don't see any reason to spend full price on this software. It's MV in different clothing with just enough changed to break anything from MV projects.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "unity is way better than this shit",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I got this on sale for like fifteen bucks after I had already owned MV for awhile. I just assumed that a newer version of RPG Maker meant it was better. \n\nSo far, that remains to be seen. The graphics are backwards compatible with MV and other versions of the engine but I don't know why you'd want them, they're ugly.\n\nMZ has extra layers when mapping but that feature alone isn't worth the cost of entry for MZ, especially when parallax mapping completely removes any issues with the limit on layers in MV.\n\nMZ and MV's plugins are not backwards compatible out of the box but you can get a plugin for MZ that can help convert most of MV's plugins to MZ, although these days most plugin developers normally release MZ and MV plugins side by side.\n\nIf a plugin can make MV's plugins compatible with MZ, it really makes me wonder if all Gotcha did was make very slight changes so the plugins would break.\n\nIf you want MZ and can get it on a steep discount, sure, whatever, buy it. But frankly I don't see any reason to spend full price on this software. It's MV in different clothing with just enough changed to break anything from MV projects.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "unity is way better than this shit",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I got this on sale for like fifteen bucks after I had already owned MV for awhile. I just assumed that a newer version of RPG Maker meant it was better. \n\nSo far, that remains to be seen. The graphics are backwards compatible with MV and other versions of the engine but I don't know why you'd want them, they're ugly.\n\nMZ has extra layers when mapping but that feature alone isn't worth the cost of entry for MZ, especially when parallax mapping completely removes any issues with the limit on layers in MV.\n\nMZ and MV's plugins are not backwards compatible out of the box but you can get a plugin for MZ that can help convert most of MV's plugins to MZ, although these days most plugin developers normally release MZ and MV plugins side by side.\n\nIf a plugin can make MV's plugins compatible with MZ, it really makes me wonder if all Gotcha did was make very slight changes so the plugins would break.\n\nIf you want MZ and can get it on a steep discount, sure, whatever, buy it. But frankly I don't see any reason to spend full price on this software. It's MV in different clothing with just enough changed to break anything from MV projects.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "unity is way better than this shit",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I got this on sale for like fifteen bucks after I had already owned MV for awhile. I just assumed that a newer version of RPG Maker meant it was better. \n\nSo far, that remains to be seen. The graphics are backwards compatible with MV and other versions of the engine but I don't know why you'd want them, they're ugly.\n\nMZ has extra layers when mapping but that feature alone isn't worth the cost of entry for MZ, especially when parallax mapping completely removes any issues with the limit on layers in MV.\n\nMZ and MV's plugins are not backwards compatible out of the box but you can get a plugin for MZ that can help convert most of MV's plugins to MZ, although these days most plugin developers normally release MZ and MV plugins side by side.\n\nIf a plugin can make MV's plugins compatible with MZ, it really makes me wonder if all Gotcha did was make very slight changes so the plugins would break.\n\nIf you want MZ and can get it on a steep discount, sure, whatever, buy it. But frankly I don't see any reason to spend full price on this software. It's MV in different clothing with just enough changed to break anything from MV projects.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "unity is way better than this shit",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I got this on sale for like fifteen bucks after I had already owned MV for awhile. I just assumed that a newer version of RPG Maker meant it was better. \n\nSo far, that remains to be seen. The graphics are backwards compatible with MV and other versions of the engine but I don't know why you'd want them, they're ugly.\n\nMZ has extra layers when mapping but that feature alone isn't worth the cost of entry for MZ, especially when parallax mapping completely removes any issues with the limit on layers in MV.\n\nMZ and MV's plugins are not backwards compatible out of the box but you can get a plugin for MZ that can help convert most of MV's plugins to MZ, although these days most plugin developers normally release MZ and MV plugins side by side.\n\nIf a plugin can make MV's plugins compatible with MZ, it really makes me wonder if all Gotcha did was make very slight changes so the plugins would break.\n\nIf you want MZ and can get it on a steep discount, sure, whatever, buy it. But frankly I don't see any reason to spend full price on this software. It's MV in different clothing with just enough changed to break anything from MV projects.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "unity is way better than this shit",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I got this on sale for like fifteen bucks after I had already owned MV for awhile. I just assumed that a newer version of RPG Maker meant it was better. \n\nSo far, that remains to be seen. The graphics are backwards compatible with MV and other versions of the engine but I don't know why you'd want them, they're ugly.\n\nMZ has extra layers when mapping but that feature alone isn't worth the cost of entry for MZ, especially when parallax mapping completely removes any issues with the limit on layers in MV.\n\nMZ and MV's plugins are not backwards compatible out of the box but you can get a plugin for MZ that can help convert most of MV's plugins to MZ, although these days most plugin developers normally release MZ and MV plugins side by side.\n\nIf a plugin can make MV's plugins compatible with MZ, it really makes me wonder if all Gotcha did was make very slight changes so the plugins would break.\n\nIf you want MZ and can get it on a steep discount, sure, whatever, buy it. But frankly I don't see any reason to spend full price on this software. It's MV in different clothing with just enough changed to break anything from MV projects.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "unity is way better than this shit",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I got this on sale for like fifteen bucks after I had already owned MV for awhile. I just assumed that a newer version of RPG Maker meant it was better. \n\nSo far, that remains to be seen. The graphics are backwards compatible with MV and other versions of the engine but I don't know why you'd want them, they're ugly.\n\nMZ has extra layers when mapping but that feature alone isn't worth the cost of entry for MZ, especially when parallax mapping completely removes any issues with the limit on layers in MV.\n\nMZ and MV's plugins are not backwards compatible out of the box but you can get a plugin for MZ that can help convert most of MV's plugins to MZ, although these days most plugin developers normally release MZ and MV plugins side by side.\n\nIf a plugin can make MV's plugins compatible with MZ, it really makes me wonder if all Gotcha did was make very slight changes so the plugins would break.\n\nIf you want MZ and can get it on a steep discount, sure, whatever, buy it. But frankly I don't see any reason to spend full price on this software. It's MV in different clothing with just enough changed to break anything from MV projects.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "unity is way better than this shit",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I got this on sale for like fifteen bucks after I had already owned MV for awhile. I just assumed that a newer version of RPG Maker meant it was better. \n\nSo far, that remains to be seen. The graphics are backwards compatible with MV and other versions of the engine but I don't know why you'd want them, they're ugly.\n\nMZ has extra layers when mapping but that feature alone isn't worth the cost of entry for MZ, especially when parallax mapping completely removes any issues with the limit on layers in MV.\n\nMZ and MV's plugins are not backwards compatible out of the box but you can get a plugin for MZ that can help convert most of MV's plugins to MZ, although these days most plugin developers normally release MZ and MV plugins side by side.\n\nIf a plugin can make MV's plugins compatible with MZ, it really makes me wonder if all Gotcha did was make very slight changes so the plugins would break.\n\nIf you want MZ and can get it on a steep discount, sure, whatever, buy it. But frankly I don't see any reason to spend full price on this software. It's MV in different clothing with just enough changed to break anything from MV projects.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "unity is way better than this shit",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I got this on sale for like fifteen bucks after I had already owned MV for awhile. I just assumed that a newer version of RPG Maker meant it was better. \n\nSo far, that remains to be seen. The graphics are backwards compatible with MV and other versions of the engine but I don't know why you'd want them, they're ugly.\n\nMZ has extra layers when mapping but that feature alone isn't worth the cost of entry for MZ, especially when parallax mapping completely removes any issues with the limit on layers in MV.\n\nMZ and MV's plugins are not backwards compatible out of the box but you can get a plugin for MZ that can help convert most of MV's plugins to MZ, although these days most plugin developers normally release MZ and MV plugins side by side.\n\nIf a plugin can make MV's plugins compatible with MZ, it really makes me wonder if all Gotcha did was make very slight changes so the plugins would break.\n\nIf you want MZ and can get it on a steep discount, sure, whatever, buy it. But frankly I don't see any reason to spend full price on this software. It's MV in different clothing with just enough changed to break anything from MV projects.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "unity is way better than this shit",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Get MV.\n\nI've worked with VX Ace and MV for 10 years. They're great, versatile, and plugins can turn them into almost anything you want. If you know how to code in js, then you can do just about anything with it. However, MZ in particular is... rough compared to the older version. Rough for beginners. The idea behind RPG Maker is an option for people that don't know how to code to make games, or at least get started making games. MZ goes against this idea by making things exceptionally hard if you want to do anything beyond the most basic options within the built-in default engine settings and eventing. \n\nWith MV, plugins by Yanfly make things very convenient for the user. Plug and play, and customize with notetags. The documentation and details for each plugin are easy to understand and work with. The plugins themselves are fully interactable with the engine itself, there's never any issues. \n\nIn contrast, MZ VisuStella plugins are incredibly convoluted and confusing out of the box, without any attempt to make the user experience convenient or easy. The plugins expect you to know code to get any use out of them. It's a drastic difference in plugin design, where MV does its best to make the user experience as easy as possible, and MZ plugin design cares only about its functionality, regardless of user experience or knowledge. \n\nOn top of this, is the fact that any plugin I attempted to use by VisuStella felt like beating my head against a wall due to the fact that anything I wanted to do with it just wouldn't work without making things way too overcomplicated just to do things that in MV would be effortless. The plugins don't play well with MZ's own engine interface, meaning you need to code to get the most of any plugin because a lot of MZ functionality and eventing is incompatible with the plugin parameters. Why design it so horribly inconvenient? \n\nIt's also scummy to me that the js plugins from VisuStella are all given some kind of heavy encryption so you can't customize them in any way. I miss Yanfly, truly. Thankfully, most of the major plugins being developed even now are being designed for both MZ and MV, so you aren't missing out on much going with MV except headache if you choose MZ. However, if you do happen to understand JS and how to apply the documentation for MZ into plugin commands, and can code in general, then you might get just as much or more out of this depending on what your needs are. Either way, hope this paints a picture for people new to RPG Maker.",
+      "voted_up": false,
+      "votes_helpful": 42
+    },
+    {
+      "review": "I dunno man. does it work..I guess.\n\nyou CAN make something resembling a game, without knowing how to code\n\nbut its so limiting, I feel that everytime I wanna do something, people tell me I need to downlaod a virus I mean a plugin for that.\n\ntheres things you could do in previous stock versions that you now from the looks need to download plugins to do.\n\nand YES it does some new things like sideview, but then they reduced the animation thing, and if you want like in i think it was MV you could mix 2 animations, in this you pick one choose a color and thats IT!\n\nI also hate that the character creator in this is trash and everyone look like children and wrinkly children with fake beards.\n\nprobably something I can fix by downloading plugins and take out a loan so I can afford all those DLCs.\n\nthat list is so long I'm not sure what I'm looking for I'd have to  hire a team of investigators so we can get through all of it before I end up at a retirement home and someone thats not even born yet is wiping my ass after I shat myself.\n\nat that point it's a bit late!",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "When I try the latest version of MZ, the menu bar often changes and becomes distorted (for example, not fully displayed), which makes it very difficult for me to make games. Can you solve this problem? I use Simplified Chinese, and this problem can be fixed after I switch back to version 1.8.0.\r\nI apologize for the negative review and will correct my review if this minor issue is resolved.\r\n__________________________________________________\r\n当我尝试最新版本的MZ，经常会出现菜单栏变化，扭曲的现象（例如显示不全），这让我的游戏制作十分困难，你们可否解决这个问题？我使用的语言是简体中文，另外这一问题在我切换回1.8.0版本后可以修复。\r\n我很抱歉给了差评，如果这个小问题得到解决，我为更正我的评价。",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "*POV: Someone who has never attempted to make a game and doesn't know how to code. \n\nCurrently, I can't recommend MZ. I bought this with the expectation that it is user friendly, made for people who can't code to create a game. \n\nSo far in my experience everything has been a road block. I started with trying to make a intro cutscene. The lack of features forced to to look elsewhere to create a video and then input that into an event. I ended up using google slides to animate my scene which I shouldn't have to do. \n\n (1) The inability to automatically size pictures. 816x624 is so jank and doesn't tell you anywhere,\n (2) No way to edit audio throughout a movie or scene (before or after but your screwed if you need a certain sound at a certain point),\n(3) Stock animations blow. I have been outsourcing everything which btw it's a $100 game maker,\n(4) You can't add text either during a movie. \n\nIt's a simple fix. \n- Allow for more precise customization (Look to openshot with layers of audio, video, aniamtions, etc)\n- Add a stretch feature or some plugin to resize images to fit the format. \n\nI'm sure there's way more, but like I said, I haven't gotten past the cutscene part yet. Try #2 I will create the entire thing elsewhere and just focus on the core game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The removed the fucking region tool\r\ndo you know what fuckery that is to make shit impasable\r\nfuck those dick sucking mother fuckers\r\ncharging me 200 % percent more than mv and they remove fucking stuff\r\nfuck these poeple\r\nsuck my dick",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I asked for a refund, which was unfortunately denied.\nThis is the worst thing I have ever bought on Steam. \nVariables are useless. It's far too difficult. \nDo not buy.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My projects are constantly corrupted..... So much time... wasted...",
+      "voted_up": false,
+      "votes_helpful": 7
+    }
+  ]
+}

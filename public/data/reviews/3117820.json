@@ -1,0 +1,796 @@
+{
+  "positive": [
+    {
+      "review": "Fantastic game. Great writing, fun mechanics - all around a good management simulator. If you like games that require balancing limited resources on a tight deadline with brutal consequences then Sultan's Game is for you.\n\nAll that said, there are a few pain points that I hope will be addressed in later updates: \n\n- The late game can become tedious when you gather more followers due to the need to unlock the same repeatable events. This could be easily remedied by making repeatable unlocks a permanent listed event once discovered. (A prime example of this are [spoiler]money events, which you will always want to utilize every turn[/spoiler])\n- The roguelike-esque save system, while enjoyable early game becomes an absolute headache once you've sunk serious time into a run. Sultan's game is heavily dependent on random luck which means you can manage your run perfectly, encounter a couple bad rolls and suddenly you've lost 5-6 hours of progress. Medium and Hard mode are automatic ironman saves so though I didn't like the modifiers on Easy, I finally refused to play anything but, solely for the ability to rewind days (the only concept the game has to non-ironman save). Enabling a save system would greatly increase replayability and eliminate unnecessary grind.\n- In the late game, once you have a zillion events up at once, often times they will begin to layer on top of each other. You can zoom in to open the one you want but even so, it is far too easy to click on a desired event and have a different one open. Having a more ordered and spread out map would certainly improve UX.\n\nDespite these minor headaches, I still can't recommend this game enough. It scratched a management simulator itch that I haven't been able to reach in quite some time.",
+      "voted_up": true,
+      "votes_helpful": 11
+    },
+    {
+      "review": "я-то рекомендую, но раздражает эта игра меня конечно ужасно. её [b] весело и интересно проходить до первой победы [/b] (займет это у вас от 8 до 15 часов). возможно ли получить первую победу без гайдов? маловероятно, но, наверное, можно. \n\nпосле первого прохождения при желании других концовок следует [b] только тотальное задротство [/b] в виде открытых параллельно с игрой гайдов и постоянной сверочки: а вот я это событие сейчас пропустила или нет, а то у меня один единственный шанс стригеррить, а тут султан со своими картами, жена опять прессует из-за походов в публичный дом (мегги масюш как будешь веселить султана в достаточной степени так и поговорим прости родная), мой раб опять жалуется, что я *** свою жену, а не его, лошадь скачет, визирь не может сам разобраться с государством, какие-то рандомные разборки в трущобах, и везде, желательно, чтобы я лично присутствовала, а мне вообще-то надо откуда-то накачать минимум 8 поинтов магии, иначе концовка не выгорит. [b] утомительно. [/b]\n\nна этой игре я во всех красках прочувствовала, что такое [b] софт блок [/b] (это когда ты спустя 14 дней узнаешь, что султан тебя убивает, если ты не выполняешь конкретное событие, которое ты начала 14 дней назад, а ты не можешь выполнить это конкретное событие, потому что не успела где-то раздобыть ссаную армию, потому что, к сожалению, не выучила все требования каждого события за 30 часов. и теперь тебе нужно играть заново 14 дней, а за 14 дней произошло очень много всего). если вы готовы на такие незабываемые эмоции - пожалуйста, все тут. я за это время думала, что брошу эту игру к чертям собачьим всего раза два, что удивительно при всем вышеперечисленном. \n\nрекомендую, потому что [b] первые 10+ часов игры были очень увлекательными, [/b] но я [b] не считаю, что с реиграбельностью у этой игры все ок. [/b] хотелось бы побольше рандомных событий, больше явных выборов, которые открывают новые события (а не вот эта хренотень где нужно рандомно потыкать и помолиться богу, чтобы два нужных персонажа оказались в нужном месте в нужное время, либо только гайды), больше равномерного распределения событий на дни (потому что на 40 дней у тебя болят глаза от количества меток на карте и сердце от стресса, а на 90 ты не знаешь куда сплавить каменное завоевание, потому что с наложницами не повоюешь, визирь уже помер да и тот не воюет, а тебе нужна для концовки одна карта, не две) и сильно больше слотов сохранения. понятно, что можно все просчитать заранее, понятно, что в этом частично и суть, но вся стратегия становится менее интересной, когда [b] шансов самостоятельно догадаться до новой концовки практически нет - только угадывать [/b]. к тому же, нового контента от прохождения к прохождению не так уж и много (на данный момент я получила две концовки и еще две на подходе, так что говорю конкретно из своего опыта). \n\nно в целом, [b] мне больше нравится, чем нет. [/b] короче, всем удачи, это отличный варик выпасть из реальности на сутки минимум.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "I find this to be a deeply mechanically and narratively engaging game, the setting is interesting enough, and  the translation has so far been well done, though you can tell it has been translated. If you enjoyed Cultist Simulator I do recommend this game, though it is not as supernaturally focused as cultist simulator until you enable that particular feature in the progression system between runs.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I've just started, but I wanted to put a recommendation regardless.\r\n\r\nI bought this game because the art looked fantastic, but I'm staying because the Sultan is going to execute me if I don't commit crimes against humanity.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "One of the most innovative and immersive experiences of today.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "BE WARNED: if the gorgeous art, music, and deck-like storybook RPG style made you into thinking this game would be easy, you're in for a ride. This is a cobweb of tightly interwoven mechanics where a single decision can doom you twenty turns later. Even slightly annoying the sultan is enough to keep you constantly on edge. \n\nThere are many quest lines that branch into multiple sub-quests and endings. I won't spoil them. I’d recommend spending your first few hours just trying to understand what’s happening. Once you're ready for the real challenge, have a second monitor ready because the wiki, guides, and a notepad will be your best friends. \n\nAnd when all fails, just escape to China or some distant oasis :)",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Best game I played this year. Congratulations on winning INDIE Live Expo Awards 2025 Grand Prize!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The idea of game is excellent, the main concept is to interact with different cards in order to broke the the sultan's card.\n\nIt is a story rich game, lots of event which may brings huge impact to the ending of the game, and the game is encouraging trial and error by introducing restart from previous turn, and cards may have multiple way to resolve with no or not much side effect, the cost of players testing different ways to resolve event is small, which encourage trying a different option when start a new game.\n\nThe balance design is good for wide range of people, providing multiple difficulties for players, players no familiar with the game can start with easy story teller, having unlimited numbers of restart from previous turn, dice will have a higher chance to have positive result, etc. For each game, each broken sultan's card will brings you 1 fate point, which can be used to unlock advantages and more difficult stories (can switch it off after unlocked)\n\nThe art and music also quite fit the background setting of the game, which only above the average \n\nIf need to talk about the cons of the game, cannot easily skip some stories that already seen in multiple games are quite time consuming, so as the dice rolling.\n\nWhen compare with similar games like cultist simulator, Sultan's game is much better by having a better balance design that encourage player try different combination, and events are much related to the main plot that you can feel you are really doing something that may helps you to finish the Sultan's game, and event result are much more predictable, luck in this game only affect which random events will comes, the result of rolling dice, which is far better than cultist simulator.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "My favorite game of all time. The art style is breath taking. The music is gorgeous. And most importantly, the atrocities you can commit are wildly varied and lead to a different story every time. I would die for these characters in a heartbeat. I'm a huge fan of card based rpgs, and this one takes the cake by far. I was playing the demo about as soon as it was released, and it's only gotten better since then. I don't think I'll ever run out of new rabbit holes to explore. And the best part is, the better you get at it, the harder it becomes. As you discover new elements to juggle and rise above only trying to survive another week.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Engaging story and beautiful art. A very unique Roguelike .",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "故事很香，如果做善事的话，收益会很好；但是，你如果当恶人，那么，深渊就是你自己；好，这么说吧，强势的那几个角色都是真的强势的，可惜热娜这个天才宫廷珠宝商居然是个社交很低的社恐美人",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Sultan's Game is one of those dangerous games where I have lost entire evenings without meaning to because of how invested I get into each playthrough. For a rogue-lite choose your own adventure game the writing and story is very deep. There are multiple plotlines for the various characters you interact with and they show up continuously throughout your run. You build a familiarity with the cast, and its all reinforced by the fact you will typically use or talk to these people every day. \n\nChoices do matter as this game takes the opportunity cost gameplay to a whole new level. The clock is always counting down to satisfy the requirements of each event and many of them can only be performed by you attending yourself. There are multiple ways to solve an issue and other opportunities and branching questline paths and endings depending on what actions you take. Randomness does affect your ability to succeed and sometimes you suffer from poor timing of events, but there is typically always a solution. It is however just not always the optimal or favored one. But that's the real prize of Sultan's Game is being stuck in those dilemma situations and seeing are you going to give in and do something immoral to get out of a bad situation or will you try to hold out and find another way?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "this game gets wild. It tells a wild story that responds to your directions. It's a really impressive game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Such a nice game，including profound meaning and heavy sarcasm.Of course it can be purely for entertainment.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a great game if you try to change your actions from time to time, its sort of like a branching tree based on your choices. I accidently stumbled upon ascending lumera by accident when she asked me about happiness and I told her that keeping a milk jug was important. the quest lines and the modding community is what really keeps things exciting, though most are chinese; I'm trying to figure out how to access the files, to translate them. Overall fun game if your more of a casual person that likes stories and character interactions!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have played for more than ONE HUNDRED hours in just a few months... THIS IS THE BEST STEAM GAME EVER.\nIf you love to be challenged, then this is your game. This game is hard but not impossible to win. You can go for the easiest endings, or you can go for the hardest ones for achievements. Every time you rip a card and every time you restart your game, it gets so much easier and more addictive. You will end up TRAPPED in this game, as you want to have more achievements, explore more, have better life and relationship with your favorite characters, AND SO MUCH MORE.\nIf you are thinking about the price, let me tell you. This game has more words than 5 big books, along with the amazing artworks!! A book might be for 10 dollars, but you only get to read one story.... HOWEVER SULTAN's GAME HAS MORE THAN 20 different paths/endings and so many SIDE STORIES toooooo!!!!!\n- Great stories+millions of results;\n- the art style and the music are just SOOO cool.... \n- SO MANY CHARACTERS THAT HAVE BACKSTORIES",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun game, takes a bit to understand and grasp but fun.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Game time speaks for itself. We hope to introduce this game to a wider audience through the annual Steam Awards!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A very very interesting game, its settings, story and gameplay is different from your typical games. There has been a few free updates with additional characters and stories, hope the developer will continue to support the game or release a bigger content DLC in the future.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "绝对优秀的文本和美术，非常好的游戏体验，太好玩了",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "美术风格、游戏设定、剧情发展......瞬间将人带回那个儿时憧憬的《一千零一夜》描绘的世界",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This wonderful game is essentially a blend of court politics, intrigue, scheming, plotting and backstabbing much like our own world.\n\nYou feel the weight of your choices and decisions reverberate throughout the game very nicely.\n\nThe wide variety of paths you can choose to commit yourself and your household to is very conducive to a form of emergent storytelling as you basically go with the flow you created in the wider context of the game and its race against time on a weekly basis.\n\nAll in all, a great game for those of you who prefer narrative depth and variety alongside age-old relentless politics.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun game! I love the setting. For me, the game perfectly captures the duality between harsh survival and dominance. One moment you're forced to make brutal, run-defining choices just to stay alive; the next moment, the game gives you so much authority that you slip into a full power fantasy, tearing through challenges and feeling unstoppable… only to later be thrown right back into a brutal situation. That swing between struggle and power is what makes the experience so addictive. Every card feels like its own challenge, making you wonder: \nHow am I possibly supposed to survive this? \nor Is this event really worth spending my card on?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing visual style, addictive (and extremely stressful) gameplay that is hard to master but fun to figure out as you go. Just when you think you've seen most of the routes the game has to offer, it'll surprise you by showing you five more new ones.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Interesting game with nice artwork. Gameplay elements takes some time getting used to",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is without the shadow of a doubt my GOTY for this year. The narrative is written in such an engaging way, the gameplay is way more innovative than what it seems at first glance, with each different card used in a same situation having the potential to give although a similar outcome some very different texts. \n\nOne thing that really caught me though is the story's setting. Such a beautifully presented arabian world is so rare, even more so in fantasy. Creating a unique visual style, that's reinforced by the music, that although repetitive, I never found to be annoying. \n\nTo me, a truly 20/20 experience. A focused experience, brillantly written, with a clear artistic vision and an amazing gameplay that compliments it all.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game definitely worth its price with brilliant stories and selectable adventure.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fantastic styled choose your own adventure. feels like reading those books from back in the day but with modern flair.\r\nPlenty of replay value, unlocks and new interesting stories to uncover.\r\n\r\n8/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is a game with content amazing for its price. It has several well-done story-lines and a cultist-simulator like gameplay loop.\n\nHowever, there is one flaw, and this has only gotten worse with the updates: once you reach late-game, it all feels too cluttered where there is just too much on screen without any actual urgency. It is just that there are too many characters to slot and events on screen.\n\nAll in all, this is a very minor flaw in a fantastic game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "this game is incredible. it takes so many risks that pretty much all pay off; sultan's game made me invested in characters in ways i have never been. 100% worth your time - and if you like Cultist Simulator, it's 1000%",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is for people to like to find out things. Not difficult in any sense, more like finding possible outcomes to each decision.\n\nVery fun",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[h1] I LOVEEEEE SULTANSSS GAMEEEE [/h1]\n\nSultan's Game is a game about learning to love your absolutely fair and understanding wife while constantly cheating on her with a wide cast, including: her best friend, her best friend's son, a local blood-crazed nymphomaniac, the entirety of a pleasure house, several gods, and an injured rhinoceros. You do all this while listening to an incredible soundtrack that even Gilgamesh would approve. The game features very fresh card game mechanics, which may be inspired by Cultist Simulator to some extent. The stories and events are fantastic, and I am genuinely shocked by how well the game was translated from Chinese (with some typos).\n\nI have a tradition that every time I cheat on my wife in the game, I shout [b] \"I LOVEEEEE MYYYYY WIFEEEEE\" [/b] from the top of my lungs. This makes me happy, makes my wife happy, and makes my neighbors unhappy—which, in turn, makes me even more happy. I suggest you play the game and do the same.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "非常优秀且有创意的游戏，虽然目前玩的时间短，但是已足以惊艳到我了，至于买了这么久为何现在才评，当然是为了升级下徽章！",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Placeholder:\r\n\r\nI was in it for the carnality, but damn this game launched an extravagant conquest and resulted in bloodshed due to time mismanagement.\r\n\r\nOne of the few choice-based games that I have thoroughly enjoyed",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "CrusaderKings-like stories and events but with cards instead of map painting. And the card art is gorgeous!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I am very bad at this game, but it's so much fun! The art is gorgeous, the storylines are interesting and there's a lot of content. I'm currently on my seventh playthrough.\n\nIf you enjoy games where choices really matter, then I recommend it. \n\nMy only tiny point of criticism would be the font size (in English). It's small for me, but if I change it to large, only the text in the story becomes larger (not the text in the description of the cards). It would be great to be able to change the font size for everything. Not to mention, it would be a lot more playable on the Steam Deck.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really good game, I think it lacks some scenes and animation inside it, reading all the time make it kind of boring sometimes and make you skip a lot, some cards are really mysterious and you really can't to tell what should you do with them unless you search it on wiki like the convicton cards.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So it turns out, one of the most optimal ways to play is to max out your wife, then hug her, and then kill her.\r\n\r\nIt makes the late game so much easier since you don't have to worry about your wife getting upset by you literally murdering half the nation.\r\n\r\nPeak game, 10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Reminds me of that mechanic in darkest dungeon where you experiment with putting different items in the slots of random events, except that it lets you right click on the slot to show all applicable items which is huge. The tutorial is actually perfect because it fits really well into the overall story and only asks you to make a couple of very simple decisions to learn the mechanics. The game seems huge and that's probably because of how modular the missions/events are. Haven't gotten through my first run yet but I can't wait to replay it on the harder difficulty.\r\n\r\nGive it a shot, you'll fly through the tutorial and quickly learn what the gameplay loop is like. The only thing I'll say is to be braver than some of the hints suggest, especially if you're on normal and have the rewind mechanic. I've put off missions for a while because I thought I wasn't prepared but I demolished them once I thought I was ready.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "很好玩！！\n很适合上班玩\n但这何尝不是一种上班呢\n每天都有不同的事情和任务\n最重要的是要不停赚钱",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very interesting, stylish and one of those \"just one more turn\" till 5 am in the morning",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really underated game with really interesting story and art, but quite difficult to get the hang of it without help",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "剧情类卡牌游戏，有太多分支都很精彩！！！",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So i ll give a positive review to this game. BUT...\n\nThe game by itslef is very nice. The idea is fantastic and reminds me a bit of this trend of mobile game where you are a kind making choices. I really love how they change the concept and how they put it together. The graphics and music are fantastic also. Simple but very intelligent. \n\nNow the bad points\n- the UI can be confusing. \nWe don t know what to do with what card. Which one can go to the little skeleton, how to use dices, why certain cards work that way and others not. And at some points it s toooooo many cards. The inventory interface could be remodeled.  Plus the events are sometimes too close to each others. Still you can work with it but it would need a few polishing.\n\n- the game becomes tedious quickly. \nBeginning is interesting, middle and end game starts to be VERY repetitive. Mainly also because there is no repetition button for an event from one day to an other. But still... even if there was... it would be tedious after some point.\n\n- Way to win or loose is quite calculated. There is not millions of way to win and not millions of consequences either. So replayability is a bit... lacking. More events, more random perhaps make it going better. The hard mode is, yes, harder, but not more interesting than the two others. Once you passed the first stages, it becomes ok even you won t be able to finish because too much events appear together, you can still try to escape.\n\n- The learning curve as i said before is a bit sad. Because once you know the events... it s done. But like it could be in most games like this (like beholder for example, but what i love there is that the tenants were most the time differents than the game before)\n\nSo for me it s a YES, but at the expense that i won t spend a lot of time on that game. The idea is refreshing, the conception is great, the graphics and music are fantastic. But then the UI, repetition and lack of replayability are... sad.\n\nWith 2 to 3 times more event, it would have hidden the replayability problem as each time we ll see something different and would love to discover what else. \n\nThat s all for me :)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if you like branching narrative and a good read, then this game is for you.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "An interesting game, the premise is a novel one, the theme is dark, the feeling of despair as you push on trying to complete the tasks is a gripping one. It is probable that you'll try to be a \"good\" guy during the first attempts, but I wonder how long will it take to go down the rabbit hole?\n\nAll in all, a solid game, good mechanics and well thought out. If you like deck building games and are looking for something with a bit of mature/twisted theme, this game may be up your alley.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game had me COMPLETELY obsessed for a good two weeks and a bit longer. Love the different characters and different actions you can take. Locked myself out of rebellion for a long time because I kept killing Nawfal and once I decided to let him live he became one of my favorites. Had a lot of fun doing the cult route too.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very exhilarating game that keeps you on edge, always wondering, “What will happen next?” This game lets you experience how humans cope with moral downfall and temptation when it’s readily available at your fingertips - no consequences. The more I played, the more I found myself actively looking for opportunities to commit immoral acts, only to realize I was gradually sinking deeper into the quagmire.\n\nIt can be a little confusing in the mid-game, especially if you’re aiming for a specific ending. You often have to rely on pure luck for certain events to trigger while also having the right items (also luck) to proceed.\n\nI do wish there were a system that recommended the most suitable characters for certain events, as well as a more comprehensive equipment management system - it was quite hard to keep track of who had what once the roster grew.\n\nOverall, gives off a Stacklands + Baldur’s Gate 3 vibe. Definitely recommend playing!!!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "there are lots of plots going on, even after playing 30 hours, you still see new events/plots",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bought it 2 days before it went on sale - no regrets. Incredible art, fascinating story, addictive gameplay.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "tfw you try to seduce his majesty after inviting him to your house but he [spoiler]beheads you after seeing your humongous spinning robocock[/spoiler] ): [strike]at least my twink harem enjoyed it[/strike]\n\nthis is a really fun and addicting game. i wasn't very keen on card games before, but the political intrigue and flexibility in which you can break the cards really pulled me in. while you can use cards in a variety of methods, plenty of them have consequences that can keep you in check, such as raising negative stats, companions leaving/dying, arousing the sultan's suspicion, etc... planning ahead's pretty much the point. but even if you fail, there are very little setbacks in trying again (e.g., farming points in 1001 nights). moreover, the characters and story are both quite interesting themselves. while the main character really is just a pawn, he can do so much more—and the world is much more vast than he thinks.\n\ni do have one notable complaint so far—there is some dubiously slow timing on a few key characters appearing, leading to some missing critical events in case you want to explore other outcomes. it's either that or you're just waiting for stuff to happen in the meantime so you don't lose your head.\n\ni can say that i didn't anticipate being absorbed in this game so much. i encourage you to try it if you're really into strategy games—or pretty characters that love to toy with morality! [strike]also devs if you're reading this please add another sex with sultan option ty[/strike]",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "gorgeous art, music with RPG style combo",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It has been a long time before I have indulged so much time into such a simple (only in mechanism!!!)yet intrguing game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great and unique artstyle, although music is very repetitive. Feels like Cultist Simulator, but rouge-lite (you can improve your starting position of each run). Good thing they're sold in bundle with Cultist Sim, that's how I found this game!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "• Immersive storytelling\n• Rich and engaging content\n• Great freedom of choice\n• Unique art style",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Great game !\nVery playable on the Deck, tho font could be bigger",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This game is amazing.  Indie games are the way to go these days  and this game delivers. 10/10 Buy this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Deep story telling, should try to play different ending",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "\"My name is Ozymandias, King of Kings; Look on my Works, ye Mighty, and despair!\"",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "don't buy if you don't wanna be addictive like me man i love my life now having 20 hours a day on this game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I hope this game gets a mobile port eventually. This game would be perfect on the go, either on phone or on Switch. This is 100% my game of the year, if you don't like dark or disturbing content it's probably not for you, at least the disturbing content is pretty much just text, but the amount of free will is astonishing and you can choose whether you play as a morally good person or a horrible disturbing villain. So if you want to play, it's very easy to avoid the evil decisions, this game gives you options, but the results are as evil as you make em. The soundtrack is amazing, I love the way the card management works, and trying to get the endings has been really fun. It's awesome that each playthrough gives you points to upgrade your character and give you more allies for the next playthrough. Even when you fail, you still gain knowledge and unlocks to help you on the next try. You can also play on easy mode for an even more laid back experience. I HIGHLY RECOMMEND THIS! Also this game is truly diverse unlike a lot of Western games that feel incredibly forced.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This is my situation: one more round... just one more round...\r\nAnd than sunrise outside. LOL",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "insane beautiful lovely thought provoking thematically coherent brilliant fun sexy repetitive interesting etc. \r\nthe fact that you have to loop makes each individual session feel a lot less stressful/punishing. making \"incorrect\" choices feels fun. genuinely my favorite run was one where i got impatient and pulled ~15 cards on the first day and somehow managed to break all of them before any one of them killed me. and then i died to the routine mountain lion encounter. iconic. i was so excited to start the next run.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This is my latest obsession. While it may not be for everybody I can say without a doubt I can easily lose hours trying to figure out the motions in order to progress through the game. I only recently beat the game for the first time and I've gotta say that it really was a challenge to do that only was possible through careful planning and repeated attempts. I found every loss not only was a learning experience but a path to progress as even if you lose the small victories of breaking a card led to me getting points towards unlocking more content and tools to try and progress further in my next run. I'm extremely eager to try and unlock whatever other endings there are in this game (as yes there's more than one) and I can't  wait to see how those turn out for me. All in all it's a great game and I highly recommend.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Could do with some better translations, but great otherwise",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Loved this game, very addictive gameplay.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very interesting approach gameplaywise",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "玩起来真上头啊，很杀时间",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very fun and addictive game!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This an amazing game 9.6/10. There isn't really many flaws with this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I find myself rather unable to stop.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "this game is so fun and interesting",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Beautiful art and concept",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "文案组美术组nb",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "The story is very intriguing.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Incredibly horny. Didn't find any cons tho",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This game made me respect my wife even more",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "addictive game once you play",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "很好的朋友给我买的，好玩。",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I LOVE THIS GAME GLORY TO THE SULTAN (not)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "like the concepts",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "好玩爱玩",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Crazy game. wow",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good game!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "好玩",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's good.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "fun game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "非常好游戏",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Pretty good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very Good!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "first of its kind",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "let me have gay sex with nabhani",
+      "voted_up": true,
+      "votes_helpful": 11
+    },
+    {
+      "review": "I cut my penis off!",
+      "voted_up": true,
+      "votes_helpful": 8
+    },
+    {
+      "review": "faraj forever <3",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "🍍\n🐱",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Absolute Sultan's Game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "sultan",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "At $24.99, Sultans Game is an overpriced and--dare I say--overrated new entry in the choices-matter, text-based, narrative-heavy genre. But instead of comparing it to more cohesive genre experiences like The Life and Suffering of Sir Brante, Roadwarden, and Suzerian, I'll look at Sultans game on its own merits. I enjoyed my first two-three hours of this game. I like that it does something different mechanically:  the deck builder/card slot mechanic is, at first, slick. I like the theme, the setting, and the tease of sultry, text-based adult content. But all the game's best parts are ultimately let down by some pretty significant issues.\n\nLet's get the easy ones out of the way first. The audio. I feel like I'm taking crazy pills here, because I'm looking at the Steam reviews for this game, and everyone is praising the soundtrack. I do not know what they are talking about: there is only one song.. It's a 1:30 high-energy sitar loop. Over and over it goes, taunting me and teasing me as I click through 10 different character screens looking for the follower with the highest Wisdom.  Worst of all, there is the high-pitched metallic chiming as the metal coins our stats are recorded on move in the breeze. \n\nSpeaking of cards, let's talk about inventory management. You get a lot of cards in this game .These cards are split into a few categories: Cards for characters, cards to help with skill checks, and quest-specific cards. Dozens and dozens pile in as you engage in the core game play loop of going to locations and doing a dice roll. By mid-game, you'll probably be getting 4-5 of these cards each round. And when you get them, they land in your main hand., where you get to play the actual Sultan's Game, which is taking your trash cards out of your main hand and placing them in the careful system you're trying desperately to maintain. \"Nooo, animals go in my third deck.\"\n\nIt's a lot like playing an old RPG, where you naturally generate a lot of loot that isn't very useful. However, unlike in something like Morrowind where you could just *not* pick up another torch, this game gives you all the loot. Because why wouldn't you want it? If you get enough, you can stack them to turn them into a higher level thing! But until then, your 2 gray, 2 green, 3 silver, and 1 gold Omen Card are just going to take up separate slots until you use them.\n\nIF you use them. Because here's what I learned playing Sultan's Game: usually characters can handle skill checks on their own. Sure, you might get totally screwed and need a reroll, but followers can easily get so buffed by items (a system I really do enjoy) and books that those skill check cards that take up 70% of your deck and do not get used at the same rate they come in.\n\nBut then there is a category of cards I'll call \"why do I have this card/when am I ever going to use this card?\" Sometimes you'll get a unique card and will be all excited because you haven't seen it card before. But this card has no purpose. Like skill checks, its purpose is to be stacked with other similar cards and combined to make a more powerful version of itself before its turned in to trigger conditions for end game. It's like handing someone a bunch of nickels and saying \"now keep these in your pocket. If you get enough, you can turn them in for a whole dollar.\" \n\nI talked about horses already, but let's dive back into that. Animals. In the first 30 minutes, I got two horses. I tried to equip them countless times before I realized they can't be equipped (even though the game says they can). I tried bringing them to council meetings with me. Not finding a use, I tried offering them to the Sultan as a gift. But then I found their use. There's a horse betting event that pops up once every 5 rounds where I can bet 4 coins to win 4 coins. In the mean time, the horse lives.\n\nMy biggest annoyance, and where this game falls apart, is that there are so many cards that have no obvious use. Like Rationality. I have 3 of these in my deck (and, of course, they don't stack). Methings, that bony bastard--and the game's attempt to clear away some of that uncertainty about what your card actually do--has nothing to say about it. I don't know what it does, but the one time I tried to do it my Prestige dropped by 1. So I'm not feeling an real incentive to do it again. In the mean time, I right click each one while in a quest because MAYBE one of them will slot in.  It's like I'm playing a point-and-click game from the 90s where I am dumb kid and stuck so I start clicking every pixel on the screen in a desperate attempt to continue the game.\n\nSo, most cards have limited value or have an intent that's weirdly opaque. The most useful cards are the followers, but even these are annoying to navigate. If I want to send someone on a quest that requires high wisdom, the most efficient way to do that is for me to remember who is good at what in my party. Otherwise, I need to click on 7-8 individual cards to bring up their character sheets and compare stats. Why they didn't just put the stats on the card is beyond me.\n\nThis is all to say, I don't understand why it's a card game. The mechanic feels so poorly implemented and cumbersome. This game would have been so much cleaner with an inventory where things auto-stack and there are different backpacks like \"skill checks\" \"special items\" \"quest items\" and \"useless horses\". The card system is hard to sort, easy to get lost in, kinda crappy (try dragging a card on that clogged-ass carpet with 3 book events within a half centimeter of one another. Better yet, make sure you hit the perfect i frame when trying to socket an item card onto a follower.) Ultimately, it all feels like a messy gimmick.\n\nQuests. They get old. They're busy work. I have 8 followers and 15 quests. It's a chore to find the best follower for each quest. I don't remember why I'm helping someone, but there's no quest log so I can't go back and refresh myself with why this general and I have sexual tension. I feel like there are too many quests and too many followers. My game brain doesn't want to NOT use a follower, but most quests just get more of those limited-use cards we saw above, so the juice isn't worth the squeeze.\n\nWriting. It's preeeetty poor. I don'y really care about all the misspellings, but a lot of the text is poorly translated and hard to parse. That's a shame in a text-based game, because once I start to devalue the writing, what else is there for me to do? I'm not going to harp on the people not making a perfect English text game, but they needed a dedicated, localized editor to sit down and clean it all up.",
+      "voted_up": false,
+      "votes_helpful": 77
+    },
+    {
+      "review": "Bought this game cause I thought it looked cool and really liked the art. Played it for a bit and found it underwhelming and boring. Just reading and some small resource management. Not worth the $30+ I paid while not on sale",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Edit:Yeah I got bored. The loop gets really repetitive after a few hours.\n\nThis is a lukewarm positive review. There's a very real chance this gameplay loop is going to turn stale quick because there isn't that much variation on new runs. At least, not as far as I can tell. I've started three so far and they've all been more or less the same story with minor differences. \n\nThat being said, it's holding my interest for now. The fact that it's similar but not identical makes me want to try new things and see if I can't push through. \n\nFor people comparing this to Cultist Simulator, I'm not seeing it. I have 100 hours in that game. It's amazing. This is not sparking that same level of awe in me. Still fun, though.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "God this is garbage",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At $24.99, Sultans Game is an overpriced and--dare I say--overrated new entry in the choices-matter, text-based, narrative-heavy genre. But instead of comparing it to more cohesive genre experiences like The Life and Suffering of Sir Brante, Roadwarden, and Suzerian, I'll look at Sultans game on its own merits. I enjoyed my first two-three hours of this game. I like that it does something different mechanically:  the deck builder/card slot mechanic is, at first, slick. I like the theme, the setting, and the tease of sultry, text-based adult content. But all the game's best parts are ultimately let down by some pretty significant issues.\n\nLet's get the easy ones out of the way first. The audio. I feel like I'm taking crazy pills here, because I'm looking at the Steam reviews for this game, and everyone is praising the soundtrack. I do not know what they are talking about: there is only one song.. It's a 1:30 high-energy sitar loop. Over and over it goes, taunting me and teasing me as I click through 10 different character screens looking for the follower with the highest Wisdom.  Worst of all, there is the high-pitched metallic chiming as the metal coins our stats are recorded on move in the breeze. \n\nSpeaking of cards, let's talk about inventory management. You get a lot of cards in this game .These cards are split into a few categories: Cards for characters, cards to help with skill checks, and quest-specific cards. Dozens and dozens pile in as you engage in the core game play loop of going to locations and doing a dice roll. By mid-game, you'll probably be getting 4-5 of these cards each round. And when you get them, they land in your main hand., where you get to play the actual Sultan's Game, which is taking your trash cards out of your main hand and placing them in the careful system you're trying desperately to maintain. \"Nooo, animals go in my third deck.\"\n\nIt's a lot like playing an old RPG, where you naturally generate a lot of loot that isn't very useful. However, unlike in something like Morrowind where you could just *not* pick up another torch, this game gives you all the loot. Because why wouldn't you want it? If you get enough, you can stack them to turn them into a higher level thing! But until then, your 2 gray, 2 green, 3 silver, and 1 gold Omen Card are just going to take up separate slots until you use them.\n\nIF you use them. Because here's what I learned playing Sultan's Game: usually characters can handle skill checks on their own. Sure, you might get totally screwed and need a reroll, but followers can easily get so buffed by items (a system I really do enjoy) and books that those skill check cards that take up 70% of your deck and do not get used at the same rate they come in.\n\nBut then there is a category of cards I'll call \"why do I have this card/when am I ever going to use this card?\" Sometimes you'll get a unique card and will be all excited because you haven't seen it card before. But this card has no purpose. Like skill checks, its purpose is to be stacked with other similar cards and combined to make a more powerful version of itself before its turned in to trigger conditions for end game. It's like handing someone a bunch of nickels and saying \"now keep these in your pocket. If you get enough, you can turn them in for a whole dollar.\" \n\nI talked about horses already, but let's dive back into that. Animals. In the first 30 minutes, I got two horses. I tried to equip them countless times before I realized they can't be equipped (even though the game says they can). I tried bringing them to council meetings with me. Not finding a use, I tried offering them to the Sultan as a gift. But then I found their use. There's a horse betting event that pops up once every 5 rounds where I can bet 4 coins to win 4 coins. In the mean time, the horse lives.\n\nMy biggest annoyance, and where this game falls apart, is that there are so many cards that have no obvious use. Like Rationality. I have 3 of these in my deck (and, of course, they don't stack). Methings, that bony bastard--and the game's attempt to clear away some of that uncertainty about what your card actually do--has nothing to say about it. I don't know what it does, but the one time I tried to do it my Prestige dropped by 1. So I'm not feeling an real incentive to do it again. In the mean time, I right click each one while in a quest because MAYBE one of them will slot in.  It's like I'm playing a point-and-click game from the 90s where I am dumb kid and stuck so I start clicking every pixel on the screen in a desperate attempt to continue the game.\n\nSo, most cards have limited value or have an intent that's weirdly opaque. The most useful cards are the followers, but even these are annoying to navigate. If I want to send someone on a quest that requires high wisdom, the most efficient way to do that is for me to remember who is good at what in my party. Otherwise, I need to click on 7-8 individual cards to bring up their character sheets and compare stats. Why they didn't just put the stats on the card is beyond me.\n\nThis is all to say, I don't understand why it's a card game. The mechanic feels so poorly implemented and cumbersome. This game would have been so much cleaner with an inventory where things auto-stack and there are different backpacks like \"skill checks\" \"special items\" \"quest items\" and \"useless horses\". The card system is hard to sort, easy to get lost in, kinda crappy (try dragging a card on that clogged-ass carpet with 3 book events within a half centimeter of one another. Better yet, make sure you hit the perfect i frame when trying to socket an item card onto a follower.) Ultimately, it all feels like a messy gimmick.\n\nQuests. They get old. They're busy work. I have 8 followers and 15 quests. It's a chore to find the best follower for each quest. I don't remember why I'm helping someone, but there's no quest log so I can't go back and refresh myself with why this general and I have sexual tension. I feel like there are too many quests and too many followers. My game brain doesn't want to NOT use a follower, but most quests just get more of those limited-use cards we saw above, so the juice isn't worth the squeeze.\n\nWriting. It's preeeetty poor. I don'y really care about all the misspellings, but a lot of the text is poorly translated and hard to parse. That's a shame in a text-based game, because once I start to devalue the writing, what else is there for me to do? I'm not going to harp on the people not making a perfect English text game, but they needed a dedicated, localized editor to sit down and clean it all up.",
+      "voted_up": false,
+      "votes_helpful": 77
+    },
+    {
+      "review": "On paper, this game should be great. But in reality, it's just torture porn dressed up as a puzzle box except the puzzle box decides to screw you over with RNG sometimes. One serious piece of advice I've seen given is to just use the wiki to figure out how to win. What's the point of playing it you're just going to use spreadsheets and data mining to have a chance at it?",
+      "voted_up": false,
+      "votes_helpful": 23
+    },
+    {
+      "review": "Bought this game cause I thought it looked cool and really liked the art. Played it for a bit and found it underwhelming and boring. Just reading and some small resource management. Not worth the $30+ I paid while not on sale",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It's not bad per se but too much revolves around knowledge of the game not the skill of the player",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Edit:Yeah I got bored. The loop gets really repetitive after a few hours.\n\nThis is a lukewarm positive review. There's a very real chance this gameplay loop is going to turn stale quick because there isn't that much variation on new runs. At least, not as far as I can tell. I've started three so far and they've all been more or less the same story with minor differences. \n\nThat being said, it's holding my interest for now. The fact that it's similar but not identical makes me want to try new things and see if I can't push through. \n\nFor people comparing this to Cultist Simulator, I'm not seeing it. I have 100 hours in that game. It's amazing. This is not sparking that same level of awe in me. Still fun, though.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "God this is garbage",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At $24.99, Sultans Game is an overpriced and--dare I say--overrated new entry in the choices-matter, text-based, narrative-heavy genre. But instead of comparing it to more cohesive genre experiences like The Life and Suffering of Sir Brante, Roadwarden, and Suzerian, I'll look at Sultans game on its own merits. I enjoyed my first two-three hours of this game. I like that it does something different mechanically:  the deck builder/card slot mechanic is, at first, slick. I like the theme, the setting, and the tease of sultry, text-based adult content. But all the game's best parts are ultimately let down by some pretty significant issues.\n\nLet's get the easy ones out of the way first. The audio. I feel like I'm taking crazy pills here, because I'm looking at the Steam reviews for this game, and everyone is praising the soundtrack. I do not know what they are talking about: there is only one song.. It's a 1:30 high-energy sitar loop. Over and over it goes, taunting me and teasing me as I click through 10 different character screens looking for the follower with the highest Wisdom.  Worst of all, there is the high-pitched metallic chiming as the metal coins our stats are recorded on move in the breeze. \n\nSpeaking of cards, let's talk about inventory management. You get a lot of cards in this game .These cards are split into a few categories: Cards for characters, cards to help with skill checks, and quest-specific cards. Dozens and dozens pile in as you engage in the core game play loop of going to locations and doing a dice roll. By mid-game, you'll probably be getting 4-5 of these cards each round. And when you get them, they land in your main hand., where you get to play the actual Sultan's Game, which is taking your trash cards out of your main hand and placing them in the careful system you're trying desperately to maintain. \"Nooo, animals go in my third deck.\"\n\nIt's a lot like playing an old RPG, where you naturally generate a lot of loot that isn't very useful. However, unlike in something like Morrowind where you could just *not* pick up another torch, this game gives you all the loot. Because why wouldn't you want it? If you get enough, you can stack them to turn them into a higher level thing! But until then, your 2 gray, 2 green, 3 silver, and 1 gold Omen Card are just going to take up separate slots until you use them.\n\nIF you use them. Because here's what I learned playing Sultan's Game: usually characters can handle skill checks on their own. Sure, you might get totally screwed and need a reroll, but followers can easily get so buffed by items (a system I really do enjoy) and books that those skill check cards that take up 70% of your deck and do not get used at the same rate they come in.\n\nBut then there is a category of cards I'll call \"why do I have this card/when am I ever going to use this card?\" Sometimes you'll get a unique card and will be all excited because you haven't seen it card before. But this card has no purpose. Like skill checks, its purpose is to be stacked with other similar cards and combined to make a more powerful version of itself before its turned in to trigger conditions for end game. It's like handing someone a bunch of nickels and saying \"now keep these in your pocket. If you get enough, you can turn them in for a whole dollar.\" \n\nI talked about horses already, but let's dive back into that. Animals. In the first 30 minutes, I got two horses. I tried to equip them countless times before I realized they can't be equipped (even though the game says they can). I tried bringing them to council meetings with me. Not finding a use, I tried offering them to the Sultan as a gift. But then I found their use. There's a horse betting event that pops up once every 5 rounds where I can bet 4 coins to win 4 coins. In the mean time, the horse lives.\n\nMy biggest annoyance, and where this game falls apart, is that there are so many cards that have no obvious use. Like Rationality. I have 3 of these in my deck (and, of course, they don't stack). Methings, that bony bastard--and the game's attempt to clear away some of that uncertainty about what your card actually do--has nothing to say about it. I don't know what it does, but the one time I tried to do it my Prestige dropped by 1. So I'm not feeling an real incentive to do it again. In the mean time, I right click each one while in a quest because MAYBE one of them will slot in.  It's like I'm playing a point-and-click game from the 90s where I am dumb kid and stuck so I start clicking every pixel on the screen in a desperate attempt to continue the game.\n\nSo, most cards have limited value or have an intent that's weirdly opaque. The most useful cards are the followers, but even these are annoying to navigate. If I want to send someone on a quest that requires high wisdom, the most efficient way to do that is for me to remember who is good at what in my party. Otherwise, I need to click on 7-8 individual cards to bring up their character sheets and compare stats. Why they didn't just put the stats on the card is beyond me.\n\nThis is all to say, I don't understand why it's a card game. The mechanic feels so poorly implemented and cumbersome. This game would have been so much cleaner with an inventory where things auto-stack and there are different backpacks like \"skill checks\" \"special items\" \"quest items\" and \"useless horses\". The card system is hard to sort, easy to get lost in, kinda crappy (try dragging a card on that clogged-ass carpet with 3 book events within a half centimeter of one another. Better yet, make sure you hit the perfect i frame when trying to socket an item card onto a follower.) Ultimately, it all feels like a messy gimmick.\n\nQuests. They get old. They're busy work. I have 8 followers and 15 quests. It's a chore to find the best follower for each quest. I don't remember why I'm helping someone, but there's no quest log so I can't go back and refresh myself with why this general and I have sexual tension. I feel like there are too many quests and too many followers. My game brain doesn't want to NOT use a follower, but most quests just get more of those limited-use cards we saw above, so the juice isn't worth the squeeze.\n\nWriting. It's preeeetty poor. I don'y really care about all the misspellings, but a lot of the text is poorly translated and hard to parse. That's a shame in a text-based game, because once I start to devalue the writing, what else is there for me to do? I'm not going to harp on the people not making a perfect English text game, but they needed a dedicated, localized editor to sit down and clean it all up.",
+      "voted_up": false,
+      "votes_helpful": 77
+    },
+    {
+      "review": "On paper, this game should be great. But in reality, it's just torture porn dressed up as a puzzle box except the puzzle box decides to screw you over with RNG sometimes. One serious piece of advice I've seen given is to just use the wiki to figure out how to win. What's the point of playing it you're just going to use spreadsheets and data mining to have a chance at it?",
+      "voted_up": false,
+      "votes_helpful": 23
+    },
+    {
+      "review": "Bought this game cause I thought it looked cool and really liked the art. Played it for a bit and found it underwhelming and boring. Just reading and some small resource management. Not worth the $30+ I paid while not on sale",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It's not bad per se but too much revolves around knowledge of the game not the skill of the player",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Edit:Yeah I got bored. The loop gets really repetitive after a few hours.\n\nThis is a lukewarm positive review. There's a very real chance this gameplay loop is going to turn stale quick because there isn't that much variation on new runs. At least, not as far as I can tell. I've started three so far and they've all been more or less the same story with minor differences. \n\nThat being said, it's holding my interest for now. The fact that it's similar but not identical makes me want to try new things and see if I can't push through. \n\nFor people comparing this to Cultist Simulator, I'm not seeing it. I have 100 hours in that game. It's amazing. This is not sparking that same level of awe in me. Still fun, though.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "God this is garbage",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At $24.99, Sultans Game is an overpriced and--dare I say--overrated new entry in the choices-matter, text-based, narrative-heavy genre. But instead of comparing it to more cohesive genre experiences like The Life and Suffering of Sir Brante, Roadwarden, and Suzerian, I'll look at Sultans game on its own merits. I enjoyed my first two-three hours of this game. I like that it does something different mechanically:  the deck builder/card slot mechanic is, at first, slick. I like the theme, the setting, and the tease of sultry, text-based adult content. But all the game's best parts are ultimately let down by some pretty significant issues.\n\nLet's get the easy ones out of the way first. The audio. I feel like I'm taking crazy pills here, because I'm looking at the Steam reviews for this game, and everyone is praising the soundtrack. I do not know what they are talking about: there is only one song.. It's a 1:30 high-energy sitar loop. Over and over it goes, taunting me and teasing me as I click through 10 different character screens looking for the follower with the highest Wisdom.  Worst of all, there is the high-pitched metallic chiming as the metal coins our stats are recorded on move in the breeze. \n\nSpeaking of cards, let's talk about inventory management. You get a lot of cards in this game .These cards are split into a few categories: Cards for characters, cards to help with skill checks, and quest-specific cards. Dozens and dozens pile in as you engage in the core game play loop of going to locations and doing a dice roll. By mid-game, you'll probably be getting 4-5 of these cards each round. And when you get them, they land in your main hand., where you get to play the actual Sultan's Game, which is taking your trash cards out of your main hand and placing them in the careful system you're trying desperately to maintain. \"Nooo, animals go in my third deck.\"\n\nIt's a lot like playing an old RPG, where you naturally generate a lot of loot that isn't very useful. However, unlike in something like Morrowind where you could just *not* pick up another torch, this game gives you all the loot. Because why wouldn't you want it? If you get enough, you can stack them to turn them into a higher level thing! But until then, your 2 gray, 2 green, 3 silver, and 1 gold Omen Card are just going to take up separate slots until you use them.\n\nIF you use them. Because here's what I learned playing Sultan's Game: usually characters can handle skill checks on their own. Sure, you might get totally screwed and need a reroll, but followers can easily get so buffed by items (a system I really do enjoy) and books that those skill check cards that take up 70% of your deck and do not get used at the same rate they come in.\n\nBut then there is a category of cards I'll call \"why do I have this card/when am I ever going to use this card?\" Sometimes you'll get a unique card and will be all excited because you haven't seen it card before. But this card has no purpose. Like skill checks, its purpose is to be stacked with other similar cards and combined to make a more powerful version of itself before its turned in to trigger conditions for end game. It's like handing someone a bunch of nickels and saying \"now keep these in your pocket. If you get enough, you can turn them in for a whole dollar.\" \n\nI talked about horses already, but let's dive back into that. Animals. In the first 30 minutes, I got two horses. I tried to equip them countless times before I realized they can't be equipped (even though the game says they can). I tried bringing them to council meetings with me. Not finding a use, I tried offering them to the Sultan as a gift. But then I found their use. There's a horse betting event that pops up once every 5 rounds where I can bet 4 coins to win 4 coins. In the mean time, the horse lives.\n\nMy biggest annoyance, and where this game falls apart, is that there are so many cards that have no obvious use. Like Rationality. I have 3 of these in my deck (and, of course, they don't stack). Methings, that bony bastard--and the game's attempt to clear away some of that uncertainty about what your card actually do--has nothing to say about it. I don't know what it does, but the one time I tried to do it my Prestige dropped by 1. So I'm not feeling an real incentive to do it again. In the mean time, I right click each one while in a quest because MAYBE one of them will slot in.  It's like I'm playing a point-and-click game from the 90s where I am dumb kid and stuck so I start clicking every pixel on the screen in a desperate attempt to continue the game.\n\nSo, most cards have limited value or have an intent that's weirdly opaque. The most useful cards are the followers, but even these are annoying to navigate. If I want to send someone on a quest that requires high wisdom, the most efficient way to do that is for me to remember who is good at what in my party. Otherwise, I need to click on 7-8 individual cards to bring up their character sheets and compare stats. Why they didn't just put the stats on the card is beyond me.\n\nThis is all to say, I don't understand why it's a card game. The mechanic feels so poorly implemented and cumbersome. This game would have been so much cleaner with an inventory where things auto-stack and there are different backpacks like \"skill checks\" \"special items\" \"quest items\" and \"useless horses\". The card system is hard to sort, easy to get lost in, kinda crappy (try dragging a card on that clogged-ass carpet with 3 book events within a half centimeter of one another. Better yet, make sure you hit the perfect i frame when trying to socket an item card onto a follower.) Ultimately, it all feels like a messy gimmick.\n\nQuests. They get old. They're busy work. I have 8 followers and 15 quests. It's a chore to find the best follower for each quest. I don't remember why I'm helping someone, but there's no quest log so I can't go back and refresh myself with why this general and I have sexual tension. I feel like there are too many quests and too many followers. My game brain doesn't want to NOT use a follower, but most quests just get more of those limited-use cards we saw above, so the juice isn't worth the squeeze.\n\nWriting. It's preeeetty poor. I don'y really care about all the misspellings, but a lot of the text is poorly translated and hard to parse. That's a shame in a text-based game, because once I start to devalue the writing, what else is there for me to do? I'm not going to harp on the people not making a perfect English text game, but they needed a dedicated, localized editor to sit down and clean it all up.",
+      "voted_up": false,
+      "votes_helpful": 77
+    },
+    {
+      "review": "On paper, this game should be great. But in reality, it's just torture porn dressed up as a puzzle box except the puzzle box decides to screw you over with RNG sometimes. One serious piece of advice I've seen given is to just use the wiki to figure out how to win. What's the point of playing it you're just going to use spreadsheets and data mining to have a chance at it?",
+      "voted_up": false,
+      "votes_helpful": 23
+    },
+    {
+      "review": "Bought this game cause I thought it looked cool and really liked the art. Played it for a bit and found it underwhelming and boring. Just reading and some small resource management. Not worth the $30+ I paid while not on sale",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It's not bad per se but too much revolves around knowledge of the game not the skill of the player",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Edit:Yeah I got bored. The loop gets really repetitive after a few hours.\n\nThis is a lukewarm positive review. There's a very real chance this gameplay loop is going to turn stale quick because there isn't that much variation on new runs. At least, not as far as I can tell. I've started three so far and they've all been more or less the same story with minor differences. \n\nThat being said, it's holding my interest for now. The fact that it's similar but not identical makes me want to try new things and see if I can't push through. \n\nFor people comparing this to Cultist Simulator, I'm not seeing it. I have 100 hours in that game. It's amazing. This is not sparking that same level of awe in me. Still fun, though.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "God this is garbage",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At $24.99, Sultans Game is an overpriced and--dare I say--overrated new entry in the choices-matter, text-based, narrative-heavy genre. But instead of comparing it to more cohesive genre experiences like The Life and Suffering of Sir Brante, Roadwarden, and Suzerian, I'll look at Sultans game on its own merits. I enjoyed my first two-three hours of this game. I like that it does something different mechanically:  the deck builder/card slot mechanic is, at first, slick. I like the theme, the setting, and the tease of sultry, text-based adult content. But all the game's best parts are ultimately let down by some pretty significant issues.\n\nLet's get the easy ones out of the way first. The audio. I feel like I'm taking crazy pills here, because I'm looking at the Steam reviews for this game, and everyone is praising the soundtrack. I do not know what they are talking about: there is only one song.. It's a 1:30 high-energy sitar loop. Over and over it goes, taunting me and teasing me as I click through 10 different character screens looking for the follower with the highest Wisdom.  Worst of all, there is the high-pitched metallic chiming as the metal coins our stats are recorded on move in the breeze. \n\nSpeaking of cards, let's talk about inventory management. You get a lot of cards in this game .These cards are split into a few categories: Cards for characters, cards to help with skill checks, and quest-specific cards. Dozens and dozens pile in as you engage in the core game play loop of going to locations and doing a dice roll. By mid-game, you'll probably be getting 4-5 of these cards each round. And when you get them, they land in your main hand., where you get to play the actual Sultan's Game, which is taking your trash cards out of your main hand and placing them in the careful system you're trying desperately to maintain. \"Nooo, animals go in my third deck.\"\n\nIt's a lot like playing an old RPG, where you naturally generate a lot of loot that isn't very useful. However, unlike in something like Morrowind where you could just *not* pick up another torch, this game gives you all the loot. Because why wouldn't you want it? If you get enough, you can stack them to turn them into a higher level thing! But until then, your 2 gray, 2 green, 3 silver, and 1 gold Omen Card are just going to take up separate slots until you use them.\n\nIF you use them. Because here's what I learned playing Sultan's Game: usually characters can handle skill checks on their own. Sure, you might get totally screwed and need a reroll, but followers can easily get so buffed by items (a system I really do enjoy) and books that those skill check cards that take up 70% of your deck and do not get used at the same rate they come in.\n\nBut then there is a category of cards I'll call \"why do I have this card/when am I ever going to use this card?\" Sometimes you'll get a unique card and will be all excited because you haven't seen it card before. But this card has no purpose. Like skill checks, its purpose is to be stacked with other similar cards and combined to make a more powerful version of itself before its turned in to trigger conditions for end game. It's like handing someone a bunch of nickels and saying \"now keep these in your pocket. If you get enough, you can turn them in for a whole dollar.\" \n\nI talked about horses already, but let's dive back into that. Animals. In the first 30 minutes, I got two horses. I tried to equip them countless times before I realized they can't be equipped (even though the game says they can). I tried bringing them to council meetings with me. Not finding a use, I tried offering them to the Sultan as a gift. But then I found their use. There's a horse betting event that pops up once every 5 rounds where I can bet 4 coins to win 4 coins. In the mean time, the horse lives.\n\nMy biggest annoyance, and where this game falls apart, is that there are so many cards that have no obvious use. Like Rationality. I have 3 of these in my deck (and, of course, they don't stack). Methings, that bony bastard--and the game's attempt to clear away some of that uncertainty about what your card actually do--has nothing to say about it. I don't know what it does, but the one time I tried to do it my Prestige dropped by 1. So I'm not feeling an real incentive to do it again. In the mean time, I right click each one while in a quest because MAYBE one of them will slot in.  It's like I'm playing a point-and-click game from the 90s where I am dumb kid and stuck so I start clicking every pixel on the screen in a desperate attempt to continue the game.\n\nSo, most cards have limited value or have an intent that's weirdly opaque. The most useful cards are the followers, but even these are annoying to navigate. If I want to send someone on a quest that requires high wisdom, the most efficient way to do that is for me to remember who is good at what in my party. Otherwise, I need to click on 7-8 individual cards to bring up their character sheets and compare stats. Why they didn't just put the stats on the card is beyond me.\n\nThis is all to say, I don't understand why it's a card game. The mechanic feels so poorly implemented and cumbersome. This game would have been so much cleaner with an inventory where things auto-stack and there are different backpacks like \"skill checks\" \"special items\" \"quest items\" and \"useless horses\". The card system is hard to sort, easy to get lost in, kinda crappy (try dragging a card on that clogged-ass carpet with 3 book events within a half centimeter of one another. Better yet, make sure you hit the perfect i frame when trying to socket an item card onto a follower.) Ultimately, it all feels like a messy gimmick.\n\nQuests. They get old. They're busy work. I have 8 followers and 15 quests. It's a chore to find the best follower for each quest. I don't remember why I'm helping someone, but there's no quest log so I can't go back and refresh myself with why this general and I have sexual tension. I feel like there are too many quests and too many followers. My game brain doesn't want to NOT use a follower, but most quests just get more of those limited-use cards we saw above, so the juice isn't worth the squeeze.\n\nWriting. It's preeeetty poor. I don'y really care about all the misspellings, but a lot of the text is poorly translated and hard to parse. That's a shame in a text-based game, because once I start to devalue the writing, what else is there for me to do? I'm not going to harp on the people not making a perfect English text game, but they needed a dedicated, localized editor to sit down and clean it all up.",
+      "voted_up": false,
+      "votes_helpful": 77
+    },
+    {
+      "review": "On paper, this game should be great. But in reality, it's just torture porn dressed up as a puzzle box except the puzzle box decides to screw you over with RNG sometimes. One serious piece of advice I've seen given is to just use the wiki to figure out how to win. What's the point of playing it you're just going to use spreadsheets and data mining to have a chance at it?",
+      "voted_up": false,
+      "votes_helpful": 23
+    },
+    {
+      "review": "Bought this game cause I thought it looked cool and really liked the art. Played it for a bit and found it underwhelming and boring. Just reading and some small resource management. Not worth the $30+ I paid while not on sale",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It's not bad per se but too much revolves around knowledge of the game not the skill of the player",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Edit:Yeah I got bored. The loop gets really repetitive after a few hours.\n\nThis is a lukewarm positive review. There's a very real chance this gameplay loop is going to turn stale quick because there isn't that much variation on new runs. At least, not as far as I can tell. I've started three so far and they've all been more or less the same story with minor differences. \n\nThat being said, it's holding my interest for now. The fact that it's similar but not identical makes me want to try new things and see if I can't push through. \n\nFor people comparing this to Cultist Simulator, I'm not seeing it. I have 100 hours in that game. It's amazing. This is not sparking that same level of awe in me. Still fun, though.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "God this is garbage",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At $24.99, Sultans Game is an overpriced and--dare I say--overrated new entry in the choices-matter, text-based, narrative-heavy genre. But instead of comparing it to more cohesive genre experiences like The Life and Suffering of Sir Brante, Roadwarden, and Suzerian, I'll look at Sultans game on its own merits. I enjoyed my first two-three hours of this game. I like that it does something different mechanically:  the deck builder/card slot mechanic is, at first, slick. I like the theme, the setting, and the tease of sultry, text-based adult content. But all the game's best parts are ultimately let down by some pretty significant issues.\n\nLet's get the easy ones out of the way first. The audio. I feel like I'm taking crazy pills here, because I'm looking at the Steam reviews for this game, and everyone is praising the soundtrack. I do not know what they are talking about: there is only one song.. It's a 1:30 high-energy sitar loop. Over and over it goes, taunting me and teasing me as I click through 10 different character screens looking for the follower with the highest Wisdom.  Worst of all, there is the high-pitched metallic chiming as the metal coins our stats are recorded on move in the breeze. \n\nSpeaking of cards, let's talk about inventory management. You get a lot of cards in this game .These cards are split into a few categories: Cards for characters, cards to help with skill checks, and quest-specific cards. Dozens and dozens pile in as you engage in the core game play loop of going to locations and doing a dice roll. By mid-game, you'll probably be getting 4-5 of these cards each round. And when you get them, they land in your main hand., where you get to play the actual Sultan's Game, which is taking your trash cards out of your main hand and placing them in the careful system you're trying desperately to maintain. \"Nooo, animals go in my third deck.\"\n\nIt's a lot like playing an old RPG, where you naturally generate a lot of loot that isn't very useful. However, unlike in something like Morrowind where you could just *not* pick up another torch, this game gives you all the loot. Because why wouldn't you want it? If you get enough, you can stack them to turn them into a higher level thing! But until then, your 2 gray, 2 green, 3 silver, and 1 gold Omen Card are just going to take up separate slots until you use them.\n\nIF you use them. Because here's what I learned playing Sultan's Game: usually characters can handle skill checks on their own. Sure, you might get totally screwed and need a reroll, but followers can easily get so buffed by items (a system I really do enjoy) and books that those skill check cards that take up 70% of your deck and do not get used at the same rate they come in.\n\nBut then there is a category of cards I'll call \"why do I have this card/when am I ever going to use this card?\" Sometimes you'll get a unique card and will be all excited because you haven't seen it card before. But this card has no purpose. Like skill checks, its purpose is to be stacked with other similar cards and combined to make a more powerful version of itself before its turned in to trigger conditions for end game. It's like handing someone a bunch of nickels and saying \"now keep these in your pocket. If you get enough, you can turn them in for a whole dollar.\" \n\nI talked about horses already, but let's dive back into that. Animals. In the first 30 minutes, I got two horses. I tried to equip them countless times before I realized they can't be equipped (even though the game says they can). I tried bringing them to council meetings with me. Not finding a use, I tried offering them to the Sultan as a gift. But then I found their use. There's a horse betting event that pops up once every 5 rounds where I can bet 4 coins to win 4 coins. In the mean time, the horse lives.\n\nMy biggest annoyance, and where this game falls apart, is that there are so many cards that have no obvious use. Like Rationality. I have 3 of these in my deck (and, of course, they don't stack). Methings, that bony bastard--and the game's attempt to clear away some of that uncertainty about what your card actually do--has nothing to say about it. I don't know what it does, but the one time I tried to do it my Prestige dropped by 1. So I'm not feeling an real incentive to do it again. In the mean time, I right click each one while in a quest because MAYBE one of them will slot in.  It's like I'm playing a point-and-click game from the 90s where I am dumb kid and stuck so I start clicking every pixel on the screen in a desperate attempt to continue the game.\n\nSo, most cards have limited value or have an intent that's weirdly opaque. The most useful cards are the followers, but even these are annoying to navigate. If I want to send someone on a quest that requires high wisdom, the most efficient way to do that is for me to remember who is good at what in my party. Otherwise, I need to click on 7-8 individual cards to bring up their character sheets and compare stats. Why they didn't just put the stats on the card is beyond me.\n\nThis is all to say, I don't understand why it's a card game. The mechanic feels so poorly implemented and cumbersome. This game would have been so much cleaner with an inventory where things auto-stack and there are different backpacks like \"skill checks\" \"special items\" \"quest items\" and \"useless horses\". The card system is hard to sort, easy to get lost in, kinda crappy (try dragging a card on that clogged-ass carpet with 3 book events within a half centimeter of one another. Better yet, make sure you hit the perfect i frame when trying to socket an item card onto a follower.) Ultimately, it all feels like a messy gimmick.\n\nQuests. They get old. They're busy work. I have 8 followers and 15 quests. It's a chore to find the best follower for each quest. I don't remember why I'm helping someone, but there's no quest log so I can't go back and refresh myself with why this general and I have sexual tension. I feel like there are too many quests and too many followers. My game brain doesn't want to NOT use a follower, but most quests just get more of those limited-use cards we saw above, so the juice isn't worth the squeeze.\n\nWriting. It's preeeetty poor. I don'y really care about all the misspellings, but a lot of the text is poorly translated and hard to parse. That's a shame in a text-based game, because once I start to devalue the writing, what else is there for me to do? I'm not going to harp on the people not making a perfect English text game, but they needed a dedicated, localized editor to sit down and clean it all up.",
+      "voted_up": false,
+      "votes_helpful": 77
+    },
+    {
+      "review": "On paper, this game should be great. But in reality, it's just torture porn dressed up as a puzzle box except the puzzle box decides to screw you over with RNG sometimes. One serious piece of advice I've seen given is to just use the wiki to figure out how to win. What's the point of playing it you're just going to use spreadsheets and data mining to have a chance at it?",
+      "voted_up": false,
+      "votes_helpful": 23
+    },
+    {
+      "review": "Bought this game cause I thought it looked cool and really liked the art. Played it for a bit and found it underwhelming and boring. Just reading and some small resource management. Not worth the $30+ I paid while not on sale",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It's not bad per se but too much revolves around knowledge of the game not the skill of the player",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Edit:Yeah I got bored. The loop gets really repetitive after a few hours.\n\nThis is a lukewarm positive review. There's a very real chance this gameplay loop is going to turn stale quick because there isn't that much variation on new runs. At least, not as far as I can tell. I've started three so far and they've all been more or less the same story with minor differences. \n\nThat being said, it's holding my interest for now. The fact that it's similar but not identical makes me want to try new things and see if I can't push through. \n\nFor people comparing this to Cultist Simulator, I'm not seeing it. I have 100 hours in that game. It's amazing. This is not sparking that same level of awe in me. Still fun, though.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "God this is garbage",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At $24.99, Sultans Game is an overpriced and--dare I say--overrated new entry in the choices-matter, text-based, narrative-heavy genre. But instead of comparing it to more cohesive genre experiences like The Life and Suffering of Sir Brante, Roadwarden, and Suzerian, I'll look at Sultans game on its own merits. I enjoyed my first two-three hours of this game. I like that it does something different mechanically:  the deck builder/card slot mechanic is, at first, slick. I like the theme, the setting, and the tease of sultry, text-based adult content. But all the game's best parts are ultimately let down by some pretty significant issues.\n\nLet's get the easy ones out of the way first. The audio. I feel like I'm taking crazy pills here, because I'm looking at the Steam reviews for this game, and everyone is praising the soundtrack. I do not know what they are talking about: there is only one song.. It's a 1:30 high-energy sitar loop. Over and over it goes, taunting me and teasing me as I click through 10 different character screens looking for the follower with the highest Wisdom.  Worst of all, there is the high-pitched metallic chiming as the metal coins our stats are recorded on move in the breeze. \n\nSpeaking of cards, let's talk about inventory management. You get a lot of cards in this game .These cards are split into a few categories: Cards for characters, cards to help with skill checks, and quest-specific cards. Dozens and dozens pile in as you engage in the core game play loop of going to locations and doing a dice roll. By mid-game, you'll probably be getting 4-5 of these cards each round. And when you get them, they land in your main hand., where you get to play the actual Sultan's Game, which is taking your trash cards out of your main hand and placing them in the careful system you're trying desperately to maintain. \"Nooo, animals go in my third deck.\"\n\nIt's a lot like playing an old RPG, where you naturally generate a lot of loot that isn't very useful. However, unlike in something like Morrowind where you could just *not* pick up another torch, this game gives you all the loot. Because why wouldn't you want it? If you get enough, you can stack them to turn them into a higher level thing! But until then, your 2 gray, 2 green, 3 silver, and 1 gold Omen Card are just going to take up separate slots until you use them.\n\nIF you use them. Because here's what I learned playing Sultan's Game: usually characters can handle skill checks on their own. Sure, you might get totally screwed and need a reroll, but followers can easily get so buffed by items (a system I really do enjoy) and books that those skill check cards that take up 70% of your deck and do not get used at the same rate they come in.\n\nBut then there is a category of cards I'll call \"why do I have this card/when am I ever going to use this card?\" Sometimes you'll get a unique card and will be all excited because you haven't seen it card before. But this card has no purpose. Like skill checks, its purpose is to be stacked with other similar cards and combined to make a more powerful version of itself before its turned in to trigger conditions for end game. It's like handing someone a bunch of nickels and saying \"now keep these in your pocket. If you get enough, you can turn them in for a whole dollar.\" \n\nI talked about horses already, but let's dive back into that. Animals. In the first 30 minutes, I got two horses. I tried to equip them countless times before I realized they can't be equipped (even though the game says they can). I tried bringing them to council meetings with me. Not finding a use, I tried offering them to the Sultan as a gift. But then I found their use. There's a horse betting event that pops up once every 5 rounds where I can bet 4 coins to win 4 coins. In the mean time, the horse lives.\n\nMy biggest annoyance, and where this game falls apart, is that there are so many cards that have no obvious use. Like Rationality. I have 3 of these in my deck (and, of course, they don't stack). Methings, that bony bastard--and the game's attempt to clear away some of that uncertainty about what your card actually do--has nothing to say about it. I don't know what it does, but the one time I tried to do it my Prestige dropped by 1. So I'm not feeling an real incentive to do it again. In the mean time, I right click each one while in a quest because MAYBE one of them will slot in.  It's like I'm playing a point-and-click game from the 90s where I am dumb kid and stuck so I start clicking every pixel on the screen in a desperate attempt to continue the game.\n\nSo, most cards have limited value or have an intent that's weirdly opaque. The most useful cards are the followers, but even these are annoying to navigate. If I want to send someone on a quest that requires high wisdom, the most efficient way to do that is for me to remember who is good at what in my party. Otherwise, I need to click on 7-8 individual cards to bring up their character sheets and compare stats. Why they didn't just put the stats on the card is beyond me.\n\nThis is all to say, I don't understand why it's a card game. The mechanic feels so poorly implemented and cumbersome. This game would have been so much cleaner with an inventory where things auto-stack and there are different backpacks like \"skill checks\" \"special items\" \"quest items\" and \"useless horses\". The card system is hard to sort, easy to get lost in, kinda crappy (try dragging a card on that clogged-ass carpet with 3 book events within a half centimeter of one another. Better yet, make sure you hit the perfect i frame when trying to socket an item card onto a follower.) Ultimately, it all feels like a messy gimmick.\n\nQuests. They get old. They're busy work. I have 8 followers and 15 quests. It's a chore to find the best follower for each quest. I don't remember why I'm helping someone, but there's no quest log so I can't go back and refresh myself with why this general and I have sexual tension. I feel like there are too many quests and too many followers. My game brain doesn't want to NOT use a follower, but most quests just get more of those limited-use cards we saw above, so the juice isn't worth the squeeze.\n\nWriting. It's preeeetty poor. I don'y really care about all the misspellings, but a lot of the text is poorly translated and hard to parse. That's a shame in a text-based game, because once I start to devalue the writing, what else is there for me to do? I'm not going to harp on the people not making a perfect English text game, but they needed a dedicated, localized editor to sit down and clean it all up.",
+      "voted_up": false,
+      "votes_helpful": 77
+    },
+    {
+      "review": "On paper, this game should be great. But in reality, it's just torture porn dressed up as a puzzle box except the puzzle box decides to screw you over with RNG sometimes. One serious piece of advice I've seen given is to just use the wiki to figure out how to win. What's the point of playing it you're just going to use spreadsheets and data mining to have a chance at it?",
+      "voted_up": false,
+      "votes_helpful": 23
+    },
+    {
+      "review": "Bought this game cause I thought it looked cool and really liked the art. Played it for a bit and found it underwhelming and boring. Just reading and some small resource management. Not worth the $30+ I paid while not on sale",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It's not bad per se but too much revolves around knowledge of the game not the skill of the player",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Edit:Yeah I got bored. The loop gets really repetitive after a few hours.\n\nThis is a lukewarm positive review. There's a very real chance this gameplay loop is going to turn stale quick because there isn't that much variation on new runs. At least, not as far as I can tell. I've started three so far and they've all been more or less the same story with minor differences. \n\nThat being said, it's holding my interest for now. The fact that it's similar but not identical makes me want to try new things and see if I can't push through. \n\nFor people comparing this to Cultist Simulator, I'm not seeing it. I have 100 hours in that game. It's amazing. This is not sparking that same level of awe in me. Still fun, though.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "God this is garbage",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At $24.99, Sultans Game is an overpriced and--dare I say--overrated new entry in the choices-matter, text-based, narrative-heavy genre. But instead of comparing it to more cohesive genre experiences like The Life and Suffering of Sir Brante, Roadwarden, and Suzerian, I'll look at Sultans game on its own merits. I enjoyed my first two-three hours of this game. I like that it does something different mechanically:  the deck builder/card slot mechanic is, at first, slick. I like the theme, the setting, and the tease of sultry, text-based adult content. But all the game's best parts are ultimately let down by some pretty significant issues.\n\nLet's get the easy ones out of the way first. The audio. I feel like I'm taking crazy pills here, because I'm looking at the Steam reviews for this game, and everyone is praising the soundtrack. I do not know what they are talking about: there is only one song.. It's a 1:30 high-energy sitar loop. Over and over it goes, taunting me and teasing me as I click through 10 different character screens looking for the follower with the highest Wisdom.  Worst of all, there is the high-pitched metallic chiming as the metal coins our stats are recorded on move in the breeze. \n\nSpeaking of cards, let's talk about inventory management. You get a lot of cards in this game .These cards are split into a few categories: Cards for characters, cards to help with skill checks, and quest-specific cards. Dozens and dozens pile in as you engage in the core game play loop of going to locations and doing a dice roll. By mid-game, you'll probably be getting 4-5 of these cards each round. And when you get them, they land in your main hand., where you get to play the actual Sultan's Game, which is taking your trash cards out of your main hand and placing them in the careful system you're trying desperately to maintain. \"Nooo, animals go in my third deck.\"\n\nIt's a lot like playing an old RPG, where you naturally generate a lot of loot that isn't very useful. However, unlike in something like Morrowind where you could just *not* pick up another torch, this game gives you all the loot. Because why wouldn't you want it? If you get enough, you can stack them to turn them into a higher level thing! But until then, your 2 gray, 2 green, 3 silver, and 1 gold Omen Card are just going to take up separate slots until you use them.\n\nIF you use them. Because here's what I learned playing Sultan's Game: usually characters can handle skill checks on their own. Sure, you might get totally screwed and need a reroll, but followers can easily get so buffed by items (a system I really do enjoy) and books that those skill check cards that take up 70% of your deck and do not get used at the same rate they come in.\n\nBut then there is a category of cards I'll call \"why do I have this card/when am I ever going to use this card?\" Sometimes you'll get a unique card and will be all excited because you haven't seen it card before. But this card has no purpose. Like skill checks, its purpose is to be stacked with other similar cards and combined to make a more powerful version of itself before its turned in to trigger conditions for end game. It's like handing someone a bunch of nickels and saying \"now keep these in your pocket. If you get enough, you can turn them in for a whole dollar.\" \n\nI talked about horses already, but let's dive back into that. Animals. In the first 30 minutes, I got two horses. I tried to equip them countless times before I realized they can't be equipped (even though the game says they can). I tried bringing them to council meetings with me. Not finding a use, I tried offering them to the Sultan as a gift. But then I found their use. There's a horse betting event that pops up once every 5 rounds where I can bet 4 coins to win 4 coins. In the mean time, the horse lives.\n\nMy biggest annoyance, and where this game falls apart, is that there are so many cards that have no obvious use. Like Rationality. I have 3 of these in my deck (and, of course, they don't stack). Methings, that bony bastard--and the game's attempt to clear away some of that uncertainty about what your card actually do--has nothing to say about it. I don't know what it does, but the one time I tried to do it my Prestige dropped by 1. So I'm not feeling an real incentive to do it again. In the mean time, I right click each one while in a quest because MAYBE one of them will slot in.  It's like I'm playing a point-and-click game from the 90s where I am dumb kid and stuck so I start clicking every pixel on the screen in a desperate attempt to continue the game.\n\nSo, most cards have limited value or have an intent that's weirdly opaque. The most useful cards are the followers, but even these are annoying to navigate. If I want to send someone on a quest that requires high wisdom, the most efficient way to do that is for me to remember who is good at what in my party. Otherwise, I need to click on 7-8 individual cards to bring up their character sheets and compare stats. Why they didn't just put the stats on the card is beyond me.\n\nThis is all to say, I don't understand why it's a card game. The mechanic feels so poorly implemented and cumbersome. This game would have been so much cleaner with an inventory where things auto-stack and there are different backpacks like \"skill checks\" \"special items\" \"quest items\" and \"useless horses\". The card system is hard to sort, easy to get lost in, kinda crappy (try dragging a card on that clogged-ass carpet with 3 book events within a half centimeter of one another. Better yet, make sure you hit the perfect i frame when trying to socket an item card onto a follower.) Ultimately, it all feels like a messy gimmick.\n\nQuests. They get old. They're busy work. I have 8 followers and 15 quests. It's a chore to find the best follower for each quest. I don't remember why I'm helping someone, but there's no quest log so I can't go back and refresh myself with why this general and I have sexual tension. I feel like there are too many quests and too many followers. My game brain doesn't want to NOT use a follower, but most quests just get more of those limited-use cards we saw above, so the juice isn't worth the squeeze.\n\nWriting. It's preeeetty poor. I don'y really care about all the misspellings, but a lot of the text is poorly translated and hard to parse. That's a shame in a text-based game, because once I start to devalue the writing, what else is there for me to do? I'm not going to harp on the people not making a perfect English text game, but they needed a dedicated, localized editor to sit down and clean it all up.",
+      "voted_up": false,
+      "votes_helpful": 77
+    },
+    {
+      "review": "On paper, this game should be great. But in reality, it's just torture porn dressed up as a puzzle box except the puzzle box decides to screw you over with RNG sometimes. One serious piece of advice I've seen given is to just use the wiki to figure out how to win. What's the point of playing it you're just going to use spreadsheets and data mining to have a chance at it?",
+      "voted_up": false,
+      "votes_helpful": 23
+    },
+    {
+      "review": "Bought this game cause I thought it looked cool and really liked the art. Played it for a bit and found it underwhelming and boring. Just reading and some small resource management. Not worth the $30+ I paid while not on sale",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It's not bad per se but too much revolves around knowledge of the game not the skill of the player",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Edit:Yeah I got bored. The loop gets really repetitive after a few hours.\n\nThis is a lukewarm positive review. There's a very real chance this gameplay loop is going to turn stale quick because there isn't that much variation on new runs. At least, not as far as I can tell. I've started three so far and they've all been more or less the same story with minor differences. \n\nThat being said, it's holding my interest for now. The fact that it's similar but not identical makes me want to try new things and see if I can't push through. \n\nFor people comparing this to Cultist Simulator, I'm not seeing it. I have 100 hours in that game. It's amazing. This is not sparking that same level of awe in me. Still fun, though.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "God this is garbage",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At $24.99, Sultans Game is an overpriced and--dare I say--overrated new entry in the choices-matter, text-based, narrative-heavy genre. But instead of comparing it to more cohesive genre experiences like The Life and Suffering of Sir Brante, Roadwarden, and Suzerian, I'll look at Sultans game on its own merits. I enjoyed my first two-three hours of this game. I like that it does something different mechanically:  the deck builder/card slot mechanic is, at first, slick. I like the theme, the setting, and the tease of sultry, text-based adult content. But all the game's best parts are ultimately let down by some pretty significant issues.\n\nLet's get the easy ones out of the way first. The audio. I feel like I'm taking crazy pills here, because I'm looking at the Steam reviews for this game, and everyone is praising the soundtrack. I do not know what they are talking about: there is only one song.. It's a 1:30 high-energy sitar loop. Over and over it goes, taunting me and teasing me as I click through 10 different character screens looking for the follower with the highest Wisdom.  Worst of all, there is the high-pitched metallic chiming as the metal coins our stats are recorded on move in the breeze. \n\nSpeaking of cards, let's talk about inventory management. You get a lot of cards in this game .These cards are split into a few categories: Cards for characters, cards to help with skill checks, and quest-specific cards. Dozens and dozens pile in as you engage in the core game play loop of going to locations and doing a dice roll. By mid-game, you'll probably be getting 4-5 of these cards each round. And when you get them, they land in your main hand., where you get to play the actual Sultan's Game, which is taking your trash cards out of your main hand and placing them in the careful system you're trying desperately to maintain. \"Nooo, animals go in my third deck.\"\n\nIt's a lot like playing an old RPG, where you naturally generate a lot of loot that isn't very useful. However, unlike in something like Morrowind where you could just *not* pick up another torch, this game gives you all the loot. Because why wouldn't you want it? If you get enough, you can stack them to turn them into a higher level thing! But until then, your 2 gray, 2 green, 3 silver, and 1 gold Omen Card are just going to take up separate slots until you use them.\n\nIF you use them. Because here's what I learned playing Sultan's Game: usually characters can handle skill checks on their own. Sure, you might get totally screwed and need a reroll, but followers can easily get so buffed by items (a system I really do enjoy) and books that those skill check cards that take up 70% of your deck and do not get used at the same rate they come in.\n\nBut then there is a category of cards I'll call \"why do I have this card/when am I ever going to use this card?\" Sometimes you'll get a unique card and will be all excited because you haven't seen it card before. But this card has no purpose. Like skill checks, its purpose is to be stacked with other similar cards and combined to make a more powerful version of itself before its turned in to trigger conditions for end game. It's like handing someone a bunch of nickels and saying \"now keep these in your pocket. If you get enough, you can turn them in for a whole dollar.\" \n\nI talked about horses already, but let's dive back into that. Animals. In the first 30 minutes, I got two horses. I tried to equip them countless times before I realized they can't be equipped (even though the game says they can). I tried bringing them to council meetings with me. Not finding a use, I tried offering them to the Sultan as a gift. But then I found their use. There's a horse betting event that pops up once every 5 rounds where I can bet 4 coins to win 4 coins. In the mean time, the horse lives.\n\nMy biggest annoyance, and where this game falls apart, is that there are so many cards that have no obvious use. Like Rationality. I have 3 of these in my deck (and, of course, they don't stack). Methings, that bony bastard--and the game's attempt to clear away some of that uncertainty about what your card actually do--has nothing to say about it. I don't know what it does, but the one time I tried to do it my Prestige dropped by 1. So I'm not feeling an real incentive to do it again. In the mean time, I right click each one while in a quest because MAYBE one of them will slot in.  It's like I'm playing a point-and-click game from the 90s where I am dumb kid and stuck so I start clicking every pixel on the screen in a desperate attempt to continue the game.\n\nSo, most cards have limited value or have an intent that's weirdly opaque. The most useful cards are the followers, but even these are annoying to navigate. If I want to send someone on a quest that requires high wisdom, the most efficient way to do that is for me to remember who is good at what in my party. Otherwise, I need to click on 7-8 individual cards to bring up their character sheets and compare stats. Why they didn't just put the stats on the card is beyond me.\n\nThis is all to say, I don't understand why it's a card game. The mechanic feels so poorly implemented and cumbersome. This game would have been so much cleaner with an inventory where things auto-stack and there are different backpacks like \"skill checks\" \"special items\" \"quest items\" and \"useless horses\". The card system is hard to sort, easy to get lost in, kinda crappy (try dragging a card on that clogged-ass carpet with 3 book events within a half centimeter of one another. Better yet, make sure you hit the perfect i frame when trying to socket an item card onto a follower.) Ultimately, it all feels like a messy gimmick.\n\nQuests. They get old. They're busy work. I have 8 followers and 15 quests. It's a chore to find the best follower for each quest. I don't remember why I'm helping someone, but there's no quest log so I can't go back and refresh myself with why this general and I have sexual tension. I feel like there are too many quests and too many followers. My game brain doesn't want to NOT use a follower, but most quests just get more of those limited-use cards we saw above, so the juice isn't worth the squeeze.\n\nWriting. It's preeeetty poor. I don'y really care about all the misspellings, but a lot of the text is poorly translated and hard to parse. That's a shame in a text-based game, because once I start to devalue the writing, what else is there for me to do? I'm not going to harp on the people not making a perfect English text game, but they needed a dedicated, localized editor to sit down and clean it all up.",
+      "voted_up": false,
+      "votes_helpful": 77
+    },
+    {
+      "review": "On paper, this game should be great. But in reality, it's just torture porn dressed up as a puzzle box except the puzzle box decides to screw you over with RNG sometimes. One serious piece of advice I've seen given is to just use the wiki to figure out how to win. What's the point of playing it you're just going to use spreadsheets and data mining to have a chance at it?",
+      "voted_up": false,
+      "votes_helpful": 23
+    },
+    {
+      "review": "Bought this game cause I thought it looked cool and really liked the art. Played it for a bit and found it underwhelming and boring. Just reading and some small resource management. Not worth the $30+ I paid while not on sale",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It's not bad per se but too much revolves around knowledge of the game not the skill of the player",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Edit:Yeah I got bored. The loop gets really repetitive after a few hours.\n\nThis is a lukewarm positive review. There's a very real chance this gameplay loop is going to turn stale quick because there isn't that much variation on new runs. At least, not as far as I can tell. I've started three so far and they've all been more or less the same story with minor differences. \n\nThat being said, it's holding my interest for now. The fact that it's similar but not identical makes me want to try new things and see if I can't push through. \n\nFor people comparing this to Cultist Simulator, I'm not seeing it. I have 100 hours in that game. It's amazing. This is not sparking that same level of awe in me. Still fun, though.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "God this is garbage",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At $24.99, Sultans Game is an overpriced and--dare I say--overrated new entry in the choices-matter, text-based, narrative-heavy genre. But instead of comparing it to more cohesive genre experiences like The Life and Suffering of Sir Brante, Roadwarden, and Suzerian, I'll look at Sultans game on its own merits. I enjoyed my first two-three hours of this game. I like that it does something different mechanically:  the deck builder/card slot mechanic is, at first, slick. I like the theme, the setting, and the tease of sultry, text-based adult content. But all the game's best parts are ultimately let down by some pretty significant issues.\n\nLet's get the easy ones out of the way first. The audio. I feel like I'm taking crazy pills here, because I'm looking at the Steam reviews for this game, and everyone is praising the soundtrack. I do not know what they are talking about: there is only one song.. It's a 1:30 high-energy sitar loop. Over and over it goes, taunting me and teasing me as I click through 10 different character screens looking for the follower with the highest Wisdom.  Worst of all, there is the high-pitched metallic chiming as the metal coins our stats are recorded on move in the breeze. \n\nSpeaking of cards, let's talk about inventory management. You get a lot of cards in this game .These cards are split into a few categories: Cards for characters, cards to help with skill checks, and quest-specific cards. Dozens and dozens pile in as you engage in the core game play loop of going to locations and doing a dice roll. By mid-game, you'll probably be getting 4-5 of these cards each round. And when you get them, they land in your main hand., where you get to play the actual Sultan's Game, which is taking your trash cards out of your main hand and placing them in the careful system you're trying desperately to maintain. \"Nooo, animals go in my third deck.\"\n\nIt's a lot like playing an old RPG, where you naturally generate a lot of loot that isn't very useful. However, unlike in something like Morrowind where you could just *not* pick up another torch, this game gives you all the loot. Because why wouldn't you want it? If you get enough, you can stack them to turn them into a higher level thing! But until then, your 2 gray, 2 green, 3 silver, and 1 gold Omen Card are just going to take up separate slots until you use them.\n\nIF you use them. Because here's what I learned playing Sultan's Game: usually characters can handle skill checks on their own. Sure, you might get totally screwed and need a reroll, but followers can easily get so buffed by items (a system I really do enjoy) and books that those skill check cards that take up 70% of your deck and do not get used at the same rate they come in.\n\nBut then there is a category of cards I'll call \"why do I have this card/when am I ever going to use this card?\" Sometimes you'll get a unique card and will be all excited because you haven't seen it card before. But this card has no purpose. Like skill checks, its purpose is to be stacked with other similar cards and combined to make a more powerful version of itself before its turned in to trigger conditions for end game. It's like handing someone a bunch of nickels and saying \"now keep these in your pocket. If you get enough, you can turn them in for a whole dollar.\" \n\nI talked about horses already, but let's dive back into that. Animals. In the first 30 minutes, I got two horses. I tried to equip them countless times before I realized they can't be equipped (even though the game says they can). I tried bringing them to council meetings with me. Not finding a use, I tried offering them to the Sultan as a gift. But then I found their use. There's a horse betting event that pops up once every 5 rounds where I can bet 4 coins to win 4 coins. In the mean time, the horse lives.\n\nMy biggest annoyance, and where this game falls apart, is that there are so many cards that have no obvious use. Like Rationality. I have 3 of these in my deck (and, of course, they don't stack). Methings, that bony bastard--and the game's attempt to clear away some of that uncertainty about what your card actually do--has nothing to say about it. I don't know what it does, but the one time I tried to do it my Prestige dropped by 1. So I'm not feeling an real incentive to do it again. In the mean time, I right click each one while in a quest because MAYBE one of them will slot in.  It's like I'm playing a point-and-click game from the 90s where I am dumb kid and stuck so I start clicking every pixel on the screen in a desperate attempt to continue the game.\n\nSo, most cards have limited value or have an intent that's weirdly opaque. The most useful cards are the followers, but even these are annoying to navigate. If I want to send someone on a quest that requires high wisdom, the most efficient way to do that is for me to remember who is good at what in my party. Otherwise, I need to click on 7-8 individual cards to bring up their character sheets and compare stats. Why they didn't just put the stats on the card is beyond me.\n\nThis is all to say, I don't understand why it's a card game. The mechanic feels so poorly implemented and cumbersome. This game would have been so much cleaner with an inventory where things auto-stack and there are different backpacks like \"skill checks\" \"special items\" \"quest items\" and \"useless horses\". The card system is hard to sort, easy to get lost in, kinda crappy (try dragging a card on that clogged-ass carpet with 3 book events within a half centimeter of one another. Better yet, make sure you hit the perfect i frame when trying to socket an item card onto a follower.) Ultimately, it all feels like a messy gimmick.\n\nQuests. They get old. They're busy work. I have 8 followers and 15 quests. It's a chore to find the best follower for each quest. I don't remember why I'm helping someone, but there's no quest log so I can't go back and refresh myself with why this general and I have sexual tension. I feel like there are too many quests and too many followers. My game brain doesn't want to NOT use a follower, but most quests just get more of those limited-use cards we saw above, so the juice isn't worth the squeeze.\n\nWriting. It's preeeetty poor. I don'y really care about all the misspellings, but a lot of the text is poorly translated and hard to parse. That's a shame in a text-based game, because once I start to devalue the writing, what else is there for me to do? I'm not going to harp on the people not making a perfect English text game, but they needed a dedicated, localized editor to sit down and clean it all up.",
+      "voted_up": false,
+      "votes_helpful": 77
+    },
+    {
+      "review": "On paper, this game should be great. But in reality, it's just torture porn dressed up as a puzzle box except the puzzle box decides to screw you over with RNG sometimes. One serious piece of advice I've seen given is to just use the wiki to figure out how to win. What's the point of playing it you're just going to use spreadsheets and data mining to have a chance at it?",
+      "voted_up": false,
+      "votes_helpful": 23
+    },
+    {
+      "review": "Bought this game cause I thought it looked cool and really liked the art. Played it for a bit and found it underwhelming and boring. Just reading and some small resource management. Not worth the $30+ I paid while not on sale",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It's not bad per se but too much revolves around knowledge of the game not the skill of the player",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Edit:Yeah I got bored. The loop gets really repetitive after a few hours.\n\nThis is a lukewarm positive review. There's a very real chance this gameplay loop is going to turn stale quick because there isn't that much variation on new runs. At least, not as far as I can tell. I've started three so far and they've all been more or less the same story with minor differences. \n\nThat being said, it's holding my interest for now. The fact that it's similar but not identical makes me want to try new things and see if I can't push through. \n\nFor people comparing this to Cultist Simulator, I'm not seeing it. I have 100 hours in that game. It's amazing. This is not sparking that same level of awe in me. Still fun, though.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "God this is garbage",
+      "voted_up": false,
+      "votes_helpful": 2
+    }
+  ]
+}

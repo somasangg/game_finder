@@ -1,0 +1,756 @@
+{
+  "positive": [
+    {
+      "review": "the game is not that good I'm just really stupid, I keep getting stuck at the coding level it's quite painful",
+      "voted_up": true,
+      "votes_helpful": 11
+    },
+    {
+      "review": "Awesome game engine !!!\nI started some prototypes a few month ago and now even my pitchdeck is made in Godot (instead of an old school powerpoint)",
+      "voted_up": true,
+      "votes_helpful": 9
+    },
+    {
+      "review": "Godot is a bloody good game engine easy to use and I really like it. I do however not recommend the steam version of godot as it automatically updates and for the latest update on steam (4.5.1) it seemed to bug out the inputs of the godot menus (not mine the actual engine menus) and I cant rename anything. So I'm switching to non-steam Godot.",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "not even 1 hour of playtime and i already fell asleep with it open\r\nTHE perfect place to get a good idea for a game at 4am and forget it the morning after",
+      "voted_up": true,
+      "votes_helpful": 8
+    },
+    {
+      "review": "I've been using unreal engine for about a year, when i shift to Godot, i thought I'd be having a hard time learning a new language, but holy... gdscript language is unbelievably easy to learn, it's more like learning python. I've finished the \"... First 2d & First 3d game\" from Godot documentation. Then i finished my own simple game. Love it! But i think i'd chose the non-steam because the auto update would be annoying. Anyway really good engine, highly recommended!",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "absolutely goated engine, I don't think that I'll ever switch to any other game engine\r\n9/10",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "what i learned from using godot is i am meant to play games, not make them. but that just means godot is the best app to figure that out! i dont know if i will ever return to game design but it was a fun experience. GDscript is very easy to learn especially if you have a background in python. theres also tons of info online to help you",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Simple (as far as it can get as a game engine, at least), effective, intuitive with good documentation. My only issue so far is that sometime you will be confused as to why certain base functionality act a certain way, but whenever you are using a programming tool for a few hundred hours that's just inevitable.\n\nPerfect for indie-game developer (or aspiring game dev) who don't have a large dream game, and are financially limited (because it's open source !!!)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A really diverse and unique engine, I like the ability to not have to own a license, and there's no shady eula or weird company changes, yknow.\r\n\r\nPretty solid engine, for the people that say \"Oh it would never compare to unreal, because the graphics suck\" those people have lost the plot of game development, making a game isn't about having crazy graphics that run like poo on normal pc's. Game development is about making an interactive playable piece of software that best represents your ideas and concepts. And that grants you the ability to truly make heartwarming, and just in general, really good games.\r\n\r\nSo, if you're a game dev who wants to make their ideas and concepts into a reality. This is for you.\r\n\r\nOverall, whatever engine you choose is the correct choice. I chose this one.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Such a well designed game engine. The node system is very intuitive. Fully open-source. The whole engine is a single tiny executable and boots in seconds",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I made a game within 2 days which my kids love more than those I made in other engines.\nIt was fast, easy and free. Thank you Godot Engine creators!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Pretty good engine. Not my favourite, but its definitely among the best you can find.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's solid. A shame the steam version doesn't allow C+ usage, but good nonetheless!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Kinda Difficult to use if you dont know how to code, but otherwise really easy. I am making some really fun games.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really great engine! Some things i like are\n-node system. Feels really intuitive, at least compared to what i’ve seen in Unity.\n-open source, not really a big deal for me, but i would still like to say it\n-GDScript. People are complaining it’s apparently slow, but i just have to disagree. 90% of the time it’s just your fault for writing badly optimized code. It’s also really easy to learn. (Because it’s based off of python) and i was able to just brute-force it with only brackeys Tutorial",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I've been using Godot since it's 3.0 stages, and it's the best game engine I've used. I tried Unity, Unreal, and Gamemaker out, but none of them have had the same simplicity or accessibility as Godot. I can run this program on both a crappy laptop and a high-end gaming pc with little to no errors on both. The steam version is amazing and makes downloading it so much easier than going to their website. I've made 4 games with it so far and plan on using it well into the future. 10/10, PLEASE try it out, especially if you're new to game development!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Hands down the best game engine available for solo and small team indie developers. While not as advanced as the more mature engines, it makes up for it by being intuitive and quick to pick up without needing a degree in the lighting system just to get basic lighting working (looking at you UE5).",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Honestly a great game engine, it's simple to use, is already gaining a lot of traction and has a lot of tutorials already, even one from the game dev tutorial guru himself Brackeys\r\n\r\nMess about in it, if you're looking to get into professional game development and work at a Triple-A company, maybe go to Unity or Unreal unless this every becomes industry standard cause right now it's mostly for solo game devs and hobbiests\r\n\r\nThe engine is most definitely powerful enough to make a commercial game, good examples being Sonic: Colors Ultimate, Buckshot Roulette, Endoparasitic, Brotato, and many others, have a look on godot's offical page of their game spotlights",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "powerful, easy to learn game engine. already one of my most played \"games\" on my account. its also foss, so its based. i love foss",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really quite awesome. The scripting has the same as any other heavy-hitters like Unity, and unreal, with a crazy active community and nice simplicity. The open-source nature of it is good. And with AI like chatgpt and grok, it not only makes pretentious websites like stackexchange somewhat useless, it makes it harder to get stuck on one tiny bug.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "probably the weirdest text-based adventure game ive played. great user experience and graphics but i didnt expect to get hit with a learning curve for an adventure game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "never made games before but friends recommended I use this so far it's been fun to use and make my first game in that's not on roblox",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its great for someone who doesnt have the best computer but i wish there were more tutorials on yt",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "best game engine to ever exist for indie devs imo i will die on this hill... no dumb pricing shenanigans like unity, as well as no risk of this ever changing because the engine is entirely open source! updates are driven by what users want and need, since contributions come from the community itself, rather than updates being driven purely on what will garner the most profit for the company (which is why unity very rarely sees necessary quality of life updates in the way godot does).... phenomenal engine with a phenomenal future ahead of it... its great and just keeps getting better :D\n\n(P.S. ignore my hours i run the standalone, non-steam Godot Engine so i have easily put several hundred, if not thousands of hours into godot game development...)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Its a great game engine, and It didn't take too long to learn both the language and how it works",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "In my 50ish hours messing around with this game engine without watching many tutorials I've learned I have a small brain. I'll tell you even with my small brain I can tell this game engine is quite capable of doing something seriously, so I'm gonna start using it seriously and watching tutorials.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I am a beginner-intermediate level programmer and Godot has been my go-to for game development. In school ive used Unity and unreal, but godot by far has some of the greatest quality of life features in the industry. \r\nCustom signals and Godot @tools are super useful. Docs are very helpful. New versions bring super amazing features (most recently the ResourceLoader feature which Ive tested and can say, is AMAZING). \r\n\r\nDO NOT SLEEP ON GODOT. THEY ARE AMAZING.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Godot is probably the best game engine out there as of now in my opinion.\nIt's lightweight, the learning curve is pretty alright all things considered, it comes with a built-in code editor, animation tools and more. \nThe documentation is it's most fantastic feature, as it is really huge and well explained - and if somehow something you need isn't in there, the community probably has a video or a forum chat about it.\nIt is also quite a powerful engine to use and has the ability to make basically everything you'd ever want.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The sex scenes are a bit obnoxious, and the hunger system feels a little bit too much, but other than that, would recommend.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Open source, and Python like code. Fits my needs. Now back to making naughty games xdd",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "U can make everything, only your imagination will limit you.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nandddddddddd ofcourse some people will use that to make porn games",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Хороший движок, по синтаниксу как Python. Синтаникс -- логичный и понятный.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "self.position.z = 8\r\ni live in a 2d scene\r\nthe joke is that this program makes me want to kill myself",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "once you get over the learning curve of \"oh no new program to learn\" this is the most fun I've had in a long while; and its made me finally pick up and learn Blender too!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I was tricked, I though this was a game, but you actually make games. Now I'm a Nerd",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "godot uses a fully Vulkan-based renderer with low overhead and a clean ,but they can do better in asset lib",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "0 / 10 didnt help me with coding, i have a skill issue, someone wanna teach me advanced and basics in the comments :moyai:",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Every time I find a problem or feature that I don't like they fix it in the next patch. I am so used to all of my software getting worse with each update due to enshitification that using this genuinely gives me culture shock. 10/10 great engine.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This is actually peak, best gameplay ever 10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a free open source game engine I'm not sure what else you could want.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the best for making games. Especially if you have never made a game before.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "realy realy realy good! please get this its better than unity and unreal engine and better than game maker and construc 3",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I hope the devs add multiplayer and a story 9/10.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really easy to figure out and really fun to use!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "it's so simple to make things with godot. great engine",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Nice and well-maintained engine; also fuck Unity",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played for 30 hours and still haven't beat the tutorial.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "this is like drugs, it hurts you and makes you want to kill yourself, but you don't want to stop",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I used to play games. Now I can't because there's Godot.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's Godot Engine with automatic updates.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "i like this engine and will probably not use any other for my future games",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Making games is pretty fun actually",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Why wouldn't you want to be on the winning team? It's just a matter of time",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Just get this and make games already",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Pretty damn good, for free, wow!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Certified hood classic",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Tis good and free.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "\"Do you recommend it for another players?\" - well, yes ;) LOL",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "best engine for indie game dev",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I'm honestly having a blast learning this with gdquest",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very good low profile game engine",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's free, baby",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "lightweight game engine",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "great coding engine",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love this game engine is a god",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing. Favorite.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "orez cu lapte",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Best game engine I have tried",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its better than unity",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "godot sweep best engine",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Easy to learn and very lightweight",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "it good to making games",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very good!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i loves it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "gest game engine ever",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The best game engine!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "it good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "it is a 67 game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its ok",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "is good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "EASE OF USE!!! AMAZING!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love it!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its ok ig",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Best Game Engine of All Time!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "why are you looking at reviews its free get it try it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very nice",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "nice",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "nice",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good Game Engine",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the fries are in the bag",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Go-dont use this",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good 👍",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Easy to learn👍",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Perfect!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Goated FOSS.",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "They call em 007'\r\n0 good games made with the engine.\r\n0 reason to use above other engines (Post Unity Drama.)\r\n7 total tutorials available on youtube.\r\n\r\nI wish open source software didn't suck.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I'm gonna keep using this but it crashes ALOT.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Чё за нахер с 4.5, ничего непонятно, тут всё другое",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "PISS OFF",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUUUUUCK I HATE PROGRAMING, TS SO FUCKING ASS </3",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "They call em 007'\r\n0 good games made with the engine.\r\n0 reason to use above other engines (Post Unity Drama.)\r\n7 total tutorials available on youtube.\r\n\r\nI wish open source software didn't suck.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I'm gonna keep using this but it crashes ALOT.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Чё за нахер с 4.5, ничего непонятно, тут всё другое",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "PISS OFF",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUUUUUCK I HATE PROGRAMING, TS SO FUCKING ASS </3",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "They call em 007'\r\n0 good games made with the engine.\r\n0 reason to use above other engines (Post Unity Drama.)\r\n7 total tutorials available on youtube.\r\n\r\nI wish open source software didn't suck.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I'm gonna keep using this but it crashes ALOT.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Чё за нахер с 4.5, ничего непонятно, тут всё другое",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "PISS OFF",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUUUUUCK I HATE PROGRAMING, TS SO FUCKING ASS </3",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "They call em 007'\r\n0 good games made with the engine.\r\n0 reason to use above other engines (Post Unity Drama.)\r\n7 total tutorials available on youtube.\r\n\r\nI wish open source software didn't suck.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I'm gonna keep using this but it crashes ALOT.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Чё за нахер с 4.5, ничего непонятно, тут всё другое",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "PISS OFF",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUUUUUCK I HATE PROGRAMING, TS SO FUCKING ASS </3",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "They call em 007'\r\n0 good games made with the engine.\r\n0 reason to use above other engines (Post Unity Drama.)\r\n7 total tutorials available on youtube.\r\n\r\nI wish open source software didn't suck.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I'm gonna keep using this but it crashes ALOT.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Чё за нахер с 4.5, ничего непонятно, тут всё другое",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "PISS OFF",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUUUUUCK I HATE PROGRAMING, TS SO FUCKING ASS </3",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "They call em 007'\r\n0 good games made with the engine.\r\n0 reason to use above other engines (Post Unity Drama.)\r\n7 total tutorials available on youtube.\r\n\r\nI wish open source software didn't suck.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I'm gonna keep using this but it crashes ALOT.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Чё за нахер с 4.5, ничего непонятно, тут всё другое",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "PISS OFF",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUUUUUCK I HATE PROGRAMING, TS SO FUCKING ASS </3",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "They call em 007'\r\n0 good games made with the engine.\r\n0 reason to use above other engines (Post Unity Drama.)\r\n7 total tutorials available on youtube.\r\n\r\nI wish open source software didn't suck.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I'm gonna keep using this but it crashes ALOT.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Чё за нахер с 4.5, ничего непонятно, тут всё другое",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "PISS OFF",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUUUUUCK I HATE PROGRAMING, TS SO FUCKING ASS </3",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "They call em 007'\r\n0 good games made with the engine.\r\n0 reason to use above other engines (Post Unity Drama.)\r\n7 total tutorials available on youtube.\r\n\r\nI wish open source software didn't suck.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I'm gonna keep using this but it crashes ALOT.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Чё за нахер с 4.5, ничего непонятно, тут всё другое",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "PISS OFF",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUUUUUCK I HATE PROGRAMING, TS SO FUCKING ASS </3",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "They call em 007'\r\n0 good games made with the engine.\r\n0 reason to use above other engines (Post Unity Drama.)\r\n7 total tutorials available on youtube.\r\n\r\nI wish open source software didn't suck.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I'm gonna keep using this but it crashes ALOT.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Чё за нахер с 4.5, ничего непонятно, тут всё другое",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "PISS OFF",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUUUUUCK I HATE PROGRAMING, TS SO FUCKING ASS </3",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "They call em 007'\r\n0 good games made with the engine.\r\n0 reason to use above other engines (Post Unity Drama.)\r\n7 total tutorials available on youtube.\r\n\r\nI wish open source software didn't suck.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I'm gonna keep using this but it crashes ALOT.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Чё за нахер с 4.5, ничего непонятно, тут всё другое",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "PISS OFF",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUUUUUCK I HATE PROGRAMING, TS SO FUCKING ASS </3",
+      "voted_up": false,
+      "votes_helpful": 1
+    }
+  ]
+}

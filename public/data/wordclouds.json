@@ -1,0 +1,2802 @@
+{
+  "1004640": {
+    "positive": "/wordclouds/1004640_recommended.png",
+    "negative": "/wordclouds/1004640_not_recommended.png"
+  },
+  "1013320": {
+    "positive": "/wordclouds/1013320_recommended.png",
+    "negative": "/wordclouds/1013320_not_recommended.png"
+  },
+  "1017900": {
+    "positive": "/wordclouds/1017900_recommended.png",
+    "negative": "/wordclouds/1017900_not_recommended.png"
+  },
+  "1022450": {
+    "positive": "/wordclouds/1022450_recommended.png",
+    "negative": "/wordclouds/1022450_not_recommended.png"
+  },
+  "1029690": {
+    "positive": "/wordclouds/1029690_recommended.png",
+    "negative": "/wordclouds/1029690_not_recommended.png"
+  },
+  "1029780": {
+    "positive": "/wordclouds/1029780_recommended.png",
+    "negative": "/wordclouds/1029780_not_recommended.png"
+  },
+  "1030300": {
+    "positive": "/wordclouds/1030300_recommended.png",
+    "negative": "/wordclouds/1030300_not_recommended.png"
+  },
+  "1030830": {
+    "positive": "/wordclouds/1030830_recommended.png",
+    "negative": "/wordclouds/1030830_not_recommended.png"
+  },
+  "1044720": {
+    "positive": "/wordclouds/1044720_recommended.png",
+    "negative": "/wordclouds/1044720_not_recommended.png"
+  },
+  "1046930": {
+    "positive": "/wordclouds/1046930_recommended.png",
+    "negative": "/wordclouds/1046930_not_recommended.png"
+  },
+  "1049590": {
+    "positive": "/wordclouds/1049590_recommended.png",
+    "negative": "/wordclouds/1049590_not_recommended.png"
+  },
+  "10500": {
+    "positive": "/wordclouds/10500_recommended.png",
+    "negative": "/wordclouds/10500_not_recommended.png"
+  },
+  "1062090": {
+    "positive": "/wordclouds/1062090_recommended.png",
+    "negative": "/wordclouds/1062090_not_recommended.png"
+  },
+  "1062520": {
+    "positive": "/wordclouds/1062520_recommended.png",
+    "negative": "/wordclouds/1062520_not_recommended.png"
+  },
+  "1063730": {
+    "positive": "/wordclouds/1063730_recommended.png",
+    "negative": "/wordclouds/1063730_not_recommended.png"
+  },
+  "1066780": {
+    "positive": "/wordclouds/1066780_recommended.png",
+    "negative": "/wordclouds/1066780_not_recommended.png"
+  },
+  "1066890": {
+    "positive": "/wordclouds/1066890_recommended.png",
+    "negative": "/wordclouds/1066890_not_recommended.png"
+  },
+  "1069660": {
+    "positive": "/wordclouds/1069660_recommended.png",
+    "negative": "/wordclouds/1069660_not_recommended.png"
+  },
+  "107410": {
+    "positive": "/wordclouds/107410_recommended.png",
+    "negative": "/wordclouds/107410_not_recommended.png"
+  },
+  "1084600": {
+    "positive": "/wordclouds/1084600_recommended.png",
+    "negative": "/wordclouds/1084600_not_recommended.png"
+  },
+  "108600": {
+    "positive": "/wordclouds/108600_recommended.png",
+    "negative": "/wordclouds/108600_not_recommended.png"
+  },
+  "1086940": {
+    "positive": "/wordclouds/1086940_recommended.png",
+    "negative": "/wordclouds/1086940_not_recommended.png"
+  },
+  "10": {
+    "positive": "/wordclouds/10_recommended.png",
+    "negative": "/wordclouds/10_not_recommended.png"
+  },
+  "1102190": {
+    "positive": "/wordclouds/1102190_recommended.png",
+    "negative": "/wordclouds/1102190_not_recommended.png"
+  },
+  "1114150": {
+    "positive": "/wordclouds/1114150_recommended.png",
+    "negative": "/wordclouds/1114150_not_recommended.png"
+  },
+  "1119730": {
+    "positive": "/wordclouds/1119730_recommended.png",
+    "negative": "/wordclouds/1119730_not_recommended.png"
+  },
+  "1128810": {
+    "positive": "/wordclouds/1128810_recommended.png",
+    "negative": "/wordclouds/1128810_not_recommended.png"
+  },
+  "1129580": {
+    "positive": "/wordclouds/1129580_recommended.png",
+    "negative": "/wordclouds/1129580_not_recommended.png"
+  },
+  "1139900": {
+    "positive": "/wordclouds/1139900_recommended.png",
+    "negative": "/wordclouds/1139900_not_recommended.png"
+  },
+  "1139980": {
+    "positive": "/wordclouds/1139980_recommended.png",
+    "negative": "/wordclouds/1139980_not_recommended.png"
+  },
+  "1142710": {
+    "positive": "/wordclouds/1142710_recommended.png",
+    "negative": "/wordclouds/1142710_not_recommended.png"
+  },
+  "1144200": {
+    "positive": "/wordclouds/1144200_recommended.png",
+    "negative": "/wordclouds/1144200_not_recommended.png"
+  },
+  "1145350": {
+    "positive": "/wordclouds/1145350_recommended.png",
+    "negative": "/wordclouds/1145350_not_recommended.png"
+  },
+  "1145360": {
+    "positive": "/wordclouds/1145360_recommended.png",
+    "negative": "/wordclouds/1145360_not_recommended.png"
+  },
+  "1147690": {
+    "positive": "/wordclouds/1147690_recommended.png",
+    "negative": "/wordclouds/1147690_not_recommended.png"
+  },
+  "1149460": {
+    "positive": "/wordclouds/1149460_recommended.png",
+    "negative": "/wordclouds/1149460_not_recommended.png"
+  },
+  "1151340": {
+    "positive": "/wordclouds/1151340_recommended.png",
+    "negative": "/wordclouds/1151340_not_recommended.png"
+  },
+  "1154030": {
+    "positive": "/wordclouds/1154030_recommended.png",
+    "negative": "/wordclouds/1154030_not_recommended.png"
+  },
+  "1158160": {
+    "positive": "/wordclouds/1158160_recommended.png",
+    "negative": "/wordclouds/1158160_not_recommended.png"
+  },
+  "1158310": {
+    "positive": "/wordclouds/1158310_recommended.png",
+    "negative": "/wordclouds/1158310_not_recommended.png"
+  },
+  "1167630": {
+    "positive": "/wordclouds/1167630_recommended.png",
+    "negative": "/wordclouds/1167630_not_recommended.png"
+  },
+  "1169040": {
+    "positive": "/wordclouds/1169040_recommended.png",
+    "negative": "/wordclouds/1169040_not_recommended.png"
+  },
+  "1172380": {
+    "positive": "/wordclouds/1172380_recommended.png",
+    "negative": "/wordclouds/1172380_not_recommended.png"
+  },
+  "1172470": {
+    "positive": "/wordclouds/1172470_recommended.png",
+    "negative": "/wordclouds/1172470_not_recommended.png"
+  },
+  "1172620": {
+    "positive": "/wordclouds/1172620_recommended.png",
+    "negative": "/wordclouds/1172620_not_recommended.png"
+  },
+  "1172710": {
+    "positive": "/wordclouds/1172710_recommended.png",
+    "negative": "/wordclouds/1172710_not_recommended.png"
+  },
+  "1174180": {
+    "positive": "/wordclouds/1174180_recommended.png",
+    "negative": "/wordclouds/1174180_not_recommended.png"
+  },
+  "1176470": {
+    "positive": "/wordclouds/1176470_recommended.png",
+    "negative": "/wordclouds/1176470_not_recommended.png"
+  },
+  "1180380": {
+    "positive": "/wordclouds/1180380_recommended.png",
+    "negative": "/wordclouds/1180380_not_recommended.png"
+  },
+  "1184370": {
+    "positive": "/wordclouds/1184370_recommended.png",
+    "negative": "/wordclouds/1184370_not_recommended.png"
+  },
+  "1190000": {
+    "positive": "/wordclouds/1190000_recommended.png",
+    "negative": "/wordclouds/1190000_not_recommended.png"
+  },
+  "1190340": {
+    "positive": "/wordclouds/1190340_recommended.png",
+    "negative": "/wordclouds/1190340_not_recommended.png"
+  },
+  "1190970": {
+    "positive": "/wordclouds/1190970_recommended.png",
+    "negative": "/wordclouds/1190970_not_recommended.png"
+  },
+  "1197260": {
+    "positive": "/wordclouds/1197260_recommended.png",
+    "negative": "/wordclouds/1197260_not_recommended.png"
+  },
+  "1201240": {
+    "positive": "/wordclouds/1201240_recommended.png",
+    "negative": "/wordclouds/1201240_not_recommended.png"
+  },
+  "1203220": {
+    "positive": "/wordclouds/1203220_recommended.png",
+    "negative": "/wordclouds/1203220_not_recommended.png"
+  },
+  "1203620": {
+    "positive": "/wordclouds/1203620_recommended.png",
+    "negative": "/wordclouds/1203620_not_recommended.png"
+  },
+  "1206560": {
+    "positive": "/wordclouds/1206560_recommended.png",
+    "negative": "/wordclouds/1206560_not_recommended.png"
+  },
+  "1210320": {
+    "positive": "/wordclouds/1210320_recommended.png",
+    "negative": "/wordclouds/1210320_not_recommended.png"
+  },
+  "1211020": {
+    "positive": "/wordclouds/1211020_recommended.png",
+    "negative": "/wordclouds/1211020_not_recommended.png"
+  },
+  "1213210": {
+    "positive": "/wordclouds/1213210_recommended.png",
+    "negative": "/wordclouds/1213210_not_recommended.png"
+  },
+  "1217060": {
+    "positive": "/wordclouds/1217060_recommended.png",
+    "negative": "/wordclouds/1217060_not_recommended.png"
+  },
+  "12210": {
+    "positive": "/wordclouds/12210_recommended.png",
+    "negative": "/wordclouds/12210_not_recommended.png"
+  },
+  "1222670": {
+    "positive": "/wordclouds/1222670_recommended.png",
+    "negative": "/wordclouds/1222670_not_recommended.png"
+  },
+  "1222680": {
+    "positive": "/wordclouds/1222680_recommended.png",
+    "negative": "/wordclouds/1222680_not_recommended.png"
+  },
+  "1235140": {
+    "positive": "/wordclouds/1235140_recommended.png",
+    "negative": "/wordclouds/1235140_not_recommended.png"
+  },
+  "1237950": {
+    "positive": "/wordclouds/1237950_recommended.png",
+    "negative": "/wordclouds/1237950_not_recommended.png"
+  },
+  "1238810": {
+    "positive": "/wordclouds/1238810_recommended.png",
+    "negative": "/wordclouds/1238810_not_recommended.png"
+  },
+  "1238840": {
+    "positive": "/wordclouds/1238840_recommended.png",
+    "negative": "/wordclouds/1238840_not_recommended.png"
+  },
+  "1238860": {
+    "positive": "/wordclouds/1238860_recommended.png",
+    "negative": "/wordclouds/1238860_not_recommended.png"
+  },
+  "1239080": {
+    "positive": "/wordclouds/1239080_recommended.png",
+    "negative": "/wordclouds/1239080_not_recommended.png"
+  },
+  "1240440": {
+    "positive": "/wordclouds/1240440_recommended.png",
+    "negative": "/wordclouds/1240440_not_recommended.png"
+  },
+  "1244460": {
+    "positive": "/wordclouds/1244460_recommended.png",
+    "negative": "/wordclouds/1244460_not_recommended.png"
+  },
+  "1248130": {
+    "positive": "/wordclouds/1248130_recommended.png",
+    "negative": "/wordclouds/1248130_not_recommended.png"
+  },
+  "1250410": {
+    "positive": "/wordclouds/1250410_recommended.png",
+    "negative": "/wordclouds/1250410_not_recommended.png"
+  },
+  "1256670": {
+    "positive": "/wordclouds/1256670_recommended.png",
+    "negative": "/wordclouds/1256670_not_recommended.png"
+  },
+  "1258080": {
+    "positive": "/wordclouds/1258080_recommended.png",
+    "negative": "/wordclouds/1258080_not_recommended.png"
+  },
+  "1259420": {
+    "positive": "/wordclouds/1259420_recommended.png",
+    "negative": "/wordclouds/1259420_not_recommended.png"
+  },
+  "1260320": {
+    "positive": "/wordclouds/1260320_recommended.png",
+    "negative": "/wordclouds/1260320_not_recommended.png"
+  },
+  "1267910": {
+    "positive": "/wordclouds/1267910_recommended.png",
+    "negative": "/wordclouds/1267910_not_recommended.png"
+  },
+  "1273400": {
+    "positive": "/wordclouds/1273400_recommended.png",
+    "negative": "/wordclouds/1273400_not_recommended.png"
+  },
+  "1274570": {
+    "positive": "/wordclouds/1274570_recommended.png",
+    "negative": "/wordclouds/1274570_not_recommended.png"
+  },
+  "1281930": {
+    "positive": "/wordclouds/1281930_recommended.png",
+    "negative": "/wordclouds/1281930_not_recommended.png"
+  },
+  "1282100": {
+    "positive": "/wordclouds/1282100_recommended.png",
+    "negative": "/wordclouds/1282100_not_recommended.png"
+  },
+  "1282270": {
+    "positive": "/wordclouds/1282270_recommended.png",
+    "negative": "/wordclouds/1282270_not_recommended.png"
+  },
+  "1284190": {
+    "positive": "/wordclouds/1284190_recommended.png",
+    "negative": "/wordclouds/1284190_not_recommended.png"
+  },
+  "1284210": {
+    "positive": "/wordclouds/1284210_recommended.png",
+    "negative": "/wordclouds/1284210_not_recommended.png"
+  },
+  "1284410": {
+    "positive": "/wordclouds/1284410_recommended.png",
+    "negative": "/wordclouds/1284410_not_recommended.png"
+  },
+  "1285190": {
+    "positive": "/wordclouds/1285190_recommended.png",
+    "negative": "/wordclouds/1285190_not_recommended.png"
+  },
+  "1286830": {
+    "positive": "/wordclouds/1286830_recommended.png",
+    "negative": "/wordclouds/1286830_not_recommended.png"
+  },
+  "1290000": {
+    "positive": "/wordclouds/1290000_recommended.png",
+    "negative": "/wordclouds/1290000_not_recommended.png"
+  },
+  "1293830": {
+    "positive": "/wordclouds/1293830_recommended.png",
+    "negative": "/wordclouds/1293830_not_recommended.png"
+  },
+  "1295510": {
+    "positive": "/wordclouds/1295510_recommended.png",
+    "negative": "/wordclouds/1295510_not_recommended.png"
+  },
+  "1295660": {
+    "positive": "/wordclouds/1295660_recommended.png",
+    "negative": "/wordclouds/1295660_not_recommended.png"
+  },
+  "1304930": {
+    "positive": "/wordclouds/1304930_recommended.png",
+    "negative": "/wordclouds/1304930_not_recommended.png"
+  },
+  "1313140": {
+    "positive": "/wordclouds/1313140_recommended.png",
+    "negative": "/wordclouds/1313140_not_recommended.png"
+  },
+  "1324130": {
+    "positive": "/wordclouds/1324130_recommended.png",
+    "negative": "/wordclouds/1324130_not_recommended.png"
+  },
+  "1325200": {
+    "positive": "/wordclouds/1325200_recommended.png",
+    "negative": "/wordclouds/1325200_not_recommended.png"
+  },
+  "1326470": {
+    "positive": "/wordclouds/1326470_recommended.png",
+    "negative": "/wordclouds/1326470_not_recommended.png"
+  },
+  "1328670": {
+    "positive": "/wordclouds/1328670_recommended.png",
+    "negative": "/wordclouds/1328670_not_recommended.png"
+  },
+  "1331550": {
+    "positive": "/wordclouds/1331550_recommended.png",
+    "negative": "/wordclouds/1331550_not_recommended.png"
+  },
+  "1333350": {
+    "positive": "/wordclouds/1333350_recommended.png",
+    "negative": "/wordclouds/1333350_not_recommended.png"
+  },
+  "1336490": {
+    "positive": "/wordclouds/1336490_recommended.png",
+    "negative": "/wordclouds/1336490_not_recommended.png"
+  },
+  "1343370": {
+    "positive": "/wordclouds/1343370_recommended.png",
+    "negative": "/wordclouds/1343370_not_recommended.png"
+  },
+  "1343400": {
+    "positive": "/wordclouds/1343400_recommended.png",
+    "negative": "/wordclouds/1343400_not_recommended.png"
+  },
+  "1353300": {
+    "positive": "/wordclouds/1353300_recommended.png",
+    "negative": "/wordclouds/1353300_not_recommended.png"
+  },
+  "1361210": {
+    "positive": "/wordclouds/1361210_recommended.png",
+    "negative": "/wordclouds/1361210_not_recommended.png"
+  },
+  "1363080": {
+    "positive": "/wordclouds/1363080_recommended.png",
+    "negative": "/wordclouds/1363080_not_recommended.png"
+  },
+  "1364780": {
+    "positive": "/wordclouds/1364780_recommended.png",
+    "negative": "/wordclouds/1364780_not_recommended.png"
+  },
+  "1366540": {
+    "positive": "/wordclouds/1366540_recommended.png",
+    "negative": "/wordclouds/1366540_not_recommended.png"
+  },
+  "1366800": {
+    "positive": "/wordclouds/1366800_recommended.png",
+    "negative": "/wordclouds/1366800_not_recommended.png"
+  },
+  "1367080": {
+    "positive": "/wordclouds/1367080_recommended.png",
+    "negative": "/wordclouds/1367080_not_recommended.png"
+  },
+  "1369670": {
+    "positive": "/wordclouds/1369670_recommended.png",
+    "negative": "/wordclouds/1369670_not_recommended.png"
+  },
+  "1371580": {
+    "positive": "/wordclouds/1371580_recommended.png",
+    "negative": "/wordclouds/1371580_not_recommended.png"
+  },
+  "1384160": {
+    "positive": "/wordclouds/1384160_recommended.png",
+    "negative": "/wordclouds/1384160_not_recommended.png"
+  },
+  "1392860": {
+    "positive": "/wordclouds/1392860_recommended.png",
+    "negative": "/wordclouds/1392860_not_recommended.png"
+  },
+  "1397920": {
+    "positive": "/wordclouds/1397920_recommended.png",
+    "negative": "/wordclouds/1397920_not_recommended.png"
+  },
+  "1399720": {
+    "positive": "/wordclouds/1399720_recommended.png",
+    "negative": "/wordclouds/1399720_not_recommended.png"
+  },
+  "1401590": {
+    "positive": "/wordclouds/1401590_recommended.png",
+    "negative": "/wordclouds/1401590_not_recommended.png"
+  },
+  "1404210": {
+    "positive": "/wordclouds/1404210_recommended.png",
+    "negative": "/wordclouds/1404210_not_recommended.png"
+  },
+  "1407200": {
+    "positive": "/wordclouds/1407200_recommended.png",
+    "negative": "/wordclouds/1407200_not_recommended.png"
+  },
+  "1419170": {
+    "positive": "/wordclouds/1419170_recommended.png",
+    "negative": "/wordclouds/1419170_not_recommended.png"
+  },
+  "1426210": {
+    "positive": "/wordclouds/1426210_recommended.png",
+    "negative": "/wordclouds/1426210_not_recommended.png"
+  },
+  "1432860": {
+    "positive": "/wordclouds/1432860_recommended.png",
+    "negative": "/wordclouds/1432860_not_recommended.png"
+  },
+  "1446780": {
+    "positive": "/wordclouds/1446780_recommended.png",
+    "negative": "/wordclouds/1446780_not_recommended.png"
+  },
+  "1449560": {
+    "positive": "/wordclouds/1449560_recommended.png",
+    "negative": "/wordclouds/1449560_not_recommended.png"
+  },
+  "1449690": {
+    "positive": "/wordclouds/1449690_recommended.png",
+    "negative": "/wordclouds/1449690_not_recommended.png"
+  },
+  "1449850": {
+    "positive": "/wordclouds/1449850_recommended.png",
+    "negative": "/wordclouds/1449850_not_recommended.png"
+  },
+  "1454400": {
+    "positive": "/wordclouds/1454400_recommended.png",
+    "negative": "/wordclouds/1454400_not_recommended.png"
+  },
+  "1458140": {
+    "positive": "/wordclouds/1458140_recommended.png",
+    "negative": "/wordclouds/1458140_not_recommended.png"
+  },
+  "1462040": {
+    "positive": "/wordclouds/1462040_recommended.png",
+    "negative": "/wordclouds/1462040_not_recommended.png"
+  },
+  "1465360": {
+    "positive": "/wordclouds/1465360_recommended.png",
+    "negative": "/wordclouds/1465360_not_recommended.png"
+  },
+  "1465460": {
+    "positive": "/wordclouds/1465460_recommended.png",
+    "negative": "/wordclouds/1465460_not_recommended.png"
+  },
+  "1466060": {
+    "positive": "/wordclouds/1466060_recommended.png",
+    "negative": "/wordclouds/1466060_not_recommended.png"
+  },
+  "1466860": {
+    "positive": "/wordclouds/1466860_recommended.png",
+    "negative": "/wordclouds/1466860_not_recommended.png"
+  },
+  "1476970": {
+    "positive": "/wordclouds/1476970_recommended.png",
+    "negative": "/wordclouds/1476970_not_recommended.png"
+  },
+  "1501750": {
+    "positive": "/wordclouds/1501750_recommended.png",
+    "negative": "/wordclouds/1501750_not_recommended.png"
+  },
+  "1506830": {
+    "positive": "/wordclouds/1506830_recommended.png",
+    "negative": "/wordclouds/1506830_not_recommended.png"
+  },
+  "1509510": {
+    "positive": "/wordclouds/1509510_recommended.png",
+    "negative": "/wordclouds/1509510_not_recommended.png"
+  },
+  "1517290": {
+    "positive": "/wordclouds/1517290_recommended.png",
+    "negative": "/wordclouds/1517290_not_recommended.png"
+  },
+  "1527950": {
+    "positive": "/wordclouds/1527950_recommended.png",
+    "negative": "/wordclouds/1527950_not_recommended.png"
+  },
+  "1536610": {
+    "positive": "/wordclouds/1536610_recommended.png",
+    "negative": "/wordclouds/1536610_not_recommended.png"
+  },
+  "1546320": {
+    "positive": "/wordclouds/1546320_recommended.png",
+    "negative": "/wordclouds/1546320_not_recommended.png"
+  },
+  "1548520": {
+    "positive": "/wordclouds/1548520_recommended.png",
+    "negative": "/wordclouds/1548520_not_recommended.png"
+  },
+  "1549250": {
+    "positive": "/wordclouds/1549250_recommended.png",
+    "negative": "/wordclouds/1549250_not_recommended.png"
+  },
+  "1551360": {
+    "positive": "/wordclouds/1551360_recommended.png",
+    "negative": "/wordclouds/1551360_not_recommended.png"
+  },
+  "1562430": {
+    "positive": "/wordclouds/1562430_recommended.png",
+    "negative": "/wordclouds/1562430_not_recommended.png"
+  },
+  "1568590": {
+    "positive": "/wordclouds/1568590_recommended.png",
+    "negative": "/wordclouds/1568590_not_recommended.png"
+  },
+  "1569580": {
+    "positive": "/wordclouds/1569580_recommended.png",
+    "negative": "/wordclouds/1569580_not_recommended.png"
+  },
+  "1575940": {
+    "positive": "/wordclouds/1575940_recommended.png",
+    "negative": "/wordclouds/1575940_not_recommended.png"
+  },
+  "1594940": {
+    "positive": "/wordclouds/1594940_recommended.png",
+    "negative": "/wordclouds/1594940_not_recommended.png"
+  },
+  "1599600": {
+    "positive": "/wordclouds/1599600_recommended.png",
+    "negative": "/wordclouds/1599600_not_recommended.png"
+  },
+  "1604030": {
+    "positive": "/wordclouds/1604030_recommended.png",
+    "negative": "/wordclouds/1604030_not_recommended.png"
+  },
+  "1604270": {
+    "positive": "/wordclouds/1604270_recommended.png",
+    "negative": "/wordclouds/1604270_not_recommended.png"
+  },
+  "1607250": {
+    "positive": "/wordclouds/1607250_recommended.png",
+    "negative": "/wordclouds/1607250_not_recommended.png"
+  },
+  "1611600": {
+    "positive": "/wordclouds/1611600_recommended.png",
+    "negative": "/wordclouds/1611600_not_recommended.png"
+  },
+  "1617400": {
+    "positive": "/wordclouds/1617400_recommended.png",
+    "negative": "/wordclouds/1617400_not_recommended.png"
+  },
+  "1623660": {
+    "positive": "/wordclouds/1623660_recommended.png",
+    "negative": "/wordclouds/1623660_not_recommended.png"
+  },
+  "1623730": {
+    "positive": "/wordclouds/1623730_recommended.png",
+    "negative": "/wordclouds/1623730_not_recommended.png"
+  },
+  "1625450": {
+    "positive": "/wordclouds/1625450_recommended.png",
+    "negative": "/wordclouds/1625450_not_recommended.png"
+  },
+  "1629520": {
+    "positive": "/wordclouds/1629520_recommended.png",
+    "negative": "/wordclouds/1629520_not_recommended.png"
+  },
+  "1643320": {
+    "positive": "/wordclouds/1643320_recommended.png",
+    "negative": "/wordclouds/1643320_not_recommended.png"
+  },
+  "1645820": {
+    "positive": "/wordclouds/1645820_recommended.png",
+    "negative": "/wordclouds/1645820_not_recommended.png"
+  },
+  "1649080": {
+    "positive": "/wordclouds/1649080_recommended.png",
+    "negative": "/wordclouds/1649080_not_recommended.png"
+  },
+  "1657630": {
+    "positive": "/wordclouds/1657630_recommended.png",
+    "negative": "/wordclouds/1657630_not_recommended.png"
+  },
+  "1659040": {
+    "positive": "/wordclouds/1659040_recommended.png",
+    "negative": "/wordclouds/1659040_not_recommended.png"
+  },
+  "1659420": {
+    "positive": "/wordclouds/1659420_recommended.png",
+    "negative": "/wordclouds/1659420_not_recommended.png"
+  },
+  "1665460": {
+    "positive": "/wordclouds/1665460_recommended.png",
+    "negative": "/wordclouds/1665460_not_recommended.png"
+  },
+  "1669000": {
+    "positive": "/wordclouds/1669000_recommended.png",
+    "negative": "/wordclouds/1669000_not_recommended.png"
+  },
+  "1676840": {
+    "positive": "/wordclouds/1676840_recommended.png",
+    "negative": "/wordclouds/1676840_not_recommended.png"
+  },
+  "1677280": {
+    "positive": "/wordclouds/1677280_recommended.png",
+    "negative": "/wordclouds/1677280_not_recommended.png"
+  },
+  "1677740": {
+    "positive": "/wordclouds/1677740_recommended.png",
+    "negative": "/wordclouds/1677740_not_recommended.png"
+  },
+  "1687950": {
+    "positive": "/wordclouds/1687950_recommended.png",
+    "negative": "/wordclouds/1687950_not_recommended.png"
+  },
+  "1693980": {
+    "positive": "/wordclouds/1693980_recommended.png",
+    "negative": "/wordclouds/1693980_not_recommended.png"
+  },
+  "1714040": {
+    "positive": "/wordclouds/1714040_recommended.png",
+    "negative": "/wordclouds/1714040_not_recommended.png"
+  },
+  "1716740": {
+    "positive": "/wordclouds/1716740_recommended.png",
+    "negative": "/wordclouds/1716740_not_recommended.png"
+  },
+  "1721470": {
+    "positive": "/wordclouds/1721470_recommended.png",
+    "negative": "/wordclouds/1721470_not_recommended.png"
+  },
+  "1757300": {
+    "positive": "/wordclouds/1757300_recommended.png",
+    "negative": "/wordclouds/1757300_not_recommended.png"
+  },
+  "1766060": {
+    "positive": "/wordclouds/1766060_recommended.png",
+    "negative": "/wordclouds/1766060_not_recommended.png"
+  },
+  "1771300": {
+    "positive": "/wordclouds/1771300_recommended.png",
+    "negative": "/wordclouds/1771300_not_recommended.png"
+  },
+  "1774580": {
+    "positive": "/wordclouds/1774580_recommended.png",
+    "negative": "/wordclouds/1774580_not_recommended.png"
+  },
+  "1778820": {
+    "positive": "/wordclouds/1778820_recommended.png",
+    "negative": "/wordclouds/1778820_not_recommended.png"
+  },
+  "1782210": {
+    "positive": "/wordclouds/1782210_recommended.png",
+    "negative": "/wordclouds/1782210_not_recommended.png"
+  },
+  "1787090": {
+    "positive": "/wordclouds/1787090_recommended.png",
+    "negative": "/wordclouds/1787090_not_recommended.png"
+  },
+  "1790600": {
+    "positive": "/wordclouds/1790600_recommended.png",
+    "negative": "/wordclouds/1790600_not_recommended.png"
+  },
+  "1809540": {
+    "positive": "/wordclouds/1809540_recommended.png",
+    "negative": "/wordclouds/1809540_not_recommended.png"
+  },
+  "1811260": {
+    "positive": "/wordclouds/1811260_recommended.png",
+    "negative": "/wordclouds/1811260_not_recommended.png"
+  },
+  "1812450": {
+    "positive": "/wordclouds/1812450_recommended.png",
+    "negative": "/wordclouds/1812450_not_recommended.png"
+  },
+  "1812620": {
+    "positive": "/wordclouds/1812620_recommended.png",
+    "negative": "/wordclouds/1812620_not_recommended.png"
+  },
+  "1815780": {
+    "positive": "/wordclouds/1815780_recommended.png",
+    "negative": "/wordclouds/1815780_not_recommended.png"
+  },
+  "1818450": {
+    "positive": "/wordclouds/1818450_recommended.png",
+    "negative": "/wordclouds/1818450_not_recommended.png"
+  },
+  "1824220": {
+    "positive": "/wordclouds/1824220_recommended.png",
+    "negative": "/wordclouds/1824220_not_recommended.png"
+  },
+  "1827180": {
+    "positive": "/wordclouds/1827180_recommended.png",
+    "negative": "/wordclouds/1827180_not_recommended.png"
+  },
+  "1840": {
+    "positive": "/wordclouds/1840_recommended.png",
+    "negative": "/wordclouds/1840_not_recommended.png"
+  },
+  "1845910": {
+    "positive": "/wordclouds/1845910_recommended.png",
+    "negative": "/wordclouds/1845910_not_recommended.png"
+  },
+  "1846380": {
+    "positive": "/wordclouds/1846380_recommended.png",
+    "negative": "/wordclouds/1846380_not_recommended.png"
+  },
+  "1850570": {
+    "positive": "/wordclouds/1850570_recommended.png",
+    "negative": "/wordclouds/1850570_not_recommended.png"
+  },
+  "1868140": {
+    "positive": "/wordclouds/1868140_recommended.png",
+    "negative": "/wordclouds/1868140_not_recommended.png"
+  },
+  "1874880": {
+    "positive": "/wordclouds/1874880_recommended.png",
+    "negative": "/wordclouds/1874880_not_recommended.png"
+  },
+  "1876890": {
+    "positive": "/wordclouds/1876890_recommended.png",
+    "negative": "/wordclouds/1876890_not_recommended.png"
+  },
+  "1888930": {
+    "positive": "/wordclouds/1888930_recommended.png",
+    "negative": "/wordclouds/1888930_not_recommended.png"
+  },
+  "1891700": {
+    "positive": "/wordclouds/1891700_recommended.png",
+    "negative": "/wordclouds/1891700_not_recommended.png"
+  },
+  "1898300": {
+    "positive": "/wordclouds/1898300_recommended.png",
+    "negative": "/wordclouds/1898300_not_recommended.png"
+  },
+  "1919590": {
+    "positive": "/wordclouds/1919590_recommended.png",
+    "negative": "/wordclouds/1919590_not_recommended.png"
+  },
+  "1928420": {
+    "positive": "/wordclouds/1928420_recommended.png",
+    "negative": "/wordclouds/1928420_not_recommended.png"
+  },
+  "1934680": {
+    "positive": "/wordclouds/1934680_recommended.png",
+    "negative": "/wordclouds/1934680_not_recommended.png"
+  },
+  "1937500": {
+    "positive": "/wordclouds/1937500_recommended.png",
+    "negative": "/wordclouds/1937500_not_recommended.png"
+  },
+  "1938090": {
+    "positive": "/wordclouds/1938090_recommended.png",
+    "negative": "/wordclouds/1938090_not_recommended.png"
+  },
+  "1940340": {
+    "positive": "/wordclouds/1940340_recommended.png",
+    "negative": "/wordclouds/1940340_not_recommended.png"
+  },
+  "1954420": {
+    "positive": "/wordclouds/1954420_recommended.png",
+    "negative": "/wordclouds/1954420_not_recommended.png"
+  },
+  "1966720": {
+    "positive": "/wordclouds/1966720_recommended.png",
+    "negative": "/wordclouds/1966720_not_recommended.png"
+  },
+  "1971650": {
+    "positive": "/wordclouds/1971650_recommended.png",
+    "negative": "/wordclouds/1971650_not_recommended.png"
+  },
+  "1973530": {
+    "positive": "/wordclouds/1973530_recommended.png",
+    "negative": "/wordclouds/1973530_not_recommended.png"
+  },
+  "1974050": {
+    "positive": "/wordclouds/1974050_recommended.png",
+    "negative": "/wordclouds/1974050_not_recommended.png"
+  },
+  "1984270": {
+    "positive": "/wordclouds/1984270_recommended.png",
+    "negative": "/wordclouds/1984270_not_recommended.png"
+  },
+  "1995520": {
+    "positive": "/wordclouds/1995520_recommended.png",
+    "negative": "/wordclouds/1995520_not_recommended.png"
+  },
+  "1997040": {
+    "positive": "/wordclouds/1997040_recommended.png",
+    "negative": "/wordclouds/1997040_not_recommended.png"
+  },
+  "2001120": {
+    "positive": "/wordclouds/2001120_recommended.png",
+    "negative": "/wordclouds/2001120_not_recommended.png"
+  },
+  "200210": {
+    "positive": "/wordclouds/200210_recommended.png",
+    "negative": "/wordclouds/200210_not_recommended.png"
+  },
+  "2003310": {
+    "positive": "/wordclouds/2003310_recommended.png",
+    "negative": "/wordclouds/2003310_not_recommended.png"
+  },
+  "200510": {
+    "positive": "/wordclouds/200510_recommended.png",
+    "negative": "/wordclouds/200510_not_recommended.png"
+  },
+  "2009350": {
+    "positive": "/wordclouds/2009350_recommended.png",
+    "negative": "/wordclouds/2009350_not_recommended.png"
+  },
+  "2014780": {
+    "positive": "/wordclouds/2014780_recommended.png",
+    "negative": "/wordclouds/2014780_not_recommended.png"
+  },
+  "2016590": {
+    "positive": "/wordclouds/2016590_recommended.png",
+    "negative": "/wordclouds/2016590_not_recommended.png"
+  },
+  "203140": {
+    "positive": "/wordclouds/203140_recommended.png",
+    "negative": "/wordclouds/203140_not_recommended.png"
+  },
+  "203160": {
+    "positive": "/wordclouds/203160_recommended.png",
+    "negative": "/wordclouds/203160_not_recommended.png"
+  },
+  "203770": {
+    "positive": "/wordclouds/203770_recommended.png",
+    "negative": "/wordclouds/203770_not_recommended.png"
+  },
+  "2051620": {
+    "positive": "/wordclouds/2051620_recommended.png",
+    "negative": "/wordclouds/2051620_not_recommended.png"
+  },
+  "2054970": {
+    "positive": "/wordclouds/2054970_recommended.png",
+    "negative": "/wordclouds/2054970_not_recommended.png"
+  },
+  "2062430": {
+    "positive": "/wordclouds/2062430_recommended.png",
+    "negative": "/wordclouds/2062430_not_recommended.png"
+  },
+  "2066020": {
+    "positive": "/wordclouds/2066020_recommended.png",
+    "negative": "/wordclouds/2066020_not_recommended.png"
+  },
+  "2071280": {
+    "positive": "/wordclouds/2071280_recommended.png",
+    "negative": "/wordclouds/2071280_not_recommended.png"
+  },
+  "2072450": {
+    "positive": "/wordclouds/2072450_recommended.png",
+    "negative": "/wordclouds/2072450_not_recommended.png"
+  },
+  "2072560": {
+    "positive": "/wordclouds/2072560_recommended.png",
+    "negative": "/wordclouds/2072560_not_recommended.png"
+  },
+  "2073620": {
+    "positive": "/wordclouds/2073620_recommended.png",
+    "negative": "/wordclouds/2073620_not_recommended.png"
+  },
+  "2073850": {
+    "positive": "/wordclouds/2073850_recommended.png",
+    "negative": "/wordclouds/2073850_not_recommended.png"
+  },
+  "2074920": {
+    "positive": "/wordclouds/2074920_recommended.png",
+    "negative": "/wordclouds/2074920_not_recommended.png"
+  },
+  "2080690": {
+    "positive": "/wordclouds/2080690_recommended.png",
+    "negative": "/wordclouds/2080690_not_recommended.png"
+  },
+  "2081880": {
+    "positive": "/wordclouds/2081880_recommended.png",
+    "negative": "/wordclouds/2081880_not_recommended.png"
+  },
+  "208650": {
+    "positive": "/wordclouds/208650_recommended.png",
+    "negative": "/wordclouds/208650_not_recommended.png"
+  },
+  "209000": {
+    "positive": "/wordclouds/209000_recommended.png",
+    "negative": "/wordclouds/209000_not_recommended.png"
+  },
+  "2104890": {
+    "positive": "/wordclouds/2104890_recommended.png",
+    "negative": "/wordclouds/2104890_not_recommended.png"
+  },
+  "211500": {
+    "positive": "/wordclouds/211500_recommended.png",
+    "negative": "/wordclouds/211500_not_recommended.png"
+  },
+  "211820": {
+    "positive": "/wordclouds/211820_recommended.png",
+    "negative": "/wordclouds/211820_not_recommended.png"
+  },
+  "212500": {
+    "positive": "/wordclouds/212500_recommended.png",
+    "negative": "/wordclouds/212500_not_recommended.png"
+  },
+  "212680": {
+    "positive": "/wordclouds/212680_recommended.png",
+    "negative": "/wordclouds/212680_not_recommended.png"
+  },
+  "2135150": {
+    "positive": "/wordclouds/2135150_recommended.png",
+    "negative": "/wordclouds/2135150_not_recommended.png"
+  },
+  "2138720": {
+    "positive": "/wordclouds/2138720_recommended.png",
+    "negative": "/wordclouds/2138720_not_recommended.png"
+  },
+  "2139460": {
+    "positive": "/wordclouds/2139460_recommended.png",
+    "negative": "/wordclouds/2139460_not_recommended.png"
+  },
+  "2141910": {
+    "positive": "/wordclouds/2141910_recommended.png",
+    "negative": "/wordclouds/2141910_not_recommended.png"
+  },
+  "214950": {
+    "positive": "/wordclouds/214950_recommended.png",
+    "negative": "/wordclouds/214950_not_recommended.png"
+  },
+  "2157560": {
+    "positive": "/wordclouds/2157560_recommended.png",
+    "negative": "/wordclouds/2157560_not_recommended.png"
+  },
+  "2161700": {
+    "positive": "/wordclouds/2161700_recommended.png",
+    "negative": "/wordclouds/2161700_not_recommended.png"
+  },
+  "2162800": {
+    "positive": "/wordclouds/2162800_recommended.png",
+    "negative": "/wordclouds/2162800_not_recommended.png"
+  },
+  "2169200": {
+    "positive": "/wordclouds/2169200_recommended.png",
+    "negative": "/wordclouds/2169200_not_recommended.png"
+  },
+  "2183900": {
+    "positive": "/wordclouds/2183900_recommended.png",
+    "negative": "/wordclouds/2183900_not_recommended.png"
+  },
+  "2185060": {
+    "positive": "/wordclouds/2185060_recommended.png",
+    "negative": "/wordclouds/2185060_not_recommended.png"
+  },
+  "2186680": {
+    "positive": "/wordclouds/2186680_recommended.png",
+    "negative": "/wordclouds/2186680_not_recommended.png"
+  },
+  "2195250": {
+    "positive": "/wordclouds/2195250_recommended.png",
+    "negative": "/wordclouds/2195250_not_recommended.png"
+  },
+  "219740": {
+    "positive": "/wordclouds/219740_recommended.png",
+    "negative": "/wordclouds/219740_not_recommended.png"
+  },
+  "219990": {
+    "positive": "/wordclouds/219990_recommended.png",
+    "negative": "/wordclouds/219990_not_recommended.png"
+  },
+  "220240": {
+    "positive": "/wordclouds/220240_recommended.png",
+    "negative": "/wordclouds/220240_not_recommended.png"
+  },
+  "2203070": {
+    "positive": "/wordclouds/2203070_recommended.png",
+    "negative": "/wordclouds/2203070_not_recommended.png"
+  },
+  "2208920": {
+    "positive": "/wordclouds/2208920_recommended.png",
+    "negative": "/wordclouds/2208920_not_recommended.png"
+  },
+  "221040": {
+    "positive": "/wordclouds/221040_recommended.png",
+    "negative": "/wordclouds/221040_not_recommended.png"
+  },
+  "221100": {
+    "positive": "/wordclouds/221100_recommended.png",
+    "negative": "/wordclouds/221100_not_recommended.png"
+  },
+  "2215430": {
+    "positive": "/wordclouds/2215430_recommended.png",
+    "negative": "/wordclouds/2215430_not_recommended.png"
+  },
+  "2225070": {
+    "positive": "/wordclouds/2225070_recommended.png",
+    "negative": "/wordclouds/2225070_not_recommended.png"
+  },
+  "2229850": {
+    "positive": "/wordclouds/2229850_recommended.png",
+    "negative": "/wordclouds/2229850_not_recommended.png"
+  },
+  "2231380": {
+    "positive": "/wordclouds/2231380_recommended.png",
+    "negative": "/wordclouds/2231380_not_recommended.png"
+  },
+  "223750": {
+    "positive": "/wordclouds/223750_recommended.png",
+    "negative": "/wordclouds/223750_not_recommended.png"
+  },
+  "22380": {
+    "positive": "/wordclouds/22380_recommended.png",
+    "negative": "/wordclouds/22380_not_recommended.png"
+  },
+  "223850": {
+    "positive": "/wordclouds/223850_recommended.png",
+    "negative": "/wordclouds/223850_not_recommended.png"
+  },
+  "2239710": {
+    "positive": "/wordclouds/2239710_recommended.png",
+    "negative": "/wordclouds/2239710_not_recommended.png"
+  },
+  "2246340": {
+    "positive": "/wordclouds/2246340_recommended.png",
+    "negative": "/wordclouds/2246340_not_recommended.png"
+  },
+  "2250040": {
+    "positive": "/wordclouds/2250040_recommended.png",
+    "negative": "/wordclouds/2250040_not_recommended.png"
+  },
+  "2252570": {
+    "positive": "/wordclouds/2252570_recommended.png",
+    "negative": "/wordclouds/2252570_not_recommended.png"
+  },
+  "225540": {
+    "positive": "/wordclouds/225540_recommended.png",
+    "negative": "/wordclouds/225540_not_recommended.png"
+  },
+  "2273430": {
+    "positive": "/wordclouds/2273430_recommended.png",
+    "negative": "/wordclouds/2273430_not_recommended.png"
+  },
+  "2277560": {
+    "positive": "/wordclouds/2277560_recommended.png",
+    "negative": "/wordclouds/2277560_not_recommended.png"
+  },
+  "2281730": {
+    "positive": "/wordclouds/2281730_recommended.png",
+    "negative": "/wordclouds/2281730_not_recommended.png"
+  },
+  "228200": {
+    "positive": "/wordclouds/228200_recommended.png",
+    "negative": "/wordclouds/228200_not_recommended.png"
+  },
+  "2289450": {
+    "positive": "/wordclouds/2289450_recommended.png",
+    "negative": "/wordclouds/2289450_not_recommended.png"
+  },
+  "2290180": {
+    "positive": "/wordclouds/2290180_recommended.png",
+    "negative": "/wordclouds/2290180_not_recommended.png"
+  },
+  "2294660": {
+    "positive": "/wordclouds/2294660_recommended.png",
+    "negative": "/wordclouds/2294660_not_recommended.png"
+  },
+  "2300320": {
+    "positive": "/wordclouds/2300320_recommended.png",
+    "negative": "/wordclouds/2300320_not_recommended.png"
+  },
+  "230410": {
+    "positive": "/wordclouds/230410_recommended.png",
+    "negative": "/wordclouds/230410_not_recommended.png"
+  },
+  "231120": {
+    "positive": "/wordclouds/231120_recommended.png",
+    "negative": "/wordclouds/231120_not_recommended.png"
+  },
+  "231430": {
+    "positive": "/wordclouds/231430_recommended.png",
+    "negative": "/wordclouds/231430_not_recommended.png"
+  },
+  "232090": {
+    "positive": "/wordclouds/232090_recommended.png",
+    "negative": "/wordclouds/232090_not_recommended.png"
+  },
+  "2321470": {
+    "positive": "/wordclouds/2321470_recommended.png",
+    "negative": "/wordclouds/2321470_not_recommended.png"
+  },
+  "2325290": {
+    "positive": "/wordclouds/2325290_recommended.png",
+    "negative": "/wordclouds/2325290_not_recommended.png"
+  },
+  "2333480": {
+    "positive": "/wordclouds/2333480_recommended.png",
+    "negative": "/wordclouds/2333480_not_recommended.png"
+  },
+  "233450": {
+    "positive": "/wordclouds/233450_recommended.png",
+    "negative": "/wordclouds/233450_not_recommended.png"
+  },
+  "2338770": {
+    "positive": "/wordclouds/2338770_recommended.png",
+    "negative": "/wordclouds/2338770_not_recommended.png"
+  },
+  "234140": {
+    "positive": "/wordclouds/234140_recommended.png",
+    "negative": "/wordclouds/234140_not_recommended.png"
+  },
+  "2344520": {
+    "positive": "/wordclouds/2344520_recommended.png",
+    "negative": "/wordclouds/2344520_not_recommended.png"
+  },
+  "2346550": {
+    "positive": "/wordclouds/2346550_recommended.png",
+    "negative": "/wordclouds/2346550_not_recommended.png"
+  },
+  "2352620": {
+    "positive": "/wordclouds/2352620_recommended.png",
+    "negative": "/wordclouds/2352620_not_recommended.png"
+  },
+  "2357570": {
+    "positive": "/wordclouds/2357570_recommended.png",
+    "negative": "/wordclouds/2357570_not_recommended.png"
+  },
+  "2358260": {
+    "positive": "/wordclouds/2358260_recommended.png",
+    "negative": "/wordclouds/2358260_not_recommended.png"
+  },
+  "236850": {
+    "positive": "/wordclouds/236850_recommended.png",
+    "negative": "/wordclouds/236850_not_recommended.png"
+  },
+  "2369390": {
+    "positive": "/wordclouds/2369390_recommended.png",
+    "negative": "/wordclouds/2369390_not_recommended.png"
+  },
+  "2379740": {
+    "positive": "/wordclouds/2379740_recommended.png",
+    "negative": "/wordclouds/2379740_not_recommended.png"
+  },
+  "2384580": {
+    "positive": "/wordclouds/2384580_recommended.png",
+    "negative": "/wordclouds/2384580_not_recommended.png"
+  },
+  "2385530": {
+    "positive": "/wordclouds/2385530_recommended.png",
+    "negative": "/wordclouds/2385530_not_recommended.png"
+  },
+  "238960": {
+    "positive": "/wordclouds/238960_recommended.png",
+    "negative": "/wordclouds/238960_not_recommended.png"
+  },
+  "2399420": {
+    "positive": "/wordclouds/2399420_recommended.png",
+    "negative": "/wordclouds/2399420_not_recommended.png"
+  },
+  "2399830": {
+    "positive": "/wordclouds/2399830_recommended.png",
+    "negative": "/wordclouds/2399830_not_recommended.png"
+  },
+  "24010": {
+    "positive": "/wordclouds/24010_recommended.png",
+    "negative": "/wordclouds/24010_not_recommended.png"
+  },
+  "2404880": {
+    "positive": "/wordclouds/2404880_recommended.png",
+    "negative": "/wordclouds/2404880_not_recommended.png"
+  },
+  "2408820": {
+    "positive": "/wordclouds/2408820_recommended.png",
+    "negative": "/wordclouds/2408820_not_recommended.png"
+  },
+  "240": {
+    "positive": "/wordclouds/240_recommended.png",
+    "negative": "/wordclouds/240_not_recommended.png"
+  },
+  "241930": {
+    "positive": "/wordclouds/241930_recommended.png",
+    "negative": "/wordclouds/241930_not_recommended.png"
+  },
+  "2420110": {
+    "positive": "/wordclouds/2420110_recommended.png",
+    "negative": "/wordclouds/2420110_not_recommended.png"
+  },
+  "242050": {
+    "positive": "/wordclouds/242050_recommended.png",
+    "negative": "/wordclouds/242050_not_recommended.png"
+  },
+  "2426960": {
+    "positive": "/wordclouds/2426960_recommended.png",
+    "negative": "/wordclouds/2426960_not_recommended.png"
+  },
+  "2427520": {
+    "positive": "/wordclouds/2427520_recommended.png",
+    "negative": "/wordclouds/2427520_not_recommended.png"
+  },
+  "242760": {
+    "positive": "/wordclouds/242760_recommended.png",
+    "negative": "/wordclouds/242760_not_recommended.png"
+  },
+  "2427700": {
+    "positive": "/wordclouds/2427700_recommended.png",
+    "negative": "/wordclouds/2427700_not_recommended.png"
+  },
+  "2429640": {
+    "positive": "/wordclouds/2429640_recommended.png",
+    "negative": "/wordclouds/2429640_not_recommended.png"
+  },
+  "2437170": {
+    "positive": "/wordclouds/2437170_recommended.png",
+    "negative": "/wordclouds/2437170_not_recommended.png"
+  },
+  "244450": {
+    "positive": "/wordclouds/244450_recommended.png",
+    "negative": "/wordclouds/244450_not_recommended.png"
+  },
+  "244850": {
+    "positive": "/wordclouds/244850_recommended.png",
+    "negative": "/wordclouds/244850_not_recommended.png"
+  },
+  "2452280": {
+    "positive": "/wordclouds/2452280_recommended.png",
+    "negative": "/wordclouds/2452280_not_recommended.png"
+  },
+  "2456740": {
+    "positive": "/wordclouds/2456740_recommended.png",
+    "negative": "/wordclouds/2456740_not_recommended.png"
+  },
+  "2471100": {
+    "positive": "/wordclouds/2471100_recommended.png",
+    "negative": "/wordclouds/2471100_not_recommended.png"
+  },
+  "2479810": {
+    "positive": "/wordclouds/2479810_recommended.png",
+    "negative": "/wordclouds/2479810_not_recommended.png"
+  },
+  "248390": {
+    "positive": "/wordclouds/248390_recommended.png",
+    "negative": "/wordclouds/248390_not_recommended.png"
+  },
+  "2484110": {
+    "positive": "/wordclouds/2484110_recommended.png",
+    "negative": "/wordclouds/2484110_not_recommended.png"
+  },
+  "2486820": {
+    "positive": "/wordclouds/2486820_recommended.png",
+    "negative": "/wordclouds/2486820_not_recommended.png"
+  },
+  "2487150": {
+    "positive": "/wordclouds/2487150_recommended.png",
+    "negative": "/wordclouds/2487150_not_recommended.png"
+  },
+  "2488370": {
+    "positive": "/wordclouds/2488370_recommended.png",
+    "negative": "/wordclouds/2488370_not_recommended.png"
+  },
+  "2488620": {
+    "positive": "/wordclouds/2488620_recommended.png",
+    "negative": "/wordclouds/2488620_not_recommended.png"
+  },
+  "2495100": {
+    "positive": "/wordclouds/2495100_recommended.png",
+    "negative": "/wordclouds/2495100_not_recommended.png"
+  },
+  "2503770": {
+    "positive": "/wordclouds/2503770_recommended.png",
+    "negative": "/wordclouds/2503770_not_recommended.png"
+  },
+  "2507950": {
+    "positive": "/wordclouds/2507950_recommended.png",
+    "negative": "/wordclouds/2507950_not_recommended.png"
+  },
+  "250900": {
+    "positive": "/wordclouds/250900_recommended.png",
+    "negative": "/wordclouds/250900_not_recommended.png"
+  },
+  "2515020": {
+    "positive": "/wordclouds/2515020_recommended.png",
+    "negative": "/wordclouds/2515020_not_recommended.png"
+  },
+  "251570": {
+    "positive": "/wordclouds/251570_recommended.png",
+    "negative": "/wordclouds/251570_not_recommended.png"
+  },
+  "2524890": {
+    "positive": "/wordclouds/2524890_recommended.png",
+    "negative": "/wordclouds/2524890_not_recommended.png"
+  },
+  "252490": {
+    "positive": "/wordclouds/252490_recommended.png",
+    "negative": "/wordclouds/252490_not_recommended.png"
+  },
+  "2527500": {
+    "positive": "/wordclouds/2527500_recommended.png",
+    "negative": "/wordclouds/2527500_not_recommended.png"
+  },
+  "252950": {
+    "positive": "/wordclouds/252950_recommended.png",
+    "negative": "/wordclouds/252950_not_recommended.png"
+  },
+  "2530490": {
+    "positive": "/wordclouds/2530490_recommended.png",
+    "negative": "/wordclouds/2530490_not_recommended.png"
+  },
+  "2531310": {
+    "positive": "/wordclouds/2531310_recommended.png",
+    "negative": "/wordclouds/2531310_not_recommended.png"
+  },
+  "253710": {
+    "positive": "/wordclouds/253710_recommended.png",
+    "negative": "/wordclouds/253710_not_recommended.png"
+  },
+  "2537590": {
+    "positive": "/wordclouds/2537590_recommended.png",
+    "negative": "/wordclouds/2537590_not_recommended.png"
+  },
+  "2551020": {
+    "positive": "/wordclouds/2551020_recommended.png",
+    "negative": "/wordclouds/2551020_not_recommended.png"
+  },
+  "2552430": {
+    "positive": "/wordclouds/2552430_recommended.png",
+    "negative": "/wordclouds/2552430_not_recommended.png"
+  },
+  "255710": {
+    "positive": "/wordclouds/255710_recommended.png",
+    "negative": "/wordclouds/255710_not_recommended.png"
+  },
+  "2567870": {
+    "positive": "/wordclouds/2567870_recommended.png",
+    "negative": "/wordclouds/2567870_not_recommended.png"
+  },
+  "2569510": {
+    "positive": "/wordclouds/2569510_recommended.png",
+    "negative": "/wordclouds/2569510_not_recommended.png"
+  },
+  "2582560": {
+    "positive": "/wordclouds/2582560_recommended.png",
+    "negative": "/wordclouds/2582560_not_recommended.png"
+  },
+  "2584990": {
+    "positive": "/wordclouds/2584990_recommended.png",
+    "negative": "/wordclouds/2584990_not_recommended.png"
+  },
+  "261550": {
+    "positive": "/wordclouds/261550_recommended.png",
+    "negative": "/wordclouds/261550_not_recommended.png"
+  },
+  "262060": {
+    "positive": "/wordclouds/262060_recommended.png",
+    "negative": "/wordclouds/262060_not_recommended.png"
+  },
+  "2622000": {
+    "positive": "/wordclouds/2622000_recommended.png",
+    "negative": "/wordclouds/2622000_not_recommended.png"
+  },
+  "2622380": {
+    "positive": "/wordclouds/2622380_recommended.png",
+    "negative": "/wordclouds/2622380_not_recommended.png"
+  },
+  "2623190": {
+    "positive": "/wordclouds/2623190_recommended.png",
+    "negative": "/wordclouds/2623190_not_recommended.png"
+  },
+  "2634950": {
+    "positive": "/wordclouds/2634950_recommended.png",
+    "negative": "/wordclouds/2634950_not_recommended.png"
+  },
+  "2642680": {
+    "positive": "/wordclouds/2642680_recommended.png",
+    "negative": "/wordclouds/2642680_not_recommended.png"
+  },
+  "2646460": {
+    "positive": "/wordclouds/2646460_recommended.png",
+    "negative": "/wordclouds/2646460_not_recommended.png"
+  },
+  "2651280": {
+    "positive": "/wordclouds/2651280_recommended.png",
+    "negative": "/wordclouds/2651280_not_recommended.png"
+  },
+  "2661300": {
+    "positive": "/wordclouds/2661300_recommended.png",
+    "negative": "/wordclouds/2661300_not_recommended.png"
+  },
+  "2665680": {
+    "positive": "/wordclouds/2665680_recommended.png",
+    "negative": "/wordclouds/2665680_not_recommended.png"
+  },
+  "2668080": {
+    "positive": "/wordclouds/2668080_recommended.png",
+    "negative": "/wordclouds/2668080_not_recommended.png"
+  },
+  "2669320": {
+    "positive": "/wordclouds/2669320_recommended.png",
+    "negative": "/wordclouds/2669320_not_recommended.png"
+  },
+  "2670630": {
+    "positive": "/wordclouds/2670630_recommended.png",
+    "negative": "/wordclouds/2670630_not_recommended.png"
+  },
+  "2679460": {
+    "positive": "/wordclouds/2679460_recommended.png",
+    "negative": "/wordclouds/2679460_not_recommended.png"
+  },
+  "2680010": {
+    "positive": "/wordclouds/2680010_recommended.png",
+    "negative": "/wordclouds/2680010_not_recommended.png"
+  },
+  "268500": {
+    "positive": "/wordclouds/268500_recommended.png",
+    "negative": "/wordclouds/268500_not_recommended.png"
+  },
+  "2688950": {
+    "positive": "/wordclouds/2688950_recommended.png",
+    "negative": "/wordclouds/2688950_not_recommended.png"
+  },
+  "269210": {
+    "positive": "/wordclouds/269210_recommended.png",
+    "negative": "/wordclouds/269210_not_recommended.png"
+  },
+  "2692440": {
+    "positive": "/wordclouds/2692440_recommended.png",
+    "negative": "/wordclouds/2692440_not_recommended.png"
+  },
+  "2694490": {
+    "positive": "/wordclouds/2694490_recommended.png",
+    "negative": "/wordclouds/2694490_not_recommended.png"
+  },
+  "2698940": {
+    "positive": "/wordclouds/2698940_recommended.png",
+    "negative": "/wordclouds/2698940_not_recommended.png"
+  },
+  "2707930": {
+    "positive": "/wordclouds/2707930_recommended.png",
+    "negative": "/wordclouds/2707930_not_recommended.png"
+  },
+  "271590": {
+    "positive": "/wordclouds/271590_recommended.png",
+    "negative": "/wordclouds/271590_not_recommended.png"
+  },
+  "2725560": {
+    "positive": "/wordclouds/2725560_recommended.png",
+    "negative": "/wordclouds/2725560_not_recommended.png"
+  },
+  "2732960": {
+    "positive": "/wordclouds/2732960_recommended.png",
+    "negative": "/wordclouds/2732960_not_recommended.png"
+  },
+  "2737070": {
+    "positive": "/wordclouds/2737070_recommended.png",
+    "negative": "/wordclouds/2737070_not_recommended.png"
+  },
+  "274170": {
+    "positive": "/wordclouds/274170_recommended.png",
+    "negative": "/wordclouds/274170_not_recommended.png"
+  },
+  "2742830": {
+    "positive": "/wordclouds/2742830_recommended.png",
+    "negative": "/wordclouds/2742830_not_recommended.png"
+  },
+  "2753900": {
+    "positive": "/wordclouds/2753900_recommended.png",
+    "negative": "/wordclouds/2753900_not_recommended.png"
+  },
+  "275850": {
+    "positive": "/wordclouds/275850_recommended.png",
+    "negative": "/wordclouds/275850_not_recommended.png"
+  },
+  "2763740": {
+    "positive": "/wordclouds/2763740_recommended.png",
+    "negative": "/wordclouds/2763740_not_recommended.png"
+  },
+  "2764370": {
+    "positive": "/wordclouds/2764370_recommended.png",
+    "negative": "/wordclouds/2764370_not_recommended.png"
+  },
+  "2767030": {
+    "positive": "/wordclouds/2767030_recommended.png",
+    "negative": "/wordclouds/2767030_not_recommended.png"
+  },
+  "2772750": {
+    "positive": "/wordclouds/2772750_recommended.png",
+    "negative": "/wordclouds/2772750_not_recommended.png"
+  },
+  "2784470": {
+    "positive": "/wordclouds/2784470_recommended.png",
+    "negative": "/wordclouds/2784470_not_recommended.png"
+  },
+  "2807960": {
+    "positive": "/wordclouds/2807960_recommended.png",
+    "negative": "/wordclouds/2807960_not_recommended.png"
+  },
+  "2808930": {
+    "positive": "/wordclouds/2808930_recommended.png",
+    "negative": "/wordclouds/2808930_not_recommended.png"
+  },
+  "281990": {
+    "positive": "/wordclouds/281990_recommended.png",
+    "negative": "/wordclouds/281990_not_recommended.png"
+  },
+  "282070": {
+    "positive": "/wordclouds/282070_recommended.png",
+    "negative": "/wordclouds/282070_not_recommended.png"
+  },
+  "2835570": {
+    "positive": "/wordclouds/2835570_recommended.png",
+    "negative": "/wordclouds/2835570_not_recommended.png"
+  },
+  "2840770": {
+    "positive": "/wordclouds/2840770_recommended.png",
+    "negative": "/wordclouds/2840770_not_recommended.png"
+  },
+  "2842040": {
+    "positive": "/wordclouds/2842040_recommended.png",
+    "negative": "/wordclouds/2842040_not_recommended.png"
+  },
+  "286160": {
+    "positive": "/wordclouds/286160_recommended.png",
+    "negative": "/wordclouds/286160_not_recommended.png"
+  },
+  "286690": {
+    "positive": "/wordclouds/286690_recommended.png",
+    "negative": "/wordclouds/286690_not_recommended.png"
+  },
+  "287700": {
+    "positive": "/wordclouds/287700_recommended.png",
+    "negative": "/wordclouds/287700_not_recommended.png"
+  },
+  "2878960": {
+    "positive": "/wordclouds/2878960_recommended.png",
+    "negative": "/wordclouds/2878960_not_recommended.png"
+  },
+  "2878980": {
+    "positive": "/wordclouds/2878980_recommended.png",
+    "negative": "/wordclouds/2878980_not_recommended.png"
+  },
+  "289070": {
+    "positive": "/wordclouds/289070_recommended.png",
+    "negative": "/wordclouds/289070_not_recommended.png"
+  },
+  "289650": {
+    "positive": "/wordclouds/289650_recommended.png",
+    "negative": "/wordclouds/289650_not_recommended.png"
+  },
+  "2903690": {
+    "positive": "/wordclouds/2903690_recommended.png",
+    "negative": "/wordclouds/2903690_not_recommended.png"
+  },
+  "2904000": {
+    "positive": "/wordclouds/2904000_recommended.png",
+    "negative": "/wordclouds/2904000_not_recommended.png"
+  },
+  "2909400": {
+    "positive": "/wordclouds/2909400_recommended.png",
+    "negative": "/wordclouds/2909400_not_recommended.png"
+  },
+  "291550": {
+    "positive": "/wordclouds/291550_recommended.png",
+    "negative": "/wordclouds/291550_not_recommended.png"
+  },
+  "2916430": {
+    "positive": "/wordclouds/2916430_recommended.png",
+    "negative": "/wordclouds/2916430_not_recommended.png"
+  },
+  "2918150": {
+    "positive": "/wordclouds/2918150_recommended.png",
+    "negative": "/wordclouds/2918150_not_recommended.png"
+  },
+  "2918500": {
+    "positive": "/wordclouds/2918500_recommended.png",
+    "negative": "/wordclouds/2918500_not_recommended.png"
+  },
+  "292030": {
+    "positive": "/wordclouds/292030_recommended.png",
+    "negative": "/wordclouds/292030_not_recommended.png"
+  },
+  "2923300": {
+    "positive": "/wordclouds/2923300_recommended.png",
+    "negative": "/wordclouds/2923300_not_recommended.png"
+  },
+  "294100": {
+    "positive": "/wordclouds/294100_recommended.png",
+    "negative": "/wordclouds/294100_not_recommended.png"
+  },
+  "2943650": {
+    "positive": "/wordclouds/2943650_recommended.png",
+    "negative": "/wordclouds/2943650_not_recommended.png"
+  },
+  "2947440": {
+    "positive": "/wordclouds/2947440_recommended.png",
+    "negative": "/wordclouds/2947440_not_recommended.png"
+  },
+  "2951630": {
+    "positive": "/wordclouds/2951630_recommended.png",
+    "negative": "/wordclouds/2951630_not_recommended.png"
+  },
+  "2962810": {
+    "positive": "/wordclouds/2962810_recommended.png",
+    "negative": "/wordclouds/2962810_not_recommended.png"
+  },
+  "297000": {
+    "positive": "/wordclouds/297000_recommended.png",
+    "negative": "/wordclouds/297000_not_recommended.png"
+  },
+  "298110": {
+    "positive": "/wordclouds/298110_recommended.png",
+    "negative": "/wordclouds/298110_not_recommended.png"
+  },
+  "2987800": {
+    "positive": "/wordclouds/2987800_recommended.png",
+    "negative": "/wordclouds/2987800_not_recommended.png"
+  },
+  "2993780": {
+    "positive": "/wordclouds/2993780_recommended.png",
+    "negative": "/wordclouds/2993780_not_recommended.png"
+  },
+  "3008130": {
+    "positive": "/wordclouds/3008130_recommended.png",
+    "negative": "/wordclouds/3008130_not_recommended.png"
+  },
+  "3024040": {
+    "positive": "/wordclouds/3024040_recommended.png",
+    "negative": "/wordclouds/3024040_not_recommended.png"
+  },
+  "3026450": {
+    "positive": "/wordclouds/3026450_recommended.png",
+    "negative": "/wordclouds/3026450_not_recommended.png"
+  },
+  "3037410": {
+    "positive": "/wordclouds/3037410_recommended.png",
+    "negative": "/wordclouds/3037410_not_recommended.png"
+  },
+  "304050": {
+    "positive": "/wordclouds/304050_recommended.png",
+    "negative": "/wordclouds/304050_not_recommended.png"
+  },
+  "304390": {
+    "positive": "/wordclouds/304390_recommended.png",
+    "negative": "/wordclouds/304390_not_recommended.png"
+  },
+  "304930": {
+    "positive": "/wordclouds/304930_recommended.png",
+    "negative": "/wordclouds/304930_not_recommended.png"
+  },
+  "305620": {
+    "positive": "/wordclouds/305620_recommended.png",
+    "negative": "/wordclouds/305620_not_recommended.png"
+  },
+  "3059520": {
+    "positive": "/wordclouds/3059520_recommended.png",
+    "negative": "/wordclouds/3059520_not_recommended.png"
+  },
+  "306130": {
+    "positive": "/wordclouds/306130_recommended.png",
+    "negative": "/wordclouds/306130_not_recommended.png"
+  },
+  "3061570": {
+    "positive": "/wordclouds/3061570_recommended.png",
+    "negative": "/wordclouds/3061570_not_recommended.png"
+  },
+  "3061810": {
+    "positive": "/wordclouds/3061810_recommended.png",
+    "negative": "/wordclouds/3061810_not_recommended.png"
+  },
+  "3070070": {
+    "positive": "/wordclouds/3070070_recommended.png",
+    "negative": "/wordclouds/3070070_not_recommended.png"
+  },
+  "307950": {
+    "positive": "/wordclouds/307950_recommended.png",
+    "negative": "/wordclouds/307950_not_recommended.png"
+  },
+  "3092660": {
+    "positive": "/wordclouds/3092660_recommended.png",
+    "negative": "/wordclouds/3092660_not_recommended.png"
+  },
+  "3097560": {
+    "positive": "/wordclouds/3097560_recommended.png",
+    "negative": "/wordclouds/3097560_not_recommended.png"
+  },
+  "311210": {
+    "positive": "/wordclouds/311210_recommended.png",
+    "negative": "/wordclouds/311210_not_recommended.png"
+  },
+  "3114410": {
+    "positive": "/wordclouds/3114410_recommended.png",
+    "negative": "/wordclouds/3114410_not_recommended.png"
+  },
+  "3115220": {
+    "positive": "/wordclouds/3115220_recommended.png",
+    "negative": "/wordclouds/3115220_not_recommended.png"
+  },
+  "311690": {
+    "positive": "/wordclouds/311690_recommended.png",
+    "negative": "/wordclouds/311690_not_recommended.png"
+  },
+  "312060": {
+    "positive": "/wordclouds/312060_recommended.png",
+    "negative": "/wordclouds/312060_not_recommended.png"
+  },
+  "312660": {
+    "positive": "/wordclouds/312660_recommended.png",
+    "negative": "/wordclouds/312660_not_recommended.png"
+  },
+  "3140370": {
+    "positive": "/wordclouds/3140370_recommended.png",
+    "negative": "/wordclouds/3140370_not_recommended.png"
+  },
+  "3142050": {
+    "positive": "/wordclouds/3142050_recommended.png",
+    "negative": "/wordclouds/3142050_not_recommended.png"
+  },
+  "3159330": {
+    "positive": "/wordclouds/3159330_recommended.png",
+    "negative": "/wordclouds/3159330_not_recommended.png"
+  },
+  "3164330": {
+    "positive": "/wordclouds/3164330_recommended.png",
+    "negative": "/wordclouds/3164330_not_recommended.png"
+  },
+  "3164500": {
+    "positive": "/wordclouds/3164500_recommended.png",
+    "negative": "/wordclouds/3164500_not_recommended.png"
+  },
+  "3174070": {
+    "positive": "/wordclouds/3174070_recommended.png",
+    "negative": "/wordclouds/3174070_not_recommended.png"
+  },
+  "3180070": {
+    "positive": "/wordclouds/3180070_recommended.png",
+    "negative": "/wordclouds/3180070_not_recommended.png"
+  },
+  "3198850": {
+    "positive": "/wordclouds/3198850_recommended.png",
+    "negative": "/wordclouds/3198850_not_recommended.png"
+  },
+  "3199170": {
+    "positive": "/wordclouds/3199170_recommended.png",
+    "negative": "/wordclouds/3199170_not_recommended.png"
+  },
+  "3213850": {
+    "positive": "/wordclouds/3213850_recommended.png",
+    "negative": "/wordclouds/3213850_not_recommended.png"
+  },
+  "3217240": {
+    "positive": "/wordclouds/3217240_recommended.png",
+    "negative": "/wordclouds/3217240_not_recommended.png"
+  },
+  "3218710": {
+    "positive": "/wordclouds/3218710_recommended.png",
+    "negative": "/wordclouds/3218710_not_recommended.png"
+  },
+  "322330": {
+    "positive": "/wordclouds/322330_recommended.png",
+    "negative": "/wordclouds/322330_not_recommended.png"
+  },
+  "3224420": {
+    "positive": "/wordclouds/3224420_recommended.png",
+    "negative": "/wordclouds/3224420_not_recommended.png"
+  },
+  "3226530": {
+    "positive": "/wordclouds/3226530_recommended.png",
+    "negative": "/wordclouds/3226530_not_recommended.png"
+  },
+  "3228590": {
+    "positive": "/wordclouds/3228590_recommended.png",
+    "negative": "/wordclouds/3228590_not_recommended.png"
+  },
+  "3230400": {
+    "positive": "/wordclouds/3230400_recommended.png",
+    "negative": "/wordclouds/3230400_not_recommended.png"
+  },
+  "3231090": {
+    "positive": "/wordclouds/3231090_recommended.png",
+    "negative": "/wordclouds/3231090_not_recommended.png"
+  },
+  "323190": {
+    "positive": "/wordclouds/323190_recommended.png",
+    "negative": "/wordclouds/323190_not_recommended.png"
+  },
+  "3240220": {
+    "positive": "/wordclouds/3240220_recommended.png",
+    "negative": "/wordclouds/3240220_not_recommended.png"
+  },
+  "3241660": {
+    "positive": "/wordclouds/3241660_recommended.png",
+    "negative": "/wordclouds/3241660_not_recommended.png"
+  },
+  "3241970": {
+    "positive": "/wordclouds/3241970_recommended.png",
+    "negative": "/wordclouds/3241970_not_recommended.png"
+  },
+  "325610": {
+    "positive": "/wordclouds/325610_recommended.png",
+    "negative": "/wordclouds/325610_not_recommended.png"
+  },
+  "3279780": {
+    "positive": "/wordclouds/3279780_recommended.png",
+    "negative": "/wordclouds/3279780_not_recommended.png"
+  },
+  "329110": {
+    "positive": "/wordclouds/329110_recommended.png",
+    "negative": "/wordclouds/329110_not_recommended.png"
+  },
+  "3293260": {
+    "positive": "/wordclouds/3293260_recommended.png",
+    "negative": "/wordclouds/3293260_not_recommended.png"
+  },
+  "3301060": {
+    "positive": "/wordclouds/3301060_recommended.png",
+    "negative": "/wordclouds/3301060_not_recommended.png"
+  },
+  "3308670": {
+    "positive": "/wordclouds/3308670_recommended.png",
+    "negative": "/wordclouds/3308670_not_recommended.png"
+  },
+  "3314790": {
+    "positive": "/wordclouds/3314790_recommended.png",
+    "negative": "/wordclouds/3314790_not_recommended.png"
+  },
+  "3330": {
+    "positive": "/wordclouds/3330_recommended.png",
+    "negative": "/wordclouds/3330_not_recommended.png"
+  },
+  "335300": {
+    "positive": "/wordclouds/335300_recommended.png",
+    "negative": "/wordclouds/335300_not_recommended.png"
+  },
+  "3354750": {
+    "positive": "/wordclouds/3354750_recommended.png",
+    "negative": "/wordclouds/3354750_not_recommended.png"
+  },
+  "3393070": {
+    "positive": "/wordclouds/3393070_recommended.png",
+    "negative": "/wordclouds/3393070_not_recommended.png"
+  },
+  "3405340": {
+    "positive": "/wordclouds/3405340_recommended.png",
+    "negative": "/wordclouds/3405340_not_recommended.png"
+  },
+  "3405690": {
+    "positive": "/wordclouds/3405690_recommended.png",
+    "negative": "/wordclouds/3405690_not_recommended.png"
+  },
+  "3419430": {
+    "positive": "/wordclouds/3419430_recommended.png",
+    "negative": "/wordclouds/3419430_not_recommended.png"
+  },
+  "34330": {
+    "positive": "/wordclouds/34330_recommended.png",
+    "negative": "/wordclouds/34330_not_recommended.png"
+  },
+  "3436030": {
+    "positive": "/wordclouds/3436030_recommended.png",
+    "negative": "/wordclouds/3436030_not_recommended.png"
+  },
+  "346110": {
+    "positive": "/wordclouds/346110_recommended.png",
+    "negative": "/wordclouds/346110_not_recommended.png"
+  },
+  "346900": {
+    "positive": "/wordclouds/346900_recommended.png",
+    "negative": "/wordclouds/346900_not_recommended.png"
+  },
+  "3472040": {
+    "positive": "/wordclouds/3472040_recommended.png",
+    "negative": "/wordclouds/3472040_not_recommended.png"
+  },
+  "3474900": {
+    "positive": "/wordclouds/3474900_recommended.png",
+    "negative": "/wordclouds/3474900_not_recommended.png"
+  },
+  "3478050": {
+    "positive": "/wordclouds/3478050_recommended.png",
+    "negative": "/wordclouds/3478050_not_recommended.png"
+  },
+  "3478870": {
+    "positive": "/wordclouds/3478870_recommended.png",
+    "negative": "/wordclouds/3478870_not_recommended.png"
+  },
+  "3489700": {
+    "positive": "/wordclouds/3489700_recommended.png",
+    "negative": "/wordclouds/3489700_not_recommended.png"
+  },
+  "3513350": {
+    "positive": "/wordclouds/3513350_recommended.png",
+    "negative": "/wordclouds/3513350_not_recommended.png"
+  },
+  "3556750": {
+    "positive": "/wordclouds/3556750_recommended.png",
+    "negative": "/wordclouds/3556750_not_recommended.png"
+  },
+  "356190": {
+    "positive": "/wordclouds/356190_recommended.png",
+    "negative": "/wordclouds/356190_not_recommended.png"
+  },
+  "3587140": {
+    "positive": "/wordclouds/3587140_recommended.png",
+    "negative": "/wordclouds/3587140_not_recommended.png"
+  },
+  "359320": {
+    "positive": "/wordclouds/359320_recommended.png",
+    "negative": "/wordclouds/359320_not_recommended.png"
+  },
+  "3595230": {
+    "positive": "/wordclouds/3595230_recommended.png",
+    "negative": "/wordclouds/3595230_not_recommended.png"
+  },
+  "3595270": {
+    "positive": "/wordclouds/3595270_recommended.png",
+    "negative": "/wordclouds/3595270_not_recommended.png"
+  },
+  "359550": {
+    "positive": "/wordclouds/359550_recommended.png",
+    "negative": "/wordclouds/359550_not_recommended.png"
+  },
+  "359870": {
+    "positive": "/wordclouds/359870_recommended.png",
+    "negative": "/wordclouds/359870_not_recommended.png"
+  },
+  "360430": {
+    "positive": "/wordclouds/360430_recommended.png",
+    "negative": "/wordclouds/360430_not_recommended.png"
+  },
+  "3606890": {
+    "positive": "/wordclouds/3606890_recommended.png",
+    "negative": "/wordclouds/3606890_not_recommended.png"
+  },
+  "361420": {
+    "positive": "/wordclouds/361420_recommended.png",
+    "negative": "/wordclouds/361420_not_recommended.png"
+  },
+  "362890": {
+    "positive": "/wordclouds/362890_recommended.png",
+    "negative": "/wordclouds/362890_not_recommended.png"
+  },
+  "3628960": {
+    "positive": "/wordclouds/3628960_recommended.png",
+    "negative": "/wordclouds/3628960_not_recommended.png"
+  },
+  "363970": {
+    "positive": "/wordclouds/363970_recommended.png",
+    "negative": "/wordclouds/363970_not_recommended.png"
+  },
+  "365360": {
+    "positive": "/wordclouds/365360_recommended.png",
+    "negative": "/wordclouds/365360_not_recommended.png"
+  },
+  "365670": {
+    "positive": "/wordclouds/365670_recommended.png",
+    "negative": "/wordclouds/365670_not_recommended.png"
+  },
+  "3656800": {
+    "positive": "/wordclouds/3656800_recommended.png",
+    "negative": "/wordclouds/3656800_not_recommended.png"
+  },
+  "3659280": {
+    "positive": "/wordclouds/3659280_recommended.png",
+    "negative": "/wordclouds/3659280_not_recommended.png"
+  },
+  "3678950": {
+    "positive": "/wordclouds/3678950_recommended.png",
+    "negative": "/wordclouds/3678950_not_recommended.png"
+  },
+  "368500": {
+    "positive": "/wordclouds/368500_recommended.png",
+    "negative": "/wordclouds/368500_not_recommended.png"
+  },
+  "371660": {
+    "positive": "/wordclouds/371660_recommended.png",
+    "negative": "/wordclouds/371660_not_recommended.png"
+  },
+  "374320": {
+    "positive": "/wordclouds/374320_recommended.png",
+    "negative": "/wordclouds/374320_not_recommended.png"
+  },
+  "376210": {
+    "positive": "/wordclouds/376210_recommended.png",
+    "negative": "/wordclouds/376210_not_recommended.png"
+  },
+  "377160": {
+    "positive": "/wordclouds/377160_recommended.png",
+    "negative": "/wordclouds/377160_not_recommended.png"
+  },
+  "379430": {
+    "positive": "/wordclouds/379430_recommended.png",
+    "negative": "/wordclouds/379430_not_recommended.png"
+  },
+  "380600": {
+    "positive": "/wordclouds/380600_recommended.png",
+    "negative": "/wordclouds/380600_not_recommended.png"
+  },
+  "3809900": {
+    "positive": "/wordclouds/3809900_recommended.png",
+    "negative": "/wordclouds/3809900_not_recommended.png"
+  },
+  "381210": {
+    "positive": "/wordclouds/381210_recommended.png",
+    "negative": "/wordclouds/381210_not_recommended.png"
+  },
+  "3815860": {
+    "positive": "/wordclouds/3815860_recommended.png",
+    "negative": "/wordclouds/3815860_not_recommended.png"
+  },
+  "382310": {
+    "positive": "/wordclouds/382310_recommended.png",
+    "negative": "/wordclouds/382310_not_recommended.png"
+  },
+  "383120": {
+    "positive": "/wordclouds/383120_recommended.png",
+    "negative": "/wordclouds/383120_not_recommended.png"
+  },
+  "386180": {
+    "positive": "/wordclouds/386180_recommended.png",
+    "negative": "/wordclouds/386180_not_recommended.png"
+  },
+  "386360": {
+    "positive": "/wordclouds/386360_recommended.png",
+    "negative": "/wordclouds/386360_not_recommended.png"
+  },
+  "3864220": {
+    "positive": "/wordclouds/3864220_recommended.png",
+    "negative": "/wordclouds/3864220_not_recommended.png"
+  },
+  "386940": {
+    "positive": "/wordclouds/386940_recommended.png",
+    "negative": "/wordclouds/386940_not_recommended.png"
+  },
+  "3872850": {
+    "positive": "/wordclouds/3872850_recommended.png",
+    "negative": "/wordclouds/3872850_not_recommended.png"
+  },
+  "387990": {
+    "positive": "/wordclouds/387990_recommended.png",
+    "negative": "/wordclouds/387990_not_recommended.png"
+  },
+  "388080": {
+    "positive": "/wordclouds/388080_recommended.png",
+    "negative": "/wordclouds/388080_not_recommended.png"
+  },
+  "389730": {
+    "positive": "/wordclouds/389730_recommended.png",
+    "negative": "/wordclouds/389730_not_recommended.png"
+  },
+  "391220": {
+    "positive": "/wordclouds/391220_recommended.png",
+    "negative": "/wordclouds/391220_not_recommended.png"
+  },
+  "39210": {
+    "positive": "/wordclouds/39210_recommended.png",
+    "negative": "/wordclouds/39210_not_recommended.png"
+  },
+  "392160": {
+    "positive": "/wordclouds/392160_recommended.png",
+    "negative": "/wordclouds/392160_not_recommended.png"
+  },
+  "393380": {
+    "positive": "/wordclouds/393380_recommended.png",
+    "negative": "/wordclouds/393380_not_recommended.png"
+  },
+  "394360": {
+    "positive": "/wordclouds/394360_recommended.png",
+    "negative": "/wordclouds/394360_not_recommended.png"
+  },
+  "397540": {
+    "positive": "/wordclouds/397540_recommended.png",
+    "negative": "/wordclouds/397540_not_recommended.png"
+  },
+  "3983810": {
+    "positive": "/wordclouds/3983810_recommended.png",
+    "negative": "/wordclouds/3983810_not_recommended.png"
+  },
+  "400750": {
+    "positive": "/wordclouds/400750_recommended.png",
+    "negative": "/wordclouds/400750_not_recommended.png"
+  },
+  "4019420": {
+    "positive": "/wordclouds/4019420_recommended.png",
+    "negative": "/wordclouds/4019420_not_recommended.png"
+  },
+  "4021860": {
+    "positive": "/wordclouds/4021860_recommended.png",
+    "negative": "/wordclouds/4021860_not_recommended.png"
+  },
+  "4028270": {
+    "positive": "/wordclouds/4028270_recommended.png",
+    "negative": "/wordclouds/4028270_not_recommended.png"
+  },
+  "4059420": {
+    "positive": "/wordclouds/4059420_recommended.png",
+    "negative": "/wordclouds/4059420_not_recommended.png"
+  },
+  "412020": {
+    "positive": "/wordclouds/412020_recommended.png",
+    "negative": "/wordclouds/412020_not_recommended.png"
+  },
+  "412220": {
+    "positive": "/wordclouds/412220_recommended.png",
+    "negative": "/wordclouds/412220_not_recommended.png"
+  },
+  "427410": {
+    "positive": "/wordclouds/427410_recommended.png",
+    "negative": "/wordclouds/427410_not_recommended.png"
+  },
+  "431730": {
+    "positive": "/wordclouds/431730_recommended.png",
+    "negative": "/wordclouds/431730_not_recommended.png"
+  },
+  "431960": {
+    "positive": "/wordclouds/431960_recommended.png",
+    "negative": "/wordclouds/431960_not_recommended.png"
+  },
+  "433850": {
+    "positive": "/wordclouds/433850_recommended.png",
+    "negative": "/wordclouds/433850_not_recommended.png"
+  },
+  "435150": {
+    "positive": "/wordclouds/435150_recommended.png",
+    "negative": "/wordclouds/435150_not_recommended.png"
+  },
+  "436150": {
+    "positive": "/wordclouds/436150_recommended.png",
+    "negative": "/wordclouds/436150_not_recommended.png"
+  },
+  "438100": {
+    "positive": "/wordclouds/438100_recommended.png",
+    "negative": "/wordclouds/438100_not_recommended.png"
+  },
+  "440900": {
+    "positive": "/wordclouds/440900_recommended.png",
+    "negative": "/wordclouds/440900_not_recommended.png"
+  },
+  "440": {
+    "positive": "/wordclouds/440_recommended.png",
+    "negative": "/wordclouds/440_not_recommended.png"
+  },
+  "444090": {
+    "positive": "/wordclouds/444090_recommended.png",
+    "negative": "/wordclouds/444090_not_recommended.png"
+  },
+  "444200": {
+    "positive": "/wordclouds/444200_recommended.png",
+    "negative": "/wordclouds/444200_not_recommended.png"
+  },
+  "445220": {
+    "positive": "/wordclouds/445220_recommended.png",
+    "negative": "/wordclouds/445220_not_recommended.png"
+  },
+  "447040": {
+    "positive": "/wordclouds/447040_recommended.png",
+    "negative": "/wordclouds/447040_not_recommended.png"
+  },
+  "457140": {
+    "positive": "/wordclouds/457140_recommended.png",
+    "negative": "/wordclouds/457140_not_recommended.png"
+  },
+  "459820": {
+    "positive": "/wordclouds/459820_recommended.png",
+    "negative": "/wordclouds/459820_not_recommended.png"
+  },
+  "460930": {
+    "positive": "/wordclouds/460930_recommended.png",
+    "negative": "/wordclouds/460930_not_recommended.png"
+  },
+  "461040": {
+    "positive": "/wordclouds/461040_recommended.png",
+    "negative": "/wordclouds/461040_not_recommended.png"
+  },
+  "464920": {
+    "positive": "/wordclouds/464920_recommended.png",
+    "negative": "/wordclouds/464920_not_recommended.png"
+  },
+  "466560": {
+    "positive": "/wordclouds/466560_recommended.png",
+    "negative": "/wordclouds/466560_not_recommended.png"
+  },
+  "469600": {
+    "positive": "/wordclouds/469600_recommended.png",
+    "negative": "/wordclouds/469600_not_recommended.png"
+  },
+  "4700": {
+    "positive": "/wordclouds/4700_recommended.png",
+    "negative": "/wordclouds/4700_not_recommended.png"
+  },
+  "471710": {
+    "positive": "/wordclouds/471710_recommended.png",
+    "negative": "/wordclouds/471710_not_recommended.png"
+  },
+  "475150": {
+    "positive": "/wordclouds/475150_recommended.png",
+    "negative": "/wordclouds/475150_not_recommended.png"
+  },
+  "477160": {
+    "positive": "/wordclouds/477160_recommended.png",
+    "negative": "/wordclouds/477160_not_recommended.png"
+  },
+  "48700": {
+    "positive": "/wordclouds/48700_recommended.png",
+    "negative": "/wordclouds/48700_not_recommended.png"
+  },
+  "488790": {
+    "positive": "/wordclouds/488790_recommended.png",
+    "negative": "/wordclouds/488790_not_recommended.png"
+  },
+  "489630": {
+    "positive": "/wordclouds/489630_recommended.png",
+    "negative": "/wordclouds/489630_not_recommended.png"
+  },
+  "489830": {
+    "positive": "/wordclouds/489830_recommended.png",
+    "negative": "/wordclouds/489830_not_recommended.png"
+  },
+  "492720": {
+    "positive": "/wordclouds/492720_recommended.png",
+    "negative": "/wordclouds/492720_not_recommended.png"
+  },
+  "493340": {
+    "positive": "/wordclouds/493340_recommended.png",
+    "negative": "/wordclouds/493340_not_recommended.png"
+  },
+  "493490": {
+    "positive": "/wordclouds/493490_recommended.png",
+    "negative": "/wordclouds/493490_not_recommended.png"
+  },
+  "494840": {
+    "positive": "/wordclouds/494840_recommended.png",
+    "negative": "/wordclouds/494840_not_recommended.png"
+  },
+  "49520": {
+    "positive": "/wordclouds/49520_recommended.png",
+    "negative": "/wordclouds/49520_not_recommended.png"
+  },
+  "495420": {
+    "positive": "/wordclouds/495420_recommended.png",
+    "negative": "/wordclouds/495420_not_recommended.png"
+  },
+  "502500": {
+    "positive": "/wordclouds/502500_recommended.png",
+    "negative": "/wordclouds/502500_not_recommended.png"
+  },
+  "502520": {
+    "positive": "/wordclouds/502520_recommended.png",
+    "negative": "/wordclouds/502520_not_recommended.png"
+  },
+  "505460": {
+    "positive": "/wordclouds/505460_recommended.png",
+    "negative": "/wordclouds/505460_not_recommended.png"
+  },
+  "513710": {
+    "positive": "/wordclouds/513710_recommended.png",
+    "negative": "/wordclouds/513710_not_recommended.png"
+  },
+  "516750": {
+    "positive": "/wordclouds/516750_recommended.png",
+    "negative": "/wordclouds/516750_not_recommended.png"
+  },
+  "518790": {
+    "positive": "/wordclouds/518790_recommended.png",
+    "negative": "/wordclouds/518790_not_recommended.png"
+  },
+  "524220": {
+    "positive": "/wordclouds/524220_recommended.png",
+    "negative": "/wordclouds/524220_not_recommended.png"
+  },
+  "526870": {
+    "positive": "/wordclouds/526870_recommended.png",
+    "negative": "/wordclouds/526870_not_recommended.png"
+  },
+  "529340": {
+    "positive": "/wordclouds/529340_recommended.png",
+    "negative": "/wordclouds/529340_not_recommended.png"
+  },
+  "534380": {
+    "positive": "/wordclouds/534380_recommended.png",
+    "negative": "/wordclouds/534380_not_recommended.png"
+  },
+  "544730": {
+    "positive": "/wordclouds/544730_recommended.png",
+    "negative": "/wordclouds/544730_not_recommended.png"
+  },
+  "544810": {
+    "positive": "/wordclouds/544810_recommended.png",
+    "negative": "/wordclouds/544810_not_recommended.png"
+  },
+  "552500": {
+    "positive": "/wordclouds/552500_recommended.png",
+    "negative": "/wordclouds/552500_not_recommended.png"
+  },
+  "552520": {
+    "positive": "/wordclouds/552520_recommended.png",
+    "negative": "/wordclouds/552520_not_recommended.png"
+  },
+  "552990": {
+    "positive": "/wordclouds/552990_recommended.png",
+    "negative": "/wordclouds/552990_not_recommended.png"
+  },
+  "568220": {
+    "positive": "/wordclouds/568220_recommended.png",
+    "negative": "/wordclouds/568220_not_recommended.png"
+  },
+  "570": {
+    "positive": "/wordclouds/570_recommended.png",
+    "negative": "/wordclouds/570_not_recommended.png"
+  },
+  "573090": {
+    "positive": "/wordclouds/573090_recommended.png",
+    "negative": "/wordclouds/573090_not_recommended.png"
+  },
+  "578080": {
+    "positive": "/wordclouds/578080_recommended.png",
+    "negative": "/wordclouds/578080_not_recommended.png"
+  },
+  "581320": {
+    "positive": "/wordclouds/581320_recommended.png",
+    "negative": "/wordclouds/581320_not_recommended.png"
+  },
+  "582010": {
+    "positive": "/wordclouds/582010_recommended.png",
+    "negative": "/wordclouds/582010_not_recommended.png"
+  },
+  "582160": {
+    "positive": "/wordclouds/582160_recommended.png",
+    "negative": "/wordclouds/582160_not_recommended.png"
+  },
+  "582660": {
+    "positive": "/wordclouds/582660_recommended.png",
+    "negative": "/wordclouds/582660_not_recommended.png"
+  },
+  "585420": {
+    "positive": "/wordclouds/585420_recommended.png",
+    "negative": "/wordclouds/585420_not_recommended.png"
+  },
+  "588430": {
+    "positive": "/wordclouds/588430_recommended.png",
+    "negative": "/wordclouds/588430_not_recommended.png"
+  },
+  "588650": {
+    "positive": "/wordclouds/588650_recommended.png",
+    "negative": "/wordclouds/588650_not_recommended.png"
+  },
+  "594570": {
+    "positive": "/wordclouds/594570_recommended.png",
+    "negative": "/wordclouds/594570_not_recommended.png"
+  },
+  "594650": {
+    "positive": "/wordclouds/594650_recommended.png",
+    "negative": "/wordclouds/594650_not_recommended.png"
+  },
+  "597180": {
+    "positive": "/wordclouds/597180_recommended.png",
+    "negative": "/wordclouds/597180_not_recommended.png"
+  },
+  "599140": {
+    "positive": "/wordclouds/599140_recommended.png",
+    "negative": "/wordclouds/599140_not_recommended.png"
+  },
+  "601150": {
+    "positive": "/wordclouds/601150_recommended.png",
+    "negative": "/wordclouds/601150_not_recommended.png"
+  },
+  "601510": {
+    "positive": "/wordclouds/601510_recommended.png",
+    "negative": "/wordclouds/601510_not_recommended.png"
+  },
+  "610370": {
+    "positive": "/wordclouds/610370_recommended.png",
+    "negative": "/wordclouds/610370_not_recommended.png"
+  },
+  "612880": {
+    "positive": "/wordclouds/612880_recommended.png",
+    "negative": "/wordclouds/612880_not_recommended.png"
+  },
+  "613100": {
+    "positive": "/wordclouds/613100_recommended.png",
+    "negative": "/wordclouds/613100_not_recommended.png"
+  },
+  "619820": {
+    "positive": "/wordclouds/619820_recommended.png",
+    "negative": "/wordclouds/619820_not_recommended.png"
+  },
+  "621830": {
+    "positive": "/wordclouds/621830_recommended.png",
+    "negative": "/wordclouds/621830_not_recommended.png"
+  },
+  "625960": {
+    "positive": "/wordclouds/625960_recommended.png",
+    "negative": "/wordclouds/625960_not_recommended.png"
+  },
+  "627690": {
+    "positive": "/wordclouds/627690_recommended.png",
+    "negative": "/wordclouds/627690_not_recommended.png"
+  },
+  "629760": {
+    "positive": "/wordclouds/629760_recommended.png",
+    "negative": "/wordclouds/629760_not_recommended.png"
+  },
+  "632360": {
+    "positive": "/wordclouds/632360_recommended.png",
+    "negative": "/wordclouds/632360_not_recommended.png"
+  },
+  "632470": {
+    "positive": "/wordclouds/632470_recommended.png",
+    "negative": "/wordclouds/632470_not_recommended.png"
+  },
+  "632810": {
+    "positive": "/wordclouds/632810_recommended.png",
+    "negative": "/wordclouds/632810_not_recommended.png"
+  },
+  "635260": {
+    "positive": "/wordclouds/635260_recommended.png",
+    "negative": "/wordclouds/635260_not_recommended.png"
+  },
+  "636480": {
+    "positive": "/wordclouds/636480_recommended.png",
+    "negative": "/wordclouds/636480_not_recommended.png"
+  },
+  "637090": {
+    "positive": "/wordclouds/637090_recommended.png",
+    "negative": "/wordclouds/637090_not_recommended.png"
+  },
+  "637650": {
+    "positive": "/wordclouds/637650_recommended.png",
+    "negative": "/wordclouds/637650_not_recommended.png"
+  },
+  "638970": {
+    "positive": "/wordclouds/638970_recommended.png",
+    "negative": "/wordclouds/638970_not_recommended.png"
+  },
+  "640820": {
+    "positive": "/wordclouds/640820_recommended.png",
+    "negative": "/wordclouds/640820_not_recommended.png"
+  },
+  "644930": {
+    "positive": "/wordclouds/644930_recommended.png",
+    "negative": "/wordclouds/644930_not_recommended.png"
+  },
+  "646910": {
+    "positive": "/wordclouds/646910_recommended.png",
+    "negative": "/wordclouds/646910_not_recommended.png"
+  },
+  "648800": {
+    "positive": "/wordclouds/648800_recommended.png",
+    "negative": "/wordclouds/648800_not_recommended.png"
+  },
+  "653530": {
+    "positive": "/wordclouds/653530_recommended.png",
+    "negative": "/wordclouds/653530_not_recommended.png"
+  },
+  "655500": {
+    "positive": "/wordclouds/655500_recommended.png",
+    "negative": "/wordclouds/655500_not_recommended.png"
+  },
+  "668580": {
+    "positive": "/wordclouds/668580_recommended.png",
+    "negative": "/wordclouds/668580_not_recommended.png"
+  },
+  "669330": {
+    "positive": "/wordclouds/669330_recommended.png",
+    "negative": "/wordclouds/669330_not_recommended.png"
+  },
+  "670290": {
+    "positive": "/wordclouds/670290_recommended.png",
+    "negative": "/wordclouds/670290_not_recommended.png"
+  },
+  "675010": {
+    "positive": "/wordclouds/675010_recommended.png",
+    "negative": "/wordclouds/675010_not_recommended.png"
+  },
+  "678950": {
+    "positive": "/wordclouds/678950_recommended.png",
+    "negative": "/wordclouds/678950_not_recommended.png"
+  },
+  "678960": {
+    "positive": "/wordclouds/678960_recommended.png",
+    "negative": "/wordclouds/678960_not_recommended.png"
+  },
+  "686810": {
+    "positive": "/wordclouds/686810_recommended.png",
+    "negative": "/wordclouds/686810_not_recommended.png"
+  },
+  "690790": {
+    "positive": "/wordclouds/690790_recommended.png",
+    "negative": "/wordclouds/690790_not_recommended.png"
+  },
+  "690830": {
+    "positive": "/wordclouds/690830_recommended.png",
+    "negative": "/wordclouds/690830_not_recommended.png"
+  },
+  "699130": {
+    "positive": "/wordclouds/699130_recommended.png",
+    "negative": "/wordclouds/699130_not_recommended.png"
+  },
+  "700330": {
+    "positive": "/wordclouds/700330_recommended.png",
+    "negative": "/wordclouds/700330_not_recommended.png"
+  },
+  "701160": {
+    "positive": "/wordclouds/701160_recommended.png",
+    "negative": "/wordclouds/701160_not_recommended.png"
+  },
+  "703080": {
+    "positive": "/wordclouds/703080_recommended.png",
+    "negative": "/wordclouds/703080_not_recommended.png"
+  },
+  "704850": {
+    "positive": "/wordclouds/704850_recommended.png",
+    "negative": "/wordclouds/704850_not_recommended.png"
+  },
+  "714010": {
+    "positive": "/wordclouds/714010_recommended.png",
+    "negative": "/wordclouds/714010_not_recommended.png"
+  },
+  "719890": {
+    "positive": "/wordclouds/719890_recommended.png",
+    "negative": "/wordclouds/719890_not_recommended.png"
+  },
+  "72850": {
+    "positive": "/wordclouds/72850_recommended.png",
+    "negative": "/wordclouds/72850_not_recommended.png"
+  },
+  "728880": {
+    "positive": "/wordclouds/728880_recommended.png",
+    "negative": "/wordclouds/728880_not_recommended.png"
+  },
+  "729040": {
+    "positive": "/wordclouds/729040_recommended.png",
+    "negative": "/wordclouds/729040_not_recommended.png"
+  },
+  "730": {
+    "positive": "/wordclouds/730_recommended.png",
+    "negative": "/wordclouds/730_not_recommended.png"
+  },
+  "739630": {
+    "positive": "/wordclouds/739630_recommended.png",
+    "negative": "/wordclouds/739630_not_recommended.png"
+  },
+  "744900": {
+    "positive": "/wordclouds/744900_recommended.png",
+    "negative": "/wordclouds/744900_not_recommended.png"
+  },
+  "750920": {
+    "positive": "/wordclouds/750920_recommended.png",
+    "negative": "/wordclouds/750920_not_recommended.png"
+  },
+  "761890": {
+    "positive": "/wordclouds/761890_recommended.png",
+    "negative": "/wordclouds/761890_not_recommended.png"
+  },
+  "766570": {
+    "positive": "/wordclouds/766570_recommended.png",
+    "negative": "/wordclouds/766570_not_recommended.png"
+  },
+  "767560": {
+    "positive": "/wordclouds/767560_recommended.png",
+    "negative": "/wordclouds/767560_not_recommended.png"
+  },
+  "779340": {
+    "positive": "/wordclouds/779340_recommended.png",
+    "negative": "/wordclouds/779340_not_recommended.png"
+  },
+  "780310": {
+    "positive": "/wordclouds/780310_recommended.png",
+    "negative": "/wordclouds/780310_not_recommended.png"
+  },
+  "782330": {
+    "positive": "/wordclouds/782330_recommended.png",
+    "negative": "/wordclouds/782330_not_recommended.png"
+  },
+  "784080": {
+    "positive": "/wordclouds/784080_recommended.png",
+    "negative": "/wordclouds/784080_not_recommended.png"
+  },
+  "784150": {
+    "positive": "/wordclouds/784150_recommended.png",
+    "negative": "/wordclouds/784150_not_recommended.png"
+  },
+  "784950": {
+    "positive": "/wordclouds/784950_recommended.png",
+    "negative": "/wordclouds/784950_not_recommended.png"
+  },
+  "799960": {
+    "positive": "/wordclouds/799960_recommended.png",
+    "negative": "/wordclouds/799960_not_recommended.png"
+  },
+  "805550": {
+    "positive": "/wordclouds/805550_recommended.png",
+    "negative": "/wordclouds/805550_not_recommended.png"
+  },
+  "812140": {
+    "positive": "/wordclouds/812140_recommended.png",
+    "negative": "/wordclouds/812140_not_recommended.png"
+  },
+  "813780": {
+    "positive": "/wordclouds/813780_recommended.png",
+    "negative": "/wordclouds/813780_not_recommended.png"
+  },
+  "815370": {
+    "positive": "/wordclouds/815370_recommended.png",
+    "negative": "/wordclouds/815370_not_recommended.png"
+  },
+  "824270": {
+    "positive": "/wordclouds/824270_recommended.png",
+    "negative": "/wordclouds/824270_not_recommended.png"
+  },
+  "835570": {
+    "positive": "/wordclouds/835570_recommended.png",
+    "negative": "/wordclouds/835570_not_recommended.png"
+  },
+  "848450": {
+    "positive": "/wordclouds/848450_recommended.png",
+    "negative": "/wordclouds/848450_not_recommended.png"
+  },
+  "8500": {
+    "positive": "/wordclouds/8500_recommended.png",
+    "negative": "/wordclouds/8500_not_recommended.png"
+  },
+  "860510": {
+    "positive": "/wordclouds/860510_recommended.png",
+    "negative": "/wordclouds/860510_not_recommended.png"
+  },
+  "870780": {
+    "positive": "/wordclouds/870780_recommended.png",
+    "negative": "/wordclouds/870780_not_recommended.png"
+  },
+  "880940": {
+    "positive": "/wordclouds/880940_recommended.png",
+    "negative": "/wordclouds/880940_not_recommended.png"
+  },
+  "881020": {
+    "positive": "/wordclouds/881020_recommended.png",
+    "negative": "/wordclouds/881020_not_recommended.png"
+  },
+  "885970": {
+    "positive": "/wordclouds/885970_recommended.png",
+    "negative": "/wordclouds/885970_not_recommended.png"
+  },
+  "892970": {
+    "positive": "/wordclouds/892970_recommended.png",
+    "negative": "/wordclouds/892970_not_recommended.png"
+  },
+  "8930": {
+    "positive": "/wordclouds/8930_recommended.png",
+    "negative": "/wordclouds/8930_not_recommended.png"
+  },
+  "899770": {
+    "positive": "/wordclouds/899770_recommended.png",
+    "negative": "/wordclouds/899770_not_recommended.png"
+  },
+  "916440": {
+    "positive": "/wordclouds/916440_recommended.png",
+    "negative": "/wordclouds/916440_not_recommended.png"
+  },
+  "920210": {
+    "positive": "/wordclouds/920210_recommended.png",
+    "negative": "/wordclouds/920210_not_recommended.png"
+  },
+  "920490": {
+    "positive": "/wordclouds/920490_recommended.png",
+    "negative": "/wordclouds/920490_not_recommended.png"
+  },
+  "924970": {
+    "positive": "/wordclouds/924970_recommended.png",
+    "negative": "/wordclouds/924970_not_recommended.png"
+  },
+  "933110": {
+    "positive": "/wordclouds/933110_recommended.png",
+    "negative": "/wordclouds/933110_not_recommended.png"
+  },
+  "934700": {
+    "positive": "/wordclouds/934700_recommended.png",
+    "negative": "/wordclouds/934700_not_recommended.png"
+  },
+  "945360": {
+    "positive": "/wordclouds/945360_recommended.png",
+    "negative": "/wordclouds/945360_not_recommended.png"
+  },
+  "949230": {
+    "positive": "/wordclouds/949230_recommended.png",
+    "negative": "/wordclouds/949230_not_recommended.png"
+  },
+  "960090": {
+    "positive": "/wordclouds/960090_recommended.png",
+    "negative": "/wordclouds/960090_not_recommended.png"
+  },
+  "961200": {
+    "positive": "/wordclouds/961200_recommended.png",
+    "negative": "/wordclouds/961200_not_recommended.png"
+  },
+  "962130": {
+    "positive": "/wordclouds/962130_recommended.png",
+    "negative": "/wordclouds/962130_not_recommended.png"
+  },
+  "972660": {
+    "positive": "/wordclouds/972660_recommended.png",
+    "negative": "/wordclouds/972660_not_recommended.png"
+  },
+  "975370": {
+    "positive": "/wordclouds/975370_recommended.png",
+    "negative": "/wordclouds/975370_not_recommended.png"
+  },
+  "976730": {
+    "positive": "/wordclouds/976730_recommended.png",
+    "negative": "/wordclouds/976730_not_recommended.png"
+  },
+  "977400": {
+    "positive": "/wordclouds/977400_recommended.png",
+    "negative": "/wordclouds/977400_not_recommended.png"
+  },
+  "985810": {
+    "positive": "/wordclouds/985810_recommended.png",
+    "negative": "/wordclouds/985810_not_recommended.png"
+  },
+  "990080": {
+    "positive": "/wordclouds/990080_recommended.png",
+    "negative": "/wordclouds/990080_not_recommended.png"
+  },
+  "9900": {
+    "positive": "/wordclouds/9900_recommended.png",
+    "negative": "/wordclouds/9900_not_recommended.png"
+  },
+  "993090": {
+    "positive": "/wordclouds/993090_recommended.png",
+    "negative": "/wordclouds/993090_not_recommended.png"
+  }
+}

@@ -1,0 +1,891 @@
+{
+  "positive": [
+    {
+      "review": "I am a bit conflicted on this game. On one hand, I enjoyed my 40 hours spend with it and I definitely got my money's worth. So it's hard for me not to recommend it on just that basis. But at the same time I see tons of wasted potential with weird design choices and ultimately not that much to actually do, culminating in a game that fundamentally is very solid, but is deeply flawed. And because of this I don't see myself ever coming back to it to grind for the rest of the achievements or to 100% all of it's \"content\". And I am sure there are some people out there who would not like this game because of those things, so let me talk about them in this review so you can make up your minds.\n\nThe first big problem this game has is that it pretends (purposefully or not) to have way, and I mean WAY more things to do than it actually does. The game assaults you with lots of characters, stages, multiple game modes, and a massive list of unlockable things and progression systems. But in reality it is all VERY inflated by re-using content over and over. Some examples: \n\n-Different stages have next to no differences between one another and no relevant gimmicks to make them stand out or play different \n- Differences between characters are largely just based on different stats and a couple character specific skills, even the character specific mechanics you unlock as you level them up are the same thing across all character (just repackaged with different visuals and stat variations). But every character plays 99% the same way.\n- Same skills are repeated multiple times with just their elements or other arbitrary characteristics altered. So the hundreds of skill this game has practically boild down to a few dozen distinctly feeling ones\n-Different enemies are just reskins that use the same few attack types. If it was just stage enemies I would not even list it as an issue... but it goes for bosses too.\n\nYou get it, this is the patter through the whole game. Everything is stretched so thin, one unique thing is split into a couple more things that are almost the same, just to make the game feel larger than it is. The first time you open this game you might be overwhelmed by just how much stuff there is in front of you, but as you play it is starts feeling very, very small. Ultimately this isn't really a deal breaker, because the amount of unique things here is... alright, it's not too much but not too little. It just feels cheap and lame, the game would've been much better if it had 25% of the \"content\", but it all felt more unique. And while this is definitely this game's biggest weakness, it ultimately would not detract from it's replayability if it pulled off it's own satisfying gameplay loop.\n\n... Which is where we arrive at the game's the second big problem: balance. The problem here is twofold, and it compounds on itself:\n\n1. The way this game does it's damage formula is just... bad. The way they made the math work forces you into the exact same build path if you ever want to make a good build, and it's not the first game that made this mistake either. This game has both additive and multiplicative damage multipliers. Meaning, a 50% damage boost can either be a 50% increase to all the damage that you do, or just a +50% bonus added to all the other bonuses you already have. On it's own that is not a problem, many games do this and it works well if it's done properly and the devs make both play nice together. Here unfortunately the developers completely dropped the ball. Long story short: the game features many debuffs that stack multiplicatively with your total damage dealt. That alone is immensely powerful, but then they also made those debuffs multiply on top of EACH OTHER. That's right, we are no longer just multiplying things, we are doing FACTORIALS now!! And the worst part of all of this, this is THE ONLY way to increase your damage like this. There is no other way in the game to scale your damage in such an absurd way, which means that if you ever wish to get a \"god run\", you need these debuffs, and you need to be able to stack them as best as you can.\n\n2. There is an archetype of damage skill that is just... superior. It's the skills that multiply their damage based on either the number of debuff/status stacks on the enemy, or ones that consume said stacks and multiply their damage. Basically: the skills taht scale their damage based on debuff number one way or another. It's not even funny how much better these skills are than all the others. And it's sad to see, because there are other skills in the game that clearly try to be good damage skills too, scaling of different things or having other gimmicks to raise their damage. But the difference in strength between the good ones and the bad ones are so massive, we are talking multiple zeroes at the end of the number differences, you HAVE to use these skills if you want the best results.\n\nAnd if you add those two problems together, you end up with a game that puts extreme emphasis on skills that either directly apply the debuffs I mentioned earlier or are good at applying them in other ways once you get supporting skills, and then it makes you take the scaling damage skills that scale off either the 3 DOT effects, or the status effects, of which there aren't that many. Suddenly, the hundreds of skills this game has boil down to MAYBE a few dozen actually good ones. And since every character is basically the same and can use the same things, you will end up making the variation of the same build every single time... the only way to enjoy some variety here is to unfortunately play on lower difficulties and intentionally ignore the objectively correct way to build your character. Basically: playing the weak, off-meta build in a hack and slash game. And let's be honest, almost nobody enjoys intentionally gimping themselves in a game like this.\n\n\nSo, all of that sounds pretty bad, right? And yeah, it is. And that's why I will probably never come back to it. But that doesn't change the fact that before I arrived at this point, I got 40 hours of good fun out of it and finished the game, and for those 40 hours the problems I mentioned didn't really surface and were not that big of a part of the game. It was really only after I beat the game's final boss for the first time that I started to think \"yeah, I think I'm done, there isn't that much here to enjoy afterwards\". So, a careful recommendation for people who enjoy this genre of video games.",
+      "voted_up": true,
+      "votes_helpful": 28
+    },
+    {
+      "review": "One of my favorites in the genre, mostly because it doesn't take long before you can do crazy damage, which is what I play these games for.",
+      "voted_up": true,
+      "votes_helpful": 9
+    },
+    {
+      "review": "This is IMO one of the better games in this genre.\r\nI can recommend it to everyone, who loves to make escalating Builds, that have stunning visuals as well.\r\n(you can't see shit at some point, but this is usually the way it goes when you are doing things right, right?)",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Good survivors like rougelite game. A large cast of characters that, after you finish the global skill tree, have their own skill trees. Each character also has their own character gimmick (first node on their skill tree) although there are quite a few that are just collecting items dropped from enemies or having a bar automatically fill. There's a good amount of enemy variety across 3 different modes that include a standard survivors like mode, one that resets your character level after each segment but gives a persistent buff that carries through the end of the mode, and one where you walk around 4 or more maps activating small arenas to kill enemies in that lead up to a boss fight at the end of each map and then one final map with the last boss. I will say that it feels that not all build are extremely viable with a lot of the good builds being some form of using damaging debilitations and either using a skill that triggers them all immediately or making a build that focuses on trying to get a passive that gives a chance to trigger a skill of type b whenever a skill of type a is used.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This is a fantastic game. I really love the graphics and the music and the progression.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "kind of the superior game to vampire survivors, if only by a sliver",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Definitely a good one! One thing that definitely comes to mind: Completing areas is based on [b]KILLS[/b],  and not on a time limit, unlike most other VS-likes. Others, you're forced to be there the whole time, until the time limit expires. Here, the sooner you kill em', the sooner you can get out of there. This game has an endless option, but it works the same way as well.\r\n\r\nFWIW I've played VS, HoloCure, Brotato, Deadly Days: Roadtrip, and Megabonk",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Enjoying playing this one I slept on it for a while just because I have so many games in my back catalog to go through. The music / visuals and the game play loop are great. \n\nIt feels more brotato than vampire survivors which to me is a good thing. It doesn’t have a crazy big “open world “ like vs DLCs it’s simply turn off your brain and do big damage to nice art style and music. Solid 10/10 rougelite",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "My current favorite game in the \"diablo\" genre in terms of turn your brain off and just go to town on enemies. \n\nThe systems are very easy to interact with and the meta progression feels pretty solid. There are tons of characters to choose from that all feel different to play. \n\nI am looking forward to playing this game for many more hours. It is aesthetically pleasing so that helps a lot!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "fun game, getting a good amount of updates and the grinding is kinda enjoyable.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It is Kripparians fault that I started playing this game and Broken's Playz fault that I enjoy it!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A fun game in the vein of Vampire Survivors. If you can't get enough of the genre, this is one of the better games out there.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very enjoyable game, been playing it on and off since close to the beginning",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Super solid game, I love that abilities can be sorted by element or what type of ability they do. Additionally you don't have to deal with worrying about directionality like in Vampire Survivors. I love that characters evolve as you play them and depend on which weapons you have, which runes, and their skill trees. Overall 10/10 would recommend and I'm always stoked for a new update.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its fun but when i bought it multiplayer was susposed to be a thing",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game, catch music and good visuals, fun to play.\n\nI wish it was possible to nominate this game for best labour of love, since it developed a lot from back when it first realesed!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Even after nerfing my favorite build horrendously this game is surprisingly fun. Can be surprisingly addicting, especially if you get the urge to get all the achievements like I did.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really enjoy the \"survivor\" genre of game and this has been one of the deepest I have ever played.  There are many different playstyles available from the many characters.  A few of the later characters have OP powers that can take care of Lords of the Void real quick.  Plenty of replay value and achievements in this title.  I hope they continue to release new characters and levels.  If you enjoy the survivor genre, then I highly recommend checking out this one!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I like the art style, the music, and that there is a lot to do in game.\n\nThe gameplay can get a bit hectic.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of those few games that never truly gets old and each character is great to play and feels unique enough from the rest. Each update has added more and more things that just make the game that much more incredible to play.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Spirit or Foe, I banished worse!\nGreat survivor game with lot of progression. Keep up the great work!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the best survivors games out there with a ton of different build options, great visual style, lots of unique powers, good meta-progression, and an active developer that keeps adding things to the game to keep it fresh.  More than worth it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Many achievements to get and they're updating the game continously. \r\nOne of the best survivors-like I played so far.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "In my top three favorite games I have played this year.\r\nI have played several survivor games and i gotta say this one plays the most like an arpg rogue lite, except it automates  your skill activations. I didnt realize how much i would like enjoy that untill I tried it. I have some hand isues, so not having to continuously click all the different inputs like you would in a typical arpg is something i really enjoy.  Incredibly indepth custimization for builds. Hours and hours of progression to unlock.\r\nMy only gripe is it isn't co-op. Man this game would be perfect if it had co-op. It just screams couch co-op to me. I continue to go back to games like brotato to this day because of the co-op alone. I really hope that in the future they end up adding co-op, atleast in some compacity.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really like this game. The team behind this game is constantly expanding the game with not only heroes but also stages and what not. I was expecting it to be done two overhauls ago and getting this much additional content feels awesome.\n\nCompared to brotato as I have played that game almost an equal amount of time, this feels a tad different. In Brotato except for when everything just works RIGHT each and every round is a battle. This game on the other hand, is more predictabel and allows you to properly build your hero. The reason you die in the end is often just your own inability to stay focused or you are overwhelmed by the amount of enemies that get thrown at you.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great fun. My own gaming style/personality means I have a short blast at it once in a while, maybe a 20 minute session a few times then I may put it aside for a week or two. But I can see how it can reward the hardcore player who is willing to put a lot of time into it on a regular basis.\nGraphics, control and overall playability are excellent. I have a handful of games in this genre and this does stand out as one of the better ones.9",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Soulstone Survivors is, quite frankly, dangerously addictive. It’s one of those games where you say “just one more run” and suddenly it’s 3 AM. One of the biggest surprises is the voice acting — genuinely good, well-delivered, and far above what you’d expect from a game in this genre. Add to that a huge roster of characters, each with their own playstyle and build potential, and you’ve got a game that constantly tempts you to try something new.\n\nThe abilities are so flashy and over-the-top that you’ll often find yourself turning off visual effects because you literally can’t see anything amid the explosions, beams, circles, and magical chaos. It’s a spectacle… and an absolute mess, in the best way.\n\nThe story is another pleasant surprise: deeper than it first appears, with clear references to Lovecraft and The King in Yellow by Robert Chambers, giving the whole game a mysterious, dark flavor that fits perfectly.\n\nThe Fire Mage deserves her own spotlight because, honestly, she’s the best character in the entire game. Everything she touches burns, explodes, or melts into glowing ash. Playing her feels like handing a flamethrower to a pyromaniac with zero supervision. Let it all burn. Every run with her is pure, chaotic joy — highly recommended if you enjoy watching the world turn into a barbecue.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun vampire survivors like game. Progression is enjoyable with a lot of viable builds. Content is added frequently.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is great fun. Works well on Steam Deck, great for me to sit back and relax without needing to pay too much attention. The devs have added a lot of content over time and it has all been through free updates. I enjoy it a lot and find myself coming back every time there is an update to see what is new. I highly recommend picking it up if you like the survivor type game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is one of those games that will always win in an endless mode, but damn is it fun trying to beat your personal best",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the best games of the \"Vampire Survivor\" likes.\nAlso great to play on the steam deck.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is so addictive in a positive way!\nIt truly allows you to live your power-fantasy by checking out different builds, getting stronger and stronger during and between runs. It escalates quickly!!!\nMeanwhile, the bass line keeps pushing you. Fantastic!\n\nI banked almost 60 hours on Steam and another 120+ hours on PS5 on my record … I rest my case.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun game, lots of different character/playstyles to noodle around with.  Definitely easy to sink a bunch of time into and not even realise how much time has passed.  I also really like the art style of this one.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great game with well paced progression and replay-ability.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is a really enjoyable survivor-like with a good variety of characters to play and skills to try. Graphics are great, and you can adjust skill visibility on the fly, which is a huge plus. I love that the characters have voice lines! Some of the music tracks can get a bit grating, but most are easy to listen to and quite atmospheric. The controls feel great (using controllers). I would say congratulations to the devs, you did well with this one! I still have content to finish. It's a thumbs up from me! 😄👍",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really like to come back again and again to play this one. I love the art style too with it... so yeah... I voted Outstanding Visual Style Award 2025 for it!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Pretty fun survivors-like game. A ton of characters, but like other games in the genre, gets a bit grindy and repetitive after a certain point.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "easily one of the most under rated survivors games, you can dump hours into this game only to realize that you havent even unlocked the skill trees yet, excellent game!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Even though I don’t play the game much is always worth returning to. Very relaxing gameplay and absolutely beautiful music.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is amazing, one of the best in it's genre.\n\nIf you love games like Vampire Survivors, I totally recommend Soulstone Survivors.\n\nI love the fact you level up each Hero and can spend skill points once you get to a certain point. You can also equip different traits that have to be unlocked through game play and all Heroes can use these traits.\n\nI did receive this game as a gift, although I would buy it if I didn't get it as a gift. It's worth the price.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[h3]Amazing Game | 9.5/10 | Fun for 10 minutes or for 5 hours. Loads of content, synergies, bosses, and tons of hours worth of things to do. Highly recommend this even over Vampire Survivors. One of the best VS style games bar none.[/h3]\n\n[/h3]PROS:[/h3]\n- Synergies\n- Tons of content\n- Hours of things to do\n- Varied Builds\n- Tons to collect\n- Incredibly fun and addicting gameplay loop\n\n[h3]CONS:[/h3]\n- 3 Gameplay styles really\n- Level variation is there, but curses need to be done 1 after another. You cant jump to the final curse and try your luck unfortunately.\n- Slow progression with the Blacksmith due to lots of currency types.\n- All gems but the yellow gems are easy to get since they only drop around 4~ at a time in the middle of a match. Only nitpick I really have.\n\n[h3]OVERALL:[/h3]\n\nI have played this game off and on for a few years and watched it grow. Its one of the best bangs for your buck as far as VS style games go. Tons of different builds and lots of weapons/magic/spells to keep you entertained. Highly recommend this game for the hours you can put in alone, plus the dev team is constantly cooking something.\n\nThis game gets updated constantly with new stuff added. They just added a ton of new characters, bosses, weapons, etc right before I left this review. \n\nIf you're on the fence, definitely pick this game up. If you can get it on a sale even better but I fully stand by this game being worth its full price. Its a slow burn, but one that burns for a long while and manages to stay fresh run after run if you use the tools the game gives you. Very worth your money.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun game in general, if going for the achievments can feel a bit grindy.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Its a good game for the steamdeck and boring Train rides",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "An excellent bullet heaven with great longevity. Explore the different play style that comes with each archetype and a few different modes of game play loop allows for oddles of hours of fun.\n\n10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Pretty fun game. I consider it \"comfy\", as it's not necessarily difficult, but can be nice to turn off your brain and survive some waves. Tons and tons of progression options. Runs well and is pretty fun with the amount of build variety.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Games great, and it keeps getting updates! always nice to see a dev team that cares",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I've sunk a few hours into this and it's always fun to come back and have a copuple of rounds. Often there will be new stuff added, which keeps it fresh. One of the best Survivor Type games out there.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have been playing this since it first came out and there were only four characters available to play.  It is one of two bullet hells I play often (Vampire Survivors is the other one).  It is a fast-paced, try not to get caught in any red circles, while DoT'ing up the bosses style of game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Probably my favorite of the different survivor-likes out there. Lots of classes, different modes, a wide variety of abilities and strategies to explore.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really solid \"survivors-like\" game. Ever since the release of Vampire Survivors, I've been addicted to these types of games. They're a super reliable and laidback source of fun, and the nature of the genre allows for immense creativity on how different devs tackle things and it kind of forces each game to do its own unique thing and bring something new to the table to distinguish itself from others and to actually gain some traction within this arguably now oversaturated genre.\n\nWith that being said, happy to say that Soulstone Survivors will offer a seriously great time. The game feels polished and high quality. The visuals are great. Colourful and stays looking pretty even through the chaos. All the characters, environments, weapons, and item/visual effects are designed well. The game has a well-defined and focused artstyle it's going for. The actual gameplay/combat itself is really fun. The game has dodge mechanics and enemies actually use attacks against you rather than dealing damage by simply just touching you, so it keeps you engaged and on your feet, and it actually makes higher-difficulty/longer runs quite challenging, since you actually have to position yourself well while dealing with tons of enemies and bosses bombarding you with huge, hard-hitting attacks. There are tons of playable characters. All of them having multiple weapons each to choose from that offer different stats and abilities. I also really appreciate that every character has voicelines and their own distinctive personalities, making the game feel more alive. The characters even come with skill trees that can be levelled up to gain stat increases and additional unique abilities, with each character being given [spoiler]an alternate skin[/spoiler] as a reward once fully levelled up. \"Runes\" are additional things that can be unlocked, and they have the largest impact on gameplay. They can be used to make different builds for all the characters offering things ranging from increasing your XP and material gain, to being able to use other characters' abilities that are typically exclusive to those characters, to lowering your damage in exchange for more dodges/dashes or increasing the damage of your summons... the list goes on. There are tons of things to unlock, different game modes, and the devs have so far been constantly and consistently updating the game and adding new content. For the low price, you're getting potentially hundreds of hours of fun.\n\n[h1] ✧ Very good, I recommend ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ [/h1]\n\nThe only negative I have at the moment is regarding controller input. I don't have these issues while playing on the Steam Deck, but for some reason, I have frequent issues with controllers when playing on my desktop PC. Affects both Xbox and PlayStation controllers. It doesn't happen with any other game so I can only assume it's an issue with Soulstone Survivors. Sometimes when launching the game, it doesn't recognise controller input at all, and whenever my controller happens to run out of battery or disconnect for any other reason while playing the game, it won't reconnect, forcing me to either switch to mouse and keyboard or restart the game, which, of course, is very annoying as it ends my current run. It's not game-breaking but it can be quite frustrating, so I'm hoping that the devs can get around to fixing this issue!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "In my honest opinion, this game deserves the \"Most Innovative Gameplay\" award for 2025. At the very least, it needs to be on the award's final selection list. Of all the games I've played in 2025, this game's got the gameplay loop and the combat that I never actually got tired of.\nIt's got a solid foundation of action rogue-like gameplay and fulfills the class fantasy aspect that you see lacking in modern AAA RPG titles. And then on top of that, you can further customize your gameplay with the freedom to select any abilities you want for any class.\nYou want to be a paladin hurling fireballs? You can do that here (even if it's a bad combo lol).\n\nAnd then the devs keep updating the game with more classes, more weapons, more bosses for [b][i][u]FREE[/u][/i][/b]. It's definitely got my nomination for the \"Labor of Love\" award in 2026 if they keep this up.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Tons of classes, weapons, abilities, and content. Great game that gets consistent updates.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good game with a lot of build variety and achievements to grind through (If you like grind)\nGame got a lot of updates in the past year wich improved many things that needed a workover",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love it when the entire screen is a never ending hitbox for one of my attacks",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's gotta be a flamin hot 10/10! a really fun and addictive game with over 900,000 crazy builds! so fun I forgot the time wait its 6:am in the morning now!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is such an enjoyable game! Not only does it have nice arenas to fight in (more being added all the time --- one was just added in the latest update), other new content is always being added as well. Further, there are many places to play well beyond the normal places to play\n\nThis is very challenging, but very rewarding game to play\n\nEnjoy",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very Nice and engaging, if u like bullet hell and being mega broken in the endgame...go for it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game with constant updates. A game I can always come back to.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the very best in the genre, still getting active updates too.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great survivors game, between characters, weapons and runes there is so much room to play and make builds. so good!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun and quick to start, but rather deep with lots of advancements to keep you coming back to the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "one of the best survivors game i've played, along with anotherzombiesurvivors and  hordes of hel .",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Buen Survivors like, muchas clases y muchas mejoras por clase. La musica acompaña el juego y los modificadores suman rejugabilidad.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun game with some depth to it. Though it does get repetitive after a while. But good times to be had and has some fun level puzzles here and there.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "TL;DR Buy it full price if you like Vampire Survivors you will bust more than I do at the bakery I work at\r\n\r\nThe closest I've come to finding something that equals Vampire Survivors. For some it may even be better, but for me nothing will ever beat the OG. Fellow Vampirecell Survivorpilled fellers will understand. The amount of systems and zones and challenges is crazy, not to mention almost two dozen characters each with several weapons and a rune system I've only begun to scratch the surface of. Don't love the art style but the abilities look so cool it equals out. Much progression, such depth wow",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A gem of a game.. Path of Exile Light as hell, but pure fun.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Soulstone Survivors is an incredibly fun and addictive game! The fast-paced combat, satisfying progression, and huge variety of builds keep every run fresh and exciting. I love how smooth the gameplay feels and how rewarding it is to experiment with different skills and synergies. A must-play for fans of action roguelites!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[h2]Absolute blast![/h2]\nFast, chaotic, and incredibly satisfying, it nails the power-fantasy feeling better than most games in its genre. The progression is addictive, easy to pick up, hard to put down, and perfect for “just one more run.” \nHighly recommended!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Pretty fun and interesting bullet hell game. One notable feature that makes it stand out in the crowd is probably lack of contact damage, so you won't die from simply touching an enemy. \n\nThere's lot of characters, different levels and several game modes. Challenge can be increased by additional modifiers. Each character has unique skill tree that can be used for boosting that characters unique skill and also to provide global boost and runes that can be used when playing other characters, so actually playing different characters and trying something new is rewarded. \n\nGame is still receiving content updates, which is always nice, there's more to look forward to. \n\nEndgame content can be a bit grindy, but the game is solid fun.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This entry in the bullet heaven genre stands out most for its polish. The visuals, and especially the audio and voice acting, are above and beyond what you normally find in these kinds of games.\r\n\r\nThat's not to say the gameplay is lacking, though. The frequent and exciting boss fights require you to stay on your toes, learning and dodging their attacks while your destruction engine whittles them down. With 22 classes, each with their own special abilities, stat spreads, and skill pools, and three game modes with their own cadence, there's plenty of ways to tweak your builds and experience.\r\n\r\nEvery mode has an infinitely scaling difficulty option as well, so you're never at risk of having your meta progression make the game too easy. Meanwhile, if you love meta progression, boy will you find a lot of it here.\r\n\r\nIf I have any criticisms, it's that the visual clutter can make noticing dodge cues anywhere from tricky to downright impossible. There's an opacity slider in the options (that affects your skills, not the enemies') to address the issue, but it'd be nice if there was a more elegant solution that didn't require turning down the very nice visuals they have going on. This is mostly only an issue for late-game builds, and isn't always an issue depending on the skills you pick, but it's very noticeable when it is.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really cool game, if you like those type of survival games.\r\n\r\nHas many characters, pretty cool abilities and different weapons. Good choice of Maps. Give it a shot you wont regret it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The game introduces great playstyle and music. It is really chill game that for people who loves to collect achievements is perfect choice. A lot of characters were introduced so you can play fr a long time.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Is it perfect? Nah.\n\nIs it FUN? YES!\n\nMultiple play modes (ok the play doesn't vary /that/ much but...) and lots of different characters with some vastly different play styles (ok, again you're mostly running around in a circle but still!) and cool abilities.\n\nThe soundtrack is pretty sweet as well if you like electronic music.\n\nAt $15 not on sale, it's a good grab.\nOn sale? Don't hesitate if you're at all interested.\n\nMy main request of games is at least $1/hour or less invested. This game at full price takes 15 hours to hit that, and I'm easily at $0.50 now.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "An easy-to-learn, hard-to-master game that can get a bit grindy if you’re going for 100%.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great \"turn your brains off\" gameplay. Achievement based unlocks is something I like",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Game has a lot of build variety and a lot of replay value, great game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the best rougelikes and bullet hell game, alot of content and replayability.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is a content machine, if you like Vampire Survivor, this is the game for you.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "love this game for a quick round of action fun, lots of fun to play and challenging also",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Solid action roguelike, my current favorite game of this type.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "At the start this game might look too easy, but give it just 2-3 hours and it will consume you...",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the best VS clones. Good weapon and powers combos, lots of characters, plenty of stuff to upgrade so it doesn't get repetitive for a while.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Better than a lot of other survivorlike games that have popped up in the last year. Sadly starts suffering from repetition syndrome at around 40 hours into the game. Fun to do a run or two every month or so...\n7/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets a little repetitive but it's kept me going for just under a hundred hours.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Excellent Vampire Survivors like game with heavy Diablo/Torchlight influence. Highly recommend",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Of course I nominated this game multiple times for this years awards. Have gotten all achievements multiple times and just look at the time I have put in to this game. So addictive and rewarding playing this game, and the developer continues to add to it, If you don't have this game you should grab it right now.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Just keep playing and the music will never stop......",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very solid roguelike game, second only to Brotato in my opinion. It's got plenty of classes, each with unique weapons that come with different skill types, allowing for different builds. So far there are only 4 or 5 maps to play on, but there are endless modes and other challenged available to keep you busy. There is also a massive skill tree that provides meta progression, allowing for an increased challenge and more loot drops, and special abilities and interactions for each class. It's a bit grindy and repetitive, but once you unlock higher curse tiers for EXP scaling it goes really fast, I can usually farm a ton of levels for a character in < 10 minutes per round.\n\nRecommended :)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I think Soulstone Survivors is one of the better games to follow in the wake of Vampire Survivors. There's a fairly large pool of characters, a good amount of talent and weapon customization, and some decent meta progression tied to player achievements.\r\n\r\nWhere I think the game is found lacking is in its replay value. Once you've finished the different modes and upgrading your character of choice, you've pretty much seen everything the game has to offer. There's nothing stopping you from doing it all over again for each and every character, which can also be quite fun, but that first character you spent so much time refining ends up feeling dead in the water. You could always attempt some self-imposed challenge runs, but that obviously isn't for everyone.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great action roguelike with tons of unlocks and runs great on the Steam Deck.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really fun, whether you're going for the perfect build or turning your brain off and grinding the levels. Haven't 100% it yet completely, but enjoyed myself all the way to the final boss and beyond and I think this is a game well worth it's full price. \n\n9/10 for me,  for sure.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun, dynamic and the devs keeps updating. A very nice representative of the genre",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Started out strong in Early Access, went harder on release and lately it's way better. Recommended, even on the Deck (with some lagfest on the later levels)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Addiction. This is basically a build simulator. You theory craft a build and see how far it can get you before you inevitably die or break the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Best Survivor type game. Lots of content and fun.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun to play, a bit grindy first but it got better after recent updates.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great game has some challenge to it but once you have a build going its a blast.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is a must have in your libary. If you enjoyed the main titles of this genere and didn't buyed yet, don't blink, just buy and thank me later",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good game. So many options to play and choose from. Great for a timesinks and achievement hunters alike",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Its really fun and there is a lot to do, characters to unlock, different modes, weapons to unlock for each character, leveling weapons up, and more!",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "I bought this game back in early access, and since then they've added a METRIC TON of content. seriously, it's probably the biggest action roguelike content-wise compared to the classics like Vampire Survivors, Holocure, Halls of Torment etc.\nBut here's the thing,  my biggest issue is the same now as it was in early access. \n\nThe core gameplay loop is flawed. Once you hit higher difficulty content, you're basically just dashing around in circles dodging red damage zones and projectiles. Every game mode feels the same, every character, every weapon you pick, every rune you choose - it all plays fundamentally the same. Doesn't matter how many new characters, weapons, or maps they add (which they do for free, massive props for that), it gets repetitive and you find yourself dashing around until the level is over. I recall a dev stream for the 1.0 release where they wanted to address this exact situation to make it less heavy on damage zones, but they never really did. They went a different route instead.\nThey've added a bunch of new systems (short version):\n- Character-specific abilities that make heroes more unique which is GREAT.\n- The rune system is integrated well with skill choices and builds you can explore. \n- the expanded talent trees makes you feel that you are always getting stronger, one percent point at a time.\nAgain there is SO much stuff to unlock and upgrade. \nBut boiling it down, you're still just running in circles around red circles and squares.\n\nAnd here's the most frustrating part: on higher curse runs, you have to turn down visual effects just to see what's happening, so I can't even appreciate what my character is doing or the impact of my skill choices. Monsters die, the screen gets cleared, but the feedback on my character getting progressively stronger is not visually represented.\n\nIt's a weird situation. They keep adding more free content instead of going the paid DLC route, which I genuinely respect. But content flooding isn't fixing the fundamental problem. \nThe game needs a core gameplay overhaul, not another map, character, weapon, or rune. But I see this happening now as very unlikely.\n\nLooking at this now at the end of 2025, the competition in this niche genre may NOT offer the amount of content that you can get here with all the meta-progression systems but often have a better core loop that makes replaying more fun and rewarding. So I lost hope on this project. I am torn on giving this still a positive but for now, i have no desire to play it again no matter how much bells and whistles they add.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "110.9 hours and my pre-rant is just... no. This is not a game I'd recommend despite the enjoyment I have had, but my reasoning is simple. The game offers you a lie. Let me explain.\n\nThe survivor genre as popularized by Vampire Survivors has had many games attempting their own spin and Soulstone is no different, offering a deep progression system with varied gameplay across different maps and game modes on your path to creating a god build and there is some truth to this. There is a large passive tree, many characters, weapons, skills, and runes to give you something new to see with each run. There are different game modes with different goals that you can play. You can gain the power to evaporate bosses in .5 seconds. These are all true and the biggest draw, to me, was the in-run upgrade system where you level up and choose 1 of 3 options that allow you to increase your strength via lower cooldowns, more damage, more aoe, crit chance, crit damage, multistrike, combination choices, etc. This all sounds well and good, but there's a fundamental issue. The depth that is promised is more shallow then a spilt bucket on a hill. \n\n25+ characters with 5 weapons (eventually for all), each with their own stats, 2 unique abilities per weapon with 3-4 general character abilities, 20+ general abilities, and a passive tree for each character certainly offers a wide variety of builds. But you will inevitably run into the glaring issue where certain characters are worse than others by large margins because of the simple fact that there are specific skills that outshine all others in terms of damage. Skills that increase in damage based on debuffs on the enemy. You could roll nothing but damage increase for 1 ability out of the 6 (sometimes 7) that you have and still not reach the damage heights of other skills if that skill does not have a multiplier and im talking a difference of 1000 times greater which will be the difference between that .5s boss fight and a 1-2 minute boss fight or better yet, a 15 minute run versus a 30 minute run. This means you can play as optimized as possible with a build theme you like, but it will take you 3 times as long to complete a run without that multiplier, so if a character does not have a skill, whether unique or common, with that multiplier prepare yourself for a slog as the difficulty increases. But don't worry as you can change that via runes which grant further customization by letting you gain access to those multiplier skills (even if they are supposed to be character specific) but that does mean the character you choose doesn't matter beyond their stats. But what about the passive tree that gives each character a unique mechanic? Pointless. Those mechanics don't change how you play beyond giving you a basic task for a damage boost. Kill enemies until bar is filled, collect something, follow a path, stand in an area. Complete this task and you get a damage boost, but again if you don't have that big multiplier skill you will do no significant increase in damage. And the other passive points? Such minor increases that I'm sure it adds up but seeing a 5% damage increase after putting 5 points into the tree feels like ass when you get that same 5% from a single level up during a run. Perhaps the passive tree grants those increases to the base stats like an additive increase but the game does not explain in any way whether it's additive or multiplicative. The game doesn't really explain anything outside of what debuffs do. 25% increase damage via a rune? Same idea, so the passive tree increases feel like busy work. A task to complete and it feels worse since you can and will fill it all out. Nothing felt special. Each point spent had no thought put into it. Just max the number. But surely there can't be something that brings the skill system down more right? Well there is a very specific rune that lets you pick the same skill multiple times, so really to get the big damages you will run the same ability 6 times, maybe 5 if you can get one good support skill and remember you can get any skill onto any character with the right runes. But what about the in-run level up passives? Surely the customizations shine there- No, they don't. I've unlocked the Blacksmith by maxing out the whole passive tree and by spamming 5 of a skill, I could just select the center option and still incinerate the bosses in seconds. Meanwhile I run the barbarian with the stone hammers with only one level less on the weapon (another upgrade system), choosing as optimally as I can, and had to fight the bosses for 60x'ish longer which also means the run lasts longer too. Of course I grabbed a multiplier skill but it took 17 minutes before it came online because I needed the right boss reward. ALL OF THIS TO SAY, build variety is gone when you have no real choices if you want to push the difficulty higher. You have to take the right skills and those are few. But let's make it worse, because you will turn off the visual effects so that you can avoid the danger zones because you can't see with the sheer intensity of visual vomit on the screen unless you want to be one shotted and the end result means no matter the skill, everything now looks the same and you realize how every build plays the same as well. And a quick note on the dots (quick for me) poison is the best, then doom, then bleed, and lastly fire and the difference between each is staggering and that's without a multiplier skill. Seriously, fire always felt the worst, but to be faiiiiiir I'm not delving into the exact numbers. This is just experience based.\n\nAt least in vampire survivors the upgrades are small and limited and more importantly you can keep the effects on screen since you only avoid enemy contact. The permanent stat increases build up over time with no limit and I do mean no limit cause there's something else that limits you in gameplay. Diminishing returns.\n\nDiminishing returns are good... sometimes. If we are talking about games where enemies or players can get cc'd for years otherwise (moba/mmo), then yes diminishing returns are good, but um... not in your survivor game where the point is to become a god. There are buffs that give you increases to specific stats but they lose effectiveness. Example. Colossus grants 2% area increase per stack, so how much area would you have at 2k stacks? 1176%... What about 1k stacks? Roughly 1100%... That means you are punished for investing in area when you can achieve those stack amounts. This goes for all stats save for damage. After 1000% you will see diminishing returns. Even your defensives have DR and at higher difficulties you will not want the level up defensives but the buff defensives that stack. HP is the exception.\n\nSo I don't need to be optimized with level ups, just need the right skill and repeat it 5-6 times, but I can't stack buffs to insane degrees cause there's DR, I have to turn off the effects in order to play the game, and the unique mechanics of the characters are glorified damage buffs that don't change gameplay. This basically means there is no diversity in builds. Now granted this is only when pushing the difficulty higher, but this problem appears in the early game meta progression wise and gets worse farther into the end game. If you want to have every build be good, don't increase the difficulty. \n\nThe game modes play the same for the most part and the maps have no gimmicks or real enemy differences so it's just visuals. Bosses do have different moves to a point, but all you do is avoid the danger zone and with enough move speed and dashes, its not hard to do except it doesn't matter when you incinerate a boss in .5s. I had to keep this part short cause character limit exists.\n\nAll in all, Soulstone Survivors claims depth while having none. Yes it's fun and for 15 bucks you can get hours of enjoyment, but it's precisely because it boasts that which it does not have that I can't recommend it.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Feels too much like a phone game, and none of the combat has any weight to it. To each their own man, but this is definitely not for me.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "It's not a strictly *bad* game, but I can't recommend it.  \nThere is a ton of unlockables and progression tied in, but the core gameplay devolves into staying moving while having to constantly dodge an ever-increasing mass of AOEs, some persisting on the map for an absurdly long time until you can't help but touch them as they amass in greater numbers.  Not to mention the bats with scaling speed that have their own damage aura.\nOften the map just becomes a mess that it's hard to properly see what's going on, even when you turn down the visual effects.  \nI just don't feel satisfied with my time spent in this game.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's too complex. I don't want to do a bunch of math when I'm playing a game like this. The meta-progression is also absurdly bloated. Too Much Stuff. The music and visuals are extremely generic, and I'll go ahead and echo the other reviews that mention the action feels \"weightless\". The UI is terrible. There's a lot of content though, so if you do enjoy the gameplay it's worth the money I guess.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The character models/monsters are kinda simplified while attack animations are a sight to behold.\nThe music is top notch, gameplay can be very hectic difficult at times but also very fun.\n\n\nTHEN,  they added more AoE on top of the mountain of already existing AoE with some AoE on the side and it has just turned into \"dodge the one-shotting red circle\"...for not to mention some AoE's being larger than the telegraph and animation itself, resulting in death when it shouldn't.\n\nBut it doesn't stop there, plenty of the bosses pukes red circles all over the place, making the vast majority of the ground covered in \"Red Death\".\nPLUS, certain bosses covers 95% of the ground in an AoE that makes the one-shotting AoE (and it's circle) completely invisible, so good effing luck trying to dodge a cufsterluck amount of trash mobs and boss attacks while trying to memorize where the invisible \"Puke of Doom\" circles are.\n\nTHEN, they also they added in some physics which sends the enemies flying across the screen at super speed, making them extremely hard to kill at higher difficulties...and there is a high chance you may be one-shotted by even bottom-tier trash mobs if they bump into you.\n\nSo my options right now are:\nA. Play the game in easy-mode\nor\nB. Try and challenge myself and just bang my head against the wall.\n\nWell, I went for option C.\nUninstall the game and let it collect digital dust.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "menu navigation with controller is one of the worst experiences i have seen in a while. i literally have to switch to mouse + keyboard just to navigate the menu correctly or accomplish anything meaningful. astonishing how unintuitive it feels. absolutely crazy.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "with 80hours in the game. i cannot recommend soulstone survivors. the game CAN be fun. there's a ton of content here. but as it sits i've unlocked everything. here's the issue. there's no actual content in the game. there's dozens of characters, each of those characters has different weapons and \"builds\" but none of it actually does anything. it LOOKS like it does but once you've played the first 4 characters, you've played them all. they all play the exact same, use skills from the same pools and other than looks there's not much difference between them.\r\n\r\nthe games art is also awful. its the same Synty assets you've seen in HUNDREDS of other games from The Bloodline to SurrounDEAD and everything in between. after 2 hours i had to turn off the music and sound effects and just had to listen to youtube videos in the background. \r\n\r\nwhat it does do really well: META PROGRESSION. holy crap the skill trees are massive and awesome. its grindy but not too grindy and that can be said for the whole game. it does hook you in really well and unlocking characters and skills is fun. \r\n\r\noverall there are just better options out there at the same price point as this game. Halls of Torment, Megabonk, Vampire Survivors, Risk of Rain 2, are just a few examples. i think if the devs (or dev it might be a solo dev i dont know) put more effort into the skills and characters than copy pasting them from Synty asset packs the game would be far better but it looks and feels like so many other mediocre games in the genre right now.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Causes a hardlock crash which requires a system reboot every time I play.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Insane how they turned a fun concept into a tedious grind.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Lost my 33 hour save in a Steam Cloud conflict.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Slop",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Something doesn't click for me with this game. I do love roguelites, bullet heavens and grinding, but Soulstone Survivors is just kinda boring. The gameplay feels very flat. There are a ton of characters and meta-progression perks, but I'm not liking the combat - it feels unsatisfying and \"floaty\". It doesn't really feel like I'm landing any hits. The monsters are just like sponges for taking damage, and the powercreep is so insane that the whole screen becomes an unplayable clusterf*ck very quickly. The gameplay simply isn't fun for me to enjoy the grind",
+      "voted_up": false,
+      "votes_helpful": 39
+    },
+    {
+      "review": "I bought this game back in early access, and since then they've added a METRIC TON of content. seriously, it's probably the biggest action roguelike content-wise compared to the classics like Vampire Survivors, Holocure, Halls of Torment etc.\nBut here's the thing,  my biggest issue is the same now as it was in early access. \n\nThe core gameplay loop is flawed. Once you hit higher difficulty content, you're basically just dashing around in circles dodging red damage zones and projectiles. Every game mode feels the same, every character, every weapon you pick, every rune you choose - it all plays fundamentally the same. Doesn't matter how many new characters, weapons, or maps they add (which they do for free, massive props for that), it gets repetitive and you find yourself dashing around until the level is over. I recall a dev stream for the 1.0 release where they wanted to address this exact situation to make it less heavy on damage zones, but they never really did. They went a different route instead.\nThey've added a bunch of new systems (short version):\n- Character-specific abilities that make heroes more unique which is GREAT.\n- The rune system is integrated well with skill choices and builds you can explore. \n- the expanded talent trees makes you feel that you are always getting stronger, one percent point at a time.\nAgain there is SO much stuff to unlock and upgrade. \nBut boiling it down, you're still just running in circles around red circles and squares.\n\nAnd here's the most frustrating part: on higher curse runs, you have to turn down visual effects just to see what's happening, so I can't even appreciate what my character is doing or the impact of my skill choices. Monsters die, the screen gets cleared, but the feedback on my character getting progressively stronger is not visually represented.\n\nIt's a weird situation. They keep adding more free content instead of going the paid DLC route, which I genuinely respect. But content flooding isn't fixing the fundamental problem. \nThe game needs a core gameplay overhaul, not another map, character, weapon, or rune. But I see this happening now as very unlikely.\n\nLooking at this now at the end of 2025, the competition in this niche genre may NOT offer the amount of content that you can get here with all the meta-progression systems but often have a better core loop that makes replaying more fun and rewarding. So I lost hope on this project. I am torn on giving this still a positive but for now, i have no desire to play it again no matter how much bells and whistles they add.",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "110.9 hours and my pre-rant is just... no. This is not a game I'd recommend despite the enjoyment I have had, but my reasoning is simple. The game offers you a lie. Let me explain.\n\nThe survivor genre as popularized by Vampire Survivors has had many games attempting their own spin and Soulstone is no different, offering a deep progression system with varied gameplay across different maps and game modes on your path to creating a god build and there is some truth to this. There is a large passive tree, many characters, weapons, skills, and runes to give you something new to see with each run. There are different game modes with different goals that you can play. You can gain the power to evaporate bosses in .5 seconds. These are all true and the biggest draw, to me, was the in-run upgrade system where you level up and choose 1 of 3 options that allow you to increase your strength via lower cooldowns, more damage, more aoe, crit chance, crit damage, multistrike, combination choices, etc. This all sounds well and good, but there's a fundamental issue. The depth that is promised is more shallow then a spilt bucket on a hill. \n\n25+ characters with 5 weapons (eventually for all), each with their own stats, 2 unique abilities per weapon with 3-4 general character abilities, 20+ general abilities, and a passive tree for each character certainly offers a wide variety of builds. But you will inevitably run into the glaring issue where certain characters are worse than others by large margins because of the simple fact that there are specific skills that outshine all others in terms of damage. Skills that increase in damage based on debuffs on the enemy. You could roll nothing but damage increase for 1 ability out of the 6 (sometimes 7) that you have and still not reach the damage heights of other skills if that skill does not have a multiplier and im talking a difference of 1000 times greater which will be the difference between that .5s boss fight and a 1-2 minute boss fight or better yet, a 15 minute run versus a 30 minute run. This means you can play as optimized as possible with a build theme you like, but it will take you 3 times as long to complete a run without that multiplier, so if a character does not have a skill, whether unique or common, with that multiplier prepare yourself for a slog as the difficulty increases. But don't worry as you can change that via runes which grant further customization by letting you gain access to those multiplier skills (even if they are supposed to be character specific) but that does mean the character you choose doesn't matter beyond their stats. But what about the passive tree that gives each character a unique mechanic? Pointless. Those mechanics don't change how you play beyond giving you a basic task for a damage boost. Kill enemies until bar is filled, collect something, follow a path, stand in an area. Complete this task and you get a damage boost, but again if you don't have that big multiplier skill you will do no significant increase in damage. And the other passive points? Such minor increases that I'm sure it adds up but seeing a 5% damage increase after putting 5 points into the tree feels like ass when you get that same 5% from a single level up during a run. Perhaps the passive tree grants those increases to the base stats like an additive increase but the game does not explain in any way whether it's additive or multiplicative. The game doesn't really explain anything outside of what debuffs do. 25% increase damage via a rune? Same idea, so the passive tree increases feel like busy work. A task to complete and it feels worse since you can and will fill it all out. Nothing felt special. Each point spent had no thought put into it. Just max the number. But surely there can't be something that brings the skill system down more right? Well there is a very specific rune that lets you pick the same skill multiple times, so really to get the big damages you will run the same ability 6 times, maybe 5 if you can get one good support skill and remember you can get any skill onto any character with the right runes. But what about the in-run level up passives? Surely the customizations shine there- No, they don't. I've unlocked the Blacksmith by maxing out the whole passive tree and by spamming 5 of a skill, I could just select the center option and still incinerate the bosses in seconds. Meanwhile I run the barbarian with the stone hammers with only one level less on the weapon (another upgrade system), choosing as optimally as I can, and had to fight the bosses for 60x'ish longer which also means the run lasts longer too. Of course I grabbed a multiplier skill but it took 17 minutes before it came online because I needed the right boss reward. ALL OF THIS TO SAY, build variety is gone when you have no real choices if you want to push the difficulty higher. You have to take the right skills and those are few. But let's make it worse, because you will turn off the visual effects so that you can avoid the danger zones because you can't see with the sheer intensity of visual vomit on the screen unless you want to be one shotted and the end result means no matter the skill, everything now looks the same and you realize how every build plays the same as well. And a quick note on the dots (quick for me) poison is the best, then doom, then bleed, and lastly fire and the difference between each is staggering and that's without a multiplier skill. Seriously, fire always felt the worst, but to be faiiiiiir I'm not delving into the exact numbers. This is just experience based.\n\nAt least in vampire survivors the upgrades are small and limited and more importantly you can keep the effects on screen since you only avoid enemy contact. The permanent stat increases build up over time with no limit and I do mean no limit cause there's something else that limits you in gameplay. Diminishing returns.\n\nDiminishing returns are good... sometimes. If we are talking about games where enemies or players can get cc'd for years otherwise (moba/mmo), then yes diminishing returns are good, but um... not in your survivor game where the point is to become a god. There are buffs that give you increases to specific stats but they lose effectiveness. Example. Colossus grants 2% area increase per stack, so how much area would you have at 2k stacks? 1176%... What about 1k stacks? Roughly 1100%... That means you are punished for investing in area when you can achieve those stack amounts. This goes for all stats save for damage. After 1000% you will see diminishing returns. Even your defensives have DR and at higher difficulties you will not want the level up defensives but the buff defensives that stack. HP is the exception.\n\nSo I don't need to be optimized with level ups, just need the right skill and repeat it 5-6 times, but I can't stack buffs to insane degrees cause there's DR, I have to turn off the effects in order to play the game, and the unique mechanics of the characters are glorified damage buffs that don't change gameplay. This basically means there is no diversity in builds. Now granted this is only when pushing the difficulty higher, but this problem appears in the early game meta progression wise and gets worse farther into the end game. If you want to have every build be good, don't increase the difficulty. \n\nThe game modes play the same for the most part and the maps have no gimmicks or real enemy differences so it's just visuals. Bosses do have different moves to a point, but all you do is avoid the danger zone and with enough move speed and dashes, its not hard to do except it doesn't matter when you incinerate a boss in .5s. I had to keep this part short cause character limit exists.\n\nAll in all, Soulstone Survivors claims depth while having none. Yes it's fun and for 15 bucks you can get hours of enjoyment, but it's precisely because it boasts that which it does not have that I can't recommend it.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Had an absolute blast playing this game up until the power scaling superseded the visual clarity. You literally cannot see damage fields in high-level play. It becomes a game of kiting in a circle and hoping your build can eliminate a 6 billion health boss.",
+      "voted_up": false,
+      "votes_helpful": 15
+    },
+    {
+      "review": "This is like an AI generated fake game that a kid is playing on the tv in a sitcom\r\nout of all the survivor likes / bullet heavens i have tried this is the sloppiest of the slop\r\nit does absolutely nothing to innovate the genre, besides having a lot of content / meta upgrades to go through. but thats it. Its just grinding for the sake of grinding. Every build and character feels and plays exactly the same, and the visual effects are so shit and eye blasting that you're forced to turn off all vfx a few minutes into the game if you want to be able to play. So then you're just waving a stick in the air and enemies are dropping and theres no feedback to anything.",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "Feels too much like a phone game, and none of the combat has any weight to it. To each their own man, but this is definitely not for me.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "It's not a strictly *bad* game, but I can't recommend it.  \nThere is a ton of unlockables and progression tied in, but the core gameplay devolves into staying moving while having to constantly dodge an ever-increasing mass of AOEs, some persisting on the map for an absurdly long time until you can't help but touch them as they amass in greater numbers.  Not to mention the bats with scaling speed that have their own damage aura.\nOften the map just becomes a mess that it's hard to properly see what's going on, even when you turn down the visual effects.  \nI just don't feel satisfied with my time spent in this game.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's too complex. I don't want to do a bunch of math when I'm playing a game like this. The meta-progression is also absurdly bloated. Too Much Stuff. The music and visuals are extremely generic, and I'll go ahead and echo the other reviews that mention the action feels \"weightless\". The UI is terrible. There's a lot of content though, so if you do enjoy the gameplay it's worth the money I guess.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The character models/monsters are kinda simplified while attack animations are a sight to behold.\nThe music is top notch, gameplay can be very hectic difficult at times but also very fun.\n\n\nTHEN,  they added more AoE on top of the mountain of already existing AoE with some AoE on the side and it has just turned into \"dodge the one-shotting red circle\"...for not to mention some AoE's being larger than the telegraph and animation itself, resulting in death when it shouldn't.\n\nBut it doesn't stop there, plenty of the bosses pukes red circles all over the place, making the vast majority of the ground covered in \"Red Death\".\nPLUS, certain bosses covers 95% of the ground in an AoE that makes the one-shotting AoE (and it's circle) completely invisible, so good effing luck trying to dodge a cufsterluck amount of trash mobs and boss attacks while trying to memorize where the invisible \"Puke of Doom\" circles are.\n\nTHEN, they also they added in some physics which sends the enemies flying across the screen at super speed, making them extremely hard to kill at higher difficulties...and there is a high chance you may be one-shotted by even bottom-tier trash mobs if they bump into you.\n\nSo my options right now are:\nA. Play the game in easy-mode\nor\nB. Try and challenge myself and just bang my head against the wall.\n\nWell, I went for option C.\nUninstall the game and let it collect digital dust.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "menu navigation with controller is one of the worst experiences i have seen in a while. i literally have to switch to mouse + keyboard just to navigate the menu correctly or accomplish anything meaningful. astonishing how unintuitive it feels. absolutely crazy.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "with 80hours in the game. i cannot recommend soulstone survivors. the game CAN be fun. there's a ton of content here. but as it sits i've unlocked everything. here's the issue. there's no actual content in the game. there's dozens of characters, each of those characters has different weapons and \"builds\" but none of it actually does anything. it LOOKS like it does but once you've played the first 4 characters, you've played them all. they all play the exact same, use skills from the same pools and other than looks there's not much difference between them.\r\n\r\nthe games art is also awful. its the same Synty assets you've seen in HUNDREDS of other games from The Bloodline to SurrounDEAD and everything in between. after 2 hours i had to turn off the music and sound effects and just had to listen to youtube videos in the background. \r\n\r\nwhat it does do really well: META PROGRESSION. holy crap the skill trees are massive and awesome. its grindy but not too grindy and that can be said for the whole game. it does hook you in really well and unlocking characters and skills is fun. \r\n\r\noverall there are just better options out there at the same price point as this game. Halls of Torment, Megabonk, Vampire Survivors, Risk of Rain 2, are just a few examples. i think if the devs (or dev it might be a solo dev i dont know) put more effort into the skills and characters than copy pasting them from Synty asset packs the game would be far better but it looks and feels like so many other mediocre games in the genre right now.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Causes a hardlock crash which requires a system reboot every time I play.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Insane how they turned a fun concept into a tedious grind.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Lost my 33 hour save in a Steam Cloud conflict.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Slop",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Something doesn't click for me with this game. I do love roguelites, bullet heavens and grinding, but Soulstone Survivors is just kinda boring. The gameplay feels very flat. There are a ton of characters and meta-progression perks, but I'm not liking the combat - it feels unsatisfying and \"floaty\". It doesn't really feel like I'm landing any hits. The monsters are just like sponges for taking damage, and the powercreep is so insane that the whole screen becomes an unplayable clusterf*ck very quickly. The gameplay simply isn't fun for me to enjoy the grind",
+      "voted_up": false,
+      "votes_helpful": 39
+    },
+    {
+      "review": "I bought this game back in early access, and since then they've added a METRIC TON of content. seriously, it's probably the biggest action roguelike content-wise compared to the classics like Vampire Survivors, Holocure, Halls of Torment etc.\nBut here's the thing,  my biggest issue is the same now as it was in early access. \n\nThe core gameplay loop is flawed. Once you hit higher difficulty content, you're basically just dashing around in circles dodging red damage zones and projectiles. Every game mode feels the same, every character, every weapon you pick, every rune you choose - it all plays fundamentally the same. Doesn't matter how many new characters, weapons, or maps they add (which they do for free, massive props for that), it gets repetitive and you find yourself dashing around until the level is over. I recall a dev stream for the 1.0 release where they wanted to address this exact situation to make it less heavy on damage zones, but they never really did. They went a different route instead.\nThey've added a bunch of new systems (short version):\n- Character-specific abilities that make heroes more unique which is GREAT.\n- The rune system is integrated well with skill choices and builds you can explore. \n- the expanded talent trees makes you feel that you are always getting stronger, one percent point at a time.\nAgain there is SO much stuff to unlock and upgrade. \nBut boiling it down, you're still just running in circles around red circles and squares.\n\nAnd here's the most frustrating part: on higher curse runs, you have to turn down visual effects just to see what's happening, so I can't even appreciate what my character is doing or the impact of my skill choices. Monsters die, the screen gets cleared, but the feedback on my character getting progressively stronger is not visually represented.\n\nIt's a weird situation. They keep adding more free content instead of going the paid DLC route, which I genuinely respect. But content flooding isn't fixing the fundamental problem. \nThe game needs a core gameplay overhaul, not another map, character, weapon, or rune. But I see this happening now as very unlikely.\n\nLooking at this now at the end of 2025, the competition in this niche genre may NOT offer the amount of content that you can get here with all the meta-progression systems but often have a better core loop that makes replaying more fun and rewarding. So I lost hope on this project. I am torn on giving this still a positive but for now, i have no desire to play it again no matter how much bells and whistles they add.",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "110.9 hours and my pre-rant is just... no. This is not a game I'd recommend despite the enjoyment I have had, but my reasoning is simple. The game offers you a lie. Let me explain.\n\nThe survivor genre as popularized by Vampire Survivors has had many games attempting their own spin and Soulstone is no different, offering a deep progression system with varied gameplay across different maps and game modes on your path to creating a god build and there is some truth to this. There is a large passive tree, many characters, weapons, skills, and runes to give you something new to see with each run. There are different game modes with different goals that you can play. You can gain the power to evaporate bosses in .5 seconds. These are all true and the biggest draw, to me, was the in-run upgrade system where you level up and choose 1 of 3 options that allow you to increase your strength via lower cooldowns, more damage, more aoe, crit chance, crit damage, multistrike, combination choices, etc. This all sounds well and good, but there's a fundamental issue. The depth that is promised is more shallow then a spilt bucket on a hill. \n\n25+ characters with 5 weapons (eventually for all), each with their own stats, 2 unique abilities per weapon with 3-4 general character abilities, 20+ general abilities, and a passive tree for each character certainly offers a wide variety of builds. But you will inevitably run into the glaring issue where certain characters are worse than others by large margins because of the simple fact that there are specific skills that outshine all others in terms of damage. Skills that increase in damage based on debuffs on the enemy. You could roll nothing but damage increase for 1 ability out of the 6 (sometimes 7) that you have and still not reach the damage heights of other skills if that skill does not have a multiplier and im talking a difference of 1000 times greater which will be the difference between that .5s boss fight and a 1-2 minute boss fight or better yet, a 15 minute run versus a 30 minute run. This means you can play as optimized as possible with a build theme you like, but it will take you 3 times as long to complete a run without that multiplier, so if a character does not have a skill, whether unique or common, with that multiplier prepare yourself for a slog as the difficulty increases. But don't worry as you can change that via runes which grant further customization by letting you gain access to those multiplier skills (even if they are supposed to be character specific) but that does mean the character you choose doesn't matter beyond their stats. But what about the passive tree that gives each character a unique mechanic? Pointless. Those mechanics don't change how you play beyond giving you a basic task for a damage boost. Kill enemies until bar is filled, collect something, follow a path, stand in an area. Complete this task and you get a damage boost, but again if you don't have that big multiplier skill you will do no significant increase in damage. And the other passive points? Such minor increases that I'm sure it adds up but seeing a 5% damage increase after putting 5 points into the tree feels like ass when you get that same 5% from a single level up during a run. Perhaps the passive tree grants those increases to the base stats like an additive increase but the game does not explain in any way whether it's additive or multiplicative. The game doesn't really explain anything outside of what debuffs do. 25% increase damage via a rune? Same idea, so the passive tree increases feel like busy work. A task to complete and it feels worse since you can and will fill it all out. Nothing felt special. Each point spent had no thought put into it. Just max the number. But surely there can't be something that brings the skill system down more right? Well there is a very specific rune that lets you pick the same skill multiple times, so really to get the big damages you will run the same ability 6 times, maybe 5 if you can get one good support skill and remember you can get any skill onto any character with the right runes. But what about the in-run level up passives? Surely the customizations shine there- No, they don't. I've unlocked the Blacksmith by maxing out the whole passive tree and by spamming 5 of a skill, I could just select the center option and still incinerate the bosses in seconds. Meanwhile I run the barbarian with the stone hammers with only one level less on the weapon (another upgrade system), choosing as optimally as I can, and had to fight the bosses for 60x'ish longer which also means the run lasts longer too. Of course I grabbed a multiplier skill but it took 17 minutes before it came online because I needed the right boss reward. ALL OF THIS TO SAY, build variety is gone when you have no real choices if you want to push the difficulty higher. You have to take the right skills and those are few. But let's make it worse, because you will turn off the visual effects so that you can avoid the danger zones because you can't see with the sheer intensity of visual vomit on the screen unless you want to be one shotted and the end result means no matter the skill, everything now looks the same and you realize how every build plays the same as well. And a quick note on the dots (quick for me) poison is the best, then doom, then bleed, and lastly fire and the difference between each is staggering and that's without a multiplier skill. Seriously, fire always felt the worst, but to be faiiiiiir I'm not delving into the exact numbers. This is just experience based.\n\nAt least in vampire survivors the upgrades are small and limited and more importantly you can keep the effects on screen since you only avoid enemy contact. The permanent stat increases build up over time with no limit and I do mean no limit cause there's something else that limits you in gameplay. Diminishing returns.\n\nDiminishing returns are good... sometimes. If we are talking about games where enemies or players can get cc'd for years otherwise (moba/mmo), then yes diminishing returns are good, but um... not in your survivor game where the point is to become a god. There are buffs that give you increases to specific stats but they lose effectiveness. Example. Colossus grants 2% area increase per stack, so how much area would you have at 2k stacks? 1176%... What about 1k stacks? Roughly 1100%... That means you are punished for investing in area when you can achieve those stack amounts. This goes for all stats save for damage. After 1000% you will see diminishing returns. Even your defensives have DR and at higher difficulties you will not want the level up defensives but the buff defensives that stack. HP is the exception.\n\nSo I don't need to be optimized with level ups, just need the right skill and repeat it 5-6 times, but I can't stack buffs to insane degrees cause there's DR, I have to turn off the effects in order to play the game, and the unique mechanics of the characters are glorified damage buffs that don't change gameplay. This basically means there is no diversity in builds. Now granted this is only when pushing the difficulty higher, but this problem appears in the early game meta progression wise and gets worse farther into the end game. If you want to have every build be good, don't increase the difficulty. \n\nThe game modes play the same for the most part and the maps have no gimmicks or real enemy differences so it's just visuals. Bosses do have different moves to a point, but all you do is avoid the danger zone and with enough move speed and dashes, its not hard to do except it doesn't matter when you incinerate a boss in .5s. I had to keep this part short cause character limit exists.\n\nAll in all, Soulstone Survivors claims depth while having none. Yes it's fun and for 15 bucks you can get hours of enjoyment, but it's precisely because it boasts that which it does not have that I can't recommend it.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Had an absolute blast playing this game up until the power scaling superseded the visual clarity. You literally cannot see damage fields in high-level play. It becomes a game of kiting in a circle and hoping your build can eliminate a 6 billion health boss.",
+      "voted_up": false,
+      "votes_helpful": 15
+    },
+    {
+      "review": "This is like an AI generated fake game that a kid is playing on the tv in a sitcom\r\nout of all the survivor likes / bullet heavens i have tried this is the sloppiest of the slop\r\nit does absolutely nothing to innovate the genre, besides having a lot of content / meta upgrades to go through. but thats it. Its just grinding for the sake of grinding. Every build and character feels and plays exactly the same, and the visual effects are so shit and eye blasting that you're forced to turn off all vfx a few minutes into the game if you want to be able to play. So then you're just waving a stick in the air and enemies are dropping and theres no feedback to anything.",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "Feels too much like a phone game, and none of the combat has any weight to it. To each their own man, but this is definitely not for me.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "It's not a strictly *bad* game, but I can't recommend it.  \nThere is a ton of unlockables and progression tied in, but the core gameplay devolves into staying moving while having to constantly dodge an ever-increasing mass of AOEs, some persisting on the map for an absurdly long time until you can't help but touch them as they amass in greater numbers.  Not to mention the bats with scaling speed that have their own damage aura.\nOften the map just becomes a mess that it's hard to properly see what's going on, even when you turn down the visual effects.  \nI just don't feel satisfied with my time spent in this game.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's too complex. I don't want to do a bunch of math when I'm playing a game like this. The meta-progression is also absurdly bloated. Too Much Stuff. The music and visuals are extremely generic, and I'll go ahead and echo the other reviews that mention the action feels \"weightless\". The UI is terrible. There's a lot of content though, so if you do enjoy the gameplay it's worth the money I guess.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The character models/monsters are kinda simplified while attack animations are a sight to behold.\nThe music is top notch, gameplay can be very hectic difficult at times but also very fun.\n\n\nTHEN,  they added more AoE on top of the mountain of already existing AoE with some AoE on the side and it has just turned into \"dodge the one-shotting red circle\"...for not to mention some AoE's being larger than the telegraph and animation itself, resulting in death when it shouldn't.\n\nBut it doesn't stop there, plenty of the bosses pukes red circles all over the place, making the vast majority of the ground covered in \"Red Death\".\nPLUS, certain bosses covers 95% of the ground in an AoE that makes the one-shotting AoE (and it's circle) completely invisible, so good effing luck trying to dodge a cufsterluck amount of trash mobs and boss attacks while trying to memorize where the invisible \"Puke of Doom\" circles are.\n\nTHEN, they also they added in some physics which sends the enemies flying across the screen at super speed, making them extremely hard to kill at higher difficulties...and there is a high chance you may be one-shotted by even bottom-tier trash mobs if they bump into you.\n\nSo my options right now are:\nA. Play the game in easy-mode\nor\nB. Try and challenge myself and just bang my head against the wall.\n\nWell, I went for option C.\nUninstall the game and let it collect digital dust.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "menu navigation with controller is one of the worst experiences i have seen in a while. i literally have to switch to mouse + keyboard just to navigate the menu correctly or accomplish anything meaningful. astonishing how unintuitive it feels. absolutely crazy.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "with 80hours in the game. i cannot recommend soulstone survivors. the game CAN be fun. there's a ton of content here. but as it sits i've unlocked everything. here's the issue. there's no actual content in the game. there's dozens of characters, each of those characters has different weapons and \"builds\" but none of it actually does anything. it LOOKS like it does but once you've played the first 4 characters, you've played them all. they all play the exact same, use skills from the same pools and other than looks there's not much difference between them.\r\n\r\nthe games art is also awful. its the same Synty assets you've seen in HUNDREDS of other games from The Bloodline to SurrounDEAD and everything in between. after 2 hours i had to turn off the music and sound effects and just had to listen to youtube videos in the background. \r\n\r\nwhat it does do really well: META PROGRESSION. holy crap the skill trees are massive and awesome. its grindy but not too grindy and that can be said for the whole game. it does hook you in really well and unlocking characters and skills is fun. \r\n\r\noverall there are just better options out there at the same price point as this game. Halls of Torment, Megabonk, Vampire Survivors, Risk of Rain 2, are just a few examples. i think if the devs (or dev it might be a solo dev i dont know) put more effort into the skills and characters than copy pasting them from Synty asset packs the game would be far better but it looks and feels like so many other mediocre games in the genre right now.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Causes a hardlock crash which requires a system reboot every time I play.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Insane how they turned a fun concept into a tedious grind.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Lost my 33 hour save in a Steam Cloud conflict.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Slop",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Something doesn't click for me with this game. I do love roguelites, bullet heavens and grinding, but Soulstone Survivors is just kinda boring. The gameplay feels very flat. There are a ton of characters and meta-progression perks, but I'm not liking the combat - it feels unsatisfying and \"floaty\". It doesn't really feel like I'm landing any hits. The monsters are just like sponges for taking damage, and the powercreep is so insane that the whole screen becomes an unplayable clusterf*ck very quickly. The gameplay simply isn't fun for me to enjoy the grind",
+      "voted_up": false,
+      "votes_helpful": 39
+    },
+    {
+      "review": "I bought this game back in early access, and since then they've added a METRIC TON of content. seriously, it's probably the biggest action roguelike content-wise compared to the classics like Vampire Survivors, Holocure, Halls of Torment etc.\nBut here's the thing,  my biggest issue is the same now as it was in early access. \n\nThe core gameplay loop is flawed. Once you hit higher difficulty content, you're basically just dashing around in circles dodging red damage zones and projectiles. Every game mode feels the same, every character, every weapon you pick, every rune you choose - it all plays fundamentally the same. Doesn't matter how many new characters, weapons, or maps they add (which they do for free, massive props for that), it gets repetitive and you find yourself dashing around until the level is over. I recall a dev stream for the 1.0 release where they wanted to address this exact situation to make it less heavy on damage zones, but they never really did. They went a different route instead.\nThey've added a bunch of new systems (short version):\n- Character-specific abilities that make heroes more unique which is GREAT.\n- The rune system is integrated well with skill choices and builds you can explore. \n- the expanded talent trees makes you feel that you are always getting stronger, one percent point at a time.\nAgain there is SO much stuff to unlock and upgrade. \nBut boiling it down, you're still just running in circles around red circles and squares.\n\nAnd here's the most frustrating part: on higher curse runs, you have to turn down visual effects just to see what's happening, so I can't even appreciate what my character is doing or the impact of my skill choices. Monsters die, the screen gets cleared, but the feedback on my character getting progressively stronger is not visually represented.\n\nIt's a weird situation. They keep adding more free content instead of going the paid DLC route, which I genuinely respect. But content flooding isn't fixing the fundamental problem. \nThe game needs a core gameplay overhaul, not another map, character, weapon, or rune. But I see this happening now as very unlikely.\n\nLooking at this now at the end of 2025, the competition in this niche genre may NOT offer the amount of content that you can get here with all the meta-progression systems but often have a better core loop that makes replaying more fun and rewarding. So I lost hope on this project. I am torn on giving this still a positive but for now, i have no desire to play it again no matter how much bells and whistles they add.",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "110.9 hours and my pre-rant is just... no. This is not a game I'd recommend despite the enjoyment I have had, but my reasoning is simple. The game offers you a lie. Let me explain.\n\nThe survivor genre as popularized by Vampire Survivors has had many games attempting their own spin and Soulstone is no different, offering a deep progression system with varied gameplay across different maps and game modes on your path to creating a god build and there is some truth to this. There is a large passive tree, many characters, weapons, skills, and runes to give you something new to see with each run. There are different game modes with different goals that you can play. You can gain the power to evaporate bosses in .5 seconds. These are all true and the biggest draw, to me, was the in-run upgrade system where you level up and choose 1 of 3 options that allow you to increase your strength via lower cooldowns, more damage, more aoe, crit chance, crit damage, multistrike, combination choices, etc. This all sounds well and good, but there's a fundamental issue. The depth that is promised is more shallow then a spilt bucket on a hill. \n\n25+ characters with 5 weapons (eventually for all), each with their own stats, 2 unique abilities per weapon with 3-4 general character abilities, 20+ general abilities, and a passive tree for each character certainly offers a wide variety of builds. But you will inevitably run into the glaring issue where certain characters are worse than others by large margins because of the simple fact that there are specific skills that outshine all others in terms of damage. Skills that increase in damage based on debuffs on the enemy. You could roll nothing but damage increase for 1 ability out of the 6 (sometimes 7) that you have and still not reach the damage heights of other skills if that skill does not have a multiplier and im talking a difference of 1000 times greater which will be the difference between that .5s boss fight and a 1-2 minute boss fight or better yet, a 15 minute run versus a 30 minute run. This means you can play as optimized as possible with a build theme you like, but it will take you 3 times as long to complete a run without that multiplier, so if a character does not have a skill, whether unique or common, with that multiplier prepare yourself for a slog as the difficulty increases. But don't worry as you can change that via runes which grant further customization by letting you gain access to those multiplier skills (even if they are supposed to be character specific) but that does mean the character you choose doesn't matter beyond their stats. But what about the passive tree that gives each character a unique mechanic? Pointless. Those mechanics don't change how you play beyond giving you a basic task for a damage boost. Kill enemies until bar is filled, collect something, follow a path, stand in an area. Complete this task and you get a damage boost, but again if you don't have that big multiplier skill you will do no significant increase in damage. And the other passive points? Such minor increases that I'm sure it adds up but seeing a 5% damage increase after putting 5 points into the tree feels like ass when you get that same 5% from a single level up during a run. Perhaps the passive tree grants those increases to the base stats like an additive increase but the game does not explain in any way whether it's additive or multiplicative. The game doesn't really explain anything outside of what debuffs do. 25% increase damage via a rune? Same idea, so the passive tree increases feel like busy work. A task to complete and it feels worse since you can and will fill it all out. Nothing felt special. Each point spent had no thought put into it. Just max the number. But surely there can't be something that brings the skill system down more right? Well there is a very specific rune that lets you pick the same skill multiple times, so really to get the big damages you will run the same ability 6 times, maybe 5 if you can get one good support skill and remember you can get any skill onto any character with the right runes. But what about the in-run level up passives? Surely the customizations shine there- No, they don't. I've unlocked the Blacksmith by maxing out the whole passive tree and by spamming 5 of a skill, I could just select the center option and still incinerate the bosses in seconds. Meanwhile I run the barbarian with the stone hammers with only one level less on the weapon (another upgrade system), choosing as optimally as I can, and had to fight the bosses for 60x'ish longer which also means the run lasts longer too. Of course I grabbed a multiplier skill but it took 17 minutes before it came online because I needed the right boss reward. ALL OF THIS TO SAY, build variety is gone when you have no real choices if you want to push the difficulty higher. You have to take the right skills and those are few. But let's make it worse, because you will turn off the visual effects so that you can avoid the danger zones because you can't see with the sheer intensity of visual vomit on the screen unless you want to be one shotted and the end result means no matter the skill, everything now looks the same and you realize how every build plays the same as well. And a quick note on the dots (quick for me) poison is the best, then doom, then bleed, and lastly fire and the difference between each is staggering and that's without a multiplier skill. Seriously, fire always felt the worst, but to be faiiiiiir I'm not delving into the exact numbers. This is just experience based.\n\nAt least in vampire survivors the upgrades are small and limited and more importantly you can keep the effects on screen since you only avoid enemy contact. The permanent stat increases build up over time with no limit and I do mean no limit cause there's something else that limits you in gameplay. Diminishing returns.\n\nDiminishing returns are good... sometimes. If we are talking about games where enemies or players can get cc'd for years otherwise (moba/mmo), then yes diminishing returns are good, but um... not in your survivor game where the point is to become a god. There are buffs that give you increases to specific stats but they lose effectiveness. Example. Colossus grants 2% area increase per stack, so how much area would you have at 2k stacks? 1176%... What about 1k stacks? Roughly 1100%... That means you are punished for investing in area when you can achieve those stack amounts. This goes for all stats save for damage. After 1000% you will see diminishing returns. Even your defensives have DR and at higher difficulties you will not want the level up defensives but the buff defensives that stack. HP is the exception.\n\nSo I don't need to be optimized with level ups, just need the right skill and repeat it 5-6 times, but I can't stack buffs to insane degrees cause there's DR, I have to turn off the effects in order to play the game, and the unique mechanics of the characters are glorified damage buffs that don't change gameplay. This basically means there is no diversity in builds. Now granted this is only when pushing the difficulty higher, but this problem appears in the early game meta progression wise and gets worse farther into the end game. If you want to have every build be good, don't increase the difficulty. \n\nThe game modes play the same for the most part and the maps have no gimmicks or real enemy differences so it's just visuals. Bosses do have different moves to a point, but all you do is avoid the danger zone and with enough move speed and dashes, its not hard to do except it doesn't matter when you incinerate a boss in .5s. I had to keep this part short cause character limit exists.\n\nAll in all, Soulstone Survivors claims depth while having none. Yes it's fun and for 15 bucks you can get hours of enjoyment, but it's precisely because it boasts that which it does not have that I can't recommend it.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Had an absolute blast playing this game up until the power scaling superseded the visual clarity. You literally cannot see damage fields in high-level play. It becomes a game of kiting in a circle and hoping your build can eliminate a 6 billion health boss.",
+      "voted_up": false,
+      "votes_helpful": 15
+    },
+    {
+      "review": "This is like an AI generated fake game that a kid is playing on the tv in a sitcom\r\nout of all the survivor likes / bullet heavens i have tried this is the sloppiest of the slop\r\nit does absolutely nothing to innovate the genre, besides having a lot of content / meta upgrades to go through. but thats it. Its just grinding for the sake of grinding. Every build and character feels and plays exactly the same, and the visual effects are so shit and eye blasting that you're forced to turn off all vfx a few minutes into the game if you want to be able to play. So then you're just waving a stick in the air and enemies are dropping and theres no feedback to anything.",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "Feels too much like a phone game, and none of the combat has any weight to it. To each their own man, but this is definitely not for me.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "It's not a strictly *bad* game, but I can't recommend it.  \nThere is a ton of unlockables and progression tied in, but the core gameplay devolves into staying moving while having to constantly dodge an ever-increasing mass of AOEs, some persisting on the map for an absurdly long time until you can't help but touch them as they amass in greater numbers.  Not to mention the bats with scaling speed that have their own damage aura.\nOften the map just becomes a mess that it's hard to properly see what's going on, even when you turn down the visual effects.  \nI just don't feel satisfied with my time spent in this game.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's too complex. I don't want to do a bunch of math when I'm playing a game like this. The meta-progression is also absurdly bloated. Too Much Stuff. The music and visuals are extremely generic, and I'll go ahead and echo the other reviews that mention the action feels \"weightless\". The UI is terrible. There's a lot of content though, so if you do enjoy the gameplay it's worth the money I guess.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The character models/monsters are kinda simplified while attack animations are a sight to behold.\nThe music is top notch, gameplay can be very hectic difficult at times but also very fun.\n\n\nTHEN,  they added more AoE on top of the mountain of already existing AoE with some AoE on the side and it has just turned into \"dodge the one-shotting red circle\"...for not to mention some AoE's being larger than the telegraph and animation itself, resulting in death when it shouldn't.\n\nBut it doesn't stop there, plenty of the bosses pukes red circles all over the place, making the vast majority of the ground covered in \"Red Death\".\nPLUS, certain bosses covers 95% of the ground in an AoE that makes the one-shotting AoE (and it's circle) completely invisible, so good effing luck trying to dodge a cufsterluck amount of trash mobs and boss attacks while trying to memorize where the invisible \"Puke of Doom\" circles are.\n\nTHEN, they also they added in some physics which sends the enemies flying across the screen at super speed, making them extremely hard to kill at higher difficulties...and there is a high chance you may be one-shotted by even bottom-tier trash mobs if they bump into you.\n\nSo my options right now are:\nA. Play the game in easy-mode\nor\nB. Try and challenge myself and just bang my head against the wall.\n\nWell, I went for option C.\nUninstall the game and let it collect digital dust.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "menu navigation with controller is one of the worst experiences i have seen in a while. i literally have to switch to mouse + keyboard just to navigate the menu correctly or accomplish anything meaningful. astonishing how unintuitive it feels. absolutely crazy.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "with 80hours in the game. i cannot recommend soulstone survivors. the game CAN be fun. there's a ton of content here. but as it sits i've unlocked everything. here's the issue. there's no actual content in the game. there's dozens of characters, each of those characters has different weapons and \"builds\" but none of it actually does anything. it LOOKS like it does but once you've played the first 4 characters, you've played them all. they all play the exact same, use skills from the same pools and other than looks there's not much difference between them.\r\n\r\nthe games art is also awful. its the same Synty assets you've seen in HUNDREDS of other games from The Bloodline to SurrounDEAD and everything in between. after 2 hours i had to turn off the music and sound effects and just had to listen to youtube videos in the background. \r\n\r\nwhat it does do really well: META PROGRESSION. holy crap the skill trees are massive and awesome. its grindy but not too grindy and that can be said for the whole game. it does hook you in really well and unlocking characters and skills is fun. \r\n\r\noverall there are just better options out there at the same price point as this game. Halls of Torment, Megabonk, Vampire Survivors, Risk of Rain 2, are just a few examples. i think if the devs (or dev it might be a solo dev i dont know) put more effort into the skills and characters than copy pasting them from Synty asset packs the game would be far better but it looks and feels like so many other mediocre games in the genre right now.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Causes a hardlock crash which requires a system reboot every time I play.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Insane how they turned a fun concept into a tedious grind.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Lost my 33 hour save in a Steam Cloud conflict.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Slop",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Something doesn't click for me with this game. I do love roguelites, bullet heavens and grinding, but Soulstone Survivors is just kinda boring. The gameplay feels very flat. There are a ton of characters and meta-progression perks, but I'm not liking the combat - it feels unsatisfying and \"floaty\". It doesn't really feel like I'm landing any hits. The monsters are just like sponges for taking damage, and the powercreep is so insane that the whole screen becomes an unplayable clusterf*ck very quickly. The gameplay simply isn't fun for me to enjoy the grind",
+      "voted_up": false,
+      "votes_helpful": 39
+    },
+    {
+      "review": "I bought this game back in early access, and since then they've added a METRIC TON of content. seriously, it's probably the biggest action roguelike content-wise compared to the classics like Vampire Survivors, Holocure, Halls of Torment etc.\nBut here's the thing,  my biggest issue is the same now as it was in early access. \n\nThe core gameplay loop is flawed. Once you hit higher difficulty content, you're basically just dashing around in circles dodging red damage zones and projectiles. Every game mode feels the same, every character, every weapon you pick, every rune you choose - it all plays fundamentally the same. Doesn't matter how many new characters, weapons, or maps they add (which they do for free, massive props for that), it gets repetitive and you find yourself dashing around until the level is over. I recall a dev stream for the 1.0 release where they wanted to address this exact situation to make it less heavy on damage zones, but they never really did. They went a different route instead.\nThey've added a bunch of new systems (short version):\n- Character-specific abilities that make heroes more unique which is GREAT.\n- The rune system is integrated well with skill choices and builds you can explore. \n- the expanded talent trees makes you feel that you are always getting stronger, one percent point at a time.\nAgain there is SO much stuff to unlock and upgrade. \nBut boiling it down, you're still just running in circles around red circles and squares.\n\nAnd here's the most frustrating part: on higher curse runs, you have to turn down visual effects just to see what's happening, so I can't even appreciate what my character is doing or the impact of my skill choices. Monsters die, the screen gets cleared, but the feedback on my character getting progressively stronger is not visually represented.\n\nIt's a weird situation. They keep adding more free content instead of going the paid DLC route, which I genuinely respect. But content flooding isn't fixing the fundamental problem. \nThe game needs a core gameplay overhaul, not another map, character, weapon, or rune. But I see this happening now as very unlikely.\n\nLooking at this now at the end of 2025, the competition in this niche genre may NOT offer the amount of content that you can get here with all the meta-progression systems but often have a better core loop that makes replaying more fun and rewarding. So I lost hope on this project. I am torn on giving this still a positive but for now, i have no desire to play it again no matter how much bells and whistles they add.",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "110.9 hours and my pre-rant is just... no. This is not a game I'd recommend despite the enjoyment I have had, but my reasoning is simple. The game offers you a lie. Let me explain.\n\nThe survivor genre as popularized by Vampire Survivors has had many games attempting their own spin and Soulstone is no different, offering a deep progression system with varied gameplay across different maps and game modes on your path to creating a god build and there is some truth to this. There is a large passive tree, many characters, weapons, skills, and runes to give you something new to see with each run. There are different game modes with different goals that you can play. You can gain the power to evaporate bosses in .5 seconds. These are all true and the biggest draw, to me, was the in-run upgrade system where you level up and choose 1 of 3 options that allow you to increase your strength via lower cooldowns, more damage, more aoe, crit chance, crit damage, multistrike, combination choices, etc. This all sounds well and good, but there's a fundamental issue. The depth that is promised is more shallow then a spilt bucket on a hill. \n\n25+ characters with 5 weapons (eventually for all), each with their own stats, 2 unique abilities per weapon with 3-4 general character abilities, 20+ general abilities, and a passive tree for each character certainly offers a wide variety of builds. But you will inevitably run into the glaring issue where certain characters are worse than others by large margins because of the simple fact that there are specific skills that outshine all others in terms of damage. Skills that increase in damage based on debuffs on the enemy. You could roll nothing but damage increase for 1 ability out of the 6 (sometimes 7) that you have and still not reach the damage heights of other skills if that skill does not have a multiplier and im talking a difference of 1000 times greater which will be the difference between that .5s boss fight and a 1-2 minute boss fight or better yet, a 15 minute run versus a 30 minute run. This means you can play as optimized as possible with a build theme you like, but it will take you 3 times as long to complete a run without that multiplier, so if a character does not have a skill, whether unique or common, with that multiplier prepare yourself for a slog as the difficulty increases. But don't worry as you can change that via runes which grant further customization by letting you gain access to those multiplier skills (even if they are supposed to be character specific) but that does mean the character you choose doesn't matter beyond their stats. But what about the passive tree that gives each character a unique mechanic? Pointless. Those mechanics don't change how you play beyond giving you a basic task for a damage boost. Kill enemies until bar is filled, collect something, follow a path, stand in an area. Complete this task and you get a damage boost, but again if you don't have that big multiplier skill you will do no significant increase in damage. And the other passive points? Such minor increases that I'm sure it adds up but seeing a 5% damage increase after putting 5 points into the tree feels like ass when you get that same 5% from a single level up during a run. Perhaps the passive tree grants those increases to the base stats like an additive increase but the game does not explain in any way whether it's additive or multiplicative. The game doesn't really explain anything outside of what debuffs do. 25% increase damage via a rune? Same idea, so the passive tree increases feel like busy work. A task to complete and it feels worse since you can and will fill it all out. Nothing felt special. Each point spent had no thought put into it. Just max the number. But surely there can't be something that brings the skill system down more right? Well there is a very specific rune that lets you pick the same skill multiple times, so really to get the big damages you will run the same ability 6 times, maybe 5 if you can get one good support skill and remember you can get any skill onto any character with the right runes. But what about the in-run level up passives? Surely the customizations shine there- No, they don't. I've unlocked the Blacksmith by maxing out the whole passive tree and by spamming 5 of a skill, I could just select the center option and still incinerate the bosses in seconds. Meanwhile I run the barbarian with the stone hammers with only one level less on the weapon (another upgrade system), choosing as optimally as I can, and had to fight the bosses for 60x'ish longer which also means the run lasts longer too. Of course I grabbed a multiplier skill but it took 17 minutes before it came online because I needed the right boss reward. ALL OF THIS TO SAY, build variety is gone when you have no real choices if you want to push the difficulty higher. You have to take the right skills and those are few. But let's make it worse, because you will turn off the visual effects so that you can avoid the danger zones because you can't see with the sheer intensity of visual vomit on the screen unless you want to be one shotted and the end result means no matter the skill, everything now looks the same and you realize how every build plays the same as well. And a quick note on the dots (quick for me) poison is the best, then doom, then bleed, and lastly fire and the difference between each is staggering and that's without a multiplier skill. Seriously, fire always felt the worst, but to be faiiiiiir I'm not delving into the exact numbers. This is just experience based.\n\nAt least in vampire survivors the upgrades are small and limited and more importantly you can keep the effects on screen since you only avoid enemy contact. The permanent stat increases build up over time with no limit and I do mean no limit cause there's something else that limits you in gameplay. Diminishing returns.\n\nDiminishing returns are good... sometimes. If we are talking about games where enemies or players can get cc'd for years otherwise (moba/mmo), then yes diminishing returns are good, but um... not in your survivor game where the point is to become a god. There are buffs that give you increases to specific stats but they lose effectiveness. Example. Colossus grants 2% area increase per stack, so how much area would you have at 2k stacks? 1176%... What about 1k stacks? Roughly 1100%... That means you are punished for investing in area when you can achieve those stack amounts. This goes for all stats save for damage. After 1000% you will see diminishing returns. Even your defensives have DR and at higher difficulties you will not want the level up defensives but the buff defensives that stack. HP is the exception.\n\nSo I don't need to be optimized with level ups, just need the right skill and repeat it 5-6 times, but I can't stack buffs to insane degrees cause there's DR, I have to turn off the effects in order to play the game, and the unique mechanics of the characters are glorified damage buffs that don't change gameplay. This basically means there is no diversity in builds. Now granted this is only when pushing the difficulty higher, but this problem appears in the early game meta progression wise and gets worse farther into the end game. If you want to have every build be good, don't increase the difficulty. \n\nThe game modes play the same for the most part and the maps have no gimmicks or real enemy differences so it's just visuals. Bosses do have different moves to a point, but all you do is avoid the danger zone and with enough move speed and dashes, its not hard to do except it doesn't matter when you incinerate a boss in .5s. I had to keep this part short cause character limit exists.\n\nAll in all, Soulstone Survivors claims depth while having none. Yes it's fun and for 15 bucks you can get hours of enjoyment, but it's precisely because it boasts that which it does not have that I can't recommend it.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Had an absolute blast playing this game up until the power scaling superseded the visual clarity. You literally cannot see damage fields in high-level play. It becomes a game of kiting in a circle and hoping your build can eliminate a 6 billion health boss.",
+      "voted_up": false,
+      "votes_helpful": 15
+    },
+    {
+      "review": "This is like an AI generated fake game that a kid is playing on the tv in a sitcom\r\nout of all the survivor likes / bullet heavens i have tried this is the sloppiest of the slop\r\nit does absolutely nothing to innovate the genre, besides having a lot of content / meta upgrades to go through. but thats it. Its just grinding for the sake of grinding. Every build and character feels and plays exactly the same, and the visual effects are so shit and eye blasting that you're forced to turn off all vfx a few minutes into the game if you want to be able to play. So then you're just waving a stick in the air and enemies are dropping and theres no feedback to anything.",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "Feels too much like a phone game, and none of the combat has any weight to it. To each their own man, but this is definitely not for me.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "It's not a strictly *bad* game, but I can't recommend it.  \nThere is a ton of unlockables and progression tied in, but the core gameplay devolves into staying moving while having to constantly dodge an ever-increasing mass of AOEs, some persisting on the map for an absurdly long time until you can't help but touch them as they amass in greater numbers.  Not to mention the bats with scaling speed that have their own damage aura.\nOften the map just becomes a mess that it's hard to properly see what's going on, even when you turn down the visual effects.  \nI just don't feel satisfied with my time spent in this game.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's too complex. I don't want to do a bunch of math when I'm playing a game like this. The meta-progression is also absurdly bloated. Too Much Stuff. The music and visuals are extremely generic, and I'll go ahead and echo the other reviews that mention the action feels \"weightless\". The UI is terrible. There's a lot of content though, so if you do enjoy the gameplay it's worth the money I guess.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The character models/monsters are kinda simplified while attack animations are a sight to behold.\nThe music is top notch, gameplay can be very hectic difficult at times but also very fun.\n\n\nTHEN,  they added more AoE on top of the mountain of already existing AoE with some AoE on the side and it has just turned into \"dodge the one-shotting red circle\"...for not to mention some AoE's being larger than the telegraph and animation itself, resulting in death when it shouldn't.\n\nBut it doesn't stop there, plenty of the bosses pukes red circles all over the place, making the vast majority of the ground covered in \"Red Death\".\nPLUS, certain bosses covers 95% of the ground in an AoE that makes the one-shotting AoE (and it's circle) completely invisible, so good effing luck trying to dodge a cufsterluck amount of trash mobs and boss attacks while trying to memorize where the invisible \"Puke of Doom\" circles are.\n\nTHEN, they also they added in some physics which sends the enemies flying across the screen at super speed, making them extremely hard to kill at higher difficulties...and there is a high chance you may be one-shotted by even bottom-tier trash mobs if they bump into you.\n\nSo my options right now are:\nA. Play the game in easy-mode\nor\nB. Try and challenge myself and just bang my head against the wall.\n\nWell, I went for option C.\nUninstall the game and let it collect digital dust.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "menu navigation with controller is one of the worst experiences i have seen in a while. i literally have to switch to mouse + keyboard just to navigate the menu correctly or accomplish anything meaningful. astonishing how unintuitive it feels. absolutely crazy.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "with 80hours in the game. i cannot recommend soulstone survivors. the game CAN be fun. there's a ton of content here. but as it sits i've unlocked everything. here's the issue. there's no actual content in the game. there's dozens of characters, each of those characters has different weapons and \"builds\" but none of it actually does anything. it LOOKS like it does but once you've played the first 4 characters, you've played them all. they all play the exact same, use skills from the same pools and other than looks there's not much difference between them.\r\n\r\nthe games art is also awful. its the same Synty assets you've seen in HUNDREDS of other games from The Bloodline to SurrounDEAD and everything in between. after 2 hours i had to turn off the music and sound effects and just had to listen to youtube videos in the background. \r\n\r\nwhat it does do really well: META PROGRESSION. holy crap the skill trees are massive and awesome. its grindy but not too grindy and that can be said for the whole game. it does hook you in really well and unlocking characters and skills is fun. \r\n\r\noverall there are just better options out there at the same price point as this game. Halls of Torment, Megabonk, Vampire Survivors, Risk of Rain 2, are just a few examples. i think if the devs (or dev it might be a solo dev i dont know) put more effort into the skills and characters than copy pasting them from Synty asset packs the game would be far better but it looks and feels like so many other mediocre games in the genre right now.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Causes a hardlock crash which requires a system reboot every time I play.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Insane how they turned a fun concept into a tedious grind.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Lost my 33 hour save in a Steam Cloud conflict.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Slop",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Something doesn't click for me with this game. I do love roguelites, bullet heavens and grinding, but Soulstone Survivors is just kinda boring. The gameplay feels very flat. There are a ton of characters and meta-progression perks, but I'm not liking the combat - it feels unsatisfying and \"floaty\". It doesn't really feel like I'm landing any hits. The monsters are just like sponges for taking damage, and the powercreep is so insane that the whole screen becomes an unplayable clusterf*ck very quickly. The gameplay simply isn't fun for me to enjoy the grind",
+      "voted_up": false,
+      "votes_helpful": 39
+    },
+    {
+      "review": "I bought this game back in early access, and since then they've added a METRIC TON of content. seriously, it's probably the biggest action roguelike content-wise compared to the classics like Vampire Survivors, Holocure, Halls of Torment etc.\nBut here's the thing,  my biggest issue is the same now as it was in early access. \n\nThe core gameplay loop is flawed. Once you hit higher difficulty content, you're basically just dashing around in circles dodging red damage zones and projectiles. Every game mode feels the same, every character, every weapon you pick, every rune you choose - it all plays fundamentally the same. Doesn't matter how many new characters, weapons, or maps they add (which they do for free, massive props for that), it gets repetitive and you find yourself dashing around until the level is over. I recall a dev stream for the 1.0 release where they wanted to address this exact situation to make it less heavy on damage zones, but they never really did. They went a different route instead.\nThey've added a bunch of new systems (short version):\n- Character-specific abilities that make heroes more unique which is GREAT.\n- The rune system is integrated well with skill choices and builds you can explore. \n- the expanded talent trees makes you feel that you are always getting stronger, one percent point at a time.\nAgain there is SO much stuff to unlock and upgrade. \nBut boiling it down, you're still just running in circles around red circles and squares.\n\nAnd here's the most frustrating part: on higher curse runs, you have to turn down visual effects just to see what's happening, so I can't even appreciate what my character is doing or the impact of my skill choices. Monsters die, the screen gets cleared, but the feedback on my character getting progressively stronger is not visually represented.\n\nIt's a weird situation. They keep adding more free content instead of going the paid DLC route, which I genuinely respect. But content flooding isn't fixing the fundamental problem. \nThe game needs a core gameplay overhaul, not another map, character, weapon, or rune. But I see this happening now as very unlikely.\n\nLooking at this now at the end of 2025, the competition in this niche genre may NOT offer the amount of content that you can get here with all the meta-progression systems but often have a better core loop that makes replaying more fun and rewarding. So I lost hope on this project. I am torn on giving this still a positive but for now, i have no desire to play it again no matter how much bells and whistles they add.",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "110.9 hours and my pre-rant is just... no. This is not a game I'd recommend despite the enjoyment I have had, but my reasoning is simple. The game offers you a lie. Let me explain.\n\nThe survivor genre as popularized by Vampire Survivors has had many games attempting their own spin and Soulstone is no different, offering a deep progression system with varied gameplay across different maps and game modes on your path to creating a god build and there is some truth to this. There is a large passive tree, many characters, weapons, skills, and runes to give you something new to see with each run. There are different game modes with different goals that you can play. You can gain the power to evaporate bosses in .5 seconds. These are all true and the biggest draw, to me, was the in-run upgrade system where you level up and choose 1 of 3 options that allow you to increase your strength via lower cooldowns, more damage, more aoe, crit chance, crit damage, multistrike, combination choices, etc. This all sounds well and good, but there's a fundamental issue. The depth that is promised is more shallow then a spilt bucket on a hill. \n\n25+ characters with 5 weapons (eventually for all), each with their own stats, 2 unique abilities per weapon with 3-4 general character abilities, 20+ general abilities, and a passive tree for each character certainly offers a wide variety of builds. But you will inevitably run into the glaring issue where certain characters are worse than others by large margins because of the simple fact that there are specific skills that outshine all others in terms of damage. Skills that increase in damage based on debuffs on the enemy. You could roll nothing but damage increase for 1 ability out of the 6 (sometimes 7) that you have and still not reach the damage heights of other skills if that skill does not have a multiplier and im talking a difference of 1000 times greater which will be the difference between that .5s boss fight and a 1-2 minute boss fight or better yet, a 15 minute run versus a 30 minute run. This means you can play as optimized as possible with a build theme you like, but it will take you 3 times as long to complete a run without that multiplier, so if a character does not have a skill, whether unique or common, with that multiplier prepare yourself for a slog as the difficulty increases. But don't worry as you can change that via runes which grant further customization by letting you gain access to those multiplier skills (even if they are supposed to be character specific) but that does mean the character you choose doesn't matter beyond their stats. But what about the passive tree that gives each character a unique mechanic? Pointless. Those mechanics don't change how you play beyond giving you a basic task for a damage boost. Kill enemies until bar is filled, collect something, follow a path, stand in an area. Complete this task and you get a damage boost, but again if you don't have that big multiplier skill you will do no significant increase in damage. And the other passive points? Such minor increases that I'm sure it adds up but seeing a 5% damage increase after putting 5 points into the tree feels like ass when you get that same 5% from a single level up during a run. Perhaps the passive tree grants those increases to the base stats like an additive increase but the game does not explain in any way whether it's additive or multiplicative. The game doesn't really explain anything outside of what debuffs do. 25% increase damage via a rune? Same idea, so the passive tree increases feel like busy work. A task to complete and it feels worse since you can and will fill it all out. Nothing felt special. Each point spent had no thought put into it. Just max the number. But surely there can't be something that brings the skill system down more right? Well there is a very specific rune that lets you pick the same skill multiple times, so really to get the big damages you will run the same ability 6 times, maybe 5 if you can get one good support skill and remember you can get any skill onto any character with the right runes. But what about the in-run level up passives? Surely the customizations shine there- No, they don't. I've unlocked the Blacksmith by maxing out the whole passive tree and by spamming 5 of a skill, I could just select the center option and still incinerate the bosses in seconds. Meanwhile I run the barbarian with the stone hammers with only one level less on the weapon (another upgrade system), choosing as optimally as I can, and had to fight the bosses for 60x'ish longer which also means the run lasts longer too. Of course I grabbed a multiplier skill but it took 17 minutes before it came online because I needed the right boss reward. ALL OF THIS TO SAY, build variety is gone when you have no real choices if you want to push the difficulty higher. You have to take the right skills and those are few. But let's make it worse, because you will turn off the visual effects so that you can avoid the danger zones because you can't see with the sheer intensity of visual vomit on the screen unless you want to be one shotted and the end result means no matter the skill, everything now looks the same and you realize how every build plays the same as well. And a quick note on the dots (quick for me) poison is the best, then doom, then bleed, and lastly fire and the difference between each is staggering and that's without a multiplier skill. Seriously, fire always felt the worst, but to be faiiiiiir I'm not delving into the exact numbers. This is just experience based.\n\nAt least in vampire survivors the upgrades are small and limited and more importantly you can keep the effects on screen since you only avoid enemy contact. The permanent stat increases build up over time with no limit and I do mean no limit cause there's something else that limits you in gameplay. Diminishing returns.\n\nDiminishing returns are good... sometimes. If we are talking about games where enemies or players can get cc'd for years otherwise (moba/mmo), then yes diminishing returns are good, but um... not in your survivor game where the point is to become a god. There are buffs that give you increases to specific stats but they lose effectiveness. Example. Colossus grants 2% area increase per stack, so how much area would you have at 2k stacks? 1176%... What about 1k stacks? Roughly 1100%... That means you are punished for investing in area when you can achieve those stack amounts. This goes for all stats save for damage. After 1000% you will see diminishing returns. Even your defensives have DR and at higher difficulties you will not want the level up defensives but the buff defensives that stack. HP is the exception.\n\nSo I don't need to be optimized with level ups, just need the right skill and repeat it 5-6 times, but I can't stack buffs to insane degrees cause there's DR, I have to turn off the effects in order to play the game, and the unique mechanics of the characters are glorified damage buffs that don't change gameplay. This basically means there is no diversity in builds. Now granted this is only when pushing the difficulty higher, but this problem appears in the early game meta progression wise and gets worse farther into the end game. If you want to have every build be good, don't increase the difficulty. \n\nThe game modes play the same for the most part and the maps have no gimmicks or real enemy differences so it's just visuals. Bosses do have different moves to a point, but all you do is avoid the danger zone and with enough move speed and dashes, its not hard to do except it doesn't matter when you incinerate a boss in .5s. I had to keep this part short cause character limit exists.\n\nAll in all, Soulstone Survivors claims depth while having none. Yes it's fun and for 15 bucks you can get hours of enjoyment, but it's precisely because it boasts that which it does not have that I can't recommend it.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Had an absolute blast playing this game up until the power scaling superseded the visual clarity. You literally cannot see damage fields in high-level play. It becomes a game of kiting in a circle and hoping your build can eliminate a 6 billion health boss.",
+      "voted_up": false,
+      "votes_helpful": 15
+    },
+    {
+      "review": "This is like an AI generated fake game that a kid is playing on the tv in a sitcom\r\nout of all the survivor likes / bullet heavens i have tried this is the sloppiest of the slop\r\nit does absolutely nothing to innovate the genre, besides having a lot of content / meta upgrades to go through. but thats it. Its just grinding for the sake of grinding. Every build and character feels and plays exactly the same, and the visual effects are so shit and eye blasting that you're forced to turn off all vfx a few minutes into the game if you want to be able to play. So then you're just waving a stick in the air and enemies are dropping and theres no feedback to anything.",
+      "voted_up": false,
+      "votes_helpful": 8
+    }
+  ]
+}

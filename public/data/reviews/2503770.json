@@ -1,0 +1,966 @@
+{
+  "positive": [
+    {
+      "review": "So far it's fantastic, with excellent art and audio, but it needs some QoL improvements. For example, when you have many family members, it's chaotic trying to figure out what everyone is doing or which other clans or cities they're interacting with.\n\nAnd it needs some optimization. Aside from that, it's very good.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "This is exactly what I've been looking for. Kind of a marriage between my favorite aspects of Crusader Kings and City Skylines. My only complaints would be that some user interface and goals could use a bit more hand holding to get a grasp of how to navigate. Also, maybe some of those larger sums like donating to a province or the royal treasury could automatically be converted from gold? Converting the monthly court salaries from gold to usable currency every month was an extra step that did get a bit annoying. Otherwise, love love love this game!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "A little difficult to navigate but quite fun and addictive, the more you know about Chinese history the easier the game is. Tip: Make sure your home base is completely updated or basically doesn't have any old/bad buildings. If you have that under control, it should get easier.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "House of Legacy hooked me so hard I ended up playing for hours without even noticing.\r\nAbsolutely worth it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Beautiful game with a lot to do. Devs are super active on updates. I can't wait to see where this goes!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing game, I love it, could use more content",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Relaxing and interesting game with beautiful art and satisfying building mechanics. As others have said, it's clearly still early access, but it shows a ton of promise and the devs are communicative about their roadmap. Would definitely recommend.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A game that made me sat for hours and it's suddenly 4 AM and I still need to take over the empire. For the Clan!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "What a gem. Simple graphical interface, much content. I have spend there many hours and its still yet to be released. Thank You developers for constant updates!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So, although I have to admit I am not the best at this game, I do really love it, the artwork is absolutely gorgeous and the gameplay is fun. The backstory is a but underwhelming but honestly that kind of helps in this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great for those who like the political aspects of Chinese Historical Dramas. The game is very tactical and there is always something to do. Love climbing the social status ladder and the many ways your decisions dictate the outcome. Weirdly but in a good way plays like a city building game with a strategic side to it and broader sim life elements.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really like this game and I really do hope it keeps developing. but as of now it is clearly still early access. Right now the game no real objective except maybe becoming the emperor, and becoming the emperor is not that hard. There are really only two ways to become the emperor and one of them is far harder than the other (ig this is like a challenge you can give yourself - but its not impossible just would need a few extra hours of grinding). In general you can finish the game in a under 4 hours if you know what your doing and then you are kind of lost for the rest of the time. I wish there was something you can do after becoming the emperor. Maybe a new enemy shows up, like a foreign nation! Or you transition to some other goal, making the player have more options for growth. Anyways still like the game currently and think its pretty fun to play around with.\n\nPs I never mentioned rebells here but I don't see how you can really interact with them much. They can help you in some ways but from what I played so far you can't really become a rebel yet.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Interesting gameplay, would actually play again soon.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i'm having so much fun with the game. I can't stop when i boot the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Its a slow burn at first but the more you play the more the game opens up with new systems to manage.\nIts worth a play if you like managment games and city builders as the art style is wonderful.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Chill game, nice gameplay, good to relax.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "absolutely adore this game. it's early access and while it needs some work and there's parts you can tell they intend to expand on, it's still worth getting and playing now! there's so much to do and it's very pretty. can't wait to see how it continues to grow!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is decent overall. It captures the nuances of individual characters and clan dynamics in ancient China, and offers a good mix of managing people, cities, politics, warfare, business, and relationships. To improve, the game could benefit from better graphics—such as visual cues for sickness or aging—and more customization options. Most importantly, adding mod support would greatly enhance the experience.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really fun game, good for people who like strategic/ political games.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good rpg game, still in early access, expect to get more features and events to make game more exciting and eventful. Limiting how many actions can be done in one day, one week or month might make more sense.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Never expected to like the game so much as i do for a Early Access... But i'm having fun and i'm enjoying the regular updates from the devs with their roadmap and concise release info of what's to come.\n\nIt's a journey worth taking and a Legacy fun to build.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The game is really interesting in terms of how the Chinese dynasty and surroundings works",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Magnificent game. However, it would be essential to have the option to automatically purchase gold; otherwise, it requires too much manual action, whereas regular money flows freely once you reach a certain power level. Perhaps it would be possible to assign this task to retainers or family members, and to increase purchase limits based on clan level?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A handful of QoL features and more content, and this game would be perfect. I love building a huge family tree, slowly building wealth, and watching as my political machinations unfold. The game being tedious and generally missing a lot of potentially fun mechanics makes it harder to enjoy the wonderful game at the core. \n\nDefinitely buy the game if you like the genre, but possibly wait to sink your teeth in until it's in a more mature stage of development.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "finally everything im looking for in a medieval kingdom building game, simple not crazy graphics to make up for lack of content. Build my personal manor as well as politicking to climb the ranks. Building up the army so far to eventually overthrow the Emperor. download WeMod to get the cheats",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is the perfect blend of a colony sim, politics, and family gameplay. i love this sim so much and I can't wait for the full version.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I played this game during the Demo and absolutely loved it!. The concept is really neat and being able to grow a clan as opposed to simply city-building is more enjoyable. I like the personal interactions, being able to train clan members in different paths, and being able to progress into different cities. \n\nThere are definitely some places to improve, such as needing to know what certain actions will do, and the cost-effectiveness. For example, I don't know what I need servants in my household for; at this point, I'm just throwing money away for nothing in particular. Same with hiring people for my stores, I'm just decreasing my monthly profit without any tangible results, so I've stopped hiring and giving them high pay. There needs to be some sort of satisfaction meter, or some kind of bonus or perk to having more/higher paid employees and servants.\n\nEdit: I've learned that hiring employees produces more profit after all, so now I do max employees at the base pay. Still don't know what servants are for.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "House of Legacy é um jogo relaxante onde você deve reconstruir seu clã e tentar fazê-lo entrar para a história da China.\r\n\r\nCom um sistema de manutenção complexo, guerras, educação, você pode construir seu clã da forma que achar melhor, mantendo relações com outras família, compactuando com rebeldes para derrubar pessoas que você não gosta, podendo também ser atacado a qualquer momento.\r\n\r\nO jogo possui um estilo visual desenhado, super simples com música de fundo típica chinesa e bem relaxante.  O jogo me surpreendeu positivamente em toda sua complexidade. se você gosta de jogos de de construção de base e gestão de recursos com um toque relaxante, este jogo é para você",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great so far and gets better with each update.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "tried to help my homosexual daughter find a lesbian wife only to find out that it's probably not possible",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "beware of the overloading of farms and the dropping of the fps'",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "it's goood, I would like to wait until it full release",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Turning my family tree into a family circle. Only the weak bloodlines need not apply.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good management simulator. Be prepared for Repetive tasks though",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Numbers go up!\nMonkey brain neurons activated!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good game, build your family!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "He who control the heavenly mandate controls the dynasty",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "have polygamy or marry underage children",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "What should i say? PERFECT FOR ME?. I love it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Solid dynasty manager.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very fun",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good Game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "love it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "that's good!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "👍🏻",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great Game.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "10/9",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "🎎",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "3 people made this, I repeat, only 3 people (a coder and two artists) made this!!\n\nI know there are a lot of people who think that Chinese people’s minds are built differently, but this is honestly insane, 3 … people. Yeah, take my money and my time as well while you're at it.\n\nOther than this information that I had to run and write about, the game itself is absolutely fantastic.\n\nIf you love ancient China history, and you watched a lot of dramas with emperors, clans and wars, then this game is for you.\n\nBeware that the game at the beginning is incredibly slow.\n\nI’m still on the early game myself, so I’m micro-managing everything to get as much money as I can. In the meantime, a mighty clan member is rising the ranks as an invincible general, and my clan leader is a scholar who becomes an official. \n\nThe emperor then sent a marriage proposal to him, a woman from the imperial family wants to marry him! I rejoiced, apologized to his amazing first wife, who helped his business grow with her high business talent, and to his child, who will lose his mother. Then I accepted the proposal, thinking of a son with imperial ties! \n\nOnly for that imperial woman to be both infertile and talentless; she has no useful stats at all! What a farce! I wanted to divorce her, but I fear my clan relationship with the imperial family may be affected, so now my only option is to search very carefully for a concubine to continue the clan bloodline.\n\nFor this slight from the emperor, I swore to topple him from his throne. He may have laughed first, but I will get the last laugh! … After I become rich and influential enough, of course.",
+      "voted_up": true,
+      "votes_helpful": 58
+    },
+    {
+      "review": "I study asian studies. So this really hit that iche I couldn't reach. This game is in early access so understand that this can change and could already be expected. My simple review is yes, I recommend the game. Read further if you want to know more.\r\n\r\nThings I liked:\r\n\r\n- Geneology (family) system. \r\n- Clan base building/clan building. \r\n- Owning and managing shops.\r\n- Gambling (though I should never do it again in real life).\r\n- The map and it's size.\r\n- The art aesthetic. Almost like a water painting. \r\n- Managing farms and in general other things.\r\n\r\nThings I didn't like (though I still recommend): \r\n- The amount of things on the city map to do is limiting and repetitive (click bag, buy pot for cheap, sell pot for higher). Too simple too.\r\n- I feel that states/training/life is too long. I spend so long reading a book for only +2 writing.\r\n- The NPC's and clan members all look similar with very little variety in style or design. Can't tell much difference between each clan member. \r\n- Most of the game so far is mainly just making money and business. I want more aspects of life. (I haven't finished the game yet though so this is a current view). \r\n- It is too time consuming/expensive (for some things). Like I saved up to do the match maker, paid for it. Then I had to have wedding gifts. I did not know that so the match making was a fail and I lost 45,000. \r\n- traits. I don't know if this part is complete but it is lacking.\r\n\r\nWhat I wish for: \r\n\r\n- More character design choices. \r\n- The ability to go down other routes with my clan. Instead of making business number one. Maybe I am a militant clan, an educated and literate clan producing art, and such. \r\n- I wish I can be more active and a part of the city. Not just clicking people to work or buy and sell. Maybe special NPC's and a quest board? \r\n- Buy low and sell high is elementary. If there was more to the economy that would be pretty cool. \r\n- a more fleshed out criminal system/life. \r\n- I feel the game lacks soo many directions and rules for how things work. Currently cant take a loan from the bank because im not friends with the royal family. Who are the royal family? How did I lose friendship? \r\n- More variety in buildings and things you can build. \r\n- More politics and city management. \r\n- So hard and time consuming to make relations with people. So making it a little easier would be nice.",
+      "voted_up": true,
+      "votes_helpful": 37
+    },
+    {
+      "review": "This is a really fantastic, addictive game, and I really recommend it if you enjoy narrative-style rpgs and political sims, but like, applied to a bigger scope. The framing of the story is that you will be slowly rebuilding your “dynasty”, after a nation-wide rebel invasion killed off most of your clan members and destroyed your estate: you start with one clan member, horrible stats and no money, progressively amassing power and influence—to the point you could easily stage a coup and supplant the Emperor (if you so choose). \r\nThe game gives you a lot of freedom to try different playstyles and approaches to the problems you face: you can go for the military route, sending your characters to conquer the surrounding provinces, or have them enter public service via provincial examinations; although realistically you should be going for both to reach higher renown and such. (In theory, sending your characters to war should be a gamble, since they run the risk of dying in battle, but in practice none of my characters ever died because of it, even with low stats.) \r\nSince your interests are spread out over many different clan members, the game isn’t afraid of dishing out pretty realistic consequences for your actions, either. If you try and fail to assassinate a royal clan-member, the character who attempted assassination will be executed and your relationship with the royal family will take a hit, but it’s not like it’s a game-breaking thing. This way, mistakes and failures actually become a gateway for more content and interactions, and these unpredictable ups and downs make the story even more realistic and “alive”, if that makes sense. Events also happen at a time scale of generations, which gives a pretty organic feel to your progression through the ranks. \r\nWhat I loved the most is how interactive the game feels: there’s a lot of RNG events that can happen at key moments, which sometimes make or break the narrative you were building towards. Marriages are one of the easiest ways of building strong relationships with other clans, so you catch yourself thinking really pragmatically about it, almost like a C-Drama villain. \r\n(“You’re 18, Ge clan’s Huer Ge’s 18, they have a Chancellor in court, can I make it any more obvious?”)\r\nEven so, while you can make plans for them, characters will sometimes get really interesting bursts of agency—ask to divorce from the Royal Family because life in the palace is making them miserable, fall in love with someone in a party they were invited and move in together, have an affair with their partner’s third cousin…. I think these are really neat, and I’m always positively surprised by these events. \r\nThat being said, there are a lot of features that are still being implemented, so some parts of the gameplay will feel “missing”, or the late-game can feel a little still. Other problems are QOL, like multiple sub-menus, but the update roadmap shows there are on their way to being fixed. Personally, one thing that bothers me is that once they pass away, clan members go missing from the family tree, and all the connections they used to have disappear. This can make it even harder to track who is who, especially when the number of people in your clan reaches a hundred. I imagine this is made to avoid using up too much processing power (which is an admirable effort, the game runs pretty well on my 8yo laptop), but it would still be nice to have some way of keeping track of your complete family line, maybe with the portraits of deceased members greyed out?\r\nAll in all, I really enjoyed playing it so far, and I’m looking forward to the next updates!",
+      "voted_up": true,
+      "votes_helpful": 15
+    },
+    {
+      "review": "This game scratches an itch that 2D isometric city builders, CK3's family management and heirarchy system, and deep economic sims all scratch. It's not complete yet, but this is absolutely an addictive game loop already. It's got tons of features and hours of content. It's a slow slow slow burn but it is very satisfying watching your clan's standing improve over time. Absolutely a rare gem that has taken over the last week of my life.",
+      "voted_up": true,
+      "votes_helpful": 14
+    },
+    {
+      "review": "one of the best and most intriguing game I’ve ever played, and spent this much hours in such a short time. have always loved imperial China’s history so this game is ticking all of my boxes. super excited for the weekly updates. best $14.50 ever spent in my life",
+      "voted_up": true,
+      "votes_helpful": 12
+    },
+    {
+      "review": "Okay I rarely make a review but this game is really fun and I love the building modes. \n\nCons: \n- If you build a majestic clan it goes get laggy. \n\nPros: \n-Mini story lines\n-Watching your family grow huge  \n-Developers LISTENS and patches the game almost every week.\n\n\nAlso the fact that THREE PPL (a coder and two artists)MADE THIS ... is mind blowing.",
+      "voted_up": true,
+      "votes_helpful": 11
+    },
+    {
+      "review": "It's good - the art is wonderful and adorable. The gameplay is a satisfying - but, right now, is a little bit too easy and lacking in depth. \n\nThe game also needs some QOL changes (for example, hovering the mouse over terms and getting an explanation of what it means (e.g. I have no idea what a Censor is and what skills might impact a clan member's performance as a censor - so it would be good to get some flavour text about that sort of thing). \n\nIn addition, I would suggest a revision of the farm management that makes it a little easier to manage the roles of the peasents. I can't see anywhere in the interface that tells me how many artisans, growers, etc I need to run the farm effectively  - this would be useful. Also the option to dismiss idle servants would be good. \n\nThe notification system is also a little bit busy and annoying. I would like to take the time to understand each event I'm told about - but I think the notifications themselves should include a button/ decision that presents the call to action. For exampl,e, when I am told someone is suspected of harboring a criminal, it would be good iff there was a button I could use to assign someone to investigate or something.\n\nAll in all, it's a great EA game and I'm realy looking foeward to seeing what the devs do with this. It's a cool idea  and a unique blend of Crusader Kings and colony sim.",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "I love money and this game is definitely for me - rebuild my clan, build up skills, business opportunities, cause riots, annihilate clan, overthrow the royal family - good game, it's addicting and easy to play, still figuring out a few things but I have a great time playing this.",
+      "voted_up": true,
+      "votes_helpful": 7
+    },
+    {
+      "review": "Damn, dude. It's really really fucking good. \n\nI won't lie, it's an early access game and that can be very apparent at times. On occasion you do things and the game simply doesn't react. Interactions with other clans feel vaguely empty and pointless. A lot of the interpersonal events even in your own clan require a pretty sound theater of mind to have any real substance. \n\nIt's my understanding that at least some of these things are on the roadmap, so we'll see how it develops, but now onto the reason I'm recommending it already. Cause it's INSANELY good in what it does already have. As a clan manager? Fantastic. Needs some fleshing out as stated, but ALL the skeleton is there and very promising. As a BUILDER? You could ship this now and call it done. Building farms and your clan grounds is immensely satisfying, and absolutely beautiful. Money, trading, monetary gain, all of this is already perfect as well. I enjoy sending off my kids to war. I wish there was a little more flow to the rebellions and war aspect- if the rebels had some pushback, or some sort of rallying that could make it a bit more challenging, or if other clans could have their own tangible spheres of influence, but it's a good start at any rate. The art is all beautiful, I've spent hours at a time just staring at the numbers trying to make it all work, and seeing how far I came from the dilapidated grounds I started with felt genuinely great.\n\nI'm very very hopeful this recommendation can stick throughout early access all the way to full release. If you're wary about getting a game that hasn't had too many updates pumped into it yet, no worries, I was too lol. But this is for sure a game I'll be playing and keeping an eye on in the years to come",
+      "voted_up": true,
+      "votes_helpful": 7
+    },
+    {
+      "review": "Love the game so far. would like to add on that maybe could improve the time speed. it feels so slow even if it's 10x speed",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "If you enjoy a non-demanding sandbox where you can play god, this is a fun game.\n\nCultivate your clan by recruiting the most talented people the world has to offer. Expand your influence and become a puppeteer—a legend that terrifies any notion of democracy.\n\nIt's an immersive s**sung simulation, no joke. People live in houses you build, eat food you produce, work in places you own, are governed by systems you (allegedly) choose, and even have an emperor you (allegedly) desire.\n\nRight now, the game doesn’t offer much depth, and most interactions feel meaningless. Still, the developers are actively working on it and listening to the community—and that’s always something to appreciate.",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "House of Legacy is an amazing strategy game. The controls and how to get good at the game are relatively easy to learn, but will take some trial and error at first. I would highly recommend this game, especially if you like a combination of history, city-building, and strategy. I find myself playing for hours at a time, just because of how much I want to advance my clan! I do have a few suggestions for the developers, though, if they haven't already considered the following:\r\n\r\n- Ability to control clan members who marry into the royal family/other clans. I find that sometimes I want to see if I can maneuver my clan members to help the clan gain more renown and influence over the court, but I can't control them once they're married off, which I find a bit odd since you have so much control when they are still single.\r\n\r\n- Ability to immediately spawn in as a member of the royal family. Maybe an option to start either as a regular clan or as the royal clan? I think this could be an interesting dynamic that would really show the cutthroat nature of the court and how you can rise to the top, betray, etc.\r\n\r\n- More soundtracks! I love the music of the current version, but I hope the devs release some new songs to hear as you progress through the game!\r\n\r\n- More decorations and buildings options for bases, towns, farms would be nice. I would like to see some more varied colors, such as what is present in the Changsha province or the Royal Capital.\r\n\r\n- More options for seaside towns would be super cool as well. Being able to raise a naval force and command the seas could bring even more strategy to the game!\r\n\r\n- Internationality. Maybe there's a new empire across the sea, and the emperor needs our help to claim it? We could forge alliances, marriages, and even potentially go against the empire.\r\n\r\nAll in all, it's a wonderful game right now, especially for a game that is so new. I'm looking forward to what the devs do with this game!",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "So far it's fantastic, with excellent art and audio, but it needs some QoL improvements. For example, when you have many family members, it's chaotic trying to figure out what everyone is doing or which other clans or cities they're interacting with.\n\nAnd it needs some optimization. Aside from that, it's very good.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "its addicted, making numbers go brrrrrrrrrrrr and watching money come in, if only real life was so easy to make money",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "House of Legacy is a game with tremendous potential, especially for players who are interested in the rich history and culture of China. From the very beginning, the game manages to capture the essence of political dynamics among noble families, while also reflecting the cyclical rise and fall of dynasties throughout Chinese history.\n\nThe features provided so far are quite promising and succeed in building an immersive atmosphere of strategy and historical intrigue. Players are able to experience how alliances, rivalries, and conflicts shape the path of power, offering a fascinating glimpse into the complexities of imperial politics. This layer of depth makes the game stand out as more than just a casual simulation—it feels like a window into the historical struggles that defined ancient China.\n\nThat being said, House of Legacy still has a wide space for further development. Expanding on career progression systems, adding more intricate details to events, and enriching interaction options between characters would significantly enhance the overall experience. With continuous updates, the game could evolve into one of the most compelling titles in the genre of historical strategy and simulation.\n\nOverall, House of Legacy is undeniably addictive. Its combination of immersive gameplay, strong cultural flavor, and vast potential for growth makes it a highly engaging experience for those who appreciate history, politics, and the cultural richness of China.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "There's something magical in this game. The beautiful art and style is only dwarfed by the sheer volume of customization and personality. A dream come true for dynasty RPG fans.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "This is my first game on Steam and I am happy that I bought this game. Such a unique simulation + political game.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Its a good game as far as idea n execution but micro clicking of indivual sell item or character is annoying.  Area need improvement is: 1. It need popup to tell which house is vacant or what still need upgrades or servant.  2. need a better system of showing which town has your family in it to better management recruitment n tax refund n donation to decrease discontent. 3. Its almost impossible to resolve or invest in town when character keep moving around or rebellion every 5minutes and you cant even have an option to send reinforcement.  4. Exchange need work.  5. Training need work n save slot need work.  Over all game is not bad, if developer can address these issues its great game.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "This game is such a massive comfort game for me. It took me a while to really get the hang of things but it's so fun to create your own dynasty and just work on everything.\n\nAnother thing I would like to add is that it's really cool to see how much the game gets updated, and how transparent they are with what's coming. There's constant improvement into the game, and it really improves overall gameplay.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Super engaging and fun to learn the ropes (because there is a very limited tutorial). Cant wait for the updates as they come.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "A little difficult to navigate but quite fun and addictive, the more you know about Chinese history the easier the game is. Tip: Make sure your home base is completely updated or basically doesn't have any old/bad buildings. If you have that under control, it should get easier.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Amazing game, I love it, could use more content",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the best games I’ve played, I don’t own a PC but I usually just keep going to a gaming cafe to play some games and I can never get bored of this game, even though something’s in the game are a bit repetitive but I love every single bit of the game and it’s really fun, not difficult to get into and quiet addicting of a game especially if managing a clan/family is your cup of tea, and building is great especially the art style though I kinda wish I can turn the camera around as well….i know it kinda defeats the art style but my ocd….i gotta place fences behind the farm building😂😂 thank you for the great game and I’m really looking forward to future updates",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I thought about it in August, got cold feet and didn't buy it. I thought about it again in September, this time, I bought it. I wish I hadn't. By the time I realized what was going on, it was 1 am. I had to be up in 5.5 hours. I couldn't stop playing. It's always, \"one more month\" or \"let me just reclaim this outpost for the Emperor\". buy this game if you love not knowing where your extra man-hours during the day are disappearing to, and you don't frankly care because this is a hell of a game. I hope they add a co-op experience eventually. I would love to be in the same clan as my friends or even rival clans. Great game. 100/10",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This plays very nicely, with a good (if strict) tutorial in the beginning, followed by quests that help guide you into what you should be doing. I love how it goes from doing odd jobs yourself to having retainers to do them, then owning your own stores, homes to automate your retainers, owning a farm, etc etc. Just very incrimental in the growth. I'm barely into things and I can see how I have so much more room for progression. So far the systems for automation are very intuitive, and I've never been bored. Plus, it's fun to let it run and just watch things move around. I like that in a game.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This is exactly what I've been looking for. Kind of a marriage between my favorite aspects of Crusader Kings and City Skylines. My only complaints would be that some user interface and goals could use a bit more hand holding to get a grasp of how to navigate. Also, maybe some of those larger sums like donating to a province or the royal treasury could automatically be converted from gold? Converting the monthly court salaries from gold to usable currency every month was an extra step that did get a bit annoying. Otherwise, love love love this game!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "A very lovely dynasty sim/builder game based on ancient China. Translations are good. Gameplay is nice and comfy, but gets a little stale late game. Still very good for an EA game. Updates are very regular and frequent. Some bugs here and there, but nothing too big. Does not require too much resources to run. Have not encountered any crashes so far.\n\nAll in all, good job, devs!",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Relaxing and interesting game with beautiful art and satisfying building mechanics. As others have said, it's clearly still early access, but it shows a ton of promise and the devs are communicative about their roadmap. Would definitely recommend.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A game that made me sit for hours and it's suddenly 4 AM and I still need to take over the empire. For the Clan!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "What a gem. Simple graphical interface, much content. I have spend there many hours and its still yet to be released. Thank You developers for constant updates!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So, although I have to admit I am not the best at this game, I do really love it, the artwork is absolutely gorgeous and the gameplay is fun. The backstory is a but underwhelming but honestly that kind of helps in this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great for those who like the political aspects of Chinese Historical Dramas. The game is very tactical and there is always something to do. Love climbing the social status ladder and the many ways your decisions dictate the outcome. Weirdly but in a good way plays like a city building game with a strategic side to it and broader sim life elements.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really like this game and I really do hope it keeps developing. but as of now it is clearly still early access. Right now the game no real objective except maybe becoming the emperor, and becoming the emperor is not that hard. There are really only two ways to become the emperor and one of them is far harder than the other (ig this is like a challenge you can give yourself - but its not impossible just would need a few extra hours of grinding). In general you can finish the game in a under 4 hours if you know what your doing and then you are kind of lost for the rest of the time. I wish there was something you can do after becoming the emperor. Maybe a new enemy shows up, like a foreign nation! Or you transition to some other goal, making the player have more options for growth. Anyways still like the game currently and think its pretty fun to play around with.\n\nPs I never mentioned rebells here but I don't see how you can really interact with them much. They can help you in some ways but from what I played so far you can't really become a rebel yet.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Interesting gameplay, would actually play again soon.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i'm having so much fun with the game. I can't stop when i boot the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Its a slow burn at first but the more you play the more the game opens up with new systems to manage.\nIts worth a play if you like managment games and city builders as the art style is wonderful.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Chill game, nice gameplay, good to relax.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "absolutely adore this game. it's early access and while it needs some work and there's parts you can tell they intend to expand on, it's still worth getting and playing now! there's so much to do and it's very pretty. can't wait to see how it continues to grow!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is decent overall. It captures the nuances of individual characters and clan dynamics in ancient China, and offers a good mix of managing people, cities, politics, warfare, business, and relationships. To improve, the game could benefit from better graphics—such as visual cues for sickness or aging—and more customization options. Most importantly, adding mod support would greatly enhance the experience.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really fun game, good for people who like strategic/ political games.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good rpg game, still in early access, expect to get more features and events to make game more exciting and eventful. Limiting how many actions can be done in one day, one week or month might make more sense.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Never expected to like the game so much as i do for a Early Access... But i'm having fun and i'm enjoying the regular updates from the devs with their roadmap and concise release info of what's to come.\n\nIt's a journey worth taking and a Legacy fun to build.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The game is really interesting in terms of how the Chinese dynasty and surroundings works",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Magnificent game. However, it would be essential to have the option to automatically purchase gold; otherwise, it requires too much manual action, whereas regular money flows freely once you reach a certain power level. Perhaps it would be possible to assign this task to retainers or family members, and to increase purchase limits based on clan level?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A handful of QoL features and more content, and this game would be perfect. I love building a huge family tree, slowly building wealth, and watching as my political machinations unfold. The game being tedious and generally missing a lot of potentially fun mechanics makes it harder to enjoy the wonderful game at the core. \n\nDefinitely buy the game if you like the genre, but possibly wait to sink your teeth in until it's in a more mature stage of development.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "finally everything im looking for in a medieval kingdom building game, simple not crazy graphics to make up for lack of content. Build my personal manor as well as politicking to climb the ranks. Building up the army so far to eventually overthrow the Emperor. download WeMod to get the cheats",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is the perfect blend of a colony sim, politics, and family gameplay. i love this sim so much and I can't wait for the full version.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I played this game during the Demo and absolutely loved it!. The concept is really neat and being able to grow a clan as opposed to simply city-building is more enjoyable. I like the personal interactions, being able to train clan members in different paths, and being able to progress into different cities. \n\nThere are definitely some places to improve, such as needing to know what certain actions will do, and the cost-effectiveness. For example, I don't know what I need servants in my household for; at this point, I'm just throwing money away for nothing in particular. Same with hiring people for my stores, I'm just decreasing my monthly profit without any tangible results, so I've stopped hiring and giving them high pay. There needs to be some sort of satisfaction meter, or some kind of bonus or perk to having more/higher paid employees and servants.\n\nEdit: I've learned that hiring employees produces more profit after all, so now I do max employees at the base pay. Still don't know what servants are for.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great Game worth playing it if into city building games and creating family lines and watching it change. Okay full review....\nGOOD: Time Well spent especially with advancing family members, Because its early in game the money access seems difficult at first but isnt a problem a few years down the line so dont worry about money. Great if you like this theme in general. your going to enjoy Edo Peiod \nFIX: WHY HAVE OFFICALS IN ROYAL COURT  IF YOU CANT IMPROVE THERE STATS! Whew..REWORK How family member are handled on the estate and there windows for interactions for Elder/other  character especially when Elder is Unavailable due to Royal court duties",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The game is easy to pickup and quick to hook you in. I really love the family dynamics and the fact even women elders can have concubines. Overall, a great game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I look at the clock and its lunch...suddenly I've sat in the same spot for 117hrs! how did that happen? \n\nLove this game, so pretty to look at, relaxing, then one of the clan members you have carefully cultivated for the Emperor gets rejected and ruins your plans. Surprisingly a lot going on in the game for something that has fairly simple game play; you have to consider, relationships, cash, politics, food, taxes, education, happiness of both your clan and the cities, farming, characteristics, Fifes, troop numbers, private armies....it keeps going. \n\nA lot of thought has gone into this game, highly recommend.",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "The art is nice and the concept sounds great - it has some city building aspects and Crusader Kings-like dynasty management and grand strategy. Unfortunately, it's just overambitious but underbaked at this point, with too many confusing and useless options, poor balance, and an unintuitive interface, especially for character interactions. Case in point:\n\n- In cities and estates, placement of buildings doesn't matter at all. There are sprites walking around but they're just decorative.\n- Shops offer jobs, but the rewards are meaningless after just 10-20 minutes of gameplay\n- There are dozens of ways to interact with characters but there's little reason to do any of them except arranging marriages\n- A single 16-acre farm can earn as much as an entire city or province\n- Fiefdoms seem to be granted randomly and are the only way to raise a private army afaict\n- I still have no idea how the royal family system works\n\nIf the devs cut down on some of the meaningless grind and spend more time refining the mechanics that matter, then this will be an easy recommend.",
+      "voted_up": false,
+      "votes_helpful": 15
+    },
+    {
+      "review": "Great idea and execution, but severely needs Quality of Life changes... Especially for people who do not have fully functioning hands. There is a lot of clicking required to get started in many games, but here, there is no way to decrease the clicking.\n\nTo do interactions, you need to click through multiple menus. There is no automation, so you need to click to do everything. Want to sell stuff? Click on everyone to buy low and sell high. Want to fix up your mansion? Click on every single tile until you find the ones you can repair, then click, click, click to reorient the parts of the house you want to place.\n\nI would be happy to give it another shot if they improve accessibility, but at this point, its a \"no for me, dawg\"",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I wouldn't recommend it yet. The game is very beautiful, there seem to be a ton of layers to it and interacting mechanics... but like many Chinese games I've played it is a bit overdeveloped and under-explained. There are a few translation issues which complicate things... for instance 'Sell' and 'Acquire' are used incorrectly in some screens (which is very confusing for a merchant)... but mostly I didn't find localization to be an issue. \n\nMy biggest problem with the game right now is that it doesn't explain how to play it. In my short trial I found myself in the Discussion forums at least three times... and everything I looked for had multiple threads asking the same questions.\n\nWhat is stamina? Where am I supposed to see it? When does it refresh? Is there some activity I can undertake to get more? \n(It limits what your character can do, you can see it on the character screen ONLY which is very inconvenient UI, it refreshes at the start of the in game month, I have no idea)\nWhy am I dying? It says I have low health, but I haven't fought anyone... (I guess I was starving? It isn't explained well that you need a certain amount of provisions each month in order to survive at all. There aren't meters anywhere... you just have to check your character screen. I had no idea I needed to assign myself to a house after I repaired it.)\n\nI also checked the Discussions to see if anyone else found the game to be incredibly slow... My experience was tedious. I was looking for things to buy low, selling them high, repeat... every month. I just learned I could build a store and I guess that would have given me some passive income, but the beginning is really rough. I felt like I was always tired and starving and it just took so long to crawl out of that hole. I did take out a bank loan, and was able to pay it back... but eventually strangers showed up claiming to be my family so I had to fix more buildings and feed them... so I had to take out another loan...\n\nI'm sure I would have been successful EVENTUALLY, but it felt like basically none of the gameplay was explained in a way that would set me up for success. The tutorial was extremely short, so it could definitely afford to be longer! Teach me about stamina, time progression, what a retainer is and what they can do for you, why my female family member couldn't work, why my retainer couldn't act as a domestic servant, or really ANYTHING else. \n\nI have high hopes for the game, but for now I'll take a refund and wait to see if it gets better.",
+      "voted_up": false,
+      "votes_helpful": 70
+    },
+    {
+      "review": "The art is nice and the concept sounds great - it has some city building aspects and Crusader Kings-like dynasty management and grand strategy. Unfortunately, it's just overambitious but underbaked at this point, with too many confusing and useless options, poor balance, and an unintuitive interface, especially for character interactions. Case in point:\n\n- In cities and estates, placement of buildings doesn't matter at all. There are sprites walking around but they're just decorative.\n- Shops offer jobs, but the rewards are meaningless after just 10-20 minutes of gameplay\n- There are dozens of ways to interact with characters but there's little reason to do any of them except arranging marriages\n- A single 16-acre farm can earn as much as an entire city or province\n- Fiefdoms seem to be granted randomly and are the only way to raise a private army afaict\n- I still have no idea how the royal family system works\n\nIf the devs cut down on some of the meaningless grind and spend more time refining the mechanics that matter, then this will be an easy recommend.",
+      "voted_up": false,
+      "votes_helpful": 17
+    },
+    {
+      "review": "I rarely do game review, but this one is quite the problem. There is need to be a substantial rework on how the Royal capital work. The royal capital will always bankrupt everytime one of your family sit on the minister position, which in this case war minister is the easiest one to get. This would ruined the game and make it into a screeching halt, where the capital cannot go on war > which make no one able to progress further in rank/military > which mean that if all of your clan member that already have some military experience die due to various cirmustances, there wont be another way to progress the game. I get it that we don't have to rely on the capital for troops, and that we can utilize the province as a means to support our campaign, but the fact that the initial recruitment to get into the military can only be done through joining imperial campaign simply mean a doomed nation(unplayable game) when there isn't any left.  I get it that the game is still in early access but atleast make it so that all content already in the game are available to be obtained, and not to be hindered by some bullshit of a system that royal capital is.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So many clicking actions for so little impact. Why does a management game with so many moving parts require you to click for each one?\n\nThis was only within the first couple hours with 3 characters, 1 shop, 1 farm. The game shows windows with 10s of characters, it'd get crazy.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Great idea and execution, but severely needs Quality of Life changes... Especially for people who do not have fully functioning hands. There is a lot of clicking required to get started in many games, but here, there is no way to decrease the clicking.\n\nTo do interactions, you need to click through multiple menus. There is no automation, so you need to click to do everything. Want to sell stuff? Click on everyone to buy low and sell high. Want to fix up your mansion? Click on every single tile until you find the ones you can repair, then click, click, click to reorient the parts of the house you want to place.\n\nI would be happy to give it another shot if they improve accessibility, but at this point, its a \"no for me, dawg\"",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's a fun game in the current state. Feel free to buy it on sale, but I would wait to really get into when they update a few core mechanics. I got bogged down searching through civilians for specific retainers and spouses (you can organize by stats/skills, but I hesitate to play this game until you can specify parameters - especially since a similar system is already implemented elsewhere). It really feels like a gotcha, gambling game, especially in the early stages. Not a lot of tutorials either on general politics, what can be achieved, and how - I've had to browse online threads to figure out how the game works. Definitely check it out later as they regularly update the game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the most confusing games I've ever played. When an event happens to someone outside your clan occurs, good luck finding where they are on the map. Open the map and you can no longer access the event. Yihui Wang of Royal Family and Shuyu Yang of Yang Clan of Yingyang are suspected of forming cliques, you say? Let me open the map. I see Yang Clan, click on it, but no one mentioned in the event is listed to interact with. Maybe I'll try looking at the Royal Family. Nope not there either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't get the positive reaction to this game.\r\n\r\nI would have refunded it but just broke the 2 hour mark.\r\n\r\nAudio: there is very little sound and as for music there is literally ONE track that loops, not a particularly long track either.\r\n\r\nGame play: You work random jobs for your first money only needing to buy a little food. Doesn't take long to get enough to purchase your first business, a general store. Level one businesses earn enough 'revenue' to pay for themselves in 2 MONTHS (maybe 5 minutes real time). I say 'revenue' because you don't need to produce or acquire the products you sell in any of the businesses. You get the products for free so 'revenue' is all profit, there is only a minimal fee for workers.\r\n\r\nThere may be some deeper diplomacy farther into the game, it looks like it might run a bit like 'The Guild' games. but the economy is so broken it doesn't matter what else is going on. You generate vast sums of money with very little effort and there is almost no upkeep. It's basically a money clicker game, click things until you run out of stamina, buy passive income, click until out of stamina, wait to get enough renown for the next business unlock and buy it. rinse and repeat.\r\n\r\nI discourage anyone from spending their money on this unless they completely rebalance this. Unless you don't want a game with any sort of challenge i guess.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't understand the point of this game. What's the end game? Just matchmaking characters? I conquered the Royal palace. I only have 3 provinces open. Building more farms is tedious, the blueprint system doesn't let you save. It does not cover Artisans in the default blueprints, so useless mid game. Selling stuff every year is tedious, cause you need to sell surplus but keep random snacks for whatever reason. \n\nAttack system - you can't attack unless someone invites you, or if you have a military title. You only get the military title if someone invites you to attack and you win. So you sit there with 10 characters with >80 might, being \"invincible\", just doing nothing. What is the objective here? \n\nRetinue management is tedious, if they start dying. Just max out Street Trading and don't worry about money. \nCandles - no idea where to get them. Altars, useless so far. \nBooks, fairly useless especially since range of skills is determined by the special attribute. You have 5 skills for each character, but in the end none of them do anything. My might characters, do I even care if they are skilled in business, writing etc? Do I care if they are mean, beautiful etc.\nWriting only helps to pass an exam and get a job with the gov. That in the end costs you money, since the gov demands money from the city, the city gets upset, if you let it get upset you lose your job. You have to pay the citizens from your money. The only upside of this is that you can go to war and give a military title to ONLY ONE of your characters. You cannot take 2 generals in battle, only one. Who knows why. \n\nOverall the game seems fine but when you look at it nothing of the mechanics make sense overall and there is no general objective besides moving pixels on a screen.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At the moment lag is a big issue when building out your family home and other locations. \r\n\r\nThe game has alot of good features and is great as someone who doesn't know much about chinese culture for learning and exploring a bit of how some things worked in it's past and then looking stuff up. But a big part of why I liked the game is the art style and the ability to design locations, the more stuff you place the worse the lag gets. At the moment you can somewhat avoid that by placing only the stuff you absolutly have to and trying to keep your family small to mid sized and not expanding too much, But it kinda sucks to have to do that. \r\n\r\nIf the lag issues get fixed it'll be a good game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I wouldn't recommend it yet. The game is very beautiful, there seem to be a ton of layers to it and interacting mechanics... but like many Chinese games I've played it is a bit overdeveloped and under-explained. There are a few translation issues which complicate things... for instance 'Sell' and 'Acquire' are used incorrectly in some screens (which is very confusing for a merchant)... but mostly I didn't find localization to be an issue. \n\nMy biggest problem with the game right now is that it doesn't explain how to play it. In my short trial I found myself in the Discussion forums at least three times... and everything I looked for had multiple threads asking the same questions.\n\nWhat is stamina? Where am I supposed to see it? When does it refresh? Is there some activity I can undertake to get more? \n(It limits what your character can do, you can see it on the character screen ONLY which is very inconvenient UI, it refreshes at the start of the in game month, I have no idea)\nWhy am I dying? It says I have low health, but I haven't fought anyone... (I guess I was starving? It isn't explained well that you need a certain amount of provisions each month in order to survive at all. There aren't meters anywhere... you just have to check your character screen. I had no idea I needed to assign myself to a house after I repaired it.)\n\nI also checked the Discussions to see if anyone else found the game to be incredibly slow... My experience was tedious. I was looking for things to buy low, selling them high, repeat... every month. I just learned I could build a store and I guess that would have given me some passive income, but the beginning is really rough. I felt like I was always tired and starving and it just took so long to crawl out of that hole. I did take out a bank loan, and was able to pay it back... but eventually strangers showed up claiming to be my family so I had to fix more buildings and feed them... so I had to take out another loan...\n\nI'm sure I would have been successful EVENTUALLY, but it felt like basically none of the gameplay was explained in a way that would set me up for success. The tutorial was extremely short, so it could definitely afford to be longer! Teach me about stamina, time progression, what a retainer is and what they can do for you, why my female family member couldn't work, why my retainer couldn't act as a domestic servant, or really ANYTHING else. \n\nI have high hopes for the game, but for now I'll take a refund and wait to see if it gets better.",
+      "voted_up": false,
+      "votes_helpful": 70
+    },
+    {
+      "review": "The art is nice and the concept sounds great - it has some city building aspects and Crusader Kings-like dynasty management and grand strategy. Unfortunately, it's just overambitious but underbaked at this point, with too many confusing and useless options, poor balance, and an unintuitive interface, especially for character interactions. Case in point:\n\n- In cities and estates, placement of buildings doesn't matter at all. There are sprites walking around but they're just decorative.\n- Shops offer jobs, but the rewards are meaningless after just 10-20 minutes of gameplay\n- There are dozens of ways to interact with characters but there's little reason to do any of them except arranging marriages\n- A single 16-acre farm can earn as much as an entire city or province\n- Fiefdoms seem to be granted randomly and are the only way to raise a private army afaict\n- I still have no idea how the royal family system works\n\nIf the devs cut down on some of the meaningless grind and spend more time refining the mechanics that matter, then this will be an easy recommend.",
+      "voted_up": false,
+      "votes_helpful": 17
+    },
+    {
+      "review": "I rarely do game review, but this one is quite the problem. There is need to be a substantial rework on how the Royal capital work. The royal capital will always bankrupt everytime one of your family sit on the minister position, which in this case war minister is the easiest one to get. This would ruined the game and make it into a screeching halt, where the capital cannot go on war > which make no one able to progress further in rank/military > which mean that if all of your clan member that already have some military experience die due to various cirmustances, there wont be another way to progress the game. I get it that we don't have to rely on the capital for troops, and that we can utilize the province as a means to support our campaign, but the fact that the initial recruitment to get into the military can only be done through joining imperial campaign simply mean a doomed nation(unplayable game) when there isn't any left.  I get it that the game is still in early access but atleast make it so that all content already in the game are available to be obtained, and not to be hindered by some bullshit of a system that royal capital is.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So many clicking actions for so little impact. Why does a management game with so many moving parts require you to click for each one?\n\nThis was only within the first couple hours with 3 characters, 1 shop, 1 farm. The game shows windows with 10s of characters, it'd get crazy.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Great idea and execution, but severely needs Quality of Life changes... Especially for people who do not have fully functioning hands. There is a lot of clicking required to get started in many games, but here, there is no way to decrease the clicking.\n\nTo do interactions, you need to click through multiple menus. There is no automation, so you need to click to do everything. Want to sell stuff? Click on everyone to buy low and sell high. Want to fix up your mansion? Click on every single tile until you find the ones you can repair, then click, click, click to reorient the parts of the house you want to place.\n\nI would be happy to give it another shot if they improve accessibility, but at this point, its a \"no for me, dawg\"",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's a fun game in the current state. Feel free to buy it on sale, but I would wait to really get into when they update a few core mechanics. I got bogged down searching through civilians for specific retainers and spouses (you can organize by stats/skills, but I hesitate to play this game until you can specify parameters - especially since a similar system is already implemented elsewhere). It really feels like a gotcha, gambling game, especially in the early stages. Not a lot of tutorials either on general politics, what can be achieved, and how - I've had to browse online threads to figure out how the game works. Definitely check it out later as they regularly update the game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the most confusing games I've ever played. When an event happens to someone outside your clan occurs, good luck finding where they are on the map. Open the map and you can no longer access the event. Yihui Wang of Royal Family and Shuyu Yang of Yang Clan of Yingyang are suspected of forming cliques, you say? Let me open the map. I see Yang Clan, click on it, but no one mentioned in the event is listed to interact with. Maybe I'll try looking at the Royal Family. Nope not there either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't get the positive reaction to this game.\r\n\r\nI would have refunded it but just broke the 2 hour mark.\r\n\r\nAudio: there is very little sound and as for music there is literally ONE track that loops, not a particularly long track either.\r\n\r\nGame play: You work random jobs for your first money only needing to buy a little food. Doesn't take long to get enough to purchase your first business, a general store. Level one businesses earn enough 'revenue' to pay for themselves in 2 MONTHS (maybe 5 minutes real time). I say 'revenue' because you don't need to produce or acquire the products you sell in any of the businesses. You get the products for free so 'revenue' is all profit, there is only a minimal fee for workers.\r\n\r\nThere may be some deeper diplomacy farther into the game, it looks like it might run a bit like 'The Guild' games. but the economy is so broken it doesn't matter what else is going on. You generate vast sums of money with very little effort and there is almost no upkeep. It's basically a money clicker game, click things until you run out of stamina, buy passive income, click until out of stamina, wait to get enough renown for the next business unlock and buy it. rinse and repeat.\r\n\r\nI discourage anyone from spending their money on this unless they completely rebalance this. Unless you don't want a game with any sort of challenge i guess.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't understand the point of this game. What's the end game? Just matchmaking characters? I conquered the Royal palace. I only have 3 provinces open. Building more farms is tedious, the blueprint system doesn't let you save. It does not cover Artisans in the default blueprints, so useless mid game. Selling stuff every year is tedious, cause you need to sell surplus but keep random snacks for whatever reason. \n\nAttack system - you can't attack unless someone invites you, or if you have a military title. You only get the military title if someone invites you to attack and you win. So you sit there with 10 characters with >80 might, being \"invincible\", just doing nothing. What is the objective here? \n\nRetinue management is tedious, if they start dying. Just max out Street Trading and don't worry about money. \nCandles - no idea where to get them. Altars, useless so far. \nBooks, fairly useless especially since range of skills is determined by the special attribute. You have 5 skills for each character, but in the end none of them do anything. My might characters, do I even care if they are skilled in business, writing etc? Do I care if they are mean, beautiful etc.\nWriting only helps to pass an exam and get a job with the gov. That in the end costs you money, since the gov demands money from the city, the city gets upset, if you let it get upset you lose your job. You have to pay the citizens from your money. The only upside of this is that you can go to war and give a military title to ONLY ONE of your characters. You cannot take 2 generals in battle, only one. Who knows why. \n\nOverall the game seems fine but when you look at it nothing of the mechanics make sense overall and there is no general objective besides moving pixels on a screen.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At the moment lag is a big issue when building out your family home and other locations. \r\n\r\nThe game has alot of good features and is great as someone who doesn't know much about chinese culture for learning and exploring a bit of how some things worked in it's past and then looking stuff up. But a big part of why I liked the game is the art style and the ability to design locations, the more stuff you place the worse the lag gets. At the moment you can somewhat avoid that by placing only the stuff you absolutly have to and trying to keep your family small to mid sized and not expanding too much, But it kinda sucks to have to do that. \r\n\r\nIf the lag issues get fixed it'll be a good game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I wouldn't recommend it yet. The game is very beautiful, there seem to be a ton of layers to it and interacting mechanics... but like many Chinese games I've played it is a bit overdeveloped and under-explained. There are a few translation issues which complicate things... for instance 'Sell' and 'Acquire' are used incorrectly in some screens (which is very confusing for a merchant)... but mostly I didn't find localization to be an issue. \n\nMy biggest problem with the game right now is that it doesn't explain how to play it. In my short trial I found myself in the Discussion forums at least three times... and everything I looked for had multiple threads asking the same questions.\n\nWhat is stamina? Where am I supposed to see it? When does it refresh? Is there some activity I can undertake to get more? \n(It limits what your character can do, you can see it on the character screen ONLY which is very inconvenient UI, it refreshes at the start of the in game month, I have no idea)\nWhy am I dying? It says I have low health, but I haven't fought anyone... (I guess I was starving? It isn't explained well that you need a certain amount of provisions each month in order to survive at all. There aren't meters anywhere... you just have to check your character screen. I had no idea I needed to assign myself to a house after I repaired it.)\n\nI also checked the Discussions to see if anyone else found the game to be incredibly slow... My experience was tedious. I was looking for things to buy low, selling them high, repeat... every month. I just learned I could build a store and I guess that would have given me some passive income, but the beginning is really rough. I felt like I was always tired and starving and it just took so long to crawl out of that hole. I did take out a bank loan, and was able to pay it back... but eventually strangers showed up claiming to be my family so I had to fix more buildings and feed them... so I had to take out another loan...\n\nI'm sure I would have been successful EVENTUALLY, but it felt like basically none of the gameplay was explained in a way that would set me up for success. The tutorial was extremely short, so it could definitely afford to be longer! Teach me about stamina, time progression, what a retainer is and what they can do for you, why my female family member couldn't work, why my retainer couldn't act as a domestic servant, or really ANYTHING else. \n\nI have high hopes for the game, but for now I'll take a refund and wait to see if it gets better.",
+      "voted_up": false,
+      "votes_helpful": 70
+    },
+    {
+      "review": "The art is nice and the concept sounds great - it has some city building aspects and Crusader Kings-like dynasty management and grand strategy. Unfortunately, it's just overambitious but underbaked at this point, with too many confusing and useless options, poor balance, and an unintuitive interface, especially for character interactions. Case in point:\n\n- In cities and estates, placement of buildings doesn't matter at all. There are sprites walking around but they're just decorative.\n- Shops offer jobs, but the rewards are meaningless after just 10-20 minutes of gameplay\n- There are dozens of ways to interact with characters but there's little reason to do any of them except arranging marriages\n- A single 16-acre farm can earn as much as an entire city or province\n- Fiefdoms seem to be granted randomly and are the only way to raise a private army afaict\n- I still have no idea how the royal family system works\n\nIf the devs cut down on some of the meaningless grind and spend more time refining the mechanics that matter, then this will be an easy recommend.",
+      "voted_up": false,
+      "votes_helpful": 17
+    },
+    {
+      "review": "I rarely do game review, but this one is quite the problem. There is need to be a substantial rework on how the Royal capital work. The royal capital will always bankrupt everytime one of your family sit on the minister position, which in this case war minister is the easiest one to get. This would ruined the game and make it into a screeching halt, where the capital cannot go on war > which make no one able to progress further in rank/military > which mean that if all of your clan member that already have some military experience die due to various cirmustances, there wont be another way to progress the game. I get it that we don't have to rely on the capital for troops, and that we can utilize the province as a means to support our campaign, but the fact that the initial recruitment to get into the military can only be done through joining imperial campaign simply mean a doomed nation(unplayable game) when there isn't any left.  I get it that the game is still in early access but atleast make it so that all content already in the game are available to be obtained, and not to be hindered by some bullshit of a system that royal capital is.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So many clicking actions for so little impact. Why does a management game with so many moving parts require you to click for each one?\n\nThis was only within the first couple hours with 3 characters, 1 shop, 1 farm. The game shows windows with 10s of characters, it'd get crazy.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Great idea and execution, but severely needs Quality of Life changes... Especially for people who do not have fully functioning hands. There is a lot of clicking required to get started in many games, but here, there is no way to decrease the clicking.\n\nTo do interactions, you need to click through multiple menus. There is no automation, so you need to click to do everything. Want to sell stuff? Click on everyone to buy low and sell high. Want to fix up your mansion? Click on every single tile until you find the ones you can repair, then click, click, click to reorient the parts of the house you want to place.\n\nI would be happy to give it another shot if they improve accessibility, but at this point, its a \"no for me, dawg\"",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's a fun game in the current state. Feel free to buy it on sale, but I would wait to really get into when they update a few core mechanics. I got bogged down searching through civilians for specific retainers and spouses (you can organize by stats/skills, but I hesitate to play this game until you can specify parameters - especially since a similar system is already implemented elsewhere). It really feels like a gotcha, gambling game, especially in the early stages. Not a lot of tutorials either on general politics, what can be achieved, and how - I've had to browse online threads to figure out how the game works. Definitely check it out later as they regularly update the game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the most confusing games I've ever played. When an event happens to someone outside your clan occurs, good luck finding where they are on the map. Open the map and you can no longer access the event. Yihui Wang of Royal Family and Shuyu Yang of Yang Clan of Yingyang are suspected of forming cliques, you say? Let me open the map. I see Yang Clan, click on it, but no one mentioned in the event is listed to interact with. Maybe I'll try looking at the Royal Family. Nope not there either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't get the positive reaction to this game.\r\n\r\nI would have refunded it but just broke the 2 hour mark.\r\n\r\nAudio: there is very little sound and as for music there is literally ONE track that loops, not a particularly long track either.\r\n\r\nGame play: You work random jobs for your first money only needing to buy a little food. Doesn't take long to get enough to purchase your first business, a general store. Level one businesses earn enough 'revenue' to pay for themselves in 2 MONTHS (maybe 5 minutes real time). I say 'revenue' because you don't need to produce or acquire the products you sell in any of the businesses. You get the products for free so 'revenue' is all profit, there is only a minimal fee for workers.\r\n\r\nThere may be some deeper diplomacy farther into the game, it looks like it might run a bit like 'The Guild' games. but the economy is so broken it doesn't matter what else is going on. You generate vast sums of money with very little effort and there is almost no upkeep. It's basically a money clicker game, click things until you run out of stamina, buy passive income, click until out of stamina, wait to get enough renown for the next business unlock and buy it. rinse and repeat.\r\n\r\nI discourage anyone from spending their money on this unless they completely rebalance this. Unless you don't want a game with any sort of challenge i guess.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't understand the point of this game. What's the end game? Just matchmaking characters? I conquered the Royal palace. I only have 3 provinces open. Building more farms is tedious, the blueprint system doesn't let you save. It does not cover Artisans in the default blueprints, so useless mid game. Selling stuff every year is tedious, cause you need to sell surplus but keep random snacks for whatever reason. \n\nAttack system - you can't attack unless someone invites you, or if you have a military title. You only get the military title if someone invites you to attack and you win. So you sit there with 10 characters with >80 might, being \"invincible\", just doing nothing. What is the objective here? \n\nRetinue management is tedious, if they start dying. Just max out Street Trading and don't worry about money. \nCandles - no idea where to get them. Altars, useless so far. \nBooks, fairly useless especially since range of skills is determined by the special attribute. You have 5 skills for each character, but in the end none of them do anything. My might characters, do I even care if they are skilled in business, writing etc? Do I care if they are mean, beautiful etc.\nWriting only helps to pass an exam and get a job with the gov. That in the end costs you money, since the gov demands money from the city, the city gets upset, if you let it get upset you lose your job. You have to pay the citizens from your money. The only upside of this is that you can go to war and give a military title to ONLY ONE of your characters. You cannot take 2 generals in battle, only one. Who knows why. \n\nOverall the game seems fine but when you look at it nothing of the mechanics make sense overall and there is no general objective besides moving pixels on a screen.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At the moment lag is a big issue when building out your family home and other locations. \r\n\r\nThe game has alot of good features and is great as someone who doesn't know much about chinese culture for learning and exploring a bit of how some things worked in it's past and then looking stuff up. But a big part of why I liked the game is the art style and the ability to design locations, the more stuff you place the worse the lag gets. At the moment you can somewhat avoid that by placing only the stuff you absolutly have to and trying to keep your family small to mid sized and not expanding too much, But it kinda sucks to have to do that. \r\n\r\nIf the lag issues get fixed it'll be a good game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I wouldn't recommend it yet. The game is very beautiful, there seem to be a ton of layers to it and interacting mechanics... but like many Chinese games I've played it is a bit overdeveloped and under-explained. There are a few translation issues which complicate things... for instance 'Sell' and 'Acquire' are used incorrectly in some screens (which is very confusing for a merchant)... but mostly I didn't find localization to be an issue. \n\nMy biggest problem with the game right now is that it doesn't explain how to play it. In my short trial I found myself in the Discussion forums at least three times... and everything I looked for had multiple threads asking the same questions.\n\nWhat is stamina? Where am I supposed to see it? When does it refresh? Is there some activity I can undertake to get more? \n(It limits what your character can do, you can see it on the character screen ONLY which is very inconvenient UI, it refreshes at the start of the in game month, I have no idea)\nWhy am I dying? It says I have low health, but I haven't fought anyone... (I guess I was starving? It isn't explained well that you need a certain amount of provisions each month in order to survive at all. There aren't meters anywhere... you just have to check your character screen. I had no idea I needed to assign myself to a house after I repaired it.)\n\nI also checked the Discussions to see if anyone else found the game to be incredibly slow... My experience was tedious. I was looking for things to buy low, selling them high, repeat... every month. I just learned I could build a store and I guess that would have given me some passive income, but the beginning is really rough. I felt like I was always tired and starving and it just took so long to crawl out of that hole. I did take out a bank loan, and was able to pay it back... but eventually strangers showed up claiming to be my family so I had to fix more buildings and feed them... so I had to take out another loan...\n\nI'm sure I would have been successful EVENTUALLY, but it felt like basically none of the gameplay was explained in a way that would set me up for success. The tutorial was extremely short, so it could definitely afford to be longer! Teach me about stamina, time progression, what a retainer is and what they can do for you, why my female family member couldn't work, why my retainer couldn't act as a domestic servant, or really ANYTHING else. \n\nI have high hopes for the game, but for now I'll take a refund and wait to see if it gets better.",
+      "voted_up": false,
+      "votes_helpful": 70
+    },
+    {
+      "review": "The art is nice and the concept sounds great - it has some city building aspects and Crusader Kings-like dynasty management and grand strategy. Unfortunately, it's just overambitious but underbaked at this point, with too many confusing and useless options, poor balance, and an unintuitive interface, especially for character interactions. Case in point:\n\n- In cities and estates, placement of buildings doesn't matter at all. There are sprites walking around but they're just decorative.\n- Shops offer jobs, but the rewards are meaningless after just 10-20 minutes of gameplay\n- There are dozens of ways to interact with characters but there's little reason to do any of them except arranging marriages\n- A single 16-acre farm can earn as much as an entire city or province\n- Fiefdoms seem to be granted randomly and are the only way to raise a private army afaict\n- I still have no idea how the royal family system works\n\nIf the devs cut down on some of the meaningless grind and spend more time refining the mechanics that matter, then this will be an easy recommend.",
+      "voted_up": false,
+      "votes_helpful": 17
+    },
+    {
+      "review": "I rarely do game review, but this one is quite the problem. There is need to be a substantial rework on how the Royal capital work. The royal capital will always bankrupt everytime one of your family sit on the minister position, which in this case war minister is the easiest one to get. This would ruined the game and make it into a screeching halt, where the capital cannot go on war > which make no one able to progress further in rank/military > which mean that if all of your clan member that already have some military experience die due to various cirmustances, there wont be another way to progress the game. I get it that we don't have to rely on the capital for troops, and that we can utilize the province as a means to support our campaign, but the fact that the initial recruitment to get into the military can only be done through joining imperial campaign simply mean a doomed nation(unplayable game) when there isn't any left.  I get it that the game is still in early access but atleast make it so that all content already in the game are available to be obtained, and not to be hindered by some bullshit of a system that royal capital is.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So many clicking actions for so little impact. Why does a management game with so many moving parts require you to click for each one?\n\nThis was only within the first couple hours with 3 characters, 1 shop, 1 farm. The game shows windows with 10s of characters, it'd get crazy.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Great idea and execution, but severely needs Quality of Life changes... Especially for people who do not have fully functioning hands. There is a lot of clicking required to get started in many games, but here, there is no way to decrease the clicking.\n\nTo do interactions, you need to click through multiple menus. There is no automation, so you need to click to do everything. Want to sell stuff? Click on everyone to buy low and sell high. Want to fix up your mansion? Click on every single tile until you find the ones you can repair, then click, click, click to reorient the parts of the house you want to place.\n\nI would be happy to give it another shot if they improve accessibility, but at this point, its a \"no for me, dawg\"",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's a fun game in the current state. Feel free to buy it on sale, but I would wait to really get into when they update a few core mechanics. I got bogged down searching through civilians for specific retainers and spouses (you can organize by stats/skills, but I hesitate to play this game until you can specify parameters - especially since a similar system is already implemented elsewhere). It really feels like a gotcha, gambling game, especially in the early stages. Not a lot of tutorials either on general politics, what can be achieved, and how - I've had to browse online threads to figure out how the game works. Definitely check it out later as they regularly update the game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the most confusing games I've ever played. When an event happens to someone outside your clan occurs, good luck finding where they are on the map. Open the map and you can no longer access the event. Yihui Wang of Royal Family and Shuyu Yang of Yang Clan of Yingyang are suspected of forming cliques, you say? Let me open the map. I see Yang Clan, click on it, but no one mentioned in the event is listed to interact with. Maybe I'll try looking at the Royal Family. Nope not there either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't get the positive reaction to this game.\r\n\r\nI would have refunded it but just broke the 2 hour mark.\r\n\r\nAudio: there is very little sound and as for music there is literally ONE track that loops, not a particularly long track either.\r\n\r\nGame play: You work random jobs for your first money only needing to buy a little food. Doesn't take long to get enough to purchase your first business, a general store. Level one businesses earn enough 'revenue' to pay for themselves in 2 MONTHS (maybe 5 minutes real time). I say 'revenue' because you don't need to produce or acquire the products you sell in any of the businesses. You get the products for free so 'revenue' is all profit, there is only a minimal fee for workers.\r\n\r\nThere may be some deeper diplomacy farther into the game, it looks like it might run a bit like 'The Guild' games. but the economy is so broken it doesn't matter what else is going on. You generate vast sums of money with very little effort and there is almost no upkeep. It's basically a money clicker game, click things until you run out of stamina, buy passive income, click until out of stamina, wait to get enough renown for the next business unlock and buy it. rinse and repeat.\r\n\r\nI discourage anyone from spending their money on this unless they completely rebalance this. Unless you don't want a game with any sort of challenge i guess.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't understand the point of this game. What's the end game? Just matchmaking characters? I conquered the Royal palace. I only have 3 provinces open. Building more farms is tedious, the blueprint system doesn't let you save. It does not cover Artisans in the default blueprints, so useless mid game. Selling stuff every year is tedious, cause you need to sell surplus but keep random snacks for whatever reason. \n\nAttack system - you can't attack unless someone invites you, or if you have a military title. You only get the military title if someone invites you to attack and you win. So you sit there with 10 characters with >80 might, being \"invincible\", just doing nothing. What is the objective here? \n\nRetinue management is tedious, if they start dying. Just max out Street Trading and don't worry about money. \nCandles - no idea where to get them. Altars, useless so far. \nBooks, fairly useless especially since range of skills is determined by the special attribute. You have 5 skills for each character, but in the end none of them do anything. My might characters, do I even care if they are skilled in business, writing etc? Do I care if they are mean, beautiful etc.\nWriting only helps to pass an exam and get a job with the gov. That in the end costs you money, since the gov demands money from the city, the city gets upset, if you let it get upset you lose your job. You have to pay the citizens from your money. The only upside of this is that you can go to war and give a military title to ONLY ONE of your characters. You cannot take 2 generals in battle, only one. Who knows why. \n\nOverall the game seems fine but when you look at it nothing of the mechanics make sense overall and there is no general objective besides moving pixels on a screen.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At the moment lag is a big issue when building out your family home and other locations. \r\n\r\nThe game has alot of good features and is great as someone who doesn't know much about chinese culture for learning and exploring a bit of how some things worked in it's past and then looking stuff up. But a big part of why I liked the game is the art style and the ability to design locations, the more stuff you place the worse the lag gets. At the moment you can somewhat avoid that by placing only the stuff you absolutly have to and trying to keep your family small to mid sized and not expanding too much, But it kinda sucks to have to do that. \r\n\r\nIf the lag issues get fixed it'll be a good game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I wouldn't recommend it yet. The game is very beautiful, there seem to be a ton of layers to it and interacting mechanics... but like many Chinese games I've played it is a bit overdeveloped and under-explained. There are a few translation issues which complicate things... for instance 'Sell' and 'Acquire' are used incorrectly in some screens (which is very confusing for a merchant)... but mostly I didn't find localization to be an issue. \n\nMy biggest problem with the game right now is that it doesn't explain how to play it. In my short trial I found myself in the Discussion forums at least three times... and everything I looked for had multiple threads asking the same questions.\n\nWhat is stamina? Where am I supposed to see it? When does it refresh? Is there some activity I can undertake to get more? \n(It limits what your character can do, you can see it on the character screen ONLY which is very inconvenient UI, it refreshes at the start of the in game month, I have no idea)\nWhy am I dying? It says I have low health, but I haven't fought anyone... (I guess I was starving? It isn't explained well that you need a certain amount of provisions each month in order to survive at all. There aren't meters anywhere... you just have to check your character screen. I had no idea I needed to assign myself to a house after I repaired it.)\n\nI also checked the Discussions to see if anyone else found the game to be incredibly slow... My experience was tedious. I was looking for things to buy low, selling them high, repeat... every month. I just learned I could build a store and I guess that would have given me some passive income, but the beginning is really rough. I felt like I was always tired and starving and it just took so long to crawl out of that hole. I did take out a bank loan, and was able to pay it back... but eventually strangers showed up claiming to be my family so I had to fix more buildings and feed them... so I had to take out another loan...\n\nI'm sure I would have been successful EVENTUALLY, but it felt like basically none of the gameplay was explained in a way that would set me up for success. The tutorial was extremely short, so it could definitely afford to be longer! Teach me about stamina, time progression, what a retainer is and what they can do for you, why my female family member couldn't work, why my retainer couldn't act as a domestic servant, or really ANYTHING else. \n\nI have high hopes for the game, but for now I'll take a refund and wait to see if it gets better.",
+      "voted_up": false,
+      "votes_helpful": 70
+    },
+    {
+      "review": "The art is nice and the concept sounds great - it has some city building aspects and Crusader Kings-like dynasty management and grand strategy. Unfortunately, it's just overambitious but underbaked at this point, with too many confusing and useless options, poor balance, and an unintuitive interface, especially for character interactions. Case in point:\n\n- In cities and estates, placement of buildings doesn't matter at all. There are sprites walking around but they're just decorative.\n- Shops offer jobs, but the rewards are meaningless after just 10-20 minutes of gameplay\n- There are dozens of ways to interact with characters but there's little reason to do any of them except arranging marriages\n- A single 16-acre farm can earn as much as an entire city or province\n- Fiefdoms seem to be granted randomly and are the only way to raise a private army afaict\n- I still have no idea how the royal family system works\n\nIf the devs cut down on some of the meaningless grind and spend more time refining the mechanics that matter, then this will be an easy recommend.",
+      "voted_up": false,
+      "votes_helpful": 17
+    },
+    {
+      "review": "I rarely do game review, but this one is quite the problem. There is need to be a substantial rework on how the Royal capital work. The royal capital will always bankrupt everytime one of your family sit on the minister position, which in this case war minister is the easiest one to get. This would ruined the game and make it into a screeching halt, where the capital cannot go on war > which make no one able to progress further in rank/military > which mean that if all of your clan member that already have some military experience die due to various cirmustances, there wont be another way to progress the game. I get it that we don't have to rely on the capital for troops, and that we can utilize the province as a means to support our campaign, but the fact that the initial recruitment to get into the military can only be done through joining imperial campaign simply mean a doomed nation(unplayable game) when there isn't any left.  I get it that the game is still in early access but atleast make it so that all content already in the game are available to be obtained, and not to be hindered by some bullshit of a system that royal capital is.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So many clicking actions for so little impact. Why does a management game with so many moving parts require you to click for each one?\n\nThis was only within the first couple hours with 3 characters, 1 shop, 1 farm. The game shows windows with 10s of characters, it'd get crazy.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Great idea and execution, but severely needs Quality of Life changes... Especially for people who do not have fully functioning hands. There is a lot of clicking required to get started in many games, but here, there is no way to decrease the clicking.\n\nTo do interactions, you need to click through multiple menus. There is no automation, so you need to click to do everything. Want to sell stuff? Click on everyone to buy low and sell high. Want to fix up your mansion? Click on every single tile until you find the ones you can repair, then click, click, click to reorient the parts of the house you want to place.\n\nI would be happy to give it another shot if they improve accessibility, but at this point, its a \"no for me, dawg\"",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's a fun game in the current state. Feel free to buy it on sale, but I would wait to really get into when they update a few core mechanics. I got bogged down searching through civilians for specific retainers and spouses (you can organize by stats/skills, but I hesitate to play this game until you can specify parameters - especially since a similar system is already implemented elsewhere). It really feels like a gotcha, gambling game, especially in the early stages. Not a lot of tutorials either on general politics, what can be achieved, and how - I've had to browse online threads to figure out how the game works. Definitely check it out later as they regularly update the game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the most confusing games I've ever played. When an event happens to someone outside your clan occurs, good luck finding where they are on the map. Open the map and you can no longer access the event. Yihui Wang of Royal Family and Shuyu Yang of Yang Clan of Yingyang are suspected of forming cliques, you say? Let me open the map. I see Yang Clan, click on it, but no one mentioned in the event is listed to interact with. Maybe I'll try looking at the Royal Family. Nope not there either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't get the positive reaction to this game.\r\n\r\nI would have refunded it but just broke the 2 hour mark.\r\n\r\nAudio: there is very little sound and as for music there is literally ONE track that loops, not a particularly long track either.\r\n\r\nGame play: You work random jobs for your first money only needing to buy a little food. Doesn't take long to get enough to purchase your first business, a general store. Level one businesses earn enough 'revenue' to pay for themselves in 2 MONTHS (maybe 5 minutes real time). I say 'revenue' because you don't need to produce or acquire the products you sell in any of the businesses. You get the products for free so 'revenue' is all profit, there is only a minimal fee for workers.\r\n\r\nThere may be some deeper diplomacy farther into the game, it looks like it might run a bit like 'The Guild' games. but the economy is so broken it doesn't matter what else is going on. You generate vast sums of money with very little effort and there is almost no upkeep. It's basically a money clicker game, click things until you run out of stamina, buy passive income, click until out of stamina, wait to get enough renown for the next business unlock and buy it. rinse and repeat.\r\n\r\nI discourage anyone from spending their money on this unless they completely rebalance this. Unless you don't want a game with any sort of challenge i guess.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't understand the point of this game. What's the end game? Just matchmaking characters? I conquered the Royal palace. I only have 3 provinces open. Building more farms is tedious, the blueprint system doesn't let you save. It does not cover Artisans in the default blueprints, so useless mid game. Selling stuff every year is tedious, cause you need to sell surplus but keep random snacks for whatever reason. \n\nAttack system - you can't attack unless someone invites you, or if you have a military title. You only get the military title if someone invites you to attack and you win. So you sit there with 10 characters with >80 might, being \"invincible\", just doing nothing. What is the objective here? \n\nRetinue management is tedious, if they start dying. Just max out Street Trading and don't worry about money. \nCandles - no idea where to get them. Altars, useless so far. \nBooks, fairly useless especially since range of skills is determined by the special attribute. You have 5 skills for each character, but in the end none of them do anything. My might characters, do I even care if they are skilled in business, writing etc? Do I care if they are mean, beautiful etc.\nWriting only helps to pass an exam and get a job with the gov. That in the end costs you money, since the gov demands money from the city, the city gets upset, if you let it get upset you lose your job. You have to pay the citizens from your money. The only upside of this is that you can go to war and give a military title to ONLY ONE of your characters. You cannot take 2 generals in battle, only one. Who knows why. \n\nOverall the game seems fine but when you look at it nothing of the mechanics make sense overall and there is no general objective besides moving pixels on a screen.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At the moment lag is a big issue when building out your family home and other locations. \r\n\r\nThe game has alot of good features and is great as someone who doesn't know much about chinese culture for learning and exploring a bit of how some things worked in it's past and then looking stuff up. But a big part of why I liked the game is the art style and the ability to design locations, the more stuff you place the worse the lag gets. At the moment you can somewhat avoid that by placing only the stuff you absolutly have to and trying to keep your family small to mid sized and not expanding too much, But it kinda sucks to have to do that. \r\n\r\nIf the lag issues get fixed it'll be a good game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I wouldn't recommend it yet. The game is very beautiful, there seem to be a ton of layers to it and interacting mechanics... but like many Chinese games I've played it is a bit overdeveloped and under-explained. There are a few translation issues which complicate things... for instance 'Sell' and 'Acquire' are used incorrectly in some screens (which is very confusing for a merchant)... but mostly I didn't find localization to be an issue. \n\nMy biggest problem with the game right now is that it doesn't explain how to play it. In my short trial I found myself in the Discussion forums at least three times... and everything I looked for had multiple threads asking the same questions.\n\nWhat is stamina? Where am I supposed to see it? When does it refresh? Is there some activity I can undertake to get more? \n(It limits what your character can do, you can see it on the character screen ONLY which is very inconvenient UI, it refreshes at the start of the in game month, I have no idea)\nWhy am I dying? It says I have low health, but I haven't fought anyone... (I guess I was starving? It isn't explained well that you need a certain amount of provisions each month in order to survive at all. There aren't meters anywhere... you just have to check your character screen. I had no idea I needed to assign myself to a house after I repaired it.)\n\nI also checked the Discussions to see if anyone else found the game to be incredibly slow... My experience was tedious. I was looking for things to buy low, selling them high, repeat... every month. I just learned I could build a store and I guess that would have given me some passive income, but the beginning is really rough. I felt like I was always tired and starving and it just took so long to crawl out of that hole. I did take out a bank loan, and was able to pay it back... but eventually strangers showed up claiming to be my family so I had to fix more buildings and feed them... so I had to take out another loan...\n\nI'm sure I would have been successful EVENTUALLY, but it felt like basically none of the gameplay was explained in a way that would set me up for success. The tutorial was extremely short, so it could definitely afford to be longer! Teach me about stamina, time progression, what a retainer is and what they can do for you, why my female family member couldn't work, why my retainer couldn't act as a domestic servant, or really ANYTHING else. \n\nI have high hopes for the game, but for now I'll take a refund and wait to see if it gets better.",
+      "voted_up": false,
+      "votes_helpful": 70
+    },
+    {
+      "review": "The art is nice and the concept sounds great - it has some city building aspects and Crusader Kings-like dynasty management and grand strategy. Unfortunately, it's just overambitious but underbaked at this point, with too many confusing and useless options, poor balance, and an unintuitive interface, especially for character interactions. Case in point:\n\n- In cities and estates, placement of buildings doesn't matter at all. There are sprites walking around but they're just decorative.\n- Shops offer jobs, but the rewards are meaningless after just 10-20 minutes of gameplay\n- There are dozens of ways to interact with characters but there's little reason to do any of them except arranging marriages\n- A single 16-acre farm can earn as much as an entire city or province\n- Fiefdoms seem to be granted randomly and are the only way to raise a private army afaict\n- I still have no idea how the royal family system works\n\nIf the devs cut down on some of the meaningless grind and spend more time refining the mechanics that matter, then this will be an easy recommend.",
+      "voted_up": false,
+      "votes_helpful": 17
+    },
+    {
+      "review": "I rarely do game review, but this one is quite the problem. There is need to be a substantial rework on how the Royal capital work. The royal capital will always bankrupt everytime one of your family sit on the minister position, which in this case war minister is the easiest one to get. This would ruined the game and make it into a screeching halt, where the capital cannot go on war > which make no one able to progress further in rank/military > which mean that if all of your clan member that already have some military experience die due to various cirmustances, there wont be another way to progress the game. I get it that we don't have to rely on the capital for troops, and that we can utilize the province as a means to support our campaign, but the fact that the initial recruitment to get into the military can only be done through joining imperial campaign simply mean a doomed nation(unplayable game) when there isn't any left.  I get it that the game is still in early access but atleast make it so that all content already in the game are available to be obtained, and not to be hindered by some bullshit of a system that royal capital is.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So many clicking actions for so little impact. Why does a management game with so many moving parts require you to click for each one?\n\nThis was only within the first couple hours with 3 characters, 1 shop, 1 farm. The game shows windows with 10s of characters, it'd get crazy.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Great idea and execution, but severely needs Quality of Life changes... Especially for people who do not have fully functioning hands. There is a lot of clicking required to get started in many games, but here, there is no way to decrease the clicking.\n\nTo do interactions, you need to click through multiple menus. There is no automation, so you need to click to do everything. Want to sell stuff? Click on everyone to buy low and sell high. Want to fix up your mansion? Click on every single tile until you find the ones you can repair, then click, click, click to reorient the parts of the house you want to place.\n\nI would be happy to give it another shot if they improve accessibility, but at this point, its a \"no for me, dawg\"",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's a fun game in the current state. Feel free to buy it on sale, but I would wait to really get into when they update a few core mechanics. I got bogged down searching through civilians for specific retainers and spouses (you can organize by stats/skills, but I hesitate to play this game until you can specify parameters - especially since a similar system is already implemented elsewhere). It really feels like a gotcha, gambling game, especially in the early stages. Not a lot of tutorials either on general politics, what can be achieved, and how - I've had to browse online threads to figure out how the game works. Definitely check it out later as they regularly update the game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the most confusing games I've ever played. When an event happens to someone outside your clan occurs, good luck finding where they are on the map. Open the map and you can no longer access the event. Yihui Wang of Royal Family and Shuyu Yang of Yang Clan of Yingyang are suspected of forming cliques, you say? Let me open the map. I see Yang Clan, click on it, but no one mentioned in the event is listed to interact with. Maybe I'll try looking at the Royal Family. Nope not there either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't get the positive reaction to this game.\r\n\r\nI would have refunded it but just broke the 2 hour mark.\r\n\r\nAudio: there is very little sound and as for music there is literally ONE track that loops, not a particularly long track either.\r\n\r\nGame play: You work random jobs for your first money only needing to buy a little food. Doesn't take long to get enough to purchase your first business, a general store. Level one businesses earn enough 'revenue' to pay for themselves in 2 MONTHS (maybe 5 minutes real time). I say 'revenue' because you don't need to produce or acquire the products you sell in any of the businesses. You get the products for free so 'revenue' is all profit, there is only a minimal fee for workers.\r\n\r\nThere may be some deeper diplomacy farther into the game, it looks like it might run a bit like 'The Guild' games. but the economy is so broken it doesn't matter what else is going on. You generate vast sums of money with very little effort and there is almost no upkeep. It's basically a money clicker game, click things until you run out of stamina, buy passive income, click until out of stamina, wait to get enough renown for the next business unlock and buy it. rinse and repeat.\r\n\r\nI discourage anyone from spending their money on this unless they completely rebalance this. Unless you don't want a game with any sort of challenge i guess.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't understand the point of this game. What's the end game? Just matchmaking characters? I conquered the Royal palace. I only have 3 provinces open. Building more farms is tedious, the blueprint system doesn't let you save. It does not cover Artisans in the default blueprints, so useless mid game. Selling stuff every year is tedious, cause you need to sell surplus but keep random snacks for whatever reason. \n\nAttack system - you can't attack unless someone invites you, or if you have a military title. You only get the military title if someone invites you to attack and you win. So you sit there with 10 characters with >80 might, being \"invincible\", just doing nothing. What is the objective here? \n\nRetinue management is tedious, if they start dying. Just max out Street Trading and don't worry about money. \nCandles - no idea where to get them. Altars, useless so far. \nBooks, fairly useless especially since range of skills is determined by the special attribute. You have 5 skills for each character, but in the end none of them do anything. My might characters, do I even care if they are skilled in business, writing etc? Do I care if they are mean, beautiful etc.\nWriting only helps to pass an exam and get a job with the gov. That in the end costs you money, since the gov demands money from the city, the city gets upset, if you let it get upset you lose your job. You have to pay the citizens from your money. The only upside of this is that you can go to war and give a military title to ONLY ONE of your characters. You cannot take 2 generals in battle, only one. Who knows why. \n\nOverall the game seems fine but when you look at it nothing of the mechanics make sense overall and there is no general objective besides moving pixels on a screen.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At the moment lag is a big issue when building out your family home and other locations. \r\n\r\nThe game has alot of good features and is great as someone who doesn't know much about chinese culture for learning and exploring a bit of how some things worked in it's past and then looking stuff up. But a big part of why I liked the game is the art style and the ability to design locations, the more stuff you place the worse the lag gets. At the moment you can somewhat avoid that by placing only the stuff you absolutly have to and trying to keep your family small to mid sized and not expanding too much, But it kinda sucks to have to do that. \r\n\r\nIf the lag issues get fixed it'll be a good game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I wouldn't recommend it yet. The game is very beautiful, there seem to be a ton of layers to it and interacting mechanics... but like many Chinese games I've played it is a bit overdeveloped and under-explained. There are a few translation issues which complicate things... for instance 'Sell' and 'Acquire' are used incorrectly in some screens (which is very confusing for a merchant)... but mostly I didn't find localization to be an issue. \n\nMy biggest problem with the game right now is that it doesn't explain how to play it. In my short trial I found myself in the Discussion forums at least three times... and everything I looked for had multiple threads asking the same questions.\n\nWhat is stamina? Where am I supposed to see it? When does it refresh? Is there some activity I can undertake to get more? \n(It limits what your character can do, you can see it on the character screen ONLY which is very inconvenient UI, it refreshes at the start of the in game month, I have no idea)\nWhy am I dying? It says I have low health, but I haven't fought anyone... (I guess I was starving? It isn't explained well that you need a certain amount of provisions each month in order to survive at all. There aren't meters anywhere... you just have to check your character screen. I had no idea I needed to assign myself to a house after I repaired it.)\n\nI also checked the Discussions to see if anyone else found the game to be incredibly slow... My experience was tedious. I was looking for things to buy low, selling them high, repeat... every month. I just learned I could build a store and I guess that would have given me some passive income, but the beginning is really rough. I felt like I was always tired and starving and it just took so long to crawl out of that hole. I did take out a bank loan, and was able to pay it back... but eventually strangers showed up claiming to be my family so I had to fix more buildings and feed them... so I had to take out another loan...\n\nI'm sure I would have been successful EVENTUALLY, but it felt like basically none of the gameplay was explained in a way that would set me up for success. The tutorial was extremely short, so it could definitely afford to be longer! Teach me about stamina, time progression, what a retainer is and what they can do for you, why my female family member couldn't work, why my retainer couldn't act as a domestic servant, or really ANYTHING else. \n\nI have high hopes for the game, but for now I'll take a refund and wait to see if it gets better.",
+      "voted_up": false,
+      "votes_helpful": 70
+    },
+    {
+      "review": "The art is nice and the concept sounds great - it has some city building aspects and Crusader Kings-like dynasty management and grand strategy. Unfortunately, it's just overambitious but underbaked at this point, with too many confusing and useless options, poor balance, and an unintuitive interface, especially for character interactions. Case in point:\n\n- In cities and estates, placement of buildings doesn't matter at all. There are sprites walking around but they're just decorative.\n- Shops offer jobs, but the rewards are meaningless after just 10-20 minutes of gameplay\n- There are dozens of ways to interact with characters but there's little reason to do any of them except arranging marriages\n- A single 16-acre farm can earn as much as an entire city or province\n- Fiefdoms seem to be granted randomly and are the only way to raise a private army afaict\n- I still have no idea how the royal family system works\n\nIf the devs cut down on some of the meaningless grind and spend more time refining the mechanics that matter, then this will be an easy recommend.",
+      "voted_up": false,
+      "votes_helpful": 17
+    },
+    {
+      "review": "I rarely do game review, but this one is quite the problem. There is need to be a substantial rework on how the Royal capital work. The royal capital will always bankrupt everytime one of your family sit on the minister position, which in this case war minister is the easiest one to get. This would ruined the game and make it into a screeching halt, where the capital cannot go on war > which make no one able to progress further in rank/military > which mean that if all of your clan member that already have some military experience die due to various cirmustances, there wont be another way to progress the game. I get it that we don't have to rely on the capital for troops, and that we can utilize the province as a means to support our campaign, but the fact that the initial recruitment to get into the military can only be done through joining imperial campaign simply mean a doomed nation(unplayable game) when there isn't any left.  I get it that the game is still in early access but atleast make it so that all content already in the game are available to be obtained, and not to be hindered by some bullshit of a system that royal capital is.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So many clicking actions for so little impact. Why does a management game with so many moving parts require you to click for each one?\n\nThis was only within the first couple hours with 3 characters, 1 shop, 1 farm. The game shows windows with 10s of characters, it'd get crazy.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Great idea and execution, but severely needs Quality of Life changes... Especially for people who do not have fully functioning hands. There is a lot of clicking required to get started in many games, but here, there is no way to decrease the clicking.\n\nTo do interactions, you need to click through multiple menus. There is no automation, so you need to click to do everything. Want to sell stuff? Click on everyone to buy low and sell high. Want to fix up your mansion? Click on every single tile until you find the ones you can repair, then click, click, click to reorient the parts of the house you want to place.\n\nI would be happy to give it another shot if they improve accessibility, but at this point, its a \"no for me, dawg\"",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's a fun game in the current state. Feel free to buy it on sale, but I would wait to really get into when they update a few core mechanics. I got bogged down searching through civilians for specific retainers and spouses (you can organize by stats/skills, but I hesitate to play this game until you can specify parameters - especially since a similar system is already implemented elsewhere). It really feels like a gotcha, gambling game, especially in the early stages. Not a lot of tutorials either on general politics, what can be achieved, and how - I've had to browse online threads to figure out how the game works. Definitely check it out later as they regularly update the game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the most confusing games I've ever played. When an event happens to someone outside your clan occurs, good luck finding where they are on the map. Open the map and you can no longer access the event. Yihui Wang of Royal Family and Shuyu Yang of Yang Clan of Yingyang are suspected of forming cliques, you say? Let me open the map. I see Yang Clan, click on it, but no one mentioned in the event is listed to interact with. Maybe I'll try looking at the Royal Family. Nope not there either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't get the positive reaction to this game.\r\n\r\nI would have refunded it but just broke the 2 hour mark.\r\n\r\nAudio: there is very little sound and as for music there is literally ONE track that loops, not a particularly long track either.\r\n\r\nGame play: You work random jobs for your first money only needing to buy a little food. Doesn't take long to get enough to purchase your first business, a general store. Level one businesses earn enough 'revenue' to pay for themselves in 2 MONTHS (maybe 5 minutes real time). I say 'revenue' because you don't need to produce or acquire the products you sell in any of the businesses. You get the products for free so 'revenue' is all profit, there is only a minimal fee for workers.\r\n\r\nThere may be some deeper diplomacy farther into the game, it looks like it might run a bit like 'The Guild' games. but the economy is so broken it doesn't matter what else is going on. You generate vast sums of money with very little effort and there is almost no upkeep. It's basically a money clicker game, click things until you run out of stamina, buy passive income, click until out of stamina, wait to get enough renown for the next business unlock and buy it. rinse and repeat.\r\n\r\nI discourage anyone from spending their money on this unless they completely rebalance this. Unless you don't want a game with any sort of challenge i guess.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't understand the point of this game. What's the end game? Just matchmaking characters? I conquered the Royal palace. I only have 3 provinces open. Building more farms is tedious, the blueprint system doesn't let you save. It does not cover Artisans in the default blueprints, so useless mid game. Selling stuff every year is tedious, cause you need to sell surplus but keep random snacks for whatever reason. \n\nAttack system - you can't attack unless someone invites you, or if you have a military title. You only get the military title if someone invites you to attack and you win. So you sit there with 10 characters with >80 might, being \"invincible\", just doing nothing. What is the objective here? \n\nRetinue management is tedious, if they start dying. Just max out Street Trading and don't worry about money. \nCandles - no idea where to get them. Altars, useless so far. \nBooks, fairly useless especially since range of skills is determined by the special attribute. You have 5 skills for each character, but in the end none of them do anything. My might characters, do I even care if they are skilled in business, writing etc? Do I care if they are mean, beautiful etc.\nWriting only helps to pass an exam and get a job with the gov. That in the end costs you money, since the gov demands money from the city, the city gets upset, if you let it get upset you lose your job. You have to pay the citizens from your money. The only upside of this is that you can go to war and give a military title to ONLY ONE of your characters. You cannot take 2 generals in battle, only one. Who knows why. \n\nOverall the game seems fine but when you look at it nothing of the mechanics make sense overall and there is no general objective besides moving pixels on a screen.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At the moment lag is a big issue when building out your family home and other locations. \r\n\r\nThe game has alot of good features and is great as someone who doesn't know much about chinese culture for learning and exploring a bit of how some things worked in it's past and then looking stuff up. But a big part of why I liked the game is the art style and the ability to design locations, the more stuff you place the worse the lag gets. At the moment you can somewhat avoid that by placing only the stuff you absolutly have to and trying to keep your family small to mid sized and not expanding too much, But it kinda sucks to have to do that. \r\n\r\nIf the lag issues get fixed it'll be a good game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I wouldn't recommend it yet. The game is very beautiful, there seem to be a ton of layers to it and interacting mechanics... but like many Chinese games I've played it is a bit overdeveloped and under-explained. There are a few translation issues which complicate things... for instance 'Sell' and 'Acquire' are used incorrectly in some screens (which is very confusing for a merchant)... but mostly I didn't find localization to be an issue. \n\nMy biggest problem with the game right now is that it doesn't explain how to play it. In my short trial I found myself in the Discussion forums at least three times... and everything I looked for had multiple threads asking the same questions.\n\nWhat is stamina? Where am I supposed to see it? When does it refresh? Is there some activity I can undertake to get more? \n(It limits what your character can do, you can see it on the character screen ONLY which is very inconvenient UI, it refreshes at the start of the in game month, I have no idea)\nWhy am I dying? It says I have low health, but I haven't fought anyone... (I guess I was starving? It isn't explained well that you need a certain amount of provisions each month in order to survive at all. There aren't meters anywhere... you just have to check your character screen. I had no idea I needed to assign myself to a house after I repaired it.)\n\nI also checked the Discussions to see if anyone else found the game to be incredibly slow... My experience was tedious. I was looking for things to buy low, selling them high, repeat... every month. I just learned I could build a store and I guess that would have given me some passive income, but the beginning is really rough. I felt like I was always tired and starving and it just took so long to crawl out of that hole. I did take out a bank loan, and was able to pay it back... but eventually strangers showed up claiming to be my family so I had to fix more buildings and feed them... so I had to take out another loan...\n\nI'm sure I would have been successful EVENTUALLY, but it felt like basically none of the gameplay was explained in a way that would set me up for success. The tutorial was extremely short, so it could definitely afford to be longer! Teach me about stamina, time progression, what a retainer is and what they can do for you, why my female family member couldn't work, why my retainer couldn't act as a domestic servant, or really ANYTHING else. \n\nI have high hopes for the game, but for now I'll take a refund and wait to see if it gets better.",
+      "voted_up": false,
+      "votes_helpful": 70
+    },
+    {
+      "review": "The art is nice and the concept sounds great - it has some city building aspects and Crusader Kings-like dynasty management and grand strategy. Unfortunately, it's just overambitious but underbaked at this point, with too many confusing and useless options, poor balance, and an unintuitive interface, especially for character interactions. Case in point:\n\n- In cities and estates, placement of buildings doesn't matter at all. There are sprites walking around but they're just decorative.\n- Shops offer jobs, but the rewards are meaningless after just 10-20 minutes of gameplay\n- There are dozens of ways to interact with characters but there's little reason to do any of them except arranging marriages\n- A single 16-acre farm can earn as much as an entire city or province\n- Fiefdoms seem to be granted randomly and are the only way to raise a private army afaict\n- I still have no idea how the royal family system works\n\nIf the devs cut down on some of the meaningless grind and spend more time refining the mechanics that matter, then this will be an easy recommend.",
+      "voted_up": false,
+      "votes_helpful": 17
+    },
+    {
+      "review": "I rarely do game review, but this one is quite the problem. There is need to be a substantial rework on how the Royal capital work. The royal capital will always bankrupt everytime one of your family sit on the minister position, which in this case war minister is the easiest one to get. This would ruined the game and make it into a screeching halt, where the capital cannot go on war > which make no one able to progress further in rank/military > which mean that if all of your clan member that already have some military experience die due to various cirmustances, there wont be another way to progress the game. I get it that we don't have to rely on the capital for troops, and that we can utilize the province as a means to support our campaign, but the fact that the initial recruitment to get into the military can only be done through joining imperial campaign simply mean a doomed nation(unplayable game) when there isn't any left.  I get it that the game is still in early access but atleast make it so that all content already in the game are available to be obtained, and not to be hindered by some bullshit of a system that royal capital is.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So many clicking actions for so little impact. Why does a management game with so many moving parts require you to click for each one?\n\nThis was only within the first couple hours with 3 characters, 1 shop, 1 farm. The game shows windows with 10s of characters, it'd get crazy.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Great idea and execution, but severely needs Quality of Life changes... Especially for people who do not have fully functioning hands. There is a lot of clicking required to get started in many games, but here, there is no way to decrease the clicking.\n\nTo do interactions, you need to click through multiple menus. There is no automation, so you need to click to do everything. Want to sell stuff? Click on everyone to buy low and sell high. Want to fix up your mansion? Click on every single tile until you find the ones you can repair, then click, click, click to reorient the parts of the house you want to place.\n\nI would be happy to give it another shot if they improve accessibility, but at this point, its a \"no for me, dawg\"",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's a fun game in the current state. Feel free to buy it on sale, but I would wait to really get into when they update a few core mechanics. I got bogged down searching through civilians for specific retainers and spouses (you can organize by stats/skills, but I hesitate to play this game until you can specify parameters - especially since a similar system is already implemented elsewhere). It really feels like a gotcha, gambling game, especially in the early stages. Not a lot of tutorials either on general politics, what can be achieved, and how - I've had to browse online threads to figure out how the game works. Definitely check it out later as they regularly update the game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the most confusing games I've ever played. When an event happens to someone outside your clan occurs, good luck finding where they are on the map. Open the map and you can no longer access the event. Yihui Wang of Royal Family and Shuyu Yang of Yang Clan of Yingyang are suspected of forming cliques, you say? Let me open the map. I see Yang Clan, click on it, but no one mentioned in the event is listed to interact with. Maybe I'll try looking at the Royal Family. Nope not there either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't get the positive reaction to this game.\r\n\r\nI would have refunded it but just broke the 2 hour mark.\r\n\r\nAudio: there is very little sound and as for music there is literally ONE track that loops, not a particularly long track either.\r\n\r\nGame play: You work random jobs for your first money only needing to buy a little food. Doesn't take long to get enough to purchase your first business, a general store. Level one businesses earn enough 'revenue' to pay for themselves in 2 MONTHS (maybe 5 minutes real time). I say 'revenue' because you don't need to produce or acquire the products you sell in any of the businesses. You get the products for free so 'revenue' is all profit, there is only a minimal fee for workers.\r\n\r\nThere may be some deeper diplomacy farther into the game, it looks like it might run a bit like 'The Guild' games. but the economy is so broken it doesn't matter what else is going on. You generate vast sums of money with very little effort and there is almost no upkeep. It's basically a money clicker game, click things until you run out of stamina, buy passive income, click until out of stamina, wait to get enough renown for the next business unlock and buy it. rinse and repeat.\r\n\r\nI discourage anyone from spending their money on this unless they completely rebalance this. Unless you don't want a game with any sort of challenge i guess.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't understand the point of this game. What's the end game? Just matchmaking characters? I conquered the Royal palace. I only have 3 provinces open. Building more farms is tedious, the blueprint system doesn't let you save. It does not cover Artisans in the default blueprints, so useless mid game. Selling stuff every year is tedious, cause you need to sell surplus but keep random snacks for whatever reason. \n\nAttack system - you can't attack unless someone invites you, or if you have a military title. You only get the military title if someone invites you to attack and you win. So you sit there with 10 characters with >80 might, being \"invincible\", just doing nothing. What is the objective here? \n\nRetinue management is tedious, if they start dying. Just max out Street Trading and don't worry about money. \nCandles - no idea where to get them. Altars, useless so far. \nBooks, fairly useless especially since range of skills is determined by the special attribute. You have 5 skills for each character, but in the end none of them do anything. My might characters, do I even care if they are skilled in business, writing etc? Do I care if they are mean, beautiful etc.\nWriting only helps to pass an exam and get a job with the gov. That in the end costs you money, since the gov demands money from the city, the city gets upset, if you let it get upset you lose your job. You have to pay the citizens from your money. The only upside of this is that you can go to war and give a military title to ONLY ONE of your characters. You cannot take 2 generals in battle, only one. Who knows why. \n\nOverall the game seems fine but when you look at it nothing of the mechanics make sense overall and there is no general objective besides moving pixels on a screen.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At the moment lag is a big issue when building out your family home and other locations. \r\n\r\nThe game has alot of good features and is great as someone who doesn't know much about chinese culture for learning and exploring a bit of how some things worked in it's past and then looking stuff up. But a big part of why I liked the game is the art style and the ability to design locations, the more stuff you place the worse the lag gets. At the moment you can somewhat avoid that by placing only the stuff you absolutly have to and trying to keep your family small to mid sized and not expanding too much, But it kinda sucks to have to do that. \r\n\r\nIf the lag issues get fixed it'll be a good game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I wouldn't recommend it yet. The game is very beautiful, there seem to be a ton of layers to it and interacting mechanics... but like many Chinese games I've played it is a bit overdeveloped and under-explained. There are a few translation issues which complicate things... for instance 'Sell' and 'Acquire' are used incorrectly in some screens (which is very confusing for a merchant)... but mostly I didn't find localization to be an issue. \n\nMy biggest problem with the game right now is that it doesn't explain how to play it. In my short trial I found myself in the Discussion forums at least three times... and everything I looked for had multiple threads asking the same questions.\n\nWhat is stamina? Where am I supposed to see it? When does it refresh? Is there some activity I can undertake to get more? \n(It limits what your character can do, you can see it on the character screen ONLY which is very inconvenient UI, it refreshes at the start of the in game month, I have no idea)\nWhy am I dying? It says I have low health, but I haven't fought anyone... (I guess I was starving? It isn't explained well that you need a certain amount of provisions each month in order to survive at all. There aren't meters anywhere... you just have to check your character screen. I had no idea I needed to assign myself to a house after I repaired it.)\n\nI also checked the Discussions to see if anyone else found the game to be incredibly slow... My experience was tedious. I was looking for things to buy low, selling them high, repeat... every month. I just learned I could build a store and I guess that would have given me some passive income, but the beginning is really rough. I felt like I was always tired and starving and it just took so long to crawl out of that hole. I did take out a bank loan, and was able to pay it back... but eventually strangers showed up claiming to be my family so I had to fix more buildings and feed them... so I had to take out another loan...\n\nI'm sure I would have been successful EVENTUALLY, but it felt like basically none of the gameplay was explained in a way that would set me up for success. The tutorial was extremely short, so it could definitely afford to be longer! Teach me about stamina, time progression, what a retainer is and what they can do for you, why my female family member couldn't work, why my retainer couldn't act as a domestic servant, or really ANYTHING else. \n\nI have high hopes for the game, but for now I'll take a refund and wait to see if it gets better.",
+      "voted_up": false,
+      "votes_helpful": 70
+    },
+    {
+      "review": "The art is nice and the concept sounds great - it has some city building aspects and Crusader Kings-like dynasty management and grand strategy. Unfortunately, it's just overambitious but underbaked at this point, with too many confusing and useless options, poor balance, and an unintuitive interface, especially for character interactions. Case in point:\n\n- In cities and estates, placement of buildings doesn't matter at all. There are sprites walking around but they're just decorative.\n- Shops offer jobs, but the rewards are meaningless after just 10-20 minutes of gameplay\n- There are dozens of ways to interact with characters but there's little reason to do any of them except arranging marriages\n- A single 16-acre farm can earn as much as an entire city or province\n- Fiefdoms seem to be granted randomly and are the only way to raise a private army afaict\n- I still have no idea how the royal family system works\n\nIf the devs cut down on some of the meaningless grind and spend more time refining the mechanics that matter, then this will be an easy recommend.",
+      "voted_up": false,
+      "votes_helpful": 17
+    },
+    {
+      "review": "I rarely do game review, but this one is quite the problem. There is need to be a substantial rework on how the Royal capital work. The royal capital will always bankrupt everytime one of your family sit on the minister position, which in this case war minister is the easiest one to get. This would ruined the game and make it into a screeching halt, where the capital cannot go on war > which make no one able to progress further in rank/military > which mean that if all of your clan member that already have some military experience die due to various cirmustances, there wont be another way to progress the game. I get it that we don't have to rely on the capital for troops, and that we can utilize the province as a means to support our campaign, but the fact that the initial recruitment to get into the military can only be done through joining imperial campaign simply mean a doomed nation(unplayable game) when there isn't any left.  I get it that the game is still in early access but atleast make it so that all content already in the game are available to be obtained, and not to be hindered by some bullshit of a system that royal capital is.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So many clicking actions for so little impact. Why does a management game with so many moving parts require you to click for each one?\n\nThis was only within the first couple hours with 3 characters, 1 shop, 1 farm. The game shows windows with 10s of characters, it'd get crazy.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Great idea and execution, but severely needs Quality of Life changes... Especially for people who do not have fully functioning hands. There is a lot of clicking required to get started in many games, but here, there is no way to decrease the clicking.\n\nTo do interactions, you need to click through multiple menus. There is no automation, so you need to click to do everything. Want to sell stuff? Click on everyone to buy low and sell high. Want to fix up your mansion? Click on every single tile until you find the ones you can repair, then click, click, click to reorient the parts of the house you want to place.\n\nI would be happy to give it another shot if they improve accessibility, but at this point, its a \"no for me, dawg\"",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's a fun game in the current state. Feel free to buy it on sale, but I would wait to really get into when they update a few core mechanics. I got bogged down searching through civilians for specific retainers and spouses (you can organize by stats/skills, but I hesitate to play this game until you can specify parameters - especially since a similar system is already implemented elsewhere). It really feels like a gotcha, gambling game, especially in the early stages. Not a lot of tutorials either on general politics, what can be achieved, and how - I've had to browse online threads to figure out how the game works. Definitely check it out later as they regularly update the game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the most confusing games I've ever played. When an event happens to someone outside your clan occurs, good luck finding where they are on the map. Open the map and you can no longer access the event. Yihui Wang of Royal Family and Shuyu Yang of Yang Clan of Yingyang are suspected of forming cliques, you say? Let me open the map. I see Yang Clan, click on it, but no one mentioned in the event is listed to interact with. Maybe I'll try looking at the Royal Family. Nope not there either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't get the positive reaction to this game.\r\n\r\nI would have refunded it but just broke the 2 hour mark.\r\n\r\nAudio: there is very little sound and as for music there is literally ONE track that loops, not a particularly long track either.\r\n\r\nGame play: You work random jobs for your first money only needing to buy a little food. Doesn't take long to get enough to purchase your first business, a general store. Level one businesses earn enough 'revenue' to pay for themselves in 2 MONTHS (maybe 5 minutes real time). I say 'revenue' because you don't need to produce or acquire the products you sell in any of the businesses. You get the products for free so 'revenue' is all profit, there is only a minimal fee for workers.\r\n\r\nThere may be some deeper diplomacy farther into the game, it looks like it might run a bit like 'The Guild' games. but the economy is so broken it doesn't matter what else is going on. You generate vast sums of money with very little effort and there is almost no upkeep. It's basically a money clicker game, click things until you run out of stamina, buy passive income, click until out of stamina, wait to get enough renown for the next business unlock and buy it. rinse and repeat.\r\n\r\nI discourage anyone from spending their money on this unless they completely rebalance this. Unless you don't want a game with any sort of challenge i guess.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I don't understand the point of this game. What's the end game? Just matchmaking characters? I conquered the Royal palace. I only have 3 provinces open. Building more farms is tedious, the blueprint system doesn't let you save. It does not cover Artisans in the default blueprints, so useless mid game. Selling stuff every year is tedious, cause you need to sell surplus but keep random snacks for whatever reason. \n\nAttack system - you can't attack unless someone invites you, or if you have a military title. You only get the military title if someone invites you to attack and you win. So you sit there with 10 characters with >80 might, being \"invincible\", just doing nothing. What is the objective here? \n\nRetinue management is tedious, if they start dying. Just max out Street Trading and don't worry about money. \nCandles - no idea where to get them. Altars, useless so far. \nBooks, fairly useless especially since range of skills is determined by the special attribute. You have 5 skills for each character, but in the end none of them do anything. My might characters, do I even care if they are skilled in business, writing etc? Do I care if they are mean, beautiful etc.\nWriting only helps to pass an exam and get a job with the gov. That in the end costs you money, since the gov demands money from the city, the city gets upset, if you let it get upset you lose your job. You have to pay the citizens from your money. The only upside of this is that you can go to war and give a military title to ONLY ONE of your characters. You cannot take 2 generals in battle, only one. Who knows why. \n\nOverall the game seems fine but when you look at it nothing of the mechanics make sense overall and there is no general objective besides moving pixels on a screen.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "At the moment lag is a big issue when building out your family home and other locations. \r\n\r\nThe game has alot of good features and is great as someone who doesn't know much about chinese culture for learning and exploring a bit of how some things worked in it's past and then looking stuff up. But a big part of why I liked the game is the art style and the ability to design locations, the more stuff you place the worse the lag gets. At the moment you can somewhat avoid that by placing only the stuff you absolutly have to and trying to keep your family small to mid sized and not expanding too much, But it kinda sucks to have to do that. \r\n\r\nIf the lag issues get fixed it'll be a good game.",
+      "voted_up": false,
+      "votes_helpful": 1
+    }
+  ]
+}

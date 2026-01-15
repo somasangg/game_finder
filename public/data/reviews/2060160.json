@@ -1,0 +1,631 @@
+{
+  "positive": [
+    {
+      "review": "Ok before you buy.\r\nI give this a 9/10 but that's my opinion.\r\n\r\n1st and foremost this IS an idle game, yes you can code to automate it, but you will leave this game running for hours to gather resources.\r\n\r\nWill it teach you python coding? very basic only.\r\n\r\nis it fun - yes if you enjoy puzzles / coding and don't mind the idle waiting for resources.\r\n\r\nI give this a 9/10, I'm loving this, it's a slow process, I'm not a programmer. The game does teach you most of what you need to know, and so far I've been able to work out the rest myself. But it's very rewarding when you do work out how to complete the more complex tasks.\r\n\r\nThat said I feel there is a few QoL features missing. like an ingame console for debugging rather than using a .txt doc, and the lack of a search function in the ingame documentation, the documentation is very basic.\r\n\r\nIf you have an interest in coding, even if you have no experience then this game may be for you.\r\n\r\nIt's cheap, give it a go.",
+      "voted_up": true,
+      "votes_helpful": 37
+    },
+    {
+      "review": "TLDR: Good game for simple programming techniques and beginners - but still has a way to go for more advanced learners.\n\nI want to just say that I do enjoy the game a lot and think its really well made so far, I just like ranting. I also understand the game is still in an earlish development stage.\n\nGood Points:\n- Teaches \"simple\" programming techniques\n- Actually fun to play\n\nThings I wish that were changed:\n- Gameplay: Gameplay is SUPER fun near the start, drops off near the middle around bones/maze, then just gets kinda boring. Obviously as an afk farm game this will happen 90% of the time, but even then I felt like the scaling was off on certain upgrades / gather rates.\n- Bad Programming: The game does not enforce GOOD programming techniques and instead will typically reward doing things that realistically worse than optimal solution. For example, maze search algorithm seems to work faster by using DFS algorithms compared to A* / heuristic based searches (likely because the max size is 32x32 and A* is usually slower in this case, so possible increase the scale of farm more near end game). Maybe what I have been implementing is wrong as well, but I see solutions that have people just spam 20 drones into the maze and randomly move around which is just dumb. Limiting drones to 1 per maze would be a good change imo.\n- Drone Memory: No shared memory between drones. Obviously for beginners dealing with locks/parallel code may get really confusing, but I wish there was at least an option to have it. This feature makes it pretty much impossible to write GOOD code and instead reinforces bad manual patterns and typically requires rewriting code to be dumber than what it was before just to be faster.\n- Code Editing: Enable editing code whilst it is also running. I didn't opt to using an external IDE but allowing for code to run whilst also editing would be great as it was annoying to copy/paste into a new box to allow for the current code to run.\n\n\nNew feature Ideas:\n- Multifarm/world: Allow for multiple words/farms to run at once. Would be a nice unlock near the end. Not necessarily needed as you could just subdivide the current farm and set each drone to a quadrant but I think would be nice for different farms.\n- World Types: Once you finish all the farm upgrades, go to a new world with even harder stuff. E.g. now you mine minerals etc, then goes to space etc. (just some ideas)\n- Complexity: Create more complex types of plants with different interactions to learn more complex datatypes (e.g. heaps, trees etc.), I think changing how the tree works should spawn an actual tree like datatype you can traverse to harvest at leaf nodes. This would make it a great beginner to search algorithms before the maze as I think the maze part is a large leap for some beginners. You could even expand this for different tree types for different algorithms.\n- Multi-language Support: Implement multi-language support.",
+      "voted_up": true,
+      "votes_helpful": 12
+    },
+    {
+      "review": "This game was fun to play and the gameplay itself was very creative. Never played a game like this before but I enjoyed every bit.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Another fun programming-genre game. Definitely recommend. Progression feels very rewarding. The game has really nice documentation as well",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "The version I played (pre-1.0) didn't have too much to do, but, overall, it was a couple of hours of geeky fun.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "super gaming game, would be cool with a \"wait x ticks\" function, but love the gaming",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Please improve the in-game tutorial manual; this is crucial for players unfamiliar with programming.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Pretty fun even for experienced devs, I can see it as a good intro to programming for beginners wanting to pick it up.\n\nJust wish it had some short cuts such as multiline indent/dedent, commenting etc",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I really like playing this game. It’s satisfying and relaxing, so very addicting !\nI have a good knowledge of programming, and I wasn’t slowed or frustrated by the tutorials.\nI think this game is fun and suitable for both beginner and veteran programmers!",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Actually a incredibly good game to learn the basics of programming, and you get to solve fun puzzles along the way. Absolutely recommended, even for the more \"senior\" programmers.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Cool game - desperately needs object/class support as well as other missing built-in python features, such as functions like hasattr, type, and more.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "From someone with 0 experience coding, this was a delightful introduction to the concept. I find the gameplay itself approachable, but the difficulty/grind scale feels a bit steep in what I felt was the midgame. I was able to get about halfway through the skill tree before my overall interest fell off. For those who have the itch, the late game has more than you could ever want to go into, but for those who are lightly interested in the concept, I think 5 hours or so is about what you could get before getting in too deep.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I absolutely love this game. This is what every \"learn to code\" game should be. \nTo be fair, you are not going to get much hand-holding in this game and will need to know, or learn, a little more about popular algorithms and strategies for procedural programming. But if you know how to code and enjoy puzzles, enjoy puzzles but don't know how to code, or just want a \"dip your toe in\" start to programming; buy this game!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Great game but you need to have an undo button in the code windows. I accidently deleted a huge block of code and have no way to get it back.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Fun little idle game - it gets pretty advanced pretty quickly for anybody fresh into coding with no history like me. I wish there was more to the troubleshooter and more easily accessible than it is (sometimes getting to the troubleshooter is harder than the issue you're facing, and then reading it is difficult). Fortunately, steam is full of nerds and there was plenty of help online in the discussions and guides on how to get all the achievements and skill tree fairly painlessly - and then it's just a nice idle time waster. Short, mind you.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I managed to 100% the achievements as a complete coding beginner but there is a lot i could have done better, so imo this game is doable for non-programmers as long as you are willing to learn and think, but there is still a lot of optimization you can do if you already know how to code.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Everything would be fine, but we need to add a DLC with a difficulty level, for example Assembler :D",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Its a fun game that seems simple, but the challenges quickly force you to go out of your comfort zone and see that you can't brute force every issue.\r\n\r\nSadly the game has a lot of softlock bugs that can't be solved without restarting the game and stop your 'flow' dead, which can be a big point for someone to put this game down and then never actually return to it.\r\n\r\nStill recommend it. Its not perfect, but its a good \"from zero\" game for people interested in trying to code.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "An amazing game if you really want to visually understand how code works. Yes, everything is quite primitive here, but nevertheless, there is a puzzle, and that's awesome for a game like this. Just play it, I guarantee you won't be able to tear yourself away from it for a couple of hours. I hope you have a couple of hours to spare, because they'll fly by in an instant.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "If you are into computer science, programming titles such as this one The Farmer Was Replaced then you will love this one. You give commands and create execute programs that tells the drone what to do how to harvest and gather different resources. You will gain and unlock more things as you progress. It has achievements to be earned as well if you are to challenge yourself. Overall I recommend this game and give it a positive review. Highly recommendable.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Starts off really fun but as you start having to do more and more complicated things it becomes way too unwieldy to manage. Debugging things is a challenge and juggling the many code windows you'll need is a pain. Lack of basic programming functions starts to grate more and more. There is quite a jump in difficulty at the midgame, and the game crashed a few times when left running a looping script too.\n\nNevertheless this is good fun to start off with and a decent intro to programming for the newly initiated. The more experienced might find more friction here than they'd like to deal with.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Super awesome game if you want to learn a bit of python, while also enjoyable for people with experience.\r\nThe game doesn't throw everything at you at once, but goes from the very basics to the more advanced concepts. All functions are well documented so you don't need to google anything. It also features a couple of fun coding challenges like solving mazes, sorting, and playing snake.\r\n\r\nHighly recommend for people who have fun programming or want to learn some python.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "It is a really good idea to allow players write some code and see the results instantly. It's a must have for programmers and people who learn programming.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Once upon a time I was a developer, so I was already familiar with writing code, functions, recursion, etc., Farmer Was Replaced has still been a great puzzle game. The methods of optimizing planting and harvesting of different crop types provide a satisfying challenge, forcing you to rethink your approach. Almost everything can be brute forced, but it's enjoyable to figure out the fastest way to collect your crops, from megapumpkins to vast fields of size sorted cacti. Some of the in game documentation could use some tweaks, clarifying how certain things work. But overall an very fun game.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "TLDR: This game is amazing at making you problem-solve, which is what games and code are fundamentally about. It's also very well put together and has a nice, chill atmosphere. 10/10\r\n\r\nI love incremental games, but realistically it's a pretty stale genre. Nowadays, most of them advertise some vague unique selling point that ends up being a minor thing—if not an afterthought—after an hour of play, and then it's either a Cookie Clicker or an Adventure Capitalist with a different theme and maybe more content to grind through.\r\n\r\nThe Farmer Was Replaced is something completely different!\r\n\r\nObviously the coding aspect is very novel. I've always been interested in code but never had a good excuse to indulge in my free time. Well, this game was the perfect excuse! And the coding mechanic fits the incremental genre so perfectly. \r\n\r\nIn a typical incremental game, you'd usually be juggling different options, prioritizing one upgrade or another, in an effort to optimize your resource acquisition. But that always feels somewhat arbitrary, reliant on the whims of the developer and how they balanced the values of an upgrade. Here, to maximize your resource acquisition, you're instead trying to optimize movement logic, automate decision-making, and solve programming problems (again, in the most optimal way possible). It all feels so natural; I'm surprised no one had done it before.\r\n\r\nAnd then, the game doesn't take this strong foundation for granted and introduces interesting progression elements that will periodically encourage you to revisit code you've written before to improve its logic. You'll increase the field's size, making you realize you need to write your code to be adaptive to it. Once the grid is big enough, you'll realize you're wasting a lot of time going places, and now you're implementing edge warping logic to your movement behavior. And once you unlock extra drones, then... you might have to revisit a lot of your code like I did. But that's part of what makes this game so great.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Incredibly fun game when you are good at programming. Otherwise it will still be fun, but will also be the hardest puzzle game you've ever played",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great game, but a little diffcult to understand if you are new to \"coding\". \r\nLuckily the game gives a great explanation, and the fanbase is also really kind and willing to help with new people.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I've had a lot of fun replacing farmers. It's a great way to make some practical use of all my programming knowledge in a way that feels quite satisfying.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A lot of fun and keeps itself going in the background.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A clever and relaxing way to solve problems programmatically while having fun. It is also well suited as a gentle introduction to programming, since the in-game language is quite similar to Python and easy to read, even for beginners.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Most of my best farming scripts come to me when I'm falling asleep in bed. \r\n\r\nIt's a good game, I think I've learned a lot in playing it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The Farmer Was Replaced is an excellent game where you start by looking for ways to optimize your code.\nAnd then you find new ways to optimize your code. \nAnd then you start looking for even more ways to optimize your code.\nIt’s an infinite cycle.\n\nBut I love it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very fun. I'm already pretty familiar with python but i believe that the way this game introduces new mechanics is also a great way to start programming",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great little game, I love the way that it pushes you to make better and better programs to improve your efficiency, while still allowing you to do things in scrabbled-together ways.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really good game if you want to learn programming in a more fun and visual way.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a fun and not overwhelming intro to Python (and some basic algorithms). Highly recommended.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Quit fun, 8/10\r\n\r\nI'd like to have more Python features like classes, generators, args, kwargs and etc",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is really great and a fun way to learn programming.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The game is overall well done and it does what it does well. And from that reason I can recommend it.\n\nWhat it is not clear is what is the actual target for the game.\n\nThis game seems to target people who want to learn to code, by making the player unlock python commands one after the other, and providing coding challenges one after the other.\n\nWhat I don't know, however, is how hard those challenges - especially the last ones - are for most people.\n\nFrom the prospective of a professional coder with competition experiences, the game is entertaining and quite simple. You actually don't write much code for each of the challenges, and you can finish the game within a few days.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Coding idle game, very fun. A little prior knowledge will help you a lot, but isn't required.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game for any level of programming skill, even absolute beginners with no experience",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The farmer was replaced is a game that inspired me to learn more about programming and computers in spite of not having any formal education in the subject. It makes things approachable and teaches concepts that can be put to use when writing code for a purpose.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's not for everyone, but for those it's intended for, opium. It got dark outside and I thought \"maybe I should have dinner\" and... it's 2 am. This review window reads on the top \"You've played for 7 hours\", ouch.\r\n\r\nHighly recommended.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "got me hooked into coding. This game is good as a guide into coding for beginners and a challenge for those who already are well-versed in coding.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun programming game to keep practicing my programming skills with a lot of intracate minigames.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I am once again playing a game that involves programming, instead of actually programming something I need to do.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "An interesting and well-developed game for a couple of evenings that will teach you the basics of Python. Suitable for programming beginners or those who really love coding. While the game doesn't have much content, the real fun lies in making the algorithm as efficient as possible to mine resources faster. However, it's still an AFK farming game, so it won't appeal to everyone.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game to learn coding. I recommend to all people wanting to first learn the basics",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fantastic little game to get the coding juices flowing.  Puzzling out the logic is great fun and a good introduction to the principals of coding.  Perfect for a little chill time.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is awesome! I spent several hours thinking and planning the best way to farm. For those who enjoy puzzle or strategy games — and who know or want to learn how to code — this will definitely be the game for you.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing Game if you want to learn a little coding. At around the time I got the Pumpkin upgrade I got a little lost in the insane amount of new commands I unlocked throughout the skill tree. It was very overwhelming but still fun to learn ways around problems.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Oh no... I've only got an hour and a half in this game and I can feel the autism kicking in. It's so simple and yet so complex and has infinite possibilities for optimization. I scoffed when I first saw the store page, but this is an incredible game and a great introduction to coding and thinking like a software developer.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love the game, it is nice to keep my programming skills somewhat fresh with a fun game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Create garbage code for fun instead of work. 10/10\nUnironically got a tech illiterate friend into programming.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun game and easy to progress and learn and understand fun way to optimize your code",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I don't have much time into this game as I want. It's a nice little game to learn coding and have fun doing it in the process. If I could play it more I would. Definitely a 10/10 game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's an excellent game for those who enjoy coding and already have some basic knowledge.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a great game where your logic skills will be put to the test, as well as your Python language skills, which you will put into practice or acquire throughout the game. The game is reasonably simple, but it's very cool to have the ability to see what you code, to see it come to life within the game—the actions, the successes, the errors (whether in code or logic). It is quite fun, and the progression system is well-designed and challenging.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The game itself is rather enjoyable. Without going into spoilers; the game is designed in a way that forces the player to use many different aspects of programming. I consider that a possitive.\nOn the flip side of that, the game also expects you to leave it running idly in the background if you wish to unlock the high level resources and upgrades. That is something that I really don't like but in fairness to the devs they did include the \"Idler\" tag here on the steam store, so really, it was my mistake for not spotting it before purchasing the game.\nOne thing that I can't excuse though is the price. For the amount of content that you get out of the game, the price seems way too high.\nOverall I'd still recomend the game if you're not a tight budget, just don't expect to be blown away. 7/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good game, you can learn programming and build logic structure here",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is a cool idea with an effective execution. I haven't played a similar game and the new experience for a very reasonable price is nice. I do wish they used a full-bodied programming language rather than a python derivative. All things considered it's fun and I look forward to seeing future development and community grow.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "9/10.\nAfter I studied Python I'm going to find Programming game and I found this game.\nOk you can learn algorithms and Python but If in user that never study Python before will not paly game easily.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game to help you learn coding, but also challenge users with intermediate to advanced programming topics! Great game which gives you a hit of dopamine every time you solve a problem.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great idle game with some coding to create your idling setup",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A fun and engaging series of optimization problems in a subset of python. Connects easily to an external editor or IDE for those that prefer it, and the simple integrated editor also works well.\n\nLanguage features are unlocked via progression, so you'll want to frequently re-write your functions using more efficient patterns as they become available. I recommend keeping multiple versions of each one around rather than rewriting them in place - old versions may come in handy later.\n\nBeware, I got stuck to this game for weeks.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I've only played it for a couple of hours, but the game seems really fun and a cool introduction to programming (at least from a non-programmer's POV). The way the progression system works, how it adds new game mechanics and makes you think how you can keep improving your code to make it cleaner, more efficient and faster, it has the potential to become quite addictive (not as much as Factorio, but maybe it's actually a good thing)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "An amazing and fun game that challenges you with tasks that gets more challenging and more fun",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very good game to distract me from programming usefl applications.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool educational game (especially if you wanna get into Python)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really fun, great start if you wanna start learning programming imo.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So far it seems to me like the game has the same issue most programming games have. It's not REALLY about programming. It's about figuring out math that let's you optimize how to move, how to plant stuff etc.. Real world programming is not about that most of the time. BUT. It allows for making datastructures and plant/harvest based on them. Therefore, it allows for most programmers-like approach, just makes it subpar to the math approach and also quite clunky.\n\nOverall it is one of the better ones I played... Just not sure about this programmatical/idle combe",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game to play. A real fun way to get someone to experience coding in a since. You don't start off with everything unlocked, you got to work for it and learn the code as you move along, sort of. But better to learn than to copy paste. But has a great guide and examples. Would highly recommend for someone trying to experience code for the first time as a full on nood (Like i did).",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing chill game, or kinda... I wanna rip my hair out because my code is so bad but it works and im proud\n10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool little game about programming. It would make a great baby’s first programming lesson. For the hardcore seniors, the leaderboards are a great way to test your fundamentals and optimize the crap out of your code.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if you have limited knowledge coding in python, this game is a great way to improve your skills and create a foundational understanding of the ideas you use when programming. I always struggled to grasp ideas with no point of reference or context and this gives both! this game is also an idle game and its really fun to experiment with ideas and to see the results. banger",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really good game to get you into the basics of python. Although you probrably wont get more than 20-50 hours out of the game depending on how much you are already familiar with coding and python. The rest of the game is purely optimisation of methods and scripts to get better time or start doing what people did with minecraft, start making other things such as calculators in the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game to learn coding with, easy enough to learn the basics that can be applied to any language not just python. Highly recommend to learn a declarative, clean style of coding with little nesting as it just helps to keep your code readable and understandable and executing perfectly.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very addictive and fun game. Cant wait to see what the developer will cook for us. This is a very chill and fun game to play, and can teach you a very good programming skills.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is unironically better than Stack Overflow because my questions are actually answered and no one's an asshole to me. Still don't know how to program though but still kino regardless. Made me realize how much work actually goes into programming software. Truly a labor of love like none other.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Ao ponto de vista de uma Engenheira da Computação apaixonada por Python, facilmente posso dizer que me encantei com as funcionalidades do jogo. De certo tem muito ainda para se acrescentar, mas super recomendo se jogar ele quando se está querendo se aprofundar mais no universo da programação",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Nothing better to do after coming home from a day of writing code for work than to write code for a drone to harvest crops.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good game and idea overall, I recomment just sitting down and trying a bunch of stuff. Ofc watching videos online help and are usefull if you are stuck, but it is still best to try and think your way out of the problem",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's nice to see a programming game that's a language other than JavaScript or some variant of ASM. \n\nThe language is python-like, but you'll miss list comprehensions and lambdas if you've used python before. \n\nThere isn't a ton of depth. It's basically a coding interview as a game, but it's still fun. \n\nProgression is quick if you optimize for speed bonuses. At the time of this review I have ~27 hours, but really it's about 3 hours of gameplay and 24 hours of idling.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Addicting, problem solving, optimizing, coding game. Fun way to get into coding.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This idle game is so simple, yet so entertaining and well thought!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great concept!  I really enjoy this programming game. Easy to pick up but challenging as you progress. Introducing you into new concepts and increasing your problem solving skills. Great tool to get some practice with your coding skills and fun at the same time!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Exactly the type of relaxing game I was looking for. Fun coding, visual feedback and good vibes only",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The Farmer Was Replaced is a really interesting game where you use small bits of code to make\r\nrobots run your farm. It feels great to see your robots do exactly what you told them to do. As a\r\nstudent learning programming, this game helps me practice in a clear and easy way. It's a smart and\r\nenjoyable idea, and I wish it included not only Python-like code but also C# or Rust.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I got this after my girlfriend showed me the steam page and I was instantly hooked. Python is a new beast to me as I mainly program in C#, but it was fun regardless. It was great getting to experience some of the differences between Python and C-based languages (the lack of variable type initialization or curly brackets enclosing code segments threw me at first haha) and while I don't think I'll use the language for any of my own projects this game definitely gave me a valuable perspective on Python programming. The gameification of the learning process was implemented brilliantly, with the tech tree being a fantastic way to ensure the player doesn't get overwhelmed with new functions while still giving them agency in the direction and pacing.\n\nTLDR The Farmer Was Replaced is a great game and a fantastic learning tool!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "love it. helped me to understand coding better. you can try out diffrent things and the ability to import moduls and all is perfect. keep going;)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game for learning programming starting from scratch. 10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you enjoy coding at all, this is a great game to mess around in. There is a steep learning curve after it teaches the basics, but if you know python its really fun.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "An amazing little programming game. I don't think you need any prior programming knowledge to play this game and kind of wish I could have that experience. I taught myself some programming over the years and that was enough that I didn't really stumble much until the more advanced and optional challenges. I still have a couple challenges to tackle, but I've really enjoyed this game. Whether you are looking to learn how to write code of just a fun little side project I would highly recommend this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a fun and challenging game even for me as a software engineer",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very good as a tutorial for writing algorithms and/or scripts, the advanced crops require quite complex code and reasoning.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Recommended for the nuance and learning opportunity. Some python features not present can add annoyance but it's not overly hampering. You can still find creative solutions and learn something along the way. Or if you're already a solid programmer, maybe find some fun in perfecting your code on the leaderboards. For the price, you can't go wrong.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "a lot of fun with some easy programming. Near the end classes would have been nice though",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A clever fusion of idle gaming and coding. A truly innovative way to learn algos while having fun planting and harvesting. \nplus the achievement system is well tuned, offering a challenging yet reasonable goals that keeps you motivated.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun game to learn (or refine) several programming concepts.\n\nThe difficulty curve gets a bit steep in the mid-game, which might scare off inexperienced coders, but there’s no shame in looking up hints or asking for help online (I did it too and i'm a software engineer!).\n\nIf you’re not competing on the leaderboards, there are no wrong solutions, just less-optimized ones. So as long as you’re having fun, keep on coding!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Overall a good game - but it might be overwhelming for a person who doesn't know a thing about programming. :) \r\nAnd if you're a developer - you will like this game as it allows you to do complex things and watch them interact with each other, but if you have a burnout it will feel like a second job (for me it does).",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "I really thought I was going to learn basic Python. Boy was I wrong.\n\nI'm not sure what's going through the developer's mind. I mean, you could provide a bit more help for those of us who are maybe a little slow.\n\nA game that's designed for people who already know how to program.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "It is a nice game but it is not polished enough for a \"1.0\" release - both in game mechanics balancing and runtime stability. it doesn't like if you accidentally type a ´ into your code editor. it will crash. additionally, the balancing could be reworked - the drone movement speed and physical action speed could be limiting factors for longer. water and fertilizer didn't really matter in the current balancing. could have harder unlock thresholds for field sizes. earlier unlock for multiple drones. just my 2 cents. it's a nice idea but definetly not out of early access level bugs.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Game was fun but got boring fast. It's cool novelty game but I don't think it would work on a larger scale.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "unless you're looking to learn Python (or equivalent), or are fluent in it, OR just love all incrementals, i can't recommend this in the slightest. basic commands seem to be gated off, there are many, MANY QOL features missing (such as auto-indent and comment colour-shift), and there's no way to test code for issues without going step-by-step, unless it flat-out breaks.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Real python is more interesting, that this game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "it's alright but pretty underwhelming",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "need more contents",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "It isn't a pure programming game. It's an idle-like game where you use programming to do stuff. You have to grind and wait to unlock language constructs.\n\n- The language is pretty much Python.\n- You start only with the bare minimum and have to unlock everything else, loop statements, comparators, variables, etc.\n- The UI is awful on 1080p. Text is too big and while you can scale it the resource indicators will pretty much disappear while text is still filling up the entire screen. I can't imagine playing this on a laptop.\n\nI don't get the target audience of this game. If you already know how to code it is boring [i](the early game at least)[/i]. If you want to learn it's not user friendly and you would be much better playing with PyCharm and the thousand of learning resources which are better and available for FREE.",
+      "voted_up": false,
+      "votes_helpful": 22
+    },
+    {
+      "review": "This is, hands down, the best Python tutorial I've ever seen. Perhaps even the best programming tutorial in general. It applies the good ol' teaching rule that's common in game design: give people mechanics piecemeal, and slowly ramp up the complexity, pushing them to use more mechanics. In this case, mechanics being the elements of the language - loops, variables, functions. Such a great idea.\n\nSo why the negative review, then? Let's put it like this. If you're looking to learn coding, this review won't be of much value to you. If you already know your way around the Arcane Tongues and like using them to solve more theoretical problems - math problems, algorithm design and so on - same thing. So if you fall into these categories, I actually recommend the game wholeheartedly. It's made for you.\n\nMe, however... I am an experienced, professional Arcanist, who's dabbled in many different branches of the Arts. Not much in Python, so I thought, hey, this might be a nice way to practice my chops. Right?\n\nSadly, I see coding as merely a means to an end. I like it, I like engineering a good solution, I love it when your code that you spent the last 5 hours writing just works on the first try. But still, I code because I want to affect reality. I like building stuff. Coding is just an aspect of it.\n\nAnd this game really is just coding. And designing your algorithm. Your reward? Number go up - and that's fine, it's an idle game. But somehow in this case it feels pointless, and I have no idea why.\n\nYou're writing code to write more code. I can only speak for myself, but in my experience the goal is to write [i]less[/i] code. That's why we use libraries, that's why we write reusable functions, and this is why those of us of lesser Aracane affinity began summoning the fickle, unreliable demons to do their work for them: Vibe Wizards, we call them. Still, we share a goal.\n\nTo summarise: As a coding tutorial? This is absolute peak. As a \"coding for the sake of coding\" challenge? You betcha. As an idle game? Eeeeh. Nah.\n\nAnd if you're one of the Ancients who once tasted the intoxicating ambrosia that is Colobot and has been looking for another sip for the past decade... move along, brother. This ain't it. \n\n[url=https://store.steampowered.com/curator/42922988/]Curator page[/url]",
+      "voted_up": false,
+      "votes_helpful": 34
+    },
+    {
+      "review": "In the reviews, I've seen many people recommend the game as an easy way to learn programming. I think this is true if you have very basic skills and struggle even to understand loops and functions. If you studied programming in school or university, I highly doubt you'll learn anything new. I think you'll be much more successful in programming if, for example, you try writing some scripts to help you with your work (to cope w/ Excel slavery).\n\nFor me, the game lacks interesting challenges, unless you're thrilled by the thought of harvesting 10 million wheat per second, unlocking all the achievements, and all of the research tree.\nI was also confused by the leveling tree, which initially doesn't even allow you to use \"if\" functions or logical operators (to be fair, you can unlock them very early in the game).\n\nAlthough maybe I am simply not the target audience: if you are an absolute beginner or, on the contrary, a professional Python developer, you may like it.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It is a nice game but it is not polished enough for a \"1.0\" release - both in game mechanics balancing and runtime stability. it doesn't like if you accidentally type a ´ into your code editor. it will crash. additionally, the balancing could be reworked - the drone movement speed and physical action speed could be limiting factors for longer. water and fertilizer didn't really matter in the current balancing. could have harder unlock thresholds for field sizes. earlier unlock for multiple drones. just my 2 cents. it's a nice idea but definetly not out of early access level bugs.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Game was fun but got boring fast. It's cool novelty game but I don't think it would work on a larger scale.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "unless you're looking to learn Python (or equivalent), or are fluent in it, OR just love all incrementals, i can't recommend this in the slightest. basic commands seem to be gated off, there are many, MANY QOL features missing (such as auto-indent and comment colour-shift), and there's no way to test code for issues without going step-by-step, unless it flat-out breaks.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Real python is more interesting, that this game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "it's alright but pretty underwhelming",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "need more contents",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "It isn't a pure programming game. It's an idle-like game where you use programming to do stuff. You have to grind and wait to unlock language constructs.\n\n- The language is pretty much Python.\n- You start only with the bare minimum and have to unlock everything else, loop statements, comparators, variables, etc.\n- The UI is awful on 1080p. Text is too big and while you can scale it the resource indicators will pretty much disappear while text is still filling up the entire screen. I can't imagine playing this on a laptop.\n\nI don't get the target audience of this game. If you already know how to code it is boring [i](the early game at least)[/i]. If you want to learn it's not user friendly and you would be much better playing with PyCharm and the thousand of learning resources which are better and available for FREE.",
+      "voted_up": false,
+      "votes_helpful": 22
+    },
+    {
+      "review": "This is, hands down, the best Python tutorial I've ever seen. Perhaps even the best programming tutorial in general. It applies the good ol' teaching rule that's common in game design: give people mechanics piecemeal, and slowly ramp up the complexity, pushing them to use more mechanics. In this case, mechanics being the elements of the language - loops, variables, functions. Such a great idea.\n\nSo why the negative review, then? Let's put it like this. If you're looking to learn coding, this review won't be of much value to you. If you already know your way around the Arcane Tongues and like using them to solve more theoretical problems - math problems, algorithm design and so on - same thing. So if you fall into these categories, I actually recommend the game wholeheartedly. It's made for you.\n\nMe, however... I am an experienced, professional Arcanist, who's dabbled in many different branches of the Arts. Not much in Python, so I thought, hey, this might be a nice way to practice my chops. Right?\n\nSadly, I see coding as merely a means to an end. I like it, I like engineering a good solution, I love it when your code that you spent the last 5 hours writing just works on the first try. But still, I code because I want to affect reality. I like building stuff. Coding is just an aspect of it.\n\nAnd this game really is just coding. And designing your algorithm. Your reward? Number go up - and that's fine, it's an idle game. But somehow in this case it feels pointless, and I have no idea why.\n\nYou're writing code to write more code. I can only speak for myself, but in my experience the goal is to write [i]less[/i] code. That's why we use libraries, that's why we write reusable functions, and this is why those of us of lesser Aracane affinity began summoning the fickle, unreliable demons to do their work for them: Vibe Wizards, we call them. Still, we share a goal.\n\nTo summarise: As a coding tutorial? This is absolute peak. As a \"coding for the sake of coding\" challenge? You betcha. As an idle game? Eeeeh. Nah.\n\nAnd if you're one of the Ancients who once tasted the intoxicating ambrosia that is Colobot and has been looking for another sip for the past decade... move along, brother. This ain't it. \n\n[url=https://store.steampowered.com/curator/42922988/]Curator page[/url]",
+      "voted_up": false,
+      "votes_helpful": 34
+    },
+    {
+      "review": "In the reviews, I've seen many people recommend the game as an easy way to learn programming. I think this is true if you have very basic skills and struggle even to understand loops and functions. If you studied programming in school or university, I highly doubt you'll learn anything new. I think you'll be much more successful in programming if, for example, you try writing some scripts to help you with your work (to cope w/ Excel slavery).\n\nFor me, the game lacks interesting challenges, unless you're thrilled by the thought of harvesting 10 million wheat per second, unlocking all the achievements, and all of the research tree.\nI was also confused by the leveling tree, which initially doesn't even allow you to use \"if\" functions or logical operators (to be fair, you can unlock them very early in the game).\n\nAlthough maybe I am simply not the target audience: if you are an absolute beginner or, on the contrary, a professional Python developer, you may like it.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "It is a nice game but it is not polished enough for a \"1.0\" release - both in game mechanics balancing and runtime stability. it doesn't like if you accidentally type a ´ into your code editor. it will crash. additionally, the balancing could be reworked - the drone movement speed and physical action speed could be limiting factors for longer. water and fertilizer didn't really matter in the current balancing. could have harder unlock thresholds for field sizes. earlier unlock for multiple drones. just my 2 cents. it's a nice idea but definetly not out of early access level bugs.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Game was fun but got boring fast. It's cool novelty game but I don't think it would work on a larger scale.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "unless you're looking to learn Python (or equivalent), or are fluent in it, OR just love all incrementals, i can't recommend this in the slightest. basic commands seem to be gated off, there are many, MANY QOL features missing (such as auto-indent and comment colour-shift), and there's no way to test code for issues without going step-by-step, unless it flat-out breaks.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Real python is more interesting, that this game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "it's alright but pretty underwhelming",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "need more contents",
+      "voted_up": false,
+      "votes_helpful": 1
+    }
+  ]
+}

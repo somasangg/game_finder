@@ -1,0 +1,1006 @@
+{
+  "positive": [
+    {
+      "review": "If you are not willing to spend most of your time initially watching video's online and reading the built in/online wiki I repeat this game is not for you. I was not aware of this before going in and I severely underestimated how complex this game is. ONI is one of a kind. There is no competitor that can come close to its management simulation. The atmospheric aspects and the many other layers, which are all connected to each other and therefore productivity or survival are great and this game could easily be a 10/10, especially because it is the pioneer in this field. But to make it a 10/10 experience it has to be played with mods. The basic version doesn't include many quality of life things, that mods can add. Mods also add so much content of buildings or UI. Due to the Steam Workshop support mods are great to install, but still tedious to search and find them as well as go over the struggle of a new patch and identify broken mods. Steam Workshop support is great though.",
+      "voted_up": true,
+      "votes_helpful": 125
+    },
+    {
+      "review": "I love this game, but the programming is really poor at some points. It uses a single CPU core to run the entire game simulation, which means I get 30 FPS or lower after mid-game. I have a 12700K and a 4090 — not that the graphics card matters here, but it has to be said that I should absolutely not be experiencing low FPS and stuttering in a game like this, especially not this severe.\n\nThe mods are also getting messed up again and again. It has problems with OneDrive syncing, mod recognition, and it has more than once ruined save games. Right now I’m troubleshooting again just to avoid losing my colony, which I’ve invested 136 hours in. This game is really fun until it consumes your soul again and again, just like today — and then you end up quitting it for a few months. It’s a shame, because it really could be that good.\n\nI’ve almost played 1000 hours now, and I just can’t get over the disappointment that a few technical issues are causing me so much frustration.\n\nMost mod problems are individual, but here was my fix for the OneDrive error (also causes insufficient space error) \n\n1. Disable OneDrive Folder Redirection\n- Open the OneDrive app on your PC (not the browser).\n- Open Settings.\n- Go to Backup / Manage Folder Backup.\n- Uncheck Desktop, Documents, and Pictures.\n- When prompted: select “Only on this device”.\n- Then open OneDrive: Account -> Unlink this PC.\n2. Ensure the Documents Folder Is Local Again\n- Open: C:/Users/NAME/Documents\n- The folder should no longer show a OneDrive cloud icon.\n- The OneDrive version of Documents should no longer exist.\n3. Verify the Klei Folder\n- Path: C:/Users/NAME/Documents/Klei\n- This folder must be local.\n- The OneDrive version must NOT exist anymore.\n4. Repair Steam Permissions\n- Right-click on C:/Program Files (x86)/Steam → Properties → Security.\n- Change the owner to your local user account.\n- Select your user → allow Full Control.\n- If your Microsoft account also appears → allow Full Control as well.\n5. Repair the Steam Workshop Folder\n- Path: C:/Program Files (x86)/Steam/steamapps/workshop\n- Set the owner to your local user.\n- Allow Full Control for your user.\n6. Restart Steam\n- Fully close Steam.\n- Start Steam normally (not as administrator).\n7. Start Oxygen Not Included Fully\n- Launch ONI.\n- Start a new colony and load into the world.\n- Stay in-game for 20–30 seconds.\n- Exit the game properly via the menu.\n8. Force Steam to Initialize the Workshop\n- Open Steam (normal mode).\n- Open the ONI Workshop.\n- Unsubscribe from a mod.\n- Immediately subscribe again.\n- Steam should now download workshop items.\n- The folder C:/Program Files (x86)/Steam/steamapps/workshop/content/457140 should appear.\n9. Test ONI\n- Start ONI again.\n- Mods should now appear in the mod menu.\n- ONI is now stable and functional.\n10. Safely Re-enable OneDrive\n- Sign back into OneDrive.\n- Only enable sync for Desktop and Pictures.\n- Do NOT enable sync for Documents.\n\n-edit: grammar and solution to OneDrive error",
+      "voted_up": true,
+      "votes_helpful": 26
+    },
+    {
+      "review": "I don't even like 2D colony games, but I've played 20+ hours in a few days. All I think about is the dupes and their home improvements. I saw beautiful clouds the other day, and I thought, \"Huh those clouds have a similar swirl pattern as the gases in ONI.\" I need help.",
+      "voted_up": true,
+      "votes_helpful": 12
+    },
+    {
+      "review": "I'm at 5k hours. Uh.... I think I have a problem? Welcome to a beautifully designed game where they've kept it updated for too long. \r\n\r\nI've gotten to the point I don't even really play modded anymore, as it's not required. Klei's QoL changes have been 10/10 that have taken an already amazing game and made it more accessible/better for everyone by including mods such as disconnection as a base change to the game, making the 'mod' out of date. \r\n\r\nBut I can't think of anything better then a modder to be able to go 'Hey, I did that. That's my mod they -installed into the game- for everyone.'",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Only 8 hours in but so far it is very addicting. I love how it is a complex game with a fairly simple UI considering the complexity. I would recommend this game to people who love to have something to think about in between gaming sessions. It is very time consuming though but I like that.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "good game. I would go to war for Klei Entertainment and probably anything else they would ask. No game has ever come close to giving me the pure unbounded joy that this game has for almost 500 hours. I will be playing this on my deathbed and if heaven is real it is this game.",
+      "voted_up": true,
+      "votes_helpful": 8
+    },
+    {
+      "review": "What can I say about this contemporary masterpiece of a game.\n\nIt’s easily one of the best (if not the best) colony sims out there, and it has eaten a lot of hours of my life. It’s actually my most played game on Steam, and for a very simple reason: it’s absurdly fun to learn and to play.\n\nThis game wakes up your inner scientist, your inner administrator, rancher, farmer, electrician, astronomer… you name it. And it does all of that with vivid colors and Klei’s unmistakable sense of humor. If you have kids, they’ll absolutely love it, and they’ll learn plenty about science and data management along the way.\n\nYou’ll start out knowing little to nothing about the mechanics and the physics that keep your base alive. You’ll flush several colonies down the toilet because you didn’t know how to prevent certain disasters that appear as the game moves into the mid and late stages. But that’s fine, every failure is just another chance to try again and get a bit closer to your goals. There’s a lot of trial and error, and that’s a big part of the charm.\n\nIf you end up falling in love with the game (like I did), you’ll probably start designing your own machines to solve whatever problems you run into, and maybe even share your creations online. There are a couple of communities out there that will welcome you and your creations, and will gladly give you a hand whenever you’re stuck. Toxicity is surprisingly rare around this game.\n\nExcel and the Wiki will be your best friends. Those tools are incredibly helpful when you start planning the future of your base.\n\nAt the end of the day, ONI is one of those games that rewards curiosity, creativity, and persistence in equal measure. It doesn’t hold your hand, but it never feels unfair. It simply invites you to understand its world one mistake at a time. If you’re looking for a game that will challenge you, surprise you, and keep you thinking long after you’ve closed it, this one is absolutely worth your time.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "I wasn't sure if I'd like it. Tried it, liked it, got annoyed with it for it being so complicated, carried on playing it, realised that I liked it again --> repeat cycle.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "this game is an absolute banger. if you like base building, being a perfectionist, or just tormenting in game characters, this is one you should check out.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Incredibly fun base management sim with a really fun art style. Only played it for a lunch break so far and already absolutely loving it. It reminds me of going medieval, but in a more cartoony/sci-fi setting in an almost 2D view.\nHighly recommended! I can already tell that a lot of love and QC went into it :)",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I love them eating/sleeping animation. so adorable\r\n10/10 game",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "The oxygen, is, actually, included. Not the instruction manual though..",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Hands down one of the most enjoyable base building games to come out in a while, and with the numerous updates the game's recieved since launch, it's currently in a very satisfying state.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Lo, hearken unto my words, and I shall tell thee why Oxygen Not Included standeth above all other games, peerless in craft and cunning design.\r\n\r\nIn sooth, the makers of this game wrought a marvel most rare: a realm beneath the earth wherein tiny folk, called duplicants, strive mightily to survive. Each moment is a trial of wit, for the very air they breathe may turn against them, and water—aye, even the purest drop—may become bane or blessing.\r\n\r\nThe game rewardeth those of keen mind and patient hand. Every contrivance, be it pump, furnace, or wondrous machine of heat and steam, must needs be placed with foresight and wisdom. Thus the player becometh both steward and architect, guiding a fragile colony through peril and scarcity.\r\n\r\nMoreover, Oxygen Not Included offereth a depth unmatched: the dance of gases, the humours of heat and cold, the cunning paths of power and pipe. Few other games dare weave such subtle workings, nor grant the joy that cometh when chaos is bent at last to order.\r\n\r\nVerily, ’tis a tale of triumph against the void, of humble folk thriving where naught was meant to live. And for this reason, many proclaim it the greatest game ever forged—an endless well of challenge and delight, fit for those who would test their mettle ’gainst the very laws of nature.\r\n\r\nThus I speak, and thus it stands.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "A game requiring thought and planning.  If you're stuck with a particular problem, it's likely someone in the online community has come up with a cleverly built solution for it.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "It looks cute, but don't let that fool you: it's complex. This is my go-to game to scratch my engineering itch (and I’m an engineer.) I started playing in 2019 but I keep coming back to it, as the developers keep adding to it. In addition to the major expansion and 3 smaller DLCs launched over the last few years, the game constantly gets QoL updates with new buildings, mechanics, cosmetics, and systems so you'll never run out of things to do. The performance has also been greatly optimised over time. It somehow runs faster now than it did in 2020 when it only had half as much content!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "game difficult but i like managing the little people",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This game looks simple at first but it gets extremely complex and you'll be hooked! There are great Mods and DLC but the base game is all you need. Don't be afraid to restart 500 times ;)\nWorks great on Steamdeck.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "very nice game, I love games that combine thinking&science, and gameplayز",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Super fun and surprisingly deep.\nYou start out just trying to keep everyone breathing, and before you know it you’re obsessed with pipes, heat, germs and fifteen different gases. It’s stressful in a good way and super rewarding.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This game never seems to get old, I find myself returning to it quite often.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I may have 350+ hours into this game, but that's only scratching the surface. The game may come off cartoon-ish in style but this is a very complex game. The amount of different factors that could determine your colony are overwhelming. My first time playing, i knew right away that this game wasn't what it seemed on the surface. After watching some videos and joining their Discord community, everything changed. I was introduced to all different types of blue prints, combinations or resources, things that the colony members liked and didn't like, Air Locks, SPOMS, and so so much more. I will also say in the years I have been apart of that community i have not had any toxic run ins with and members. Majority of the people are like engineers, Scientist, Computer software designers and your average gamers. Each DLC just adds so much more fun to the game. If your reading this as a way to see if this is a game you would like, i would put money confidentially that you will definetely enjoy it!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Enjoyable and stressful at the same time. Totally recommended if you're looking for a deep colony sim experience. However if you tend to panic easily, you better stay away from this one.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you manage to beat the game, you can get your bachelor's degree in thermo dynamics.\nVery nice.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's so hard to play. My duplicants keep dying of Carbon Dioxide. The game is beautiful and I hate to play it, but keep coming back. I can't stop playing. Highly recommend this game, however a \"How to play\" would be awesome but know we won't get this.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I've lost more sleep its so good. I play until I run out of oxygen",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game, but seeing your dupes return back and forth for something before completing the damn task is annoying.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "What can I say about this game that has not been already said?  This game makes me want to eat pasta?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love how hard this game is - I totally suck midgame and don't really mind it. It's my favourite way to spend time. Every colony gets its Pei and I love all duplicants so much, except the binge eaters. Wym you inhale fried dirt and ask for more?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Don't look up any guides or save scum when you first start, and just accept that you're going to accidentally kill a lot of cute little clone guys until you figure everything out. It's fun!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "After my smol 10 hours in the game i wanna say, oxygen is included but germ free water, repaired atmo suits, food, cooling, heating, and a duoe that doesnt think about how to make themselves stuck arent included.\n\nKlei really loves to name a game after a small issue that isnt nearly as big as many other issues huh?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Not the easiest game to start with and its not for every gamer out there. You must have a particular enjoyment in problem solving to enjoy this game.\n10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Oxygen Not Included is one of those colony-sim games that truly stands the test of time. Released in 2019 and still getting updates today, it always feels fresh and evolving. Its mechanics are incredibly solid—managing oxygen, temperature, food, and your Duplicants stress is crafted with so much detail that you can sink hours into it without ever feeling bored. What’s even better, all this fun comes in a game that runs on relatively light specs, so it’s easy to enjoy on many devices. The result is a rich, challenging, and genuinely enjoyable experience you’ll keep coming back to.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is one of the best games I’ve ever played, and one of the few that consistently puts me into a flow state.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Absolutely love this game, top 10 of all time for me. I can spend hours at a time on this game and it just flies by... Klei is also great at keeping their games updated and adding fun DLCs. Mods are supported via the Steam Workshop and very easy to use.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun little colony sim. Once I got to the automation phase, it really helped me use and understand logic gates. Late game can be very tedious.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very well thought out game, I absolutely love it.\n\nIts so stressful, fun and relaxing all at once.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Casual and also challenging. One of the best survival games of all time.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It is quite a fun game for the people who enjoy this type of games. The only drawback which I believe is really significant is the fact that it is hard to get into. There is too little \"tutorial\" and the complexity of it can push you away unless you really persistant in watching youtube guides etc. until you \"get it\". So the intro experience and king of \"onboarding\" is really really bad and must be fixed if the game is to grow.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game, I put a few hours in. I'd highly recommend for anything that loves problem solving.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the game is awesome and very detailed orientated in a way that is different from other management games. in this game oxygen, pollution, diseases and such are part of the management along other stuff. it makes the game quite unique and i love the illustration art style and aesthetics.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the game is good for just sitting down and playing for just a few minutes or playing for hours so what ever your schedule is you always have time to play",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I bought this game on the 24th. I have 65 hours. Played it 18 hours straight the first time i logged in. Dont buy this game if you want a life.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Wonderful game. You will lose, dupes will die, colonies will fail.  No big deal, start over, try again.  Each time you will get a little bit smarter.\n\n10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is amazing, it has everything you might possibly need in a colony management game. The art is awesome, I really like the steampunk look of the buildings, the cuteness of the critters and the bizarre plants.\n\nI really like all the engineering challenges you have to face: managing your water and power systems, dealing with heat and, in general, building systems that synergize with one another. Completing an automated system that gathers resources or takes care of your duplicants' needs is one of the most rewarding feelings ever.\n\nThe game is initially very difficult, especially because of heat: your first few colonies will probably fail, but don't give up, because once you get the hang of it, you develop ways to overcome those difficulties and build the greatest colonies.\n\nThe only downside I see is the fact that there are not many viable ways to produce oxygen and properly deal with heat so you just have to resort to the few common methods. \n\nOverall though, a truly fantastic game!\n\nP.S. I HIGHLY recommend the Spaced Out! DLC, especially if you love the idea of designing space missions; I love  space exploration and rocket building, and I feel this DLC really adds a lot of fun to the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It is so confusing and I have no idea what I'm doing but I'm having fun! I would only recommend it if you are prepared to read and don't mind putting in some hours to grasp the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Easy to get into, hard to master. Great continuous updates that add QoL features. \nKeeps getting better over the years.\nIf you're into a colony simulator, can definately recommend.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Over 2000 hours in and I could still replay this game over and over.  Can't say that about a lot of games.  And still with fresh updates and content? Chef's kiss,",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very fun colony simulator with great mod support. I think the gameplay is a lot better with the Spaced Out DLC's smaller planets. 9/10 they just need to fix some minor bugs that annoy me a lot",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of my all time chill games to play. The hours in this reflect my love haha. Not that I have ever built a rocket to leave a planet....",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[h1]oni dev's plz read this [/h1]\nThis game has a significant issue with balancing. Ever since the bionic duplicate update, the game has removed a lot of content from it that has made the game boring in an effort to make things more quality of life and easier. The worst type of difficulty decrease is the ones that remove the need to play the game; an example of this is the bottle drainer and filler. We could already make this without them, but now it's just less to do when engineering your base. Players spent a lot of time getting insulite, a super late-game resource that has zero temperature conductivity. Well, now with insulated doors is a super early game way to get the exact same thing as insulite, only cheaper and easier, and with more mobility basically at the start of the game. Removing the need to even go into space to get resources. The devs make the game so easy with each update. I would not be surprised if they add a building that does all of the ranching for you next QOL update.\n\nThe biggest problem with the game is how overpowered bionic duplicates are. They don't need food, so all crops are pointless (again, less content), they don't need a working environment since they can all wear Atmos suits forever with no downside. (a base where everything is 1000k with no breathable gas is possible with bionic duplicants wearing atmos suits using thermite buildings) All their food lasts forever with no downside. They need much less morale to operate, removing the need for moral boosting, building, and even get one moral just from existing. bionic duplicants can power themselves with manual generators, and their bathrooms don't need water, so there is no reason not to take 100+ bionic duplicants since they are so low maintenance and remove a ton of the game. You had to work hard to fit four duplicates into a shuttle, and now you can fit 40+ bionic duplicates with one bathroom and a hefty stack of power banks. Gear balm and oxygen cans, removing the need to even design a shuttle interior. What's even the point of dehydrators that make food last at the cost of plastic when bionic duplicates have food that lasts forever?\n\nNot all changes are bad; however, fully automated space mining is really fun, and data mining and remote workers are also really fun to use. So the bonus DLC adds a lot of content to play with, but ultimately removes more content than it adds. Here are some balance changes that I think would make the game really fun again and stop boredom from hitting good players.\n\n[h2]re-balance update [/h2]\n - Nerf insulated doors so that they consume more space, make the 2x3 instead of the 1x2 it currently uses's\n - Buff space searching so that you can inspect a building on the 2nd asteroid, and it tells you the location of the Freezeila asteroid. (Freezeila has the only guaranteed iron volcano, and a lot of noobs run out of steel and are too stupid to use niobium, also it's needed to beat the game, which they are bad at)\n - Nerf bionic duplicates power cells, so they need heat to stop them from power draining (like how food needs to be cold) power already naturally drains from battery's so this just makes more sense, also add a new building for keeping power banks hot at cost of power, like the opposite of a fridge. or just keep them in a hot room.\n - Bug fix bionic duplicant where they can get sick without sleep (duplicant only get sleep chance based on when they wake up, and bionic duplicant don't need sleep, so they can't get sick if it's removed from the schedule), make it so the sickness rolls every morning for bionic duplicant only.\n - Remove gas/liquid infinite storage, make it so compressed liquids can also break doors, and that gas can break tiles and doors when stored above 1000kg. I think that being forced to process unwanted material will always be more fun then just storing it forever. you can make a lot of power from water if you used it instead of storing it forever.\n - Add an industrial use for sulfur, sulfer gysers make way too much, and it can lag your game. They should add more industrial uses for things in general, maybe even more late-game uses where it needs to be frozen or heated into gas for it to be used.\n - Add a defibrillator medical building to buff hospitals since everyone just reloads a save whenever a duplicate dies, add a short time after they die where they can be revived to buff non-bionic duplicants.\n - Make it required to take mixed bionic duplicants and regular duplicates so that farming and cold food storage and livable habitat are needed instead of being ignored by overpowered bionic duplicates.\n - Remove bionics ability to wear Atmos suits; they already semi have them built in, and there is no reason for them to ever take them off since they have built-in oxygen, and suits have infinite durability until removed.\n - Buff the rehydrater so that it no longer takes water, so the regular duplicates have a way to compete with bionic duplicates in space travel. also rename it to a Microwave type name, like the \"Micro-hydration-wave\"\n - Quit tricking new players with these trap buildings that are only there to make the game harder for ill-informed players. Why do large oxidizers exist if two small oxidizers hold the same amount and use less space? Space heaters are worse Liquid tepidizers and ice makers are just a waste of energy. Either buff/rework them or remove them \n - Make bionic dupes less ugly (seriously tho, why does Chip have candy corn for hair? and a blue log for a uni-brow?). There is a mod called More Bionics (made by Lily) that adds new Bionic duplicates that actually look like tech duplicates instead of just lazily made regular duplicates with metal cheeks.\n - Add full multiplayer compatibility. This one is a bit ambitious, but I bet a lot of interest will be added to this game if multiple people can join the same world and make stuff together while sharing new tips and tricks about the game. The multiplayer mod desyncs a lot and does not work for any DLC, but it is really fun.\n\nThese changes would make the game so much better and stop the feeling of boredom that happens when you realize there is no point to doing a lot of the game's features.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very fun, complexity serves for a quality challenge with seemingly endless replay-ability.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun.\r\nChallenging.\r\nDefinitely resource management heavy!\r\nLove the animations/illustrations.\r\nLove the concept of managing the gasses that accumulate in your colony such as oxygen and carbon dioxide with the ventilation system.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "BIG BIG BIG learning curve but VERY GUD. Oh, and did I mention it has BIG BIG BIG learning curve?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Oxygen Not Included has been living rent‑free in my head since 2017, when I first watched Markiplier play it and fell in love with the chaos, charm, and brain‑melting base building. I didn’t even own a PC back then, but this game sat on my wishlist for years, and finally getting to play it after all that time genuinely feels like ticking off a long‑awaited life goal.\n\nThis game is absolutely not for every type of gamer, and that’s one of the things that makes it special. If your usual diet is twitchy FPS lobbies and competitive Call of Duty matches, the slow, thoughtful, trial‑and‑error rhythm of ONI might feel brutal at first, because it demands planning, learning from failure, and a lot of patience. But if you are willing to step out of your comfort zone, there is a uniquely satisfying joy in watching a doomed‑looking colony slowly evolve into a functioning, self‑sustaining machine.\n\nKlei, as a studio, is one of the last remaining “gameplay first” gods in the industry, and Oxygen Not Included and Don’t Starve are perfect examples of that philosophy. Instead of chasing trends or building yet another battle royale full of microtransactions and bloated battle passes, they focus on tight, clever design, expressive art, and systems that respect your intelligence and time. ONI, in particular, rewards curiosity and experimentation in a way that few modern games do.\n\nWhat impresses me most is how Klei has supported this game over the years. Even long after release, they have continued to push out updates, refinements, and new content, treating ONI and their other titles like living projects instead of disposable products, which makes this an easy pick for the Steam “Labor of Love” award in my book. You can feel that they are not trying to make the biggest cash‑cow on the market; they are trying to make something genuinely good, interesting, and fun to play for the long haul.\n\nIf you love deep simulation, puzzling through problems, and the “one more cycle” addiction, Oxygen Not Included is absolutely worth your time, especially if you also enjoy Klei’s other masterpiece, Don’t Starve. And if you’re that COD‑queue warrior who’s even a little bit curious, do yourself a favor: step outside the comfort zone, fire up ONI (or Don’t Starve), and discover just how satisfying a real labor‑of‑love game can be.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Incredible game.  Although it has a lot of complexity and depth, and you'll probably want to keep your calculator handy, it mostly unfolds at your own pace, as you work to solve the problems that you yourself created with your temporary stopgap measure 1000 cycles ago.  Who knew waste management could be so exciting?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is unbelievably fun but also very difficult. it has a steep learning curve, and requires intimate knowledge of so many things I think we take for granted on a daily basis. Farming, ranching, food levels, oxygen levels, water levels, waste management, resource control, all that and more in one neat little bow.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I absolutely recommend this game. It's quite complex and frustrating at times but it's also highly rewarding when you finally get what you're trying to do to work. Played this game for a long time now and finally acquired the game and all dlc's on steam",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A fun survival-oriented management game in the spirit of dwarf fortress. Set in space with lots of cute animals, interesting systems, and emergent ways for your colony of duplicants to fail spectacularly. Once you get the hang of it, the survival aspects aren't too hard to navigate, and the real fun of developing sustainability begins.\r\n\r\nWhen the game first launched, it had few systems for automation and transport. Over time, these have been added in, including fanciful mechanics that can be used to build base-sized computers, rocket engines, sour gas boilers, and all kinds of late-game puzzles. I tend to play it like a cozy game, which means I get stuck in the sustainability phase, and never reach the intricate systems portion. \r\n\r\nThat might be all for the best, though, as many of the things that the designers put in don't quite work. Airlock doors are a good example. They do what they should--prevent gasses from moving through--but creating an actual airlock is nearly impossible. Instead, the community uses the water mechanics creatively to trap gasses in various areas. \r\n\r\nThe solutions are cool (when they're not horrific), but so many of the things that you need to create a sustainable base just don't seem to use the tools you unlock. When I play, I tend to get most of the tech stuff done long before I need it, and have a lot of equipment that is semi-useless for long periods. \r\n\r\nTowards the middle game, everything seems to work in spite of the mechanics, or by gaming the sim in ways that range from \"mildly broken\" (creating infinite water by recycling polluted water through sinks and toilets) to \"outright cheating\" (infinite gas storage). It's fun to play with these things, but the game looses a little of its charm as you realize that you can't really accomplish the cool stuff without cheesing it.\r\n\r\nEven so, after 100 hours I still want to pick it up and play. It's a great game, just one that hasn't lived up to the potential I see in the tech tree.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "My favorite game! I love the art style, its so cute and I love how much there is to learn about the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A better version of Fallout Shelter fused with Terraria. Real fun to play and very engaging as it's really difficult without the drawbacks.  Would definatley recommend",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the best colony sim and base building games I’ve played yet, really good to grind and forget your time",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Absolutely incredible game, scratches my \"automation/colony\" itch!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Playing since the very beginning and still get excited when i start a new game. Highly reccommended!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I'm too dumb to fully appreciate this game. But was overly excited to make it past 100 cycles for the first time ever. We'll make it to plastic one day but for now, even just getting the base set up is a fun experience.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is one of my all time favorites. You can spend hundred of hours and still haven' t seen nearly everything.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Such a great game that keeps getting new meaningful content added. The game has evolved and changed for the better over time.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ONI is an amazing game that takes a while to master, but once you master it, it is always a great experience to play. It's also the type of game that you can play for countless hours without getting bored with it since it is a (sort of) open-world sandbox game, which means its cost-to-happiness ratio is off the charts. Also, Klei actively launches new DLCs and updates to this game. I definitely recommend this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This Game is a great one if you have the time to learn the mechanics, if you don't have the time or patience; maybe don't pick up this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Game visual is fun and cute. Replayability is very high, can take you years.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Maybe one of the best base builder and resource managment games.\r\nAmazing art , characters + animals!\r\n9/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Oxygen Not Included is one of those rare games that quietly pulls you in and then refuses to let go. Its colony-management loop is endlessly engaging, blending scientific tinkering with charming chaos. Every system feels purposefully crafted—gas flow, plumbing, heat, automation—and discovering how they interlock is deeply satisfying.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Oxygen Not Included es un juego que al inicio parece complicado, pero cuando le agarras el ritmo se vuelve súper adictivo. Cada partida te hace pensar, planear y resolver problemas sin parar.\r\n\r\nLo mejor es que siempre hay algo nuevo por aprender: cómo manejar el oxígeno, el calor, el agua, los cultivos… y cuando creés que lo tenés todo bajo control, algo pasa y toca arreglar el desastre.\r\n\r\nA pesar de ser difícil, nunca se siente injusto. Todo tiene lógica, y cuando algo sale mal, es porque hiciste algo mal o lo pasaste por alto. Eso hace que mejorar sea muy satisfactorio.\r\n\r\nSi te gustan los juegos de construcción y gestión con mucho detalle, este es de los mejores. Te atrapa y no te suelta. Vale totalmente la pena.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Ah yes, learning advanced thermodynamics and atmospherics to play my game. PEAK.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Simple start to a base building game that gets very complex later on. Lots of little builds to experiment with as you progress through the planet.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's very fun, I kind of suck at the game but it's a strong learning curve and always interesting to restart and play in a new world. Highly recommend.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Well since I have finally cleared over 5000 hours of gameplay for this one, I figured it was time to actually review it.\n\nI first came across this game by watching a YouTuber play it and it seemed like fun and I loved Don't Starve so I wanted to check out another game by Klei.\n\nMany years later, this is now a comfort game for me. Am I good at it? Eh, somewhat, but I'm not good enough at maths and physics to be stellar at it and I'm often more focused on making it things a nice layout rather than making efficient mechanisms. \nBut that doesn't really matter to me because I still come back to it again and again because it's still fun and it scratches my neurodivergence in just the right way.\nIf you like engineering, physics, maths or anything like that, this is a good game to play around with those in. And don't let the cutesy art style fool you; it is deceivingly difficult, but in a way that still encourages to keep trying.\n\nI see myself playing this for many years to come. Thank you, Klei, for creating this game :D",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Start a base, gain momentum, forget sometihing important, spiral into hell, start a base",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is a great colony sim.  Very fun, and addictive!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "There is nothing at all to be said negatively about this game in any way. You want science and actual mechanics? You got it. You want cute things and simple joy. You got it. Endless replay value. Fun for absolutely everyone. 5 stars, without a doubt.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun, Challenging, cute characters. Still terrible at this game, but watching my dupes panic run to the toilet is peak entertainment. Definite recommend if you like challenging colony sims =)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The replay value of this game is off the charts! There always seems that there's something to tweak that you've created or a reason to start over again to make things even grander.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is truly the game that keeps on giving. I have always been in love with this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a great little base building game that really makes you think. If you enjoy programming style puzzles I think you would really enjoy the automation mechanism. I've never really tried to work that mechanism out beyond the basics, but I'm still having a lot of fun (obviously)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great strategy game, the learning curve is quite sharp, i find myself still learning new things at 250 hours spent, i started way too many colonies before understanding the essential mechanics but worth the pain.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i love the management aspect of the game. if i could make one improvement of the game it would be to fix the pipe physics. but other than that it's a great game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game starts as a survival game and slowly turns into an engineering/planning game in the best way. Once you have enough food, you slowly realize heat is building in your colony and it will kill all your crops, water is getting scarce and you need a way to cool steam to keep your crops watered, dangerous gasses need to be pumped into space, liquified, or stored for use in your farms, germs are making your colony sick, and your started area needs to be reworked to handle the new setup of pipes, vent and wires that are being used to run all your power plants, water treatment and ranches.\n\nI love Factorio, Dysen Sphere Program, Satisfactory, Rimworld, Gnomoria and other engineering/colony games, and this is a welcome addition. Highly recommend.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Old game with frequent updates and dlc's to keep it going. Has some late game performance issues but despite that it is still great fun to watch the dupes find the dummest way to die :)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "There are some useful guides online. It can be hard to get past the early game, but I highly recommend taking the time to get over the learning curve in order to get to the stage where you can really grow your colony and explore your asteroid.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a very engaging game with rich, varied mechanics. I love it. If you are tired of other games, just build, rise, and occasionally kill your colony, and have a lot of fun!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This eye-opening game teaches you a surprising amount about how things really work; sometimes even mirroring real life. Adapt, overcome, and most importantly, have fun with this versatile game that always has something new to show you!\nDon’t be afraid to fail, that’s how you learn!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game might be one of the only games where you have to start a new save file over and over to win. but its quite fun each and everytime! You will make so many mistakes and learn so much, getting better and better each cycle. Some things are prebuild like a water filiter, while other things you have to build yourself like a nuclear reactor (if you have the DLC) This game is fun while your learning and after you mastered everything. ontop of that the music, sound design and art style is unique and cute!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a great choice if you enjoy colony building, resource management, and the unique suffering that comes from running low on anything essential for your poor dupes.  Anyway, let's start another base....",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very fun game that made me think and plan ahead.  I love that there is always a way to make things more efficient but i don't feel punished for not being optimal right away.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "played this for a day straight, lots of fun if you like planning and building games. I love this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I once pulled an all nighter attempting to get a steam engine working. I eventually did it, but I accidentally trapped a dupe inside as the steam vent turned on. It was 6am so I decided his body could stay there.\n\nGreat game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very good game that scratches both the colony sim and automation game itch.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good game, but some of the AI logic is really miserable and troublesome!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "a really good game, it's so difficult  at first but when you get the hang of it everything gets easy but the challenge  keep coming building something let it work for few cycle discover it works fine or needed fixes then try again till you get it right",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is absolutely amazing. The depth of gameplay and mechanics in this game is insane. The only problem is that you need a working brain capable of math past early game so some people might not like it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "i was on board early on... it was tough it was fun... but partway through developement the difficulty ramped up... genuinely unless you want to punish yourself don't get this game... otherwise... i guess get it...\n\nalso just use FRST-C-2046777331-0-4A-VWVP8 with the DLCs. in spaced out mode on a folia asteroid.. it'll help",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I use to love this game, but it updates waaaaaaaaaay too much like a paradox game.\n\nWhich means amazing mods keep getting broken (sometimes, the mod developer gets too exhausted to keep updating it and the mod gets abandoned).\n\nYou have to keep restarting over and over.\n\nYou need to keep relearning complex things and many of the tutorials you can find are outdated. And the game is very complex.\n\nAnd if you leave the game for a while and come back, you will find things are so different that you have to learn a whole new game.\n\nThe devs needs to learn to just stop updating the game and make a Oxgen not included 2 at some point. They are treating this game like a live service mmo and it is getting stuffed with too much fat.",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "TL;DR - There is no fun to be had here, only frustration.\n\nThe \"fun\" is always just beyond your reach. Game systems are way too convoluted, spaghetti systems. If you want to learn and perfect systems and be satisfied, play Factorio. This is the second overwhelmingly positive reviewed game by Klei where I buy, play, and ask myself \"WTF, why is this overwhelmingly positive?\" Having to constantly google things and even then not finding a good answer is no fun.\n\nSteam: \"What to revise your review?\" Hah, it's on!\n\nGave it another go and yeah, it's like the game is designed to be intentionally frustrating with no pay-off. I started to get going, figured out the idiotic circuit system, got the cold-producing (?) plants and started cooling down my base, then cracked an ice biome right next to an oil biome. The oil exploded into the ice without me digging into it and proceeded to melt the entire ice biome into a sea of oil, salt, and polluted water mush. And the temp interactions started making liquids fall out the air in my base. Exited game and uninstalled on the spot. You have to be either the most autistic person or a masochist to enjoy this \"game\".",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "its okay.\n\nI just think there are much better games in this category like Rimworld or Faster Than Light that just do the concept better.  I didn't think the game showed you how to play very well and I didn't enjoy it as much as I thought I would",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I don't understand how this game has so many positive reviews. If you have to look at a wiki just to figure out how to play the game, the devs have failed miserably. And I am not talking about advanced portions of the game, I am just talking about the beginning aspects. This game is terrible and I would not recommend it to anyone.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Quite buggy. Had multiple invicible walls and unreachable builds in very reachable areas",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "After the Fri, November 21 update, a severe issue appeared involving Solid Storage and Conveyor Loader Fitting inside rocket modules.\r\n\r\nThe Solid Storage building now incorrectly accepts molten tungsten as if it were a solid item.\r\nThen, the Conveyor Loader Fitting is able to remove the molten tungsten from storage and transport it into the Spacefarer Module, causing extreme overheating.\r\n\r\nThis behavior did not occur before the November 21 patch.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I see now that I'm supposed to spend hours watching youtube and reading the wiki to play this game, but it seems like that is an excuse for bad design. There is no help in this game. You are just expected to build a \"thing\" see how it kills everyone then try a new colony. Seems like the smallest bit of help would be in order. For instance a bottle emptier, do you know how it works? It dumps the water all over the floor, if you remove the floor it stops working. The database says \"Empties bottled Liquids back into the world.\" That is the most useless help page. Lucky it was cheap.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Even on casual mode, this game is unnecessarily punishing.  I tried playing 3 different rounds and my colony failed each time.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Game is good if your into these kind of colony mangers, but the company has been very greedy with dlc",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "November 21st, on your channel at 0:42. It is obvious what you are doing and promoting. You share the same beliefs as netflix and disney, which is both hateful and discriminatory.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I've played this game alot. Currently it feels more bugged now than it was in early access. I'm constantly jumping through hoops to try and get things to work and I'm sick of it. Constant mini DLCs and now skin packs? Goodluck with that. I'm out.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "No in-game tutorial, good luck!",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Fun not included either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "i dont own this game idk why i can review it",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Since my last review was deleted for unknown reasons I wont go into the same level of detail this time. Ill just say the game WAS good, now its not.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I don't know what happened to this game. It used to be good, but somewhere along the way the developers turned utterly incompetent.\n\nCore functionality of the game is broken in subtle ways, and instead of fixing it (or even keeping existing functionality working), they are now focused on shitting out the lowest possible grade of DLC for the game instead.\n\nThis used to be a strong recommend, now it's an avoid. Sad to see.",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "It is just too complex and not explained well enough to start properly.. Just like don't starve..  I don't want to watch videos or experiment for hours until figure things out.. What should I do with polluted water for example? Nowhere explained.. If they use the bottle emptier then all of the dirt goes to the floor.. should I build a whole room with a lot of empty space to this water or what? Things are just not explained.",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "i was on board early on... it was tough it was fun... but partway through developement the difficulty ramped up... genuinely unless you want to punish yourself don't get this game... otherwise... i guess get it...\n\nalso just use FRST-C-2046777331-0-4A-VWVP8 with the DLCs. in spaced out mode on a folia asteroid.. it'll help",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Every time I start up a game of Oxygen Not Included, I get to about the mid-point thinking, \"oh this game is kinda cool, maybe I should get some of those DLCs!\" Then something fucking stupid happens, like a duplicate deciding to stand in the boiling water instead of the ladder to build a heat tile until it scalds them into a pain coma.\n\n\"That sucks.\" I think, eyebrow twitching in consternation. \"Hopefully the other duplicates will save- wait, what the fuck-\" Other duplicates start dropping one by one because there's steam coming up through the drainage vents and forming scalding puddles they would rather burn their feet in than follow my mop directive. Always follow the mop directive! There are still a few duplicates left, but I noticed they aren't saving the ones who are dying of their own stupidity. Why is that? Oh, all the medical beds are full so the rest just die I guess.\n\nI don't see why a regular bed wouldn't work in a life-or-death situation, but whatever. Maybe I can build more before-wait, the survivors are going to sleep now. I guess I could activate red alert and send them scrambling, but now I want them to suffer. \"You should have listened to me,\" I solemnly inform them. \"You were too stupid to live at my benevolence, now experience my malevolence.\" The only warning I had about any of this was a \"scalding!\" alert that flashed on the screen for a couple seconds before disappearing while I was wondering whether they would get sucked into space if I breached the planet's surface without atmo suits. I guess we'll never know, now.\n\nIf you enjoy spinning plates and logistics to a psychotic degree, this may be enjoyable. For everyone else, you get to spend a dozen hours building up a colony only to find you fucked yourself six hours ago by not adequately configuring your power grids or your water distribution according to the nebulously defined \"tutorials\" and now everything is going to shit and exploding while your duplicates scheme to trap themselves in the walls or piss all over the drinking water.\n\nThe game throws a ridiculous pile of numbers at you, but the lack of basic quality of life features has to be intentional. I get it, these are accurate units of measurement, but I'm also a moron so I need a chart or something to show me how much of one thing correlates to another thing.\n\nA duplicate needs to consume a number of calories each day cycle. Each food item confers a different number of calories. When food is in storage, it's measured by weight. This does not help me. There's an overall calories available number at the top of the screen, but this also doesn't really help me. Will my farms bloom in time or do I have to squeeze out more mud bars, thus drawing vital duplicate labor and power supply away from other tasks?\n\nCOME ON! This is just ONE system! I don't want to do equations to figure out how big a farm I need of which plants, based on available cooking options, relative to the number of duplicates, while calculating the resource cost over time.\n\nWhy can't you set manufactured consumables to \"until you have X\"? Cook until you're not hungry, how about that? Why can't I set an alert to let me know a vital resource is running low? You need algae to produce oxygen. I had ten tons of the stuff when I started. Now we're on day 25 and it's ALL gone. When did that happen? Who knows! Why don't my duplicates go lie down when they're at half health instead of staring at the erupting steam geyser?\n\nThere's an automation branch to the tech tree that might cover some of this, but I never have time to try any of it because I need to prioritize chasing the next machine that will replenish whichever dwindling resource is keeping them all alive. The amount of data it does make available to you just makes it more jarring when something either isn't covered or is buried somewhere when you need it right now. How many duplicates can I sustain before we reach a critical mass that will burn down the colony in four hours unless I expand right now? I'm sure the numbers are available to figure this out, but also, you're a video game. You can tell me some things and I'll still have fun, honest.\n\nIf you can't learn a game by playing it, then it needs to convey its fundamental mechanics better. Some things the game teaches you through catastrophic, cascading failure. Other times you have to examine all the beats involved to figure out what went wrong where, when, and why. \"The power went out\" can mean a lot of things when you have multiple plants using different fuels via different delivery methods on different grids with different stations drawing power at different quantities at different times. Oh, the duplicates decided not to walk to the other end of the base to pick up the newly mined coal, despite the higher priority.\n\nThis may be fun for masochists, but it also represents tens of hours of your life wasted for nothing. You've already got resource management, which covers food, water, air, air flow, temperature, morale, space (area), space (friggin' SPACE), germs, power, plumbing, and travel time. Having to micromanage the stupid little bastards you act through on top of all that becomes needlessly annoying.\n\nThis game has a lot going for it, in the sense that juggling all the systems it has can feel somewhat satisfying while it's going well. Which is why I still come back to check it out every couple years. But there are a lot of times I think it confuses obtuse with complex in ways that detract from its appeal.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I use to love this game, but it updates waaaaaaaaaay too much like a paradox game.\n\nWhich means amazing mods keep getting broken (sometimes, the mod developer gets too exhausted to keep updating it and the mod gets abandoned).\n\nYou have to keep restarting over and over.\n\nYou need to keep relearning complex things and many of the tutorials you can find are outdated. And the game is very complex.\n\nAnd if you leave the game for a while and come back, you will find things are so different that you have to learn a whole new game.\n\nThe devs needs to learn to just stop updating the game and make a Oxgen not included 2 at some point. They are treating this game like a live service mmo and it is getting stuffed with too much fat.",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "TL;DR - There is no fun to be had here, only frustration.\n\nThe \"fun\" is always just beyond your reach. Game systems are way too convoluted, spaghetti systems. If you want to learn and perfect systems and be satisfied, play Factorio. This is the second overwhelmingly positive reviewed game by Klei where I buy, play, and ask myself \"WTF, why is this overwhelmingly positive?\" Having to constantly google things and even then not finding a good answer is no fun.\n\nSteam: \"What to revise your review?\" Hah, it's on!\n\nGave it another go and yeah, it's like the game is designed to be intentionally frustrating with no pay-off. I started to get going, figured out the idiotic circuit system, got the cold-producing (?) plants and started cooling down my base, then cracked an ice biome right next to an oil biome. The oil exploded into the ice without me digging into it and proceeded to melt the entire ice biome into a sea of oil, salt, and polluted water mush. And the temp interactions started making liquids fall out the air in my base. Exited game and uninstalled on the spot. You have to be either the most autistic person or a masochist to enjoy this \"game\".",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "its okay.\n\nI just think there are much better games in this category like Rimworld or Faster Than Light that just do the concept better.  I didn't think the game showed you how to play very well and I didn't enjoy it as much as I thought I would",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I don't understand how this game has so many positive reviews. If you have to look at a wiki just to figure out how to play the game, the devs have failed miserably. And I am not talking about advanced portions of the game, I am just talking about the beginning aspects. This game is terrible and I would not recommend it to anyone.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Quite buggy. Had multiple invicible walls and unreachable builds in very reachable areas",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "After the Fri, November 21 update, a severe issue appeared involving Solid Storage and Conveyor Loader Fitting inside rocket modules.\r\n\r\nThe Solid Storage building now incorrectly accepts molten tungsten as if it were a solid item.\r\nThen, the Conveyor Loader Fitting is able to remove the molten tungsten from storage and transport it into the Spacefarer Module, causing extreme overheating.\r\n\r\nThis behavior did not occur before the November 21 patch.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I see now that I'm supposed to spend hours watching youtube and reading the wiki to play this game, but it seems like that is an excuse for bad design. There is no help in this game. You are just expected to build a \"thing\" see how it kills everyone then try a new colony. Seems like the smallest bit of help would be in order. For instance a bottle emptier, do you know how it works? It dumps the water all over the floor, if you remove the floor it stops working. The database says \"Empties bottled Liquids back into the world.\" That is the most useless help page. Lucky it was cheap.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Even on casual mode, this game is unnecessarily punishing.  I tried playing 3 different rounds and my colony failed each time.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Game is good if your into these kind of colony mangers, but the company has been very greedy with dlc",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "November 21st, on your channel at 0:42. It is obvious what you are doing and promoting. You share the same beliefs as netflix and disney, which is both hateful and discriminatory.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I've played this game alot. Currently it feels more bugged now than it was in early access. I'm constantly jumping through hoops to try and get things to work and I'm sick of it. Constant mini DLCs and now skin packs? Goodluck with that. I'm out.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "No in-game tutorial, good luck!",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Fun not included either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "i dont own this game idk why i can review it",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Since my last review was deleted for unknown reasons I wont go into the same level of detail this time. Ill just say the game WAS good, now its not.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I don't know what happened to this game. It used to be good, but somewhere along the way the developers turned utterly incompetent.\n\nCore functionality of the game is broken in subtle ways, and instead of fixing it (or even keeping existing functionality working), they are now focused on shitting out the lowest possible grade of DLC for the game instead.\n\nThis used to be a strong recommend, now it's an avoid. Sad to see.",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "It is just too complex and not explained well enough to start properly.. Just like don't starve..  I don't want to watch videos or experiment for hours until figure things out.. What should I do with polluted water for example? Nowhere explained.. If they use the bottle emptier then all of the dirt goes to the floor.. should I build a whole room with a lot of empty space to this water or what? Things are just not explained.",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "i was on board early on... it was tough it was fun... but partway through developement the difficulty ramped up... genuinely unless you want to punish yourself don't get this game... otherwise... i guess get it...\n\nalso just use FRST-C-2046777331-0-4A-VWVP8 with the DLCs. in spaced out mode on a folia asteroid.. it'll help",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Every time I start up a game of Oxygen Not Included, I get to about the mid-point thinking, \"oh this game is kinda cool, maybe I should get some of those DLCs!\" Then something fucking stupid happens, like a duplicate deciding to stand in the boiling water instead of the ladder to build a heat tile until it scalds them into a pain coma.\n\n\"That sucks.\" I think, eyebrow twitching in consternation. \"Hopefully the other duplicates will save- wait, what the fuck-\" Other duplicates start dropping one by one because there's steam coming up through the drainage vents and forming scalding puddles they would rather burn their feet in than follow my mop directive. Always follow the mop directive! There are still a few duplicates left, but I noticed they aren't saving the ones who are dying of their own stupidity. Why is that? Oh, all the medical beds are full so the rest just die I guess.\n\nI don't see why a regular bed wouldn't work in a life-or-death situation, but whatever. Maybe I can build more before-wait, the survivors are going to sleep now. I guess I could activate red alert and send them scrambling, but now I want them to suffer. \"You should have listened to me,\" I solemnly inform them. \"You were too stupid to live at my benevolence, now experience my malevolence.\" The only warning I had about any of this was a \"scalding!\" alert that flashed on the screen for a couple seconds before disappearing while I was wondering whether they would get sucked into space if I breached the planet's surface without atmo suits. I guess we'll never know, now.\n\nIf you enjoy spinning plates and logistics to a psychotic degree, this may be enjoyable. For everyone else, you get to spend a dozen hours building up a colony only to find you fucked yourself six hours ago by not adequately configuring your power grids or your water distribution according to the nebulously defined \"tutorials\" and now everything is going to shit and exploding while your duplicates scheme to trap themselves in the walls or piss all over the drinking water.\n\nThe game throws a ridiculous pile of numbers at you, but the lack of basic quality of life features has to be intentional. I get it, these are accurate units of measurement, but I'm also a moron so I need a chart or something to show me how much of one thing correlates to another thing.\n\nA duplicate needs to consume a number of calories each day cycle. Each food item confers a different number of calories. When food is in storage, it's measured by weight. This does not help me. There's an overall calories available number at the top of the screen, but this also doesn't really help me. Will my farms bloom in time or do I have to squeeze out more mud bars, thus drawing vital duplicate labor and power supply away from other tasks?\n\nCOME ON! This is just ONE system! I don't want to do equations to figure out how big a farm I need of which plants, based on available cooking options, relative to the number of duplicates, while calculating the resource cost over time.\n\nWhy can't you set manufactured consumables to \"until you have X\"? Cook until you're not hungry, how about that? Why can't I set an alert to let me know a vital resource is running low? You need algae to produce oxygen. I had ten tons of the stuff when I started. Now we're on day 25 and it's ALL gone. When did that happen? Who knows! Why don't my duplicates go lie down when they're at half health instead of staring at the erupting steam geyser?\n\nThere's an automation branch to the tech tree that might cover some of this, but I never have time to try any of it because I need to prioritize chasing the next machine that will replenish whichever dwindling resource is keeping them all alive. The amount of data it does make available to you just makes it more jarring when something either isn't covered or is buried somewhere when you need it right now. How many duplicates can I sustain before we reach a critical mass that will burn down the colony in four hours unless I expand right now? I'm sure the numbers are available to figure this out, but also, you're a video game. You can tell me some things and I'll still have fun, honest.\n\nIf you can't learn a game by playing it, then it needs to convey its fundamental mechanics better. Some things the game teaches you through catastrophic, cascading failure. Other times you have to examine all the beats involved to figure out what went wrong where, when, and why. \"The power went out\" can mean a lot of things when you have multiple plants using different fuels via different delivery methods on different grids with different stations drawing power at different quantities at different times. Oh, the duplicates decided not to walk to the other end of the base to pick up the newly mined coal, despite the higher priority.\n\nThis may be fun for masochists, but it also represents tens of hours of your life wasted for nothing. You've already got resource management, which covers food, water, air, air flow, temperature, morale, space (area), space (friggin' SPACE), germs, power, plumbing, and travel time. Having to micromanage the stupid little bastards you act through on top of all that becomes needlessly annoying.\n\nThis game has a lot going for it, in the sense that juggling all the systems it has can feel somewhat satisfying while it's going well. Which is why I still come back to check it out every couple years. But there are a lot of times I think it confuses obtuse with complex in ways that detract from its appeal.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I use to love this game, but it updates waaaaaaaaaay too much like a paradox game.\n\nWhich means amazing mods keep getting broken (sometimes, the mod developer gets too exhausted to keep updating it and the mod gets abandoned).\n\nYou have to keep restarting over and over.\n\nYou need to keep relearning complex things and many of the tutorials you can find are outdated. And the game is very complex.\n\nAnd if you leave the game for a while and come back, you will find things are so different that you have to learn a whole new game.\n\nThe devs needs to learn to just stop updating the game and make a Oxgen not included 2 at some point. They are treating this game like a live service mmo and it is getting stuffed with too much fat.",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "TL;DR - There is no fun to be had here, only frustration.\n\nThe \"fun\" is always just beyond your reach. Game systems are way too convoluted, spaghetti systems. If you want to learn and perfect systems and be satisfied, play Factorio. This is the second overwhelmingly positive reviewed game by Klei where I buy, play, and ask myself \"WTF, why is this overwhelmingly positive?\" Having to constantly google things and even then not finding a good answer is no fun.\n\nSteam: \"What to revise your review?\" Hah, it's on!\n\nGave it another go and yeah, it's like the game is designed to be intentionally frustrating with no pay-off. I started to get going, figured out the idiotic circuit system, got the cold-producing (?) plants and started cooling down my base, then cracked an ice biome right next to an oil biome. The oil exploded into the ice without me digging into it and proceeded to melt the entire ice biome into a sea of oil, salt, and polluted water mush. And the temp interactions started making liquids fall out the air in my base. Exited game and uninstalled on the spot. You have to be either the most autistic person or a masochist to enjoy this \"game\".",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "its okay.\n\nI just think there are much better games in this category like Rimworld or Faster Than Light that just do the concept better.  I didn't think the game showed you how to play very well and I didn't enjoy it as much as I thought I would",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I don't understand how this game has so many positive reviews. If you have to look at a wiki just to figure out how to play the game, the devs have failed miserably. And I am not talking about advanced portions of the game, I am just talking about the beginning aspects. This game is terrible and I would not recommend it to anyone.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Quite buggy. Had multiple invicible walls and unreachable builds in very reachable areas",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "After the Fri, November 21 update, a severe issue appeared involving Solid Storage and Conveyor Loader Fitting inside rocket modules.\r\n\r\nThe Solid Storage building now incorrectly accepts molten tungsten as if it were a solid item.\r\nThen, the Conveyor Loader Fitting is able to remove the molten tungsten from storage and transport it into the Spacefarer Module, causing extreme overheating.\r\n\r\nThis behavior did not occur before the November 21 patch.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I see now that I'm supposed to spend hours watching youtube and reading the wiki to play this game, but it seems like that is an excuse for bad design. There is no help in this game. You are just expected to build a \"thing\" see how it kills everyone then try a new colony. Seems like the smallest bit of help would be in order. For instance a bottle emptier, do you know how it works? It dumps the water all over the floor, if you remove the floor it stops working. The database says \"Empties bottled Liquids back into the world.\" That is the most useless help page. Lucky it was cheap.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Even on casual mode, this game is unnecessarily punishing.  I tried playing 3 different rounds and my colony failed each time.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "November 21st, on your channel at 0:42. It is obvious what you are doing and promoting. You share the same beliefs as netflix and disney, which is both hateful and discriminatory.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Game is good if your into these kind of colony mangers, but the company has been very greedy with dlc",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I've played this game alot. Currently it feels more bugged now than it was in early access. I'm constantly jumping through hoops to try and get things to work and I'm sick of it. Constant mini DLCs and now skin packs? Goodluck with that. I'm out.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "No in-game tutorial, good luck!",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Fun not included either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "i dont own this game idk why i can review it",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Since my last review was deleted for unknown reasons I wont go into the same level of detail this time. Ill just say the game WAS good, now its not.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I don't know what happened to this game. It used to be good, but somewhere along the way the developers turned utterly incompetent.\n\nCore functionality of the game is broken in subtle ways, and instead of fixing it (or even keeping existing functionality working), they are now focused on shitting out the lowest possible grade of DLC for the game instead.\n\nThis used to be a strong recommend, now it's an avoid. Sad to see.",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "It is just too complex and not explained well enough to start properly.. Just like don't starve..  I don't want to watch videos or experiment for hours until figure things out.. What should I do with polluted water for example? Nowhere explained.. If they use the bottle emptier then all of the dirt goes to the floor.. should I build a whole room with a lot of empty space to this water or what? Things are just not explained.",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "i was on board early on... it was tough it was fun... but partway through developement the difficulty ramped up... genuinely unless you want to punish yourself don't get this game... otherwise... i guess get it...\n\nalso just use FRST-C-2046777331-0-4A-VWVP8 with the DLCs. in spaced out mode on a folia asteroid.. it'll help",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Every time I start up a game of Oxygen Not Included, I get to about the mid-point thinking, \"oh this game is kinda cool, maybe I should get some of those DLCs!\" Then something fucking stupid happens, like a duplicate deciding to stand in the boiling water instead of the ladder to build a heat tile until it scalds them into a pain coma.\n\n\"That sucks.\" I think, eyebrow twitching in consternation. \"Hopefully the other duplicates will save- wait, what the fuck-\" Other duplicates start dropping one by one because there's steam coming up through the drainage vents and forming scalding puddles they would rather burn their feet in than follow my mop directive. Always follow the mop directive! There are still a few duplicates left, but I noticed they aren't saving the ones who are dying of their own stupidity. Why is that? Oh, all the medical beds are full so the rest just die I guess.\n\nI don't see why a regular bed wouldn't work in a life-or-death situation, but whatever. Maybe I can build more before-wait, the survivors are going to sleep now. I guess I could activate red alert and send them scrambling, but now I want them to suffer. \"You should have listened to me,\" I solemnly inform them. \"You were too stupid to live at my benevolence, now experience my malevolence.\" The only warning I had about any of this was a \"scalding!\" alert that flashed on the screen for a couple seconds before disappearing while I was wondering whether they would get sucked into space if I breached the planet's surface without atmo suits. I guess we'll never know, now.\n\nIf you enjoy spinning plates and logistics to a psychotic degree, this may be enjoyable. For everyone else, you get to spend a dozen hours building up a colony only to find you fucked yourself six hours ago by not adequately configuring your power grids or your water distribution according to the nebulously defined \"tutorials\" and now everything is going to shit and exploding while your duplicates scheme to trap themselves in the walls or piss all over the drinking water.\n\nThe game throws a ridiculous pile of numbers at you, but the lack of basic quality of life features has to be intentional. I get it, these are accurate units of measurement, but I'm also a moron so I need a chart or something to show me how much of one thing correlates to another thing.\n\nA duplicate needs to consume a number of calories each day cycle. Each food item confers a different number of calories. When food is in storage, it's measured by weight. This does not help me. There's an overall calories available number at the top of the screen, but this also doesn't really help me. Will my farms bloom in time or do I have to squeeze out more mud bars, thus drawing vital duplicate labor and power supply away from other tasks?\n\nCOME ON! This is just ONE system! I don't want to do equations to figure out how big a farm I need of which plants, based on available cooking options, relative to the number of duplicates, while calculating the resource cost over time.\n\nWhy can't you set manufactured consumables to \"until you have X\"? Cook until you're not hungry, how about that? Why can't I set an alert to let me know a vital resource is running low? You need algae to produce oxygen. I had ten tons of the stuff when I started. Now we're on day 25 and it's ALL gone. When did that happen? Who knows! Why don't my duplicates go lie down when they're at half health instead of staring at the erupting steam geyser?\n\nThere's an automation branch to the tech tree that might cover some of this, but I never have time to try any of it because I need to prioritize chasing the next machine that will replenish whichever dwindling resource is keeping them all alive. The amount of data it does make available to you just makes it more jarring when something either isn't covered or is buried somewhere when you need it right now. How many duplicates can I sustain before we reach a critical mass that will burn down the colony in four hours unless I expand right now? I'm sure the numbers are available to figure this out, but also, you're a video game. You can tell me some things and I'll still have fun, honest.\n\nIf you can't learn a game by playing it, then it needs to convey its fundamental mechanics better. Some things the game teaches you through catastrophic, cascading failure. Other times you have to examine all the beats involved to figure out what went wrong where, when, and why. \"The power went out\" can mean a lot of things when you have multiple plants using different fuels via different delivery methods on different grids with different stations drawing power at different quantities at different times. Oh, the duplicates decided not to walk to the other end of the base to pick up the newly mined coal, despite the higher priority.\n\nThis may be fun for masochists, but it also represents tens of hours of your life wasted for nothing. You've already got resource management, which covers food, water, air, air flow, temperature, morale, space (area), space (friggin' SPACE), germs, power, plumbing, and travel time. Having to micromanage the stupid little bastards you act through on top of all that becomes needlessly annoying.\n\nThis game has a lot going for it, in the sense that juggling all the systems it has can feel somewhat satisfying while it's going well. Which is why I still come back to check it out every couple years. But there are a lot of times I think it confuses obtuse with complex in ways that detract from its appeal.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I use to love this game, but it updates waaaaaaaaaay too much like a paradox game.\n\nWhich means amazing mods keep getting broken (sometimes, the mod developer gets too exhausted to keep updating it and the mod gets abandoned).\n\nYou have to keep restarting over and over.\n\nYou need to keep relearning complex things and many of the tutorials you can find are outdated. And the game is very complex.\n\nAnd if you leave the game for a while and come back, you will find things are so different that you have to learn a whole new game.\n\nThe devs needs to learn to just stop updating the game and make a Oxgen not included 2 at some point. They are treating this game like a live service mmo and it is getting stuffed with too much fat.",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "TL;DR - There is no fun to be had here, only frustration.\n\nThe \"fun\" is always just beyond your reach. Game systems are way too convoluted, spaghetti systems. If you want to learn and perfect systems and be satisfied, play Factorio. This is the second overwhelmingly positive reviewed game by Klei where I buy, play, and ask myself \"WTF, why is this overwhelmingly positive?\" Having to constantly google things and even then not finding a good answer is no fun.\n\nSteam: \"What to revise your review?\" Hah, it's on!\n\nGave it another go and yeah, it's like the game is designed to be intentionally frustrating with no pay-off. I started to get going, figured out the idiotic circuit system, got the cold-producing (?) plants and started cooling down my base, then cracked an ice biome right next to an oil biome. The oil exploded into the ice without me digging into it and proceeded to melt the entire ice biome into a sea of oil, salt, and polluted water mush. And the temp interactions started making liquids fall out the air in my base. Exited game and uninstalled on the spot. You have to be either the most autistic person or a masochist to enjoy this \"game\".",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "its okay.\n\nI just think there are much better games in this category like Rimworld or Faster Than Light that just do the concept better.  I didn't think the game showed you how to play very well and I didn't enjoy it as much as I thought I would",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I don't understand how this game has so many positive reviews. If you have to look at a wiki just to figure out how to play the game, the devs have failed miserably. And I am not talking about advanced portions of the game, I am just talking about the beginning aspects. This game is terrible and I would not recommend it to anyone.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Quite buggy. Had multiple invicible walls and unreachable builds in very reachable areas",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "After the Fri, November 21 update, a severe issue appeared involving Solid Storage and Conveyor Loader Fitting inside rocket modules.\r\n\r\nThe Solid Storage building now incorrectly accepts molten tungsten as if it were a solid item.\r\nThen, the Conveyor Loader Fitting is able to remove the molten tungsten from storage and transport it into the Spacefarer Module, causing extreme overheating.\r\n\r\nThis behavior did not occur before the November 21 patch.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I see now that I'm supposed to spend hours watching youtube and reading the wiki to play this game, but it seems like that is an excuse for bad design. There is no help in this game. You are just expected to build a \"thing\" see how it kills everyone then try a new colony. Seems like the smallest bit of help would be in order. For instance a bottle emptier, do you know how it works? It dumps the water all over the floor, if you remove the floor it stops working. The database says \"Empties bottled Liquids back into the world.\" That is the most useless help page. Lucky it was cheap.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Even on casual mode, this game is unnecessarily punishing.  I tried playing 3 different rounds and my colony failed each time.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "November 21st, on your channel at 0:42. It is obvious what you are doing and promoting. You share the same beliefs as netflix and disney, which is both hateful and discriminatory.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Game is good if your into these kind of colony mangers, but the company has been very greedy with dlc",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I've played this game alot. Currently it feels more bugged now than it was in early access. I'm constantly jumping through hoops to try and get things to work and I'm sick of it. Constant mini DLCs and now skin packs? Goodluck with that. I'm out.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "No in-game tutorial, good luck!",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Fun not included either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "i dont own this game idk why i can review it",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Since my last review was deleted for unknown reasons I wont go into the same level of detail this time. Ill just say the game WAS good, now its not.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I don't know what happened to this game. It used to be good, but somewhere along the way the developers turned utterly incompetent.\n\nCore functionality of the game is broken in subtle ways, and instead of fixing it (or even keeping existing functionality working), they are now focused on shitting out the lowest possible grade of DLC for the game instead.\n\nThis used to be a strong recommend, now it's an avoid. Sad to see.",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "It is just too complex and not explained well enough to start properly.. Just like don't starve..  I don't want to watch videos or experiment for hours until figure things out.. What should I do with polluted water for example? Nowhere explained.. If they use the bottle emptier then all of the dirt goes to the floor.. should I build a whole room with a lot of empty space to this water or what? Things are just not explained.",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "i was on board early on... it was tough it was fun... but partway through developement the difficulty ramped up... genuinely unless you want to punish yourself don't get this game... otherwise... i guess get it...\n\nalso just use FRST-C-2046777331-0-4A-VWVP8 with the DLCs. in spaced out mode on a folia asteroid.. it'll help",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Every time I start up a game of Oxygen Not Included, I get to about the mid-point thinking, \"oh this game is kinda cool, maybe I should get some of those DLCs!\" Then something fucking stupid happens, like a duplicate deciding to stand in the boiling water instead of the ladder to build a heat tile until it scalds them into a pain coma.\n\n\"That sucks.\" I think, eyebrow twitching in consternation. \"Hopefully the other duplicates will save- wait, what the fuck-\" Other duplicates start dropping one by one because there's steam coming up through the drainage vents and forming scalding puddles they would rather burn their feet in than follow my mop directive. Always follow the mop directive! There are still a few duplicates left, but I noticed they aren't saving the ones who are dying of their own stupidity. Why is that? Oh, all the medical beds are full so the rest just die I guess.\n\nI don't see why a regular bed wouldn't work in a life-or-death situation, but whatever. Maybe I can build more before-wait, the survivors are going to sleep now. I guess I could activate red alert and send them scrambling, but now I want them to suffer. \"You should have listened to me,\" I solemnly inform them. \"You were too stupid to live at my benevolence, now experience my malevolence.\" The only warning I had about any of this was a \"scalding!\" alert that flashed on the screen for a couple seconds before disappearing while I was wondering whether they would get sucked into space if I breached the planet's surface without atmo suits. I guess we'll never know, now.\n\nIf you enjoy spinning plates and logistics to a psychotic degree, this may be enjoyable. For everyone else, you get to spend a dozen hours building up a colony only to find you fucked yourself six hours ago by not adequately configuring your power grids or your water distribution according to the nebulously defined \"tutorials\" and now everything is going to shit and exploding while your duplicates scheme to trap themselves in the walls or piss all over the drinking water.\n\nThe game throws a ridiculous pile of numbers at you, but the lack of basic quality of life features has to be intentional. I get it, these are accurate units of measurement, but I'm also a moron so I need a chart or something to show me how much of one thing correlates to another thing.\n\nA duplicate needs to consume a number of calories each day cycle. Each food item confers a different number of calories. When food is in storage, it's measured by weight. This does not help me. There's an overall calories available number at the top of the screen, but this also doesn't really help me. Will my farms bloom in time or do I have to squeeze out more mud bars, thus drawing vital duplicate labor and power supply away from other tasks?\n\nCOME ON! This is just ONE system! I don't want to do equations to figure out how big a farm I need of which plants, based on available cooking options, relative to the number of duplicates, while calculating the resource cost over time.\n\nWhy can't you set manufactured consumables to \"until you have X\"? Cook until you're not hungry, how about that? Why can't I set an alert to let me know a vital resource is running low? You need algae to produce oxygen. I had ten tons of the stuff when I started. Now we're on day 25 and it's ALL gone. When did that happen? Who knows! Why don't my duplicates go lie down when they're at half health instead of staring at the erupting steam geyser?\n\nThere's an automation branch to the tech tree that might cover some of this, but I never have time to try any of it because I need to prioritize chasing the next machine that will replenish whichever dwindling resource is keeping them all alive. The amount of data it does make available to you just makes it more jarring when something either isn't covered or is buried somewhere when you need it right now. How many duplicates can I sustain before we reach a critical mass that will burn down the colony in four hours unless I expand right now? I'm sure the numbers are available to figure this out, but also, you're a video game. You can tell me some things and I'll still have fun, honest.\n\nIf you can't learn a game by playing it, then it needs to convey its fundamental mechanics better. Some things the game teaches you through catastrophic, cascading failure. Other times you have to examine all the beats involved to figure out what went wrong where, when, and why. \"The power went out\" can mean a lot of things when you have multiple plants using different fuels via different delivery methods on different grids with different stations drawing power at different quantities at different times. Oh, the duplicates decided not to walk to the other end of the base to pick up the newly mined coal, despite the higher priority.\n\nThis may be fun for masochists, but it also represents tens of hours of your life wasted for nothing. You've already got resource management, which covers food, water, air, air flow, temperature, morale, space (area), space (friggin' SPACE), germs, power, plumbing, and travel time. Having to micromanage the stupid little bastards you act through on top of all that becomes needlessly annoying.\n\nThis game has a lot going for it, in the sense that juggling all the systems it has can feel somewhat satisfying while it's going well. Which is why I still come back to check it out every couple years. But there are a lot of times I think it confuses obtuse with complex in ways that detract from its appeal.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I use to love this game, but it updates waaaaaaaaaay too much like a paradox game.\n\nWhich means amazing mods keep getting broken (sometimes, the mod developer gets too exhausted to keep updating it and the mod gets abandoned).\n\nYou have to keep restarting over and over.\n\nYou need to keep relearning complex things and many of the tutorials you can find are outdated. And the game is very complex.\n\nAnd if you leave the game for a while and come back, you will find things are so different that you have to learn a whole new game.\n\nThe devs needs to learn to just stop updating the game and make a Oxgen not included 2 at some point. They are treating this game like a live service mmo and it is getting stuffed with too much fat.",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "TL;DR - There is no fun to be had here, only frustration.\n\nThe \"fun\" is always just beyond your reach. Game systems are way too convoluted, spaghetti systems. If you want to learn and perfect systems and be satisfied, play Factorio. This is the second overwhelmingly positive reviewed game by Klei where I buy, play, and ask myself \"WTF, why is this overwhelmingly positive?\" Having to constantly google things and even then not finding a good answer is no fun.\n\nSteam: \"What to revise your review?\" Hah, it's on!\n\nGave it another go and yeah, it's like the game is designed to be intentionally frustrating with no pay-off. I started to get going, figured out the idiotic circuit system, got the cold-producing (?) plants and started cooling down my base, then cracked an ice biome right next to an oil biome. The oil exploded into the ice without me digging into it and proceeded to melt the entire ice biome into a sea of oil, salt, and polluted water mush. And the temp interactions started making liquids fall out the air in my base. Exited game and uninstalled on the spot. You have to be either the most autistic person or a masochist to enjoy this \"game\".",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "its okay.\n\nI just think there are much better games in this category like Rimworld or Faster Than Light that just do the concept better.  I didn't think the game showed you how to play very well and I didn't enjoy it as much as I thought I would",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I don't understand how this game has so many positive reviews. If you have to look at a wiki just to figure out how to play the game, the devs have failed miserably. And I am not talking about advanced portions of the game, I am just talking about the beginning aspects. This game is terrible and I would not recommend it to anyone.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Quite buggy. Had multiple invicible walls and unreachable builds in very reachable areas",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "After the Fri, November 21 update, a severe issue appeared involving Solid Storage and Conveyor Loader Fitting inside rocket modules.\r\n\r\nThe Solid Storage building now incorrectly accepts molten tungsten as if it were a solid item.\r\nThen, the Conveyor Loader Fitting is able to remove the molten tungsten from storage and transport it into the Spacefarer Module, causing extreme overheating.\r\n\r\nThis behavior did not occur before the November 21 patch.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I see now that I'm supposed to spend hours watching youtube and reading the wiki to play this game, but it seems like that is an excuse for bad design. There is no help in this game. You are just expected to build a \"thing\" see how it kills everyone then try a new colony. Seems like the smallest bit of help would be in order. For instance a bottle emptier, do you know how it works? It dumps the water all over the floor, if you remove the floor it stops working. The database says \"Empties bottled Liquids back into the world.\" That is the most useless help page. Lucky it was cheap.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Even on casual mode, this game is unnecessarily punishing.  I tried playing 3 different rounds and my colony failed each time.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "November 21st, on your channel at 0:42. It is obvious what you are doing and promoting. You share the same beliefs as netflix and disney, which is both hateful and discriminatory.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Game is good if your into these kind of colony mangers, but the company has been very greedy with dlc",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I've played this game alot. Currently it feels more bugged now than it was in early access. I'm constantly jumping through hoops to try and get things to work and I'm sick of it. Constant mini DLCs and now skin packs? Goodluck with that. I'm out.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "No in-game tutorial, good luck!",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Fun not included either.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "i dont own this game idk why i can review it",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Since my last review was deleted for unknown reasons I wont go into the same level of detail this time. Ill just say the game WAS good, now its not.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I don't know what happened to this game. It used to be good, but somewhere along the way the developers turned utterly incompetent.\n\nCore functionality of the game is broken in subtle ways, and instead of fixing it (or even keeping existing functionality working), they are now focused on shitting out the lowest possible grade of DLC for the game instead.\n\nThis used to be a strong recommend, now it's an avoid. Sad to see.",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "It is just too complex and not explained well enough to start properly.. Just like don't starve..  I don't want to watch videos or experiment for hours until figure things out.. What should I do with polluted water for example? Nowhere explained.. If they use the bottle emptier then all of the dirt goes to the floor.. should I build a whole room with a lot of empty space to this water or what? Things are just not explained.",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "i was on board early on... it was tough it was fun... but partway through developement the difficulty ramped up... genuinely unless you want to punish yourself don't get this game... otherwise... i guess get it...\n\nalso just use FRST-C-2046777331-0-4A-VWVP8 with the DLCs. in spaced out mode on a folia asteroid.. it'll help",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Every time I start up a game of Oxygen Not Included, I get to about the mid-point thinking, \"oh this game is kinda cool, maybe I should get some of those DLCs!\" Then something fucking stupid happens, like a duplicate deciding to stand in the boiling water instead of the ladder to build a heat tile until it scalds them into a pain coma.\n\n\"That sucks.\" I think, eyebrow twitching in consternation. \"Hopefully the other duplicates will save- wait, what the fuck-\" Other duplicates start dropping one by one because there's steam coming up through the drainage vents and forming scalding puddles they would rather burn their feet in than follow my mop directive. Always follow the mop directive! There are still a few duplicates left, but I noticed they aren't saving the ones who are dying of their own stupidity. Why is that? Oh, all the medical beds are full so the rest just die I guess.\n\nI don't see why a regular bed wouldn't work in a life-or-death situation, but whatever. Maybe I can build more before-wait, the survivors are going to sleep now. I guess I could activate red alert and send them scrambling, but now I want them to suffer. \"You should have listened to me,\" I solemnly inform them. \"You were too stupid to live at my benevolence, now experience my malevolence.\" The only warning I had about any of this was a \"scalding!\" alert that flashed on the screen for a couple seconds before disappearing while I was wondering whether they would get sucked into space if I breached the planet's surface without atmo suits. I guess we'll never know, now.\n\nIf you enjoy spinning plates and logistics to a psychotic degree, this may be enjoyable. For everyone else, you get to spend a dozen hours building up a colony only to find you fucked yourself six hours ago by not adequately configuring your power grids or your water distribution according to the nebulously defined \"tutorials\" and now everything is going to shit and exploding while your duplicates scheme to trap themselves in the walls or piss all over the drinking water.\n\nThe game throws a ridiculous pile of numbers at you, but the lack of basic quality of life features has to be intentional. I get it, these are accurate units of measurement, but I'm also a moron so I need a chart or something to show me how much of one thing correlates to another thing.\n\nA duplicate needs to consume a number of calories each day cycle. Each food item confers a different number of calories. When food is in storage, it's measured by weight. This does not help me. There's an overall calories available number at the top of the screen, but this also doesn't really help me. Will my farms bloom in time or do I have to squeeze out more mud bars, thus drawing vital duplicate labor and power supply away from other tasks?\n\nCOME ON! This is just ONE system! I don't want to do equations to figure out how big a farm I need of which plants, based on available cooking options, relative to the number of duplicates, while calculating the resource cost over time.\n\nWhy can't you set manufactured consumables to \"until you have X\"? Cook until you're not hungry, how about that? Why can't I set an alert to let me know a vital resource is running low? You need algae to produce oxygen. I had ten tons of the stuff when I started. Now we're on day 25 and it's ALL gone. When did that happen? Who knows! Why don't my duplicates go lie down when they're at half health instead of staring at the erupting steam geyser?\n\nThere's an automation branch to the tech tree that might cover some of this, but I never have time to try any of it because I need to prioritize chasing the next machine that will replenish whichever dwindling resource is keeping them all alive. The amount of data it does make available to you just makes it more jarring when something either isn't covered or is buried somewhere when you need it right now. How many duplicates can I sustain before we reach a critical mass that will burn down the colony in four hours unless I expand right now? I'm sure the numbers are available to figure this out, but also, you're a video game. You can tell me some things and I'll still have fun, honest.\n\nIf you can't learn a game by playing it, then it needs to convey its fundamental mechanics better. Some things the game teaches you through catastrophic, cascading failure. Other times you have to examine all the beats involved to figure out what went wrong where, when, and why. \"The power went out\" can mean a lot of things when you have multiple plants using different fuels via different delivery methods on different grids with different stations drawing power at different quantities at different times. Oh, the duplicates decided not to walk to the other end of the base to pick up the newly mined coal, despite the higher priority.\n\nThis may be fun for masochists, but it also represents tens of hours of your life wasted for nothing. You've already got resource management, which covers food, water, air, air flow, temperature, morale, space (area), space (friggin' SPACE), germs, power, plumbing, and travel time. Having to micromanage the stupid little bastards you act through on top of all that becomes needlessly annoying.\n\nThis game has a lot going for it, in the sense that juggling all the systems it has can feel somewhat satisfying while it's going well. Which is why I still come back to check it out every couple years. But there are a lot of times I think it confuses obtuse with complex in ways that detract from its appeal.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I use to love this game, but it updates waaaaaaaaaay too much like a paradox game.\n\nWhich means amazing mods keep getting broken (sometimes, the mod developer gets too exhausted to keep updating it and the mod gets abandoned).\n\nYou have to keep restarting over and over.\n\nYou need to keep relearning complex things and many of the tutorials you can find are outdated. And the game is very complex.\n\nAnd if you leave the game for a while and come back, you will find things are so different that you have to learn a whole new game.\n\nThe devs needs to learn to just stop updating the game and make a Oxgen not included 2 at some point. They are treating this game like a live service mmo and it is getting stuffed with too much fat.",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "TL;DR - There is no fun to be had here, only frustration.\n\nThe \"fun\" is always just beyond your reach. Game systems are way too convoluted, spaghetti systems. If you want to learn and perfect systems and be satisfied, play Factorio. This is the second overwhelmingly positive reviewed game by Klei where I buy, play, and ask myself \"WTF, why is this overwhelmingly positive?\" Having to constantly google things and even then not finding a good answer is no fun.\n\nSteam: \"What to revise your review?\" Hah, it's on!\n\nGave it another go and yeah, it's like the game is designed to be intentionally frustrating with no pay-off. I started to get going, figured out the idiotic circuit system, got the cold-producing (?) plants and started cooling down my base, then cracked an ice biome right next to an oil biome. The oil exploded into the ice without me digging into it and proceeded to melt the entire ice biome into a sea of oil, salt, and polluted water mush. And the temp interactions started making liquids fall out the air in my base. Exited game and uninstalled on the spot. You have to be either the most autistic person or a masochist to enjoy this \"game\".",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "its okay.\n\nI just think there are much better games in this category like Rimworld or Faster Than Light that just do the concept better.  I didn't think the game showed you how to play very well and I didn't enjoy it as much as I thought I would",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I don't understand how this game has so many positive reviews. If you have to look at a wiki just to figure out how to play the game, the devs have failed miserably. And I am not talking about advanced portions of the game, I am just talking about the beginning aspects. This game is terrible and I would not recommend it to anyone.",
+      "voted_up": false,
+      "votes_helpful": 1
+    }
+  ]
+}

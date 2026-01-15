@@ -1,0 +1,1006 @@
+{
+  "positive": [
+    {
+      "review": "Hmmm, maybe it's time to try again after two courses at a tech university",
+      "voted_up": true,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Bitburner is a hacking and cyberpunk themed idle game that's completely unique in that it has an embedded programming language (using the JavaScript engine) that you can use in-game for various idle-game tasks. In it, you make money via simulated hacking of servers (not using any real-world hacking techniques, so don't worry, it's not THAT hard), and later, various other techniques, such as gaming the stock market, working a crime system, or completing coding contracts. This might be a bit difficult for people who are not programming nerds, but boy oh boy, does this game go deep, and it's a lot of fun.\r\n\r\nThis idle game is completely unique in that it has me automating the playing of the game at basically all times I have it running idle. There's always some system to optimize, or something to refactor. It has an uncanny way of eating up all my time despite it being an idle game! The systems at play are never trivial to get right, either, even if you know how to code. The game gradually introduces new systems, too, making for a smooth (if a little slow in the beginning) progression curve.\r\n\r\nI guess the only flaw is that sometimes it can ask a lot of you. Like, I am a professional software engineer of many years with a postgraduate degree in computer science and in the later-game, Bitburner makes me scratch my head sometimes as to how to reasonably do something well. A lot of my solutions aren't optimal (yet), and some optimal solutions I feel like I need to read academic papers to do best. A select few things are truly tasks people a thousand times better than me have put a thousand more times of work into, and still have not perfected it. Madness.\r\n\r\nDo I recommend this if you just want to jump in to learning how to program? I don't know. The game will go slower for you than others, and the game isn't fast to begin with. And don't get me started on using other people's scripts. That's cheating! But I mean, this is a free game that will never ask for money, and open-source to boot, so you might as well give it a try. It's a lot of fun and has me hooked.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Installed this to learn how to program. Have barely started learning proper and already having fun playing the game. Looking forward to understanding the code of the game itself next once I figure out Github!",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "It's a game with actual programming baked into the gameplay loop. Found myself enjoying it enough to want to rate it highly, which is not usual of coding games, for me. Really enjoyable, once you get a few good scripts under your belt.\n\nThe game uses actual JavaScript, which can be a fun learning tool or just a means of keeping yourself sharp. It uses something called the \"NetScript\" API to interact with the game itself so no actual hacking, unless you want all the achievements(then some real \"hacking\").\n\nI can't recommend this game enough. Like all the other reviews say, if you find yourself here, play it.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Bitburner redefines incremental gaming by plunging players into a cyberpunk dystopia where hacking corporations and amassing trillions hinges on writing real JavaScript scripts, transforming idle progression into a hands-on coding playground that rewards logic over clicks. Launched in 2021 and thriving on Steam with steady updates through 2025, the game casts you as a terminal operative infiltrating networks, joining factions for augmentations that trigger prestige resets, and automating everything from money laundering to gang warfare via Netscript—a JavaScript dialect with game-specific APIs for scanning servers, deploying worms, and optimizing hack/grow/weaken ratios",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I am enjoying the game so far. Creating a script is not to bad. Still exploring further in to this.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a rather nice game, but it would have been even grater if it actually had music and some actual visual graphics. The JS coding isn't that complicated but it does take a while to get used to the ns library commands. I just wished they had more role playing elements and maybe NPCs. This game is promoted as a Cyberpunk type of game, yet you will feel like coding in a basement on an old Linux machine in 1998.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I started playing this game before NS2, forgot about it for a while, came back and just finished [spoiler] fl1ght.exe [/spoiler].\nAlso, this game has a vim mode.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Incredibly deep and interesting game. If you know JavaScript it's very rewarding to write code for, and if you don't know JavaScript it's a very fun way to learn and experiment. My only criticism is that in the latter stages of the game (there are MANY layers of prestiges, prestiges upon prestiges, etc.), you truly do need to go idle for very long stretches of time to progress. I prefer incremental games that can be played actively, but if you don't mind a game you can check in on once a day, absolutely give this a try. \n\nThere's a full-featured browser version of the game, too, which is nice for playing across multiple devices.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great fun, nice to have a progression that challenges and keeps you coming back to figure it out.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "An incredibly addictive idle game. 10/10. The interface may be harsh at first glance but that makes it all the more rewarding when you do really figure it out. Also, if you just go and read through some of the tutorials in the documentation tab you should pick it up in no time at all.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game when you get the hang of the hacking and fun side of it. Highly recommend it to others. **NOTE**Previous coding and programming knowledge(only javascript) IS required. So not knowing JavaScript at all could be annoying and ruin the hacking and fun bits of the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A programming game masquerading as an idler game. Is a good time solving puzzles and building automation. WARNING: you will have to learn things. If that is not your jam, go elsewhere.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "First and foremost, this is a programming game. It is going to be basically impossible to play without programming knowledge. It uses Javascript or Typescript depending on your preference. I don't know if the internal text editor supports TS, but it's much better to use an external one anyway.  It has its own custom APIs, but otherwise it runs in a browser and every browser Javascript API is available to use/abuse. (Check out Viteburner for automated script synchronization)\n\nOther than programming, the game has the typical incremental game loop. Progress/buy upgrades/reset.\n\nI started this game for the first time almost two years ago when I was on vacation. I write software professionally, and I usually enjoy it. I just don't often want to write code after doing it all day at work. So I often start a small project that I can do in a week when I'm on vacation.\n\nWell, that vacation I chose to play Bitburner, and it's great. It's probably the best programming game out there, and it's not even close. I honestly wish they charged a few bucks here, because it's worth it. I'll have to see if they have a donation/charity where I can contribute a few bucks.\n\nRecently, I purchased another programming game involving a farm. It's not bad, but it just made me think I should come back and see about finishing Bitburner.\n\nIt's taken me several hours to somewhat re-familiarize myself and figure out the (of course insufficiently documented) code I wrote so long ago, but I've actually made some progress. I [i]was[/i] shocked that the code wasn't nearly as bad/messy I was expecting it to be, so documenting it wasn't that bad. Good job, old me.\n\nAnyway, fundamentally the game is about hacking and writing automation in Javascript to automatically do things for you. At the start, this is hacking a few machines to make some cash. As you progress, however, other gameplay features come up. This includes things like a stock market, employment, real life crime, etc. There's even a Go game which I've yet to even attempt to make a smart AI. I'll take the abysmal win percentage of random placement before trying to write a Go algorithm. As new features are unlocked, that means more things to automate. Even going as far as automating things you do in the physical world.\n\nThe automation can be as simple or complex as you want, really. I ended up writing a scheduler that distributes running programs across my network of hacked machines. Did I need to do that? Nope. And in hindsight, it probably wasn't worth the effort, but the code is still solid today and makes tons of money and allows me to essentially have a single giant pool of resources to run every script I've written. I just send a script/args to the scheduler and it figures out which machine has the resources to run it.\n\nThis game just runs in a browser, so if you want to be a real sneaky hacker you can even manipulate the DOM and do stuff that normally requires an upgrade. It's actually not a bug. It's allowed, but requires significant (in game) system resources.\n\nI highly recommend Bitburner if you're looking for a programming game, and especially if you like the idle/incremental game loop. Some of the tasks can be pretty complex, so it's likely best to have at least some professional experience, but a CS student could absolutely learn a lot here as well with the right amount of stubbornness.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you like idlegames and scripting or at least want to learn something about it, this is your game.  Still amazed how much depth this game has. Dont let the slow start scare you. look for a good intro to this game. like this one (https://medium.com/@tigenzero/bitburner-starter-pack-28d3d30506e6) and go from there... absolute gem of a game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great balancing, and difficulty curve. Unlike most \"idle\" games you don't feel the need to micromanage it for maximum efficiency, nor do you need to leave it running for unrealistic amounts of time to progress",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "annoying sorta real console. cant autocomplete any unlocked programs. cant autocomplete files on disk. can autocomplete hosts. you can scp to any host, but you cannot connect directly to any host. you can click on a scan-analyze from *any previous time* to connect to anything from anywhere once you unlock a certain exe. its kinda janky edge case city if you look, bless the effort",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bitburner is a unique game that invites you to write scripts in a JavaScript-style language (Netscript) to automate your hacking, build systems, and progress through a cyberpunk world of servers and factions. It combines incremental game mechanics with strategic scripting and automation.\r\n\r\nWhat Makes It Great\r\n\r\nIt makes you think—you decide which servers to hack, how to script growth or weaken loops, and how to scale your operations.\r\n\r\nThe scripting is flexible and accessible: even players with little programming experience can follow tutorials and use community code to get started.\r\n\r\nIt’s a sandbox: you’re free to choose your path—hacking networks, joining factions, automating buy/upgrade loops, taking on special missions.\r\n\r\nThere’s a satisfying progression: from basic scripts and a handful of servers to whole networks, optimized routines, and advanced automation.\r\n\r\nA vibrant community shares scripts, guides and tools across GitHub and Steam, helping both novices and veterans alike.\r\n\r\nWhy It Works\r\n\r\nBitburner respects your time: you can work on your scripts, walk away, and your operations still generate progress (especially at the grow/weaken level). It rewards creativity rather than forcing a rigid path. That said, there is a learning curve—documentation exists, but you’ll benefit from exploring and experimenting rather than relying on heavy guidance.\r\n\r\nFinal Thoughts\r\n\r\nIf you enjoy solving problems, writing or tweaking code, or building efficient systems, Bitburner is an outstanding choice. It blends hacking-themed aesthetics with real scripting and automation depth.\r\n5/5 – A smart, empowering, and endlessly modifiable experience.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very fun, if you can learn stuff, and have other games",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you ended up here, do yourself a favour and download it.\n\nAs for the automation aspect, it's kinda like factorio on crack, with all the right pop-culture references and actual scripting.\n\nBest 0$ I have ever spent.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "\"Also, check out the API documentation to see what it has to offer. Writing  to perform and automate various tasks is where most of the fun in the game comes from (in my opinion)!\" — Documentation\nIt's fun :)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I might just be the type of nerd to enjoy programming as a series of puzzles to solve to achieve a desired result. But this game does a good job of presenting puzzles to me.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Super cool! 10/10 game.\n\nShame the dev gave a shout out to Hacknet which I believe is a direct rip off of Hacker Evolution. \nHacker Evolution deserves a shout out.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Una maravilla. Di con el por casualidad y es visualmente simple pero realmente entretenido. Recomendadísimo.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Heh, found the Darkweb. Hmm, can I hack the Darkweb? Yes, yes I can. This is going to be so awesome. Hacks the Darkweb... get nothing out of it. Still worth it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "There is more realistic environments to play in however, i love how network oriented this is. alot of fun fake scripting and well does do a healthy job of conceptually providing knowledge on the subject in a third party tone.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "As someone who has very little knowledge in coding (took a couple of courses on Khan Academy when I was in middle school), I've been having a blast. It's a great way to dip your toes into the world of coding. The Discord server has been a great resource for help, and the fact that there is a feature in the game that is influenced by real world contributions to the blood drive is inspiring. Simple, fun, and addicting.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Actually learning how to script... quite fast... it's weird but it works.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i like the idea but don't understand java script, still good game tho",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A great way to learn java and how to automate tasks through in streamlined ways",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Quite fun! Helps you learn a little more about a linux based environment while having some fun goals to aspire to. I recommend this game for anyone who NEEDS to learn about LinuxOS but generally doesn't like the traditional education methods.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "One of the better programming games I've tried. Would recommend checking it out",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i don't know how to Programming a Computer (PaC). i enjoy navigating a text based interface and thinking about how long the black leather jacket my character wears is",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "aside from having to code in JavaScript I really love this game",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I love it. But i don't know JS and im unteachable.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Pretty fun game to learn Javascript.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "confusing but fun once you get the hang of it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "honestly my favorite idle / incremental game",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "i was gonna play this for 45 minutes. got a bit carried away.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I hate JavaScript. I still recommend this game.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Just realized this was all a scheme to teach you javascript",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Very unique  and nice game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "fn main() {\n    println!(\"Hello, world!\");\n}",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This game is freaking awesome.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good game",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "nice game",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "good game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "it's fine",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "spaghetti code",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very nice",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very cool very nice",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its alright",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Super Spiel",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "FUN!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Download game. Read through tutorial. It gives you an automated hacking script to copy and paste.\nRun script. Doesnt work.\nLook it up.\nEverything says it should work.\nRunning for 10 minutes doesnt work.\nLook up more info.\nTab back over to check it.\nIts working now, literally changed nothing. Just started working after 15 min.\n\nHoly shit guys. This game is just like real js.",
+      "voted_up": true,
+      "votes_helpful": 123
+    },
+    {
+      "review": "Hello there,\r\n\r\nI recently discovered this beautiful coding game named Bitburner.\r\n\r\nAn incremental game where you make thousands, millions, billions, and so on bucks to access game systems that allow you to make even more of afforementioned currency units.\r\n\r\nIt uses real javascript, a horrible, horrible abomination of a programming language, as any true programmer can tell you.\r\n\r\nThough, during my journey throug the Bitnodes I started to realize, that it has this in common with most other programming languages. So I was able to lay down a few of my fundamentalist prejudices against it.\r\n\r\nDon't get me wrong, it's still a horrible language. But the number of people telling you this about a programming language is a hallmark of its success. What you are hearing are the tortured voices of the many poor souls who have to earn a living with this abominations. Cold machines of logic. Implementing the coffee fueled fever dreams of delusional people. Until those people can afford cocaine.. then it really gets interesting.\r\n\r\nBut wait.. I'm starting to babble again..\r\n\r\nI'm safe here. This is a game. The business people can't hurt me.\r\n\r\n\r\nSo.. where was I... yes, for the first time since about 10 years I had fun coding again. Imagine that. So I decided to give a warm recommendation for this game.\r\n\r\nI have to say, this game is getting dangerously close to what I did in my dayjob as a sofware developer. Not only in the sense of getting screwed over by the small shortcuts I take, really. But simply the fact that most of the things I'm doing is pulling data from somewhere by combing documentation, reformat it and/or do some calculations with it to then shove the data elsewhere. So familiar.\r\n\r\nOf course the devil is in the details and \"reformat\" and \"do some calculations\" is easily said. And those few harmless seeming words contain a world of horror and harebrained schemes.\r\n\r\n\r\nPlaying this really can make you understand what is meant with \"scalability\" in software development. You start with scarce resources, reach a level of plenty but will be reset to a period of scarcity again before you can progress the game.\r\nThis causes many interesting problems regarding scalability for your scripts.",
+      "voted_up": true,
+      "votes_helpful": 41
+    },
+    {
+      "review": "100% best game ever, had to miss my daughter's graduation to make sure my code worked to perfection",
+      "voted_up": true,
+      "votes_helpful": 32
+    },
+    {
+      "review": "Hmmm, maybe it's time to try again after two courses at a tech university",
+      "voted_up": true,
+      "votes_helpful": 17
+    },
+    {
+      "review": "number go up and I now know basic javascript, fun.",
+      "voted_up": true,
+      "votes_helpful": 22
+    },
+    {
+      "review": "Has Bitburner inspired an army of faux black hats? Not real hackers (probably), but thousands of pajama-clad cyberlords feeling like Mr. Robot while actually learning JavaScript basics. You start small — poking at low-security servers, writing baby scripts to siphon virtual cash, and watching your “hack” bar inch across the screen — but before long you’re building sprawling networks of automated scripts, daisy-chaining backdoors, and cornering the digital stock market while your real-world coffee goes cold. The game’s biggest crime? Making file I/O, network penetration, and RAM allocation look cooler than anything on Netflix.\r\n\r\nEvery milestone feels like leveling up your hacker alter ego: buying more servers, scaling scripts for maximum efficiency, and setting up intricate cron-job style loops that run while you sleep. Bitburner doesn’t just simulate hacking; it sneaks in a coding boot camp disguised as an idle game. At 2 a.m., bleary-eyed and triumphant, you’ll realize you’ve turned into the very villain your antivirus warned you about—only instead of stealing real money, you’re optimizing loops and balancing thread counts. It’s hilarious, it’s dangerously educational, and it’s the most fun you can have “hacking” without ending up on a watchlist.",
+      "voted_up": true,
+      "votes_helpful": 11
+    },
+    {
+      "review": "---{ Graphics }---\n☐ You forget what reality is\n☐ Beautiful\n☐ Good\n☐ Decent\n☐ Bad\n☐ Don‘t look too long at it\n☑ MS-DOS\n\n---{ Gameplay }---\n☐ Very good\n☑ Good\n☐ It's just gameplay\n☐ Mehh\n☐ Watch paint dry instead\n☐ Just don't\n\n---{ Audience }---\n☑ Kids\n☑ Teens\n☑ Adults\n☐ Grandma\n\n---{ PC Requirements }---\n☐ Check if you can run paint\n☑ Potato\n☐ Decent\n☐ Fast\n☐ Rich boi\n☐ Ask NASA if they have a spare computer\n\n---{ Game Size }---\n☐ Floppy Disk\n☑ Old Fashioned\n☐ Workable\n☐ Big\n☐ Will eat 15% of your 1TB hard drive\n☐ You will want an entire hard drive to hold it\n☐ You will need to invest in a black hole to hold all the data\n\n---{ Difficulty }---\n☐ Just press 'W'\n☐ Easy\n☑ Easy to learn / Hard to master\n☐ Significant brain usage\n☐ Difficult\n☐ Dark Souls\n\n---{ Grind }---\n☑ Nothing to grind\n☐ Only if u care about leaderboards/ranks\n☐ Isn't necessary to progress\n☐ Average grind level\n☐ Too much grind\n☐ You'll need a second life for grinding\n\n---{ Story }---\n☐ No Story\n☑ Some lore\n☐ Average\n☐ Good\n☐ Lovely\n☐ It'll replace your life\n\n---{ Game Time }---\n☐ Long enough for a cup of coffee\n☐ Short\n☑ Average\n☐ Long\n☐ To infinity and beyond\n\n---{ Price }---\n☑ It's free!\n☐ Worth the price\n☐ If it's on sale\n☐ If u have some spare money left\n☐ Not recommended\n☐ You could also just burn your money\n\n---{ Bugs }---\n☑ Never heard of\n☐ Minor bugs\n☐ Can get annoying\n☐ ARK: Survival Evolved\n☐ The game itself is a big terrarium for bugs\n\n---{ ? / 10 }---\n☐ 1\n☐ 2\n☐ 3\n☐ 4\n☐ 5\n☐ 6\n☐ 7\n☑ 8\n☐ 9\n☐ 10\n\n---{ Author }---\n☑ https://vojtastruhar.github.io/steam-review-template",
+      "voted_up": true,
+      "votes_helpful": 32
+    },
+    {
+      "review": "not recommended if you are only starting for javascript-- this is more than beginner level coding with extra coding algorithms. i thought it was only js but there was some ns",
+      "voted_up": true,
+      "votes_helpful": 13
+    },
+    {
+      "review": "I'm just gonna ask what everybody else is asking:\nHow is this free?\n\nStrongly recommend for anyone who likes idles, cyberpunk and/or programming.\n\nAlso, this game is such an achievement from a programming point of view. \nCongrats developers!",
+      "voted_up": true,
+      "votes_helpful": 8
+    },
+    {
+      "review": "Bitburner is a hacking and cyberpunk themed idle game that's completely unique in that it has an embedded programming language (using the JavaScript engine) that you can use in-game for various idle-game tasks. In it, you make money via simulated hacking of servers (not using any real-world hacking techniques, so don't worry, it's not THAT hard), and later, various other techniques, such as gaming the stock market, working a crime system, or completing coding contracts. This might be a bit difficult for people who are not programming nerds, but boy oh boy, does this game go deep, and it's a lot of fun.\r\n\r\nThis idle game is completely unique in that it has me automating the playing of the game at basically all times I have it running idle. There's always some system to optimize, or something to refactor. It has an uncanny way of eating up all my time despite it being an idle game! The systems at play are never trivial to get right, either, even if you know how to code. The game gradually introduces new systems, too, making for a smooth (if a little slow in the beginning) progression curve.\r\n\r\nI guess the only flaw is that sometimes it can ask a lot of you. Like, I am a professional software engineer of many years with a postgraduate degree in computer science and in the later-game, Bitburner makes me scratch my head sometimes as to how to reasonably do something well. A lot of my solutions aren't optimal (yet), and some optimal solutions I feel like I need to read academic papers to do best. A select few things are truly tasks people a thousand times better than me have put a thousand more times of work into, and still have not perfected it. Madness.\r\n\r\nDo I recommend this if you just want to jump in to learning how to program? I don't know. The game will go slower for you than others, and the game isn't fast to begin with. And don't get me started on using other people's scripts. That's cheating! But I mean, this is a free game that will never ask for money, and open-source to boot, so you might as well give it a try. It's a lot of fun and has me hooked.",
+      "voted_up": true,
+      "votes_helpful": 9
+    },
+    {
+      "review": "Truly a game where you actually program, in a real programming language, rather than engage in something programming-like. Had a good amount of fun automating the bulk of main gameplay loop. However, I think it's balanced wrong for restarts - in a typical idler you quickly start to breathe through the early game. This is kind of opposite - you can be stuck for couple of days (real time) mucking through the early game on every restart. Can you improve that away? Eventually, a very distant eventually, I worn off continuing before that.",
+      "voted_up": true,
+      "votes_helpful": 7
+    },
+    {
+      "review": "Installed this to learn how to program. Have barely started learning proper and already having fun playing the game. Looking forward to understanding the code of the game itself next once I figure out Github!",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It's a game with actual programming baked into the gameplay loop. Found myself enjoying it enough to want to rate it highly, which is not usual of coding games, for me. Really enjoyable, once you get a few good scripts under your belt.\n\nThe game uses actual JavaScript, which can be a fun learning tool or just a means of keeping yourself sharp. It uses something called the \"NetScript\" API to interact with the game itself so no actual hacking, unless you want all the achievements(then some real \"hacking\").\n\nI can't recommend this game enough. Like all the other reviews say, if you find yourself here, play it.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Very nice programming idler where you are your own worst enemy if you have perfectionistic tendencies.\nThere is a lot of stuff to do, lots of things to automate, and very nice progression system(s).\nYou can find tons of resources on the discord if you ever need help or inspiration.\nThe next update is coming soon, I am excited to see what's coming :)",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "A programming delight. Superb developer support and a vibrant user community. Highly recommendedf",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "It helps to be a software developer, I must admit. \n\nA game worth reaching the ending. 100%",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "BitBurner is an excellent game to challenge your brain if you're into coding. Even if you're not, it can be a great help learning javascript in a fun way, especially since there's a lot of lore under the surface!",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "This is a very well coded and tested game!\nA simple idea of an idle afk kind of game focused on coding.\nEven if you know nothing or very little of coding, you can count on chatGPT to help you build your scripts.\n\nMy congratulations to the DEV team!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "No graphics. Just text. But still a more engaging story than CoD...\r\n\r\nLearning some JavaScript as you play is a nice bonus!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a rather nice game, but it would have been even grater if it actually had music and some actual visual graphics. The JS coding isn't that complicated but it does take a while to get used to the ns library commands. I just wished they had more role playing elements and maybe NPCs. This game is promoted as a Cyberpunk type of game, yet you will feel like coding in a basement on an old Linux machine in 1998.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I started playing this game before NS2, forgot about it for a while, came back and just finished [spoiler] fl1ght.exe [/spoiler].\nAlso, this game has a vim mode.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Incredibly deep and interesting game. If you know JavaScript it's very rewarding to write code for, and if you don't know JavaScript it's a very fun way to learn and experiment. My only criticism is that in the latter stages of the game (there are MANY layers of prestiges, prestiges upon prestiges, etc.), you truly do need to go idle for very long stretches of time to progress. I prefer incremental games that can be played actively, but if you don't mind a game you can check in on once a day, absolutely give this a try. \n\nThere's a full-featured browser version of the game, too, which is nice for playing across multiple devices.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great fun, nice to have a progression that challenges and keeps you coming back to figure it out.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "An incredibly addictive idle game. 10/10. The interface may be harsh at first glance but that makes it all the more rewarding when you do really figure it out. Also, if you just go and read through some of the tutorials in the documentation tab you should pick it up in no time at all.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game when you get the hang of the hacking and fun side of it. Highly recommend it to others. **NOTE**Previous coding and programming knowledge(only javascript) IS required. So not knowing JavaScript at all could be annoying and ruin the hacking and fun bits of the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A programming game masquerading as an idler game. Is a good time solving puzzles and building automation. WARNING: you will have to learn things. If that is not your jam, go elsewhere.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "First and foremost, this is a programming game. It is going to be basically impossible to play without programming knowledge. It uses Javascript or Typescript depending on your preference. I don't know if the internal text editor supports TS, but it's much better to use an external one anyway.  It has its own custom APIs, but otherwise it runs in a browser and every browser Javascript API is available to use/abuse. (Check out Viteburner for automated script synchronization)\n\nOther than programming, the game has the typical incremental game loop. Progress/buy upgrades/reset.\n\nI started this game for the first time almost two years ago when I was on vacation. I write software professionally, and I usually enjoy it. I just don't often want to write code after doing it all day at work. So I often start a small project that I can do in a week when I'm on vacation.\n\nWell, that vacation I chose to play Bitburner, and it's great. It's probably the best programming game out there, and it's not even close. I honestly wish they charged a few bucks here, because it's worth it. I'll have to see if they have a donation/charity where I can contribute a few bucks.\n\nRecently, I purchased another programming game involving a farm. It's not bad, but it just made me think I should come back and see about finishing Bitburner.\n\nIt's taken me several hours to somewhat re-familiarize myself and figure out the (of course insufficiently documented) code I wrote so long ago, but I've actually made some progress. I [i]was[/i] shocked that the code wasn't nearly as bad/messy I was expecting it to be, so documenting it wasn't that bad. Good job, old me.\n\nAnyway, fundamentally the game is about hacking and writing automation in Javascript to automatically do things for you. At the start, this is hacking a few machines to make some cash. As you progress, however, other gameplay features come up. This includes things like a stock market, employment, real life crime, etc. There's even a Go game which I've yet to even attempt to make a smart AI. I'll take the abysmal win percentage of random placement before trying to write a Go algorithm. As new features are unlocked, that means more things to automate. Even going as far as automating things you do in the physical world.\n\nThe automation can be as simple or complex as you want, really. I ended up writing a scheduler that distributes running programs across my network of hacked machines. Did I need to do that? Nope. And in hindsight, it probably wasn't worth the effort, but the code is still solid today and makes tons of money and allows me to essentially have a single giant pool of resources to run every script I've written. I just send a script/args to the scheduler and it figures out which machine has the resources to run it.\n\nThis game just runs in a browser, so if you want to be a real sneaky hacker you can even manipulate the DOM and do stuff that normally requires an upgrade. It's actually not a bug. It's allowed, but requires significant (in game) system resources.\n\nI highly recommend Bitburner if you're looking for a programming game, and especially if you like the idle/incremental game loop. Some of the tasks can be pretty complex, so it's likely best to have at least some professional experience, but a CS student could absolutely learn a lot here as well with the right amount of stubbornness.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you like idlegames and scripting or at least want to learn something about it, this is your game.  Still amazed how much depth this game has. Dont let the slow start scare you. look for a good intro to this game. like this one (https://medium.com/@tigenzero/bitburner-starter-pack-28d3d30506e6) and go from there... absolute gem of a game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great balancing, and difficulty curve. Unlike most \"idle\" games you don't feel the need to micromanage it for maximum efficiency, nor do you need to leave it running for unrealistic amounts of time to progress",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "annoying sorta real console. cant autocomplete any unlocked programs. cant autocomplete files on disk. can autocomplete hosts. you can scp to any host, but you cannot connect directly to any host. you can click on a scan-analyze from *any previous time* to connect to anything from anywhere once you unlock a certain exe. its kinda janky edge case city if you look, bless the effort",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bitburner is a unique game that invites you to write scripts in a JavaScript-style language (Netscript) to automate your hacking, build systems, and progress through a cyberpunk world of servers and factions. It combines incremental game mechanics with strategic scripting and automation.\r\n\r\nWhat Makes It Great\r\n\r\nIt makes you think—you decide which servers to hack, how to script growth or weaken loops, and how to scale your operations.\r\n\r\nThe scripting is flexible and accessible: even players with little programming experience can follow tutorials and use community code to get started.\r\n\r\nIt’s a sandbox: you’re free to choose your path—hacking networks, joining factions, automating buy/upgrade loops, taking on special missions.\r\n\r\nThere’s a satisfying progression: from basic scripts and a handful of servers to whole networks, optimized routines, and advanced automation.\r\n\r\nA vibrant community shares scripts, guides and tools across GitHub and Steam, helping both novices and veterans alike.\r\n\r\nWhy It Works\r\n\r\nBitburner respects your time: you can work on your scripts, walk away, and your operations still generate progress (especially at the grow/weaken level). It rewards creativity rather than forcing a rigid path. That said, there is a learning curve—documentation exists, but you’ll benefit from exploring and experimenting rather than relying on heavy guidance.\r\n\r\nFinal Thoughts\r\n\r\nIf you enjoy solving problems, writing or tweaking code, or building efficient systems, Bitburner is an outstanding choice. It blends hacking-themed aesthetics with real scripting and automation depth.\r\n5/5 – A smart, empowering, and endlessly modifiable experience.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very fun, if you can learn stuff, and have other games",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bitburner is a really cool game in which you write scripts to automate the process of hacking fictional corporations. As you might expect, at least basic experience with coding is very helpful here as it very much mirrors actually coding in most ways, but that experience also means the world is your oyster, and the real fun of the game is making your own working script and watching your hard work pay off. If you're scared about getting lost with this much freedom, fret not, there is also well put together documentation in game if you need an early-game walkthrough, explanation on mechanics, or just a refresher. Plus, programmers will feel right at home flipping between it and the terminal or your scripts, given the frequent visits to Stack Overflow. The gameplay loop is also soundly made, mixing coding with automation downtime that can happen even when you close the game. The interface is friendly and simple, allowing you to focus on what's important. And maybe best of all is it really sells itself on the theming and concept. Beyond aesthetic choices that mimic the common style of hacker memes, the gameplay is truly in the spirit of hacking and coding, and nothing demonstrates that better than the fact you can simply hack in all of the achievements. Sure it'd be cheating anywhere else, but that perfectly aligns with what a game about hacking should be about, and I think that's awesome.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love the style of this game. It's very fun if you're interested in this kind of stuff. Although it isn't directly applicable IRL, it holds a great set of lessons that—mostly you, yourself—will have to discover through gameplay.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "pretty neat game, u gotta search stuff up unless ur java knowledge is lvl entrpeneure",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is really, really fun and it a great way to learn basic javascript coding!!!! :D",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The game has crazy depth. Even after 100 hours of playtime (mostly afk), I'm still not 50% \"completed.\" But at some point you're just going to make a self feeding algorithm that the only thing holding you back is time. It just takes too much time to 100% the game. As someone that has completely zero knowledge of coding, it is a fun introduction.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "gg. much easier if you plan all the scripts out from the start and have a manager script going. don't underestimate the power of farming n00dles. awesome scripting game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A very simple and straightforward idle clicker game that allows you to write JavaScript files using a custom module that the game provides (called ns2). You run those scripts on pretend computers which are upgraded using in-game dollar. It is less story-focused than a game like Hacknet, and is instead more focused on exploring its different mechanics. Over time, you gain access to better nodes, better money sources, better features and stat upgrades. There is a critical mechanic called 'augmentations'. These are insanely expensive to buy in bulk, and require the player to invest a lot of time, as they can only be installed upon 'rebirths'. You will eventually hit a wall if you try to play without these, which is a bit annoying. Solid game to mess around with for like 10 minutes and then run in the background for 10 hours. Terrible game if you want actual entertainment. But at least you get the happy chemicals when big number goes bigger, right?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you want that classic movie trope \"i'm in\" feeling this is the game for you. It's a good way to keep my javascript sharp and also for just understanding how code works. I would recommend having an introductory level of knowledge about JS before diving in maybe, but definitely use this to help you learn while you also have a little fun.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Genuinely fantastic game. it allows full freedom after the tutorial for programming and you can really do whatever you want. story is a little dry (because there is none) for the first 30 minutes or so, but once you level up and get going, its a blast. \n\nDont feel discouraged if you dont know javascript. My recommendation is try to follow along with super super basic stuff like ns.hack(\"name\") and basic programs like that until you start getting the hang of it. Its a great project game so instead of watching 3 hour long tutorials for javascript, you can actually write things like youre using a real framework.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great for programmers, fun game with tons of things to do, requires real skill to optimize and preform tasks, cute little side segments and fun concepts executed really well, I strongly recommend this for people big into Hacknet, people into basic Java, or people just looking to try something new.\n\n(I have to specify, I played thee webgl version of the game for a few hours about a year ago now, I'm not new to this lol)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "100%’d the entire game in under an hour. Not a typo - one hour. The devs clearly designed this for people who still need tooltips to open doors. I came, I saw, I broke the balance. Every server melted faster than my GPU fan at full load. I didn’t even try to speedrun, it just kind of happened because efficiency is in my blood.\n\nI reverse-engineered the mechanics mid-game optimized the RNG, and accidentally found three exploits while alt-tabbing to check Discord. The devs should honestly add a new difficulty level called “Me.” Until then, I’ll be waiting for DLC worthy of my skillset.\n\n10/10, but only because I can’t rate it 11/10 and write my own patch notes.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "If you ended up here, do yourself a favour and download it.\n\nAs for the automation aspect, it's kinda like factorio on crack, with all the right pop-culture references and actual scripting.\n\nBest 0$ I have ever spent.",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really wanted to play this but in the tutorial they had me copy and paste a code that didn't even work and the game says... congratulations your first code is working, when it clearly says in the terminal in red letters that it is not. How does the game let you go past a tutorial that didn't show me what to do?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Not sure the audience for this game. You essentially need to already know how to code Javascript to play the game. Sure there are in game \"guides\" but it is essentially an entire wiki you need to read on how to use Javascript to play the game. And what little \"tutorial\" that exists isn't great in how it explains and guides things. I actually got stuck in the tutorial for a bit because it told me to \"press the button\" without clearly identifying the button it was talking about. There is no learning curve, it is a learning wall. If you don't know how to code, you can't play this game. If you do know how to code, I don't know why this game would be interesting. Cool project i guess?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There's a syntax error in the first piece of code it tells you to copy and paste into the tutorial.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I made one script at the very beginning after reading the markdown docs on github and then walked away for a bit to go touch grass. I came back to a TON of cringe popup messages layered on top of each other (that I had to close out one by one) that talked about how I'm \"digging too deep\" or how some guy liked the cut of my jib or whatever. I had a lot of notifications and I felt like I missed everything while the game progressed the story without me. I was expecting this game to be an idle game based on how it was tagged. I wouldn't really call typing up scripts and typing a lot in general being idle.\n\nThe RAM system sucks. Why would it take a GB of RAM on my home computer to run a script on someone else's computer? The script being executed isn't being ran on my home computer too. The multitasking system sucks too. The character levelling system is jarring next to the hacker-man gameplay with a working built-in IDE.\n\nI had way more fun making a js file that plays fart sounds at random intervals as long as the browser tab it's running in stays open.\n\nI dunno, maybe this game is fun if you like pretending to be a hacker or somethin'. Boring coding game, terrible idle game. Would be an alright text-based RPG but the writing throughout the game is... something else.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its really bad, nobody likes javascript. nobody is learning js just to play this game. i think if you did a game like this you should do it in a better and easy to learn language such as lua or python or even a c family language.\n\n3/10 good premise bad execution",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The ns.getPurchasedServerUpgradeCost and ns.upgradePurchasedServer won't work.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The progression is very very slow and not very rewarding...",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really wanted to play this but in the tutorial they had me copy and paste a code that didn't even work and the game says... congratulations your first code is working, when it clearly says in the terminal in red letters that it is not. How does the game let you go past a tutorial that didn't show me what to do?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Not sure the audience for this game. You essentially need to already know how to code Javascript to play the game. Sure there are in game \"guides\" but it is essentially an entire wiki you need to read on how to use Javascript to play the game. And what little \"tutorial\" that exists isn't great in how it explains and guides things. I actually got stuck in the tutorial for a bit because it told me to \"press the button\" without clearly identifying the button it was talking about. There is no learning curve, it is a learning wall. If you don't know how to code, you can't play this game. If you do know how to code, I don't know why this game would be interesting. Cool project i guess?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There's a syntax error in the first piece of code it tells you to copy and paste into the tutorial.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I made one script at the very beginning after reading the markdown docs on github and then walked away for a bit to go touch grass. I came back to a TON of cringe popup messages layered on top of each other (that I had to close out one by one) that talked about how I'm \"digging too deep\" or how some guy liked the cut of my jib or whatever. I had a lot of notifications and I felt like I missed everything while the game progressed the story without me. I was expecting this game to be an idle game based on how it was tagged. I wouldn't really call typing up scripts and typing a lot in general being idle.\n\nThe RAM system sucks. Why would it take a GB of RAM on my home computer to run a script on someone else's computer? The script being executed isn't being ran on my home computer too. The multitasking system sucks too. The character levelling system is jarring next to the hacker-man gameplay with a working built-in IDE.\n\nI had way more fun making a js file that plays fart sounds at random intervals as long as the browser tab it's running in stays open.\n\nI dunno, maybe this game is fun if you like pretending to be a hacker or somethin'. Boring coding game, terrible idle game. Would be an alright text-based RPG but the writing throughout the game is... something else.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its really bad, nobody likes javascript. nobody is learning js just to play this game. i think if you did a game like this you should do it in a better and easy to learn language such as lua or python or even a c family language.\n\n3/10 good premise bad execution",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The ns.getPurchasedServerUpgradeCost and ns.upgradePurchasedServer won't work.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The progression is very very slow and not very rewarding...",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really wanted to play this but in the tutorial they had me copy and paste a code that didn't even work and the game says... congratulations your first code is working, when it clearly says in the terminal in red letters that it is not. How does the game let you go past a tutorial that didn't show me what to do?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Not sure the audience for this game. You essentially need to already know how to code Javascript to play the game. Sure there are in game \"guides\" but it is essentially an entire wiki you need to read on how to use Javascript to play the game. And what little \"tutorial\" that exists isn't great in how it explains and guides things. I actually got stuck in the tutorial for a bit because it told me to \"press the button\" without clearly identifying the button it was talking about. There is no learning curve, it is a learning wall. If you don't know how to code, you can't play this game. If you do know how to code, I don't know why this game would be interesting. Cool project i guess?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There's a syntax error in the first piece of code it tells you to copy and paste into the tutorial.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I made one script at the very beginning after reading the markdown docs on github and then walked away for a bit to go touch grass. I came back to a TON of cringe popup messages layered on top of each other (that I had to close out one by one) that talked about how I'm \"digging too deep\" or how some guy liked the cut of my jib or whatever. I had a lot of notifications and I felt like I missed everything while the game progressed the story without me. I was expecting this game to be an idle game based on how it was tagged. I wouldn't really call typing up scripts and typing a lot in general being idle.\n\nThe RAM system sucks. Why would it take a GB of RAM on my home computer to run a script on someone else's computer? The script being executed isn't being ran on my home computer too. The multitasking system sucks too. The character levelling system is jarring next to the hacker-man gameplay with a working built-in IDE.\n\nI had way more fun making a js file that plays fart sounds at random intervals as long as the browser tab it's running in stays open.\n\nI dunno, maybe this game is fun if you like pretending to be a hacker or somethin'. Boring coding game, terrible idle game. Would be an alright text-based RPG but the writing throughout the game is... something else.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its really bad, nobody likes javascript. nobody is learning js just to play this game. i think if you did a game like this you should do it in a better and easy to learn language such as lua or python or even a c family language.\n\n3/10 good premise bad execution",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The ns.getPurchasedServerUpgradeCost and ns.upgradePurchasedServer won't work.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The progression is very very slow and not very rewarding...",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really wanted to play this but in the tutorial they had me copy and paste a code that didn't even work and the game says... congratulations your first code is working, when it clearly says in the terminal in red letters that it is not. How does the game let you go past a tutorial that didn't show me what to do?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Not sure the audience for this game. You essentially need to already know how to code Javascript to play the game. Sure there are in game \"guides\" but it is essentially an entire wiki you need to read on how to use Javascript to play the game. And what little \"tutorial\" that exists isn't great in how it explains and guides things. I actually got stuck in the tutorial for a bit because it told me to \"press the button\" without clearly identifying the button it was talking about. There is no learning curve, it is a learning wall. If you don't know how to code, you can't play this game. If you do know how to code, I don't know why this game would be interesting. Cool project i guess?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There's a syntax error in the first piece of code it tells you to copy and paste into the tutorial.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I made one script at the very beginning after reading the markdown docs on github and then walked away for a bit to go touch grass. I came back to a TON of cringe popup messages layered on top of each other (that I had to close out one by one) that talked about how I'm \"digging too deep\" or how some guy liked the cut of my jib or whatever. I had a lot of notifications and I felt like I missed everything while the game progressed the story without me. I was expecting this game to be an idle game based on how it was tagged. I wouldn't really call typing up scripts and typing a lot in general being idle.\n\nThe RAM system sucks. Why would it take a GB of RAM on my home computer to run a script on someone else's computer? The script being executed isn't being ran on my home computer too. The multitasking system sucks too. The character levelling system is jarring next to the hacker-man gameplay with a working built-in IDE.\n\nI had way more fun making a js file that plays fart sounds at random intervals as long as the browser tab it's running in stays open.\n\nI dunno, maybe this game is fun if you like pretending to be a hacker or somethin'. Boring coding game, terrible idle game. Would be an alright text-based RPG but the writing throughout the game is... something else.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its really bad, nobody likes javascript. nobody is learning js just to play this game. i think if you did a game like this you should do it in a better and easy to learn language such as lua or python or even a c family language.\n\n3/10 good premise bad execution",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The ns.getPurchasedServerUpgradeCost and ns.upgradePurchasedServer won't work.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The progression is very very slow and not very rewarding...",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really wanted to play this but in the tutorial they had me copy and paste a code that didn't even work and the game says... congratulations your first code is working, when it clearly says in the terminal in red letters that it is not. How does the game let you go past a tutorial that didn't show me what to do?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Not sure the audience for this game. You essentially need to already know how to code Javascript to play the game. Sure there are in game \"guides\" but it is essentially an entire wiki you need to read on how to use Javascript to play the game. And what little \"tutorial\" that exists isn't great in how it explains and guides things. I actually got stuck in the tutorial for a bit because it told me to \"press the button\" without clearly identifying the button it was talking about. There is no learning curve, it is a learning wall. If you don't know how to code, you can't play this game. If you do know how to code, I don't know why this game would be interesting. Cool project i guess?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There's a syntax error in the first piece of code it tells you to copy and paste into the tutorial.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I made one script at the very beginning after reading the markdown docs on github and then walked away for a bit to go touch grass. I came back to a TON of cringe popup messages layered on top of each other (that I had to close out one by one) that talked about how I'm \"digging too deep\" or how some guy liked the cut of my jib or whatever. I had a lot of notifications and I felt like I missed everything while the game progressed the story without me. I was expecting this game to be an idle game based on how it was tagged. I wouldn't really call typing up scripts and typing a lot in general being idle.\n\nThe RAM system sucks. Why would it take a GB of RAM on my home computer to run a script on someone else's computer? The script being executed isn't being ran on my home computer too. The multitasking system sucks too. The character levelling system is jarring next to the hacker-man gameplay with a working built-in IDE.\n\nI had way more fun making a js file that plays fart sounds at random intervals as long as the browser tab it's running in stays open.\n\nI dunno, maybe this game is fun if you like pretending to be a hacker or somethin'. Boring coding game, terrible idle game. Would be an alright text-based RPG but the writing throughout the game is... something else.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its really bad, nobody likes javascript. nobody is learning js just to play this game. i think if you did a game like this you should do it in a better and easy to learn language such as lua or python or even a c family language.\n\n3/10 good premise bad execution",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The ns.getPurchasedServerUpgradeCost and ns.upgradePurchasedServer won't work.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The progression is very very slow and not very rewarding...",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really wanted to play this but in the tutorial they had me copy and paste a code that didn't even work and the game says... congratulations your first code is working, when it clearly says in the terminal in red letters that it is not. How does the game let you go past a tutorial that didn't show me what to do?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Not sure the audience for this game. You essentially need to already know how to code Javascript to play the game. Sure there are in game \"guides\" but it is essentially an entire wiki you need to read on how to use Javascript to play the game. And what little \"tutorial\" that exists isn't great in how it explains and guides things. I actually got stuck in the tutorial for a bit because it told me to \"press the button\" without clearly identifying the button it was talking about. There is no learning curve, it is a learning wall. If you don't know how to code, you can't play this game. If you do know how to code, I don't know why this game would be interesting. Cool project i guess?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There's a syntax error in the first piece of code it tells you to copy and paste into the tutorial.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I made one script at the very beginning after reading the markdown docs on github and then walked away for a bit to go touch grass. I came back to a TON of cringe popup messages layered on top of each other (that I had to close out one by one) that talked about how I'm \"digging too deep\" or how some guy liked the cut of my jib or whatever. I had a lot of notifications and I felt like I missed everything while the game progressed the story without me. I was expecting this game to be an idle game based on how it was tagged. I wouldn't really call typing up scripts and typing a lot in general being idle.\n\nThe RAM system sucks. Why would it take a GB of RAM on my home computer to run a script on someone else's computer? The script being executed isn't being ran on my home computer too. The multitasking system sucks too. The character levelling system is jarring next to the hacker-man gameplay with a working built-in IDE.\n\nI had way more fun making a js file that plays fart sounds at random intervals as long as the browser tab it's running in stays open.\n\nI dunno, maybe this game is fun if you like pretending to be a hacker or somethin'. Boring coding game, terrible idle game. Would be an alright text-based RPG but the writing throughout the game is... something else.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its really bad, nobody likes javascript. nobody is learning js just to play this game. i think if you did a game like this you should do it in a better and easy to learn language such as lua or python or even a c family language.\n\n3/10 good premise bad execution",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The ns.getPurchasedServerUpgradeCost and ns.upgradePurchasedServer won't work.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The progression is very very slow and not very rewarding...",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really wanted to play this but in the tutorial they had me copy and paste a code that didn't even work and the game says... congratulations your first code is working, when it clearly says in the terminal in red letters that it is not. How does the game let you go past a tutorial that didn't show me what to do?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Not sure the audience for this game. You essentially need to already know how to code Javascript to play the game. Sure there are in game \"guides\" but it is essentially an entire wiki you need to read on how to use Javascript to play the game. And what little \"tutorial\" that exists isn't great in how it explains and guides things. I actually got stuck in the tutorial for a bit because it told me to \"press the button\" without clearly identifying the button it was talking about. There is no learning curve, it is a learning wall. If you don't know how to code, you can't play this game. If you do know how to code, I don't know why this game would be interesting. Cool project i guess?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There's a syntax error in the first piece of code it tells you to copy and paste into the tutorial.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I made one script at the very beginning after reading the markdown docs on github and then walked away for a bit to go touch grass. I came back to a TON of cringe popup messages layered on top of each other (that I had to close out one by one) that talked about how I'm \"digging too deep\" or how some guy liked the cut of my jib or whatever. I had a lot of notifications and I felt like I missed everything while the game progressed the story without me. I was expecting this game to be an idle game based on how it was tagged. I wouldn't really call typing up scripts and typing a lot in general being idle.\n\nThe RAM system sucks. Why would it take a GB of RAM on my home computer to run a script on someone else's computer? The script being executed isn't being ran on my home computer too. The multitasking system sucks too. The character levelling system is jarring next to the hacker-man gameplay with a working built-in IDE.\n\nI had way more fun making a js file that plays fart sounds at random intervals as long as the browser tab it's running in stays open.\n\nI dunno, maybe this game is fun if you like pretending to be a hacker or somethin'. Boring coding game, terrible idle game. Would be an alright text-based RPG but the writing throughout the game is... something else.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its really bad, nobody likes javascript. nobody is learning js just to play this game. i think if you did a game like this you should do it in a better and easy to learn language such as lua or python or even a c family language.\n\n3/10 good premise bad execution",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The ns.getPurchasedServerUpgradeCost and ns.upgradePurchasedServer won't work.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The progression is very very slow and not very rewarding...",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really wanted to play this but in the tutorial they had me copy and paste a code that didn't even work and the game says... congratulations your first code is working, when it clearly says in the terminal in red letters that it is not. How does the game let you go past a tutorial that didn't show me what to do?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Not sure the audience for this game. You essentially need to already know how to code Javascript to play the game. Sure there are in game \"guides\" but it is essentially an entire wiki you need to read on how to use Javascript to play the game. And what little \"tutorial\" that exists isn't great in how it explains and guides things. I actually got stuck in the tutorial for a bit because it told me to \"press the button\" without clearly identifying the button it was talking about. There is no learning curve, it is a learning wall. If you don't know how to code, you can't play this game. If you do know how to code, I don't know why this game would be interesting. Cool project i guess?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There's a syntax error in the first piece of code it tells you to copy and paste into the tutorial.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I made one script at the very beginning after reading the markdown docs on github and then walked away for a bit to go touch grass. I came back to a TON of cringe popup messages layered on top of each other (that I had to close out one by one) that talked about how I'm \"digging too deep\" or how some guy liked the cut of my jib or whatever. I had a lot of notifications and I felt like I missed everything while the game progressed the story without me. I was expecting this game to be an idle game based on how it was tagged. I wouldn't really call typing up scripts and typing a lot in general being idle.\n\nThe RAM system sucks. Why would it take a GB of RAM on my home computer to run a script on someone else's computer? The script being executed isn't being ran on my home computer too. The multitasking system sucks too. The character levelling system is jarring next to the hacker-man gameplay with a working built-in IDE.\n\nI had way more fun making a js file that plays fart sounds at random intervals as long as the browser tab it's running in stays open.\n\nI dunno, maybe this game is fun if you like pretending to be a hacker or somethin'. Boring coding game, terrible idle game. Would be an alright text-based RPG but the writing throughout the game is... something else.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its really bad, nobody likes javascript. nobody is learning js just to play this game. i think if you did a game like this you should do it in a better and easy to learn language such as lua or python or even a c family language.\n\n3/10 good premise bad execution",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The ns.getPurchasedServerUpgradeCost and ns.upgradePurchasedServer won't work.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The progression is very very slow and not very rewarding...",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really wanted to play this but in the tutorial they had me copy and paste a code that didn't even work and the game says... congratulations your first code is working, when it clearly says in the terminal in red letters that it is not. How does the game let you go past a tutorial that didn't show me what to do?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Not sure the audience for this game. You essentially need to already know how to code Javascript to play the game. Sure there are in game \"guides\" but it is essentially an entire wiki you need to read on how to use Javascript to play the game. And what little \"tutorial\" that exists isn't great in how it explains and guides things. I actually got stuck in the tutorial for a bit because it told me to \"press the button\" without clearly identifying the button it was talking about. There is no learning curve, it is a learning wall. If you don't know how to code, you can't play this game. If you do know how to code, I don't know why this game would be interesting. Cool project i guess?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There's a syntax error in the first piece of code it tells you to copy and paste into the tutorial.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I made one script at the very beginning after reading the markdown docs on github and then walked away for a bit to go touch grass. I came back to a TON of cringe popup messages layered on top of each other (that I had to close out one by one) that talked about how I'm \"digging too deep\" or how some guy liked the cut of my jib or whatever. I had a lot of notifications and I felt like I missed everything while the game progressed the story without me. I was expecting this game to be an idle game based on how it was tagged. I wouldn't really call typing up scripts and typing a lot in general being idle.\n\nThe RAM system sucks. Why would it take a GB of RAM on my home computer to run a script on someone else's computer? The script being executed isn't being ran on my home computer too. The multitasking system sucks too. The character levelling system is jarring next to the hacker-man gameplay with a working built-in IDE.\n\nI had way more fun making a js file that plays fart sounds at random intervals as long as the browser tab it's running in stays open.\n\nI dunno, maybe this game is fun if you like pretending to be a hacker or somethin'. Boring coding game, terrible idle game. Would be an alright text-based RPG but the writing throughout the game is... something else.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its really bad, nobody likes javascript. nobody is learning js just to play this game. i think if you did a game like this you should do it in a better and easy to learn language such as lua or python or even a c family language.\n\n3/10 good premise bad execution",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The ns.getPurchasedServerUpgradeCost and ns.upgradePurchasedServer won't work.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The progression is very very slow and not very rewarding...",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really wanted to play this but in the tutorial they had me copy and paste a code that didn't even work and the game says... congratulations your first code is working, when it clearly says in the terminal in red letters that it is not. How does the game let you go past a tutorial that didn't show me what to do?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Not sure the audience for this game. You essentially need to already know how to code Javascript to play the game. Sure there are in game \"guides\" but it is essentially an entire wiki you need to read on how to use Javascript to play the game. And what little \"tutorial\" that exists isn't great in how it explains and guides things. I actually got stuck in the tutorial for a bit because it told me to \"press the button\" without clearly identifying the button it was talking about. There is no learning curve, it is a learning wall. If you don't know how to code, you can't play this game. If you do know how to code, I don't know why this game would be interesting. Cool project i guess?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There's a syntax error in the first piece of code it tells you to copy and paste into the tutorial.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "I made one script at the very beginning after reading the markdown docs on github and then walked away for a bit to go touch grass. I came back to a TON of cringe popup messages layered on top of each other (that I had to close out one by one) that talked about how I'm \"digging too deep\" or how some guy liked the cut of my jib or whatever. I had a lot of notifications and I felt like I missed everything while the game progressed the story without me. I was expecting this game to be an idle game based on how it was tagged. I wouldn't really call typing up scripts and typing a lot in general being idle.\n\nThe RAM system sucks. Why would it take a GB of RAM on my home computer to run a script on someone else's computer? The script being executed isn't being ran on my home computer too. The multitasking system sucks too. The character levelling system is jarring next to the hacker-man gameplay with a working built-in IDE.\n\nI had way more fun making a js file that plays fart sounds at random intervals as long as the browser tab it's running in stays open.\n\nI dunno, maybe this game is fun if you like pretending to be a hacker or somethin'. Boring coding game, terrible idle game. Would be an alright text-based RPG but the writing throughout the game is... something else.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is about automation.\nThe game doesn't have a story for the first ~75 hours of gameplay WITH background programming knowledge.\n[b] I recommend Hacknet. [/b] I thought this game would be a similar story/puzzle game.\nIt feels like a second job. There is a lot to explore, but it doesn't feel rewarding. It feels like I wasted hours programming for just a Steam achievement!\nThis game is good for the first ~35-50 hours, it just gets boring over time. It's just too long.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game will not shut off and has no option to uninstall. Stay far away.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I really love the old MS-DOS graphics of this game. In fact, I made a similar game (never released it) years ago, and I was going to give it a positive review when I first started playing this game, but the game feels like a job for me, and I don't like when games either unnecessarily complex or feel like job (you have to explore too many things just to be able to play). The only exception to this rule might be Dota 2, which is too deep and you have to explore and research it, if you miss 1 year of playing and return to the game, you will feel like you launched totally new game, but Dota 2 at least feels rewarding and there are tons of content to look forward and progresses to make, so it is a never ending grind. But this game? It is literally just a Command Prompt simulator which doesn't even make you feel rewarded for doing things, you are just doing your usual coding. If I wanted to just code, I would code and make money by doing it, which again makes this game a waste of my time, in my honest opinion.",
+      "voted_up": false,
+      "votes_helpful": 0
+    }
+  ]
+}

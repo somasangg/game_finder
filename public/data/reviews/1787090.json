@@ -1,0 +1,1006 @@
+{
+  "positive": [
+    {
+      "review": "I really love this program. It lets me organize my desktop exactly the way I want. My favorite feature is MyDock—it allows me to jump straight to the programs I use most, with clear labels, instead of digging through the cluttered Windows taskbar. I’m also love Stage Manager, which makes it easy to see all open programs at a glance and switch between windows effortlessly.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have used this software for two weeks as of writing this. It was pretty stable, with only one crash that lasted just three seconds. The only problem I encountered was that the WSA icons were not appearing on the dock, and I hope the development team can fix it.\n\nI also encountered a Windows Defender alert about the 'Temperature.sys' file, but it appears to be a false positive. If you want, you can disable 'Temperatures' from 'Hardware Status' to avoid seeing that error again",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "its quite amazing with some minor tweaks you can make it look exactly like tahoe",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "This is so clean for $5 holyyyyy. The UI is rly smooth",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its just like macOS 10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "nice",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its agood recreation of the mac dock",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Yeah ts good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cute!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really awesome mac experiance",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Не нашел.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ok",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ggs",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "hnjkm",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "s",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "pretty cool software, but veryy easy to crash it down which is a massive minus for it. (i believe even idle animations can cause crash if too often it's used)\ni wish for more features, like ALT + TAB macos styled, windows prompts change to more macos styled and many more.\neither way i recommend it but please be aware you will face a lot of crashes and be patient. \"restart dock\" is your friend option.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Great app for windows customisation. If you looking apps or software for windows customisation o look like a MacOS then you should try this app or software where you can use this app or software to launch dock or Macos dock function. It is great and amazing to use.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "updated review:\nused this for some time, and while it's great, it needs some work.\n\nthe bluetooth issue i was having was seemed to have been caused by a windows update.\n\nthe software itself is wonderful in concept, but there are frequent moments when it crashes in certain interactions, or when trying to use the context menus.\n\ni wish pressing the windows button would bring up either the dock or the launchpad, but idk how hard that would be to implement.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very stable, customizable and good looking.\n\nIf you're looking for an easy way to make your windows computer look extremely different without putting much effort into it this is definitely one of the best options available.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The app gives a great Mac OS experience, but when customizing something or unluckily the app will freeze, then there is no other way but to open Task Manager and close it. That is a bit inconvenient and annoying for users including me. I think there should be a shortcut to \"Restart Dock\" for more convenience for users. Thanks!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great asf and i love it but they need to add a macos titlebar bc it adds the macos look and feel",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Haved used this for over a year but the last update has started causing windows defender to flag the temperature sensing driver from this app as a trojan for some reasono which causes the app to freeze up.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I really love this program. It lets me organize my desktop exactly the way I want. My favorite feature is MyDock—it allows me to jump straight to the programs I use most, with clear labels, instead of digging through the cluttered Windows taskbar. I’m also love Stage Manager, which makes it easy to see all open programs at a glance and switch between windows effortlessly.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have used this software for two weeks as of writing this. It was pretty stable, with only one crash that lasted just three seconds. The only problem I encountered was that the WSA icons were not appearing on the dock, and I hope the development team can fix it.\n\nI also encountered a Windows Defender alert about the 'Temperature.sys' file, but it appears to be a false positive. If you want, you can disable 'Temperatures' from 'Hardware Status' to avoid seeing that error again",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There is a little bugs in the software, but minor, could be improved but good for light users",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Its design surpasses those of any multi-billion dollar company's built-in operating system user interface. It feels really great!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "MyDockFinder, developed and published by MyDockFinder, is a Windows desktop enhancement software designed to recreate the look and feel of macOS with an emphasis on smooth visuals, functional dock management, and a refined user experience. It brings a minimalist, modern interface that replaces the traditional Windows taskbar with a customizable dock and integrates a finder-like system panel that mimics Apple’s ecosystem. The software isn’t just about aesthetics—it aims to combine visual appeal with real productivity features, giving users a way to manage windows, applications, and system tools from a single unified interface. It’s a program built for those who appreciate macOS’s design language but prefer or require the flexibility of the Windows environment.\n\nThe first thing most users notice about MyDockFinder is its visual presentation. The software succeeds at capturing the polished fluidity of macOS, with sleek animations, dynamic blur effects, and subtle transparency that give the desktop a distinctly premium appearance. The dock feels responsive and smooth, with icons bouncing or expanding upon interaction, while window previews fade in and out with cinematic precision. Each visual detail has been crafted to complement Windows’ functionality rather than override it, allowing the software to operate as an enhancement rather than a full system replacement. The customization options allow users to adjust icon spacing, size, and visual effects to match personal preferences, and the multi-monitor support ensures that the dock adapts well to different setups. The visual fidelity is further elevated by GPU-accelerated rendering, keeping performance stable even when animations are active.\n\nFunctionally, MyDockFinder provides more than just a stylish dock—it includes practical tools that integrate directly with Windows’ core features. The dock can host applications, folders, and shortcuts, offering drag-and-drop functionality that makes organizing the desktop intuitive. Its system tray and status indicators allow users to view network connections, battery levels, and system notifications without relying on Windows’ native taskbar. MyDockFinder’s accompanying Finder panel replicates the macOS control center, bundling essential utilities such as volume adjustment, screen brightness, Wi-Fi control, and media playback into a single, accessible hub. Additional features, such as system monitoring overlays for CPU, memory, and GPU usage, make it a versatile option for power users who want both information and aesthetics at a glance. There’s even support for real-time media progress display and notification integration, which enhances multitasking efficiency.\n\nPerformance-wise, the software performs admirably on most modern systems, consuming minimal resources thanks to optimized code and hardware acceleration. On computers with dedicated graphics cards or capable integrated GPUs, animations remain fluid, and input latency is negligible. However, the experience can vary depending on hardware and Windows configuration. Some users report that the dock occasionally freezes or becomes unresponsive, requiring a manual restart of the process through Task Manager. Others mention minor bugs following Windows updates, where certain visual effects or system integrations stop functioning until patched by the developer. These stability issues are not universal but are common enough to warrant caution, especially since MyDockFinder’s ongoing development is primarily handled by a small team or possibly a single developer, which can slow down the frequency of fixes or updates.\n\nOne of the more divisive aspects of MyDockFinder is its interaction with security software and Windows Defender. Because it uses low-level system hooks to control UI elements and collect system data, some antivirus programs flag it as potentially unsafe or label its temperature-monitoring driver as suspicious. In most cases, these alerts are false positives, but they highlight how deeply the program integrates with the operating system. Users who value security and stability over customization may find this intrusive, while others see it as an acceptable trade-off for its capabilities. Additionally, uninstalling the software can be less straightforward than expected—residual files or registry entries occasionally persist, and users may need to perform manual cleanup to fully remove traces of the program. This is not uncommon for desktop modification tools, but it remains an inconvenience for less experienced users.\n\nFrom a usability standpoint, MyDockFinder offers a relatively accessible setup process once installed. Customizing the dock layout is intuitive, and the interface design makes it easy to navigate through features. The Finder control panel and its menu structure are neatly organized, allowing quick access to utilities without overwhelming new users. Advanced users can fine-tune visual parameters such as transparency levels, blur intensity, and animation speed to balance beauty and performance. However, there are still some limitations in flexibility: for example, while the dock can be repositioned, multi-monitor setups may encounter alignment quirks or inconsistent scaling between screens. Some customization requests from users—like free-floating docks or advanced theming—remain absent, suggesting that MyDockFinder’s development is focused more on refinement than expansion of functionality.\n\nDespite its imperfections, the community reception for MyDockFinder has been largely positive. On Steam, it enjoys mostly favorable reviews, with users praising how effectively it transforms the Windows desktop into a polished, macOS-inspired environment. Many appreciate that it not only mimics Apple’s interface but also improves on certain aspects, offering more control and customization than macOS itself. The smoothness of transitions, combined with its detailed UI design, earns consistent praise from those who prioritize visual consistency in their workflow. On the other hand, criticism typically centers around stability, occasional bugs, and the lack of official documentation or dedicated support channels. Because updates are rolled out irregularly, users often rely on community discussions or forums for troubleshooting, which can be a mixed experience depending on one’s technical comfort level.\n\nUltimately, MyDockFinder is a creative and ambitious piece of software that occupies a unique niche between system customization and functional enhancement. It succeeds where many dock utilities fall short, offering both aesthetic refinement and practical utility without significantly hindering performance. It is a powerful tool for users who want to blend the artistic minimalism of macOS with the flexibility and freedom of Windows. Yet it also requires a degree of patience—occasional glitches, limited developer communication, and rare false security alerts mean it’s not ideal for everyone. For users who are comfortable experimenting and enjoy tailoring their desktop experience, MyDockFinder can transform Windows into something strikingly elegant and fluid. But for those who prioritize stability and simplicity, its charm may come at the cost of a few too many compromises.\n\nRating: 7/10",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Просто шедевральная утилита. ПК почти не нагружает, отличная плавность и анимации вместе с функционалом. Спасибо разработчикам 🤝",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Turns your pc into a mac.\nRuns without issues on my system.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Simple setup, infinitely customisable yet it looks very clean even in stock. cool thing, will recommend a lot",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "It works very well, and is the most stable and usable out of any tool I've tried for this purpose, including rocketdock, droptop four, and seelen ui. It does crash sometimes, but when it does you can just reopen it. The only negative for me is that sometimes icon dragging doesn't work.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "At first glance, one could easily think this is simply an OS-X EZ Skin. If you are willing to take a little time getting to know your way around and are open to exploring your creative side, you will see it is so much more. I have barely scratched the surface myself. \r\n\r\nI started with finding free icons form the web to swap parts and make it look cool (in my head anyway,LoL.) That leads to learning how to make my own (still very much learning.) The point I am trying to make is that though is seems like a simple skin tool, do not underestimate how powerful it is. \r\n\r\nTL;DR : Looks simple but has hidden powers.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I enjoy this software it makes me think im on a mac but im on window, i can become steve jobes, reccomend",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "love it\nmy laptop didnt like the window animations though so i had to turn that off",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its quite amazing with some minor tweaks you can make it look exactly like tahoe",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I like the look and its userfrendly",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good for making windows look like mac os",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is so clean for $5 holyyyyy. The UI is rly smooth",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This product replicated exactly macos that i'd dreamt for.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "windows but mac",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if your a mac user on windows i reccomend this but im not but i do like this",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its just like macOS 10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It actually good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Overall Good but need polishing",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "nice",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "is cool if u want macbook :)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "nice",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its agood recreation of the mac dock",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Nice work!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its wonderful",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "amazing",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "really well done!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VERY GOOD UI",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Yeah ts good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cute!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great app",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "fucking insane",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really awesome mac experiance",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Не нашел.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "fire",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "aslan bek",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ok",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ggs",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "👌🤩",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "hnjkm",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "123",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "s",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "pretty cool software, but veryy easy to crash it down which is a massive minus for it. (i believe even idle animations can cause crash if too often it's used)\ni wish for more features, like ALT + TAB macos styled, windows prompts change to more macos styled and many more.\neither way i recommend it but please be aware you will face a lot of crashes and be patient. \"restart dock\" is your friend option.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Great app for windows customisation. If you looking apps or software for windows customisation o look like a MacOS then you should try this app or software where you can use this app or software to launch dock or Macos dock function. It is great and amazing to use.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "updated review:\nused this for some time, and while it's great, it needs some work.\n\nthe bluetooth issue i was having was seemed to have been caused by a windows update.\n\nthe software itself is wonderful in concept, but there are frequent moments when it crashes in certain interactions, or when trying to use the context menus.\n\ni wish pressing the windows button would bring up either the dock or the launchpad, but idk how hard that would be to implement.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very stable, customizable and good looking.\n\nIf you're looking for an easy way to make your windows computer look extremely different without putting much effort into it this is definitely one of the best options available.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The app gives a great Mac OS experience, but when customizing something or unluckily the app will freeze, then there is no other way but to open Task Manager and close it. That is a bit inconvenient and annoying for users including me. I think there should be a shortcut to \"Restart Dock\" for more convenience for users. Thanks!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great asf and i love it but they need to add a macos titlebar bc it adds the macos look and feel",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Haved used this for over a year but the last update has started causing windows defender to flag the temperature sensing driver from this app as a trojan for some reasono which causes the app to freeze up.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I really love this program. It lets me organize my desktop exactly the way I want. My favorite feature is MyDock—it allows me to jump straight to the programs I use most, with clear labels, instead of digging through the cluttered Windows taskbar. I’m also love Stage Manager, which makes it easy to see all open programs at a glance and switch between windows effortlessly.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have used this software for two weeks as of writing this. It was pretty stable, with only one crash that lasted just three seconds. The only problem I encountered was that the WSA icons were not appearing on the dock, and I hope the development team can fix it.\n\nI also encountered a Windows Defender alert about the 'Temperature.sys' file, but it appears to be a false positive. If you want, you can disable 'Temperatures' from 'Hardware Status' to avoid seeing that error again",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There is a little bugs in the software, but minor, could be improved but good for light users",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Its design surpasses those of any multi-billion dollar company's built-in operating system user interface. It feels really great!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "MyDockFinder, developed and published by MyDockFinder, is a Windows desktop enhancement software designed to recreate the look and feel of macOS with an emphasis on smooth visuals, functional dock management, and a refined user experience. It brings a minimalist, modern interface that replaces the traditional Windows taskbar with a customizable dock and integrates a finder-like system panel that mimics Apple’s ecosystem. The software isn’t just about aesthetics—it aims to combine visual appeal with real productivity features, giving users a way to manage windows, applications, and system tools from a single unified interface. It’s a program built for those who appreciate macOS’s design language but prefer or require the flexibility of the Windows environment.\n\nThe first thing most users notice about MyDockFinder is its visual presentation. The software succeeds at capturing the polished fluidity of macOS, with sleek animations, dynamic blur effects, and subtle transparency that give the desktop a distinctly premium appearance. The dock feels responsive and smooth, with icons bouncing or expanding upon interaction, while window previews fade in and out with cinematic precision. Each visual detail has been crafted to complement Windows’ functionality rather than override it, allowing the software to operate as an enhancement rather than a full system replacement. The customization options allow users to adjust icon spacing, size, and visual effects to match personal preferences, and the multi-monitor support ensures that the dock adapts well to different setups. The visual fidelity is further elevated by GPU-accelerated rendering, keeping performance stable even when animations are active.\n\nFunctionally, MyDockFinder provides more than just a stylish dock—it includes practical tools that integrate directly with Windows’ core features. The dock can host applications, folders, and shortcuts, offering drag-and-drop functionality that makes organizing the desktop intuitive. Its system tray and status indicators allow users to view network connections, battery levels, and system notifications without relying on Windows’ native taskbar. MyDockFinder’s accompanying Finder panel replicates the macOS control center, bundling essential utilities such as volume adjustment, screen brightness, Wi-Fi control, and media playback into a single, accessible hub. Additional features, such as system monitoring overlays for CPU, memory, and GPU usage, make it a versatile option for power users who want both information and aesthetics at a glance. There’s even support for real-time media progress display and notification integration, which enhances multitasking efficiency.\n\nPerformance-wise, the software performs admirably on most modern systems, consuming minimal resources thanks to optimized code and hardware acceleration. On computers with dedicated graphics cards or capable integrated GPUs, animations remain fluid, and input latency is negligible. However, the experience can vary depending on hardware and Windows configuration. Some users report that the dock occasionally freezes or becomes unresponsive, requiring a manual restart of the process through Task Manager. Others mention minor bugs following Windows updates, where certain visual effects or system integrations stop functioning until patched by the developer. These stability issues are not universal but are common enough to warrant caution, especially since MyDockFinder’s ongoing development is primarily handled by a small team or possibly a single developer, which can slow down the frequency of fixes or updates.\n\nOne of the more divisive aspects of MyDockFinder is its interaction with security software and Windows Defender. Because it uses low-level system hooks to control UI elements and collect system data, some antivirus programs flag it as potentially unsafe or label its temperature-monitoring driver as suspicious. In most cases, these alerts are false positives, but they highlight how deeply the program integrates with the operating system. Users who value security and stability over customization may find this intrusive, while others see it as an acceptable trade-off for its capabilities. Additionally, uninstalling the software can be less straightforward than expected—residual files or registry entries occasionally persist, and users may need to perform manual cleanup to fully remove traces of the program. This is not uncommon for desktop modification tools, but it remains an inconvenience for less experienced users.\n\nFrom a usability standpoint, MyDockFinder offers a relatively accessible setup process once installed. Customizing the dock layout is intuitive, and the interface design makes it easy to navigate through features. The Finder control panel and its menu structure are neatly organized, allowing quick access to utilities without overwhelming new users. Advanced users can fine-tune visual parameters such as transparency levels, blur intensity, and animation speed to balance beauty and performance. However, there are still some limitations in flexibility: for example, while the dock can be repositioned, multi-monitor setups may encounter alignment quirks or inconsistent scaling between screens. Some customization requests from users—like free-floating docks or advanced theming—remain absent, suggesting that MyDockFinder’s development is focused more on refinement than expansion of functionality.\n\nDespite its imperfections, the community reception for MyDockFinder has been largely positive. On Steam, it enjoys mostly favorable reviews, with users praising how effectively it transforms the Windows desktop into a polished, macOS-inspired environment. Many appreciate that it not only mimics Apple’s interface but also improves on certain aspects, offering more control and customization than macOS itself. The smoothness of transitions, combined with its detailed UI design, earns consistent praise from those who prioritize visual consistency in their workflow. On the other hand, criticism typically centers around stability, occasional bugs, and the lack of official documentation or dedicated support channels. Because updates are rolled out irregularly, users often rely on community discussions or forums for troubleshooting, which can be a mixed experience depending on one’s technical comfort level.\n\nUltimately, MyDockFinder is a creative and ambitious piece of software that occupies a unique niche between system customization and functional enhancement. It succeeds where many dock utilities fall short, offering both aesthetic refinement and practical utility without significantly hindering performance. It is a powerful tool for users who want to blend the artistic minimalism of macOS with the flexibility and freedom of Windows. Yet it also requires a degree of patience—occasional glitches, limited developer communication, and rare false security alerts mean it’s not ideal for everyone. For users who are comfortable experimenting and enjoy tailoring their desktop experience, MyDockFinder can transform Windows into something strikingly elegant and fluid. But for those who prioritize stability and simplicity, its charm may come at the cost of a few too many compromises.\n\nRating: 7/10",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Просто шедевральная утилита. ПК почти не нагружает, отличная плавность и анимации вместе с функционалом. Спасибо разработчикам 🤝",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Turns your pc into a mac.\nRuns without issues on my system.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Simple setup, infinitely customisable yet it looks very clean even in stock. cool thing, will recommend a lot",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "It works very well, and is the most stable and usable out of any tool I've tried for this purpose, including rocketdock, droptop four, and seelen ui. It does crash sometimes, but when it does you can just reopen it. The only negative for me is that sometimes icon dragging doesn't work.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "At first glance, one could easily think this is simply an OS-X EZ Skin. If you are willing to take a little time getting to know your way around and are open to exploring your creative side, you will see it is so much more. I have barely scratched the surface myself. \r\n\r\nI started with finding free icons form the web to swap parts and make it look cool (in my head anyway,LoL.) That leads to learning how to make my own (still very much learning.) The point I am trying to make is that though is seems like a simple skin tool, do not underestimate how powerful it is. \r\n\r\nTL;DR : Looks simple but has hidden powers.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I enjoy this software it makes me think im on a mac but im on window, i can become steve jobes, reccomend",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "love it\nmy laptop didnt like the window animations though so i had to turn that off",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its quite amazing with some minor tweaks you can make it look exactly like tahoe",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I like the look and its userfrendly",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good for making windows look like mac os",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is so clean for $5 holyyyyy. The UI is rly smooth",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This product replicated exactly macos that i'd dreamt for.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "windows but mac",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if your a mac user on windows i reccomend this but im not but i do like this",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its just like macOS 10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It actually good",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "I had just set up my computer and after downloading this program, it created a user account and took over my computer. What kind of virus are you selling on Steam?",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "Keep getting virus warnings - nice handling of your software.\nUninstalling.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems to crash anytime you select workshop or preferences to change anything about it. \nI'd love to give this a go, but it just doesn't work sadly.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So bunz even after i uninstalled it stayed there so i had to do a system restore to get rid of it dont recommend",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "buggy and useless",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VIRUS TROJAN\r\nSits idle for about a week, then installs trojan viruses into temperature.sys, which scrapes your PC and monitors keyboard presses for usernames and passwords. Steam uninstall doesn't remove it",
+      "voted_up": false,
+      "votes_helpful": 18
+    },
+    {
+      "review": "looks cool but my ass cheeks are better optimized than this piece of garbage, it is just ridiculous, it crashes atleast 3 times a day like a hoe, after it crashes you cant even alt tab to a different window",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "I had just set up my computer and after downloading this program, it created a user account and took over my computer. What kind of virus are you selling on Steam?",
+      "voted_up": false,
+      "votes_helpful": 11
+    },
+    {
+      "review": "Keep getting virus warnings - nice handling of your software.\nUninstalling.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "The app worked good at first, then eventually would be buggy. It would hide all the apps, you can't open anything. the only thing you can do to resolve issue has a manual power off. Loved it at first but eventually went bad. Won't recommend.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Seems to crash anytime you select workshop or preferences to change anything about it. \nI'd love to give this a go, but it just doesn't work sadly.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The software suffers from noticeable delays, poor optimization, and an awkwardly placed start menu.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the app sucks, have constant bugs and you can get a way better experience for free by downloading seelen ui.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This software isnt remotley near macs operating system and runs incredably slowly",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So bunz even after i uninstalled it stayed there so i had to do a system restore to get rid of it dont recommend",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "buggy and useless",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "trojan remove steam",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The temp sensor is a trojan",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "параша еьаная",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "bad",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "dont",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VIRUS TROJAN\r\nSits idle for about a week, then installs trojan viruses into temperature.sys, which scrapes your PC and monitors keyboard presses for usernames and passwords. Steam uninstall doesn't remove it",
+      "voted_up": false,
+      "votes_helpful": 18
+    },
+    {
+      "review": "looks cool but my ass cheeks are better optimized than this piece of garbage, it is just ridiculous, it crashes atleast 3 times a day like a hoe, after it crashes you cant even alt tab to a different window",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "I had just set up my computer and after downloading this program, it created a user account and took over my computer. What kind of virus are you selling on Steam?",
+      "voted_up": false,
+      "votes_helpful": 11
+    },
+    {
+      "review": "Keep getting virus warnings - nice handling of your software.\nUninstalling.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "The app worked good at first, then eventually would be buggy. It would hide all the apps, you can't open anything. the only thing you can do to resolve issue has a manual power off. Loved it at first but eventually went bad. Won't recommend.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Seems to crash anytime you select workshop or preferences to change anything about it. \nI'd love to give this a go, but it just doesn't work sadly.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The software suffers from noticeable delays, poor optimization, and an awkwardly placed start menu.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the app sucks, have constant bugs and you can get a way better experience for free by downloading seelen ui.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This software isnt remotley near macs operating system and runs incredably slowly",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So bunz even after i uninstalled it stayed there so i had to do a system restore to get rid of it dont recommend",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "buggy and useless",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "trojan remove steam",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The temp sensor is a trojan",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "параша еьаная",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "bad",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "dont",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VIRUS TROJAN\r\nSits idle for about a week, then installs trojan viruses into temperature.sys, which scrapes your PC and monitors keyboard presses for usernames and passwords. Steam uninstall doesn't remove it",
+      "voted_up": false,
+      "votes_helpful": 18
+    },
+    {
+      "review": "looks cool but my ass cheeks are better optimized than this piece of garbage, it is just ridiculous, it crashes atleast 3 times a day like a hoe, after it crashes you cant even alt tab to a different window",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "I had just set up my computer and after downloading this program, it created a user account and took over my computer. What kind of virus are you selling on Steam?",
+      "voted_up": false,
+      "votes_helpful": 11
+    },
+    {
+      "review": "Keep getting virus warnings - nice handling of your software.\nUninstalling.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "The app worked good at first, then eventually would be buggy. It would hide all the apps, you can't open anything. the only thing you can do to resolve issue has a manual power off. Loved it at first but eventually went bad. Won't recommend.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Seems to crash anytime you select workshop or preferences to change anything about it. \nI'd love to give this a go, but it just doesn't work sadly.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The software suffers from noticeable delays, poor optimization, and an awkwardly placed start menu.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the app sucks, have constant bugs and you can get a way better experience for free by downloading seelen ui.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This software isnt remotley near macs operating system and runs incredably slowly",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So bunz even after i uninstalled it stayed there so i had to do a system restore to get rid of it dont recommend",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "buggy and useless",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "trojan remove steam",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The temp sensor is a trojan",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "параша еьаная",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "bad",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "dont",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VIRUS TROJAN\r\nSits idle for about a week, then installs trojan viruses into temperature.sys, which scrapes your PC and monitors keyboard presses for usernames and passwords. Steam uninstall doesn't remove it",
+      "voted_up": false,
+      "votes_helpful": 18
+    },
+    {
+      "review": "looks cool but my ass cheeks are better optimized than this piece of garbage, it is just ridiculous, it crashes atleast 3 times a day like a hoe, after it crashes you cant even alt tab to a different window",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "I had just set up my computer and after downloading this program, it created a user account and took over my computer. What kind of virus are you selling on Steam?",
+      "voted_up": false,
+      "votes_helpful": 11
+    },
+    {
+      "review": "Keep getting virus warnings - nice handling of your software.\nUninstalling.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "The app worked good at first, then eventually would be buggy. It would hide all the apps, you can't open anything. the only thing you can do to resolve issue has a manual power off. Loved it at first but eventually went bad. Won't recommend.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Seems to crash anytime you select workshop or preferences to change anything about it. \nI'd love to give this a go, but it just doesn't work sadly.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The software suffers from noticeable delays, poor optimization, and an awkwardly placed start menu.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the app sucks, have constant bugs and you can get a way better experience for free by downloading seelen ui.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This software isnt remotley near macs operating system and runs incredably slowly",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So bunz even after i uninstalled it stayed there so i had to do a system restore to get rid of it dont recommend",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "buggy and useless",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "trojan remove steam",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The temp sensor is a trojan",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "параша еьаная",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "bad",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "dont",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VIRUS TROJAN\r\nSits idle for about a week, then installs trojan viruses into temperature.sys, which scrapes your PC and monitors keyboard presses for usernames and passwords. Steam uninstall doesn't remove it",
+      "voted_up": false,
+      "votes_helpful": 18
+    },
+    {
+      "review": "looks cool but my ass cheeks are better optimized than this piece of garbage, it is just ridiculous, it crashes atleast 3 times a day like a hoe, after it crashes you cant even alt tab to a different window",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "I had just set up my computer and after downloading this program, it created a user account and took over my computer. What kind of virus are you selling on Steam?",
+      "voted_up": false,
+      "votes_helpful": 11
+    },
+    {
+      "review": "Keep getting virus warnings - nice handling of your software.\nUninstalling.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "The app worked good at first, then eventually would be buggy. It would hide all the apps, you can't open anything. the only thing you can do to resolve issue has a manual power off. Loved it at first but eventually went bad. Won't recommend.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Seems to crash anytime you select workshop or preferences to change anything about it. \nI'd love to give this a go, but it just doesn't work sadly.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The software suffers from noticeable delays, poor optimization, and an awkwardly placed start menu.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the app sucks, have constant bugs and you can get a way better experience for free by downloading seelen ui.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This software isnt remotley near macs operating system and runs incredably slowly",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So bunz even after i uninstalled it stayed there so i had to do a system restore to get rid of it dont recommend",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "buggy and useless",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "trojan remove steam",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The temp sensor is a trojan",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "параша еьаная",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "bad",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "dont",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VIRUS TROJAN\r\nSits idle for about a week, then installs trojan viruses into temperature.sys, which scrapes your PC and monitors keyboard presses for usernames and passwords. Steam uninstall doesn't remove it",
+      "voted_up": false,
+      "votes_helpful": 18
+    },
+    {
+      "review": "looks cool but my ass cheeks are better optimized than this piece of garbage, it is just ridiculous, it crashes atleast 3 times a day like a hoe, after it crashes you cant even alt tab to a different window",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "I had just set up my computer and after downloading this program, it created a user account and took over my computer. What kind of virus are you selling on Steam?",
+      "voted_up": false,
+      "votes_helpful": 11
+    },
+    {
+      "review": "Keep getting virus warnings - nice handling of your software.\nUninstalling.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "The app worked good at first, then eventually would be buggy. It would hide all the apps, you can't open anything. the only thing you can do to resolve issue has a manual power off. Loved it at first but eventually went bad. Won't recommend.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Seems to crash anytime you select workshop or preferences to change anything about it. \nI'd love to give this a go, but it just doesn't work sadly.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The software suffers from noticeable delays, poor optimization, and an awkwardly placed start menu.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the app sucks, have constant bugs and you can get a way better experience for free by downloading seelen ui.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This software isnt remotley near macs operating system and runs incredably slowly",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So bunz even after i uninstalled it stayed there so i had to do a system restore to get rid of it dont recommend",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "buggy and useless",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "trojan remove steam",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The temp sensor is a trojan",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "параша еьаная",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "bad",
+      "voted_up": false,
+      "votes_helpful": 1
+    }
+  ]
+}

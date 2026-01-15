@@ -1,0 +1,801 @@
+{
+  "positive": [
+    {
+      "review": "My master thesis progress was paused for 7 days because of this game. 10 out of 10 would procrastinate again.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really nice game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I am glad I finally got my wife addicted to another making-food type of game. It's essentially how our marriage is maintained now.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Charming and easy to pick up! I love that you can replay levels with increased difficulty. I look forward to watching the rest of the early access unfold, as there are small clunky elements that I'm certain will improve with more updates.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if you love plate up youll love this! my only complaint is no local and online co-op at the same time. my partner and i cant play online with our other friends. hopefully this changes once the game is fully released 1.0",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "There's really no game out there that's like feed the cups!! Making food/drinks with controlled chaos... but how accomplishing is completely up to us players!! We can make it easy and satisfying~ or make it hard on ourselves with insane menu options! It's so much better than overcooked where the game trying to screw you and that's the only thing fun about it. There is also amazing replayability with gift choosing/meta combination!! It truly is an awesome game both from the theme/art to game play/mechanics!!",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Though the core team has made some pretty controversial statements and the updates are super slow\\\\\\, this game is still one of this kind for me right now\\\\\\ I've always wanted to chill in a bobashop, and this game basically let me live that out in cyberspace, solid flow and various drinks. one thing worth griping about is that some of the debuffs are straightup broken, once u pull one, the round feels practically unwinnable. btw I've never qued up with friends in this game so I can't speak to the co op side. Thats the gist.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I love this game so much I started working at a bubble tea shop in real life to see if it's the same~ pretty accurate!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "as a solo player, Feed the Cups is so much fun! the feel of the game is different enough from overcooked, plateup and cooking sim, that it's now a permanent addition to my cooking game collection. where overcooked throws novel complications (moving stations, player-controlled platforms, ice/fire lvls, etc.), plateup throws time, space and floor management, and cooking sim yeets wonky 3d physics at you, feed the cups' bread and butter is requiring you to fulfill orders within seconds with near perfect accuracy while balancing inventory, space, stress, and cleanliness management with every order and potential customer. \nalthough both ftc and pu feature talent/resource selection inbetween days, ftc has a breakneck pace due to the stall setup. the customers will leave if their order is not taken or fulfilled quickly enough, and a mistake means you've wasted not just time, but resources. i think the most different aspect of ftc is how you deal with purchased resources.\nat the beginning of your first shift, you're met with a brand new location and boxes of supplies that need to be taken in and stocked before being torn down and trashed. not that big of a deal early game, but come the last few days when you've added a recipe that needs 3 new ingredients and a new cup size, you'll find that space management becomes a huge factor. \nadded to that, every buff (aside from reputation gifts) comes with an \"equal\" anti-buff and these are potentially devastating. tho, not enough to make you lose outright, unless you've already been screwing up. \n\noverall, i feel like this game truly stands on it's own legs apart from other popular games in the genre. \n\np.s. if you really cannot handle even cheeky depictions of the devil/pentagrams, this game is 1000% not for you. you will have no choice but to interact with the devil and his contracts.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "We're feeding the cups with cups, are the cups we're feeding the cups also sentient cups?",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "i love this game its so cute but so hardddddddd urggh",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "fun little game for 2ppl",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very fun, highly recommend",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Very good game, makes me feel like a starbucks employee",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "like it",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "⡠⠄⢔⡤⣤⣢⣄⢦⣔⣤⣢⣤⣢⣔⣤⣢⣔⣤⢦⣔⣤⣔⣤⣰⣄⣔⢤⡠⢤⢠⢄⡢⣄⢤⣄⢔⢤⣠⣢⣤⣢⣄⢦⡰⣤⣰⣤⣢⣴⣄⡦⣠⣔⡤⡠⢂\n⠢⢊⢾⣙⠕⠑⡉⠙⢈⠋⠘⡐⢁⠙⡈⠃⡑⠉⡉⢉⠊⠊⢊⠑⠍⠋⠓⡙⠏⠫⢋⠛⠞⠕⠻⠙⠇⠫⠊⢃⠙⡈⠋⠙⠑⡉⠊⠑⠁⢍⠙⡁⢹⣽⡳⢄\n⢆⢑⣝⡇⢂⠐⠠⠁⢂⠈⡐⢀⠂⡐⢀⠡⠐⡀⠢⠠⠈⢂⠐⡀⠊⠠⢁⠄⡈⢂⠁⡐⢀⠊⠠⠁⢌⠀⢊⠀⡂⠨⠀⠅⠨⠀⠌⡈⠂⠄⢂⠐⢨⢾⡕⢄\n⠤⡡⣻⠎⠄⠡⠈⢄⠁⡐⢀⠂⡐⠠⠁⡐⢀⠂⠔⠠⠁⢂⠄⠨⡀⡁⢂⠠⠂⡐⢀⠢⠠⠈⠄⠡⡀⠌⡀⠢⠀⠊⠠⠁⠌⠂⠂⠄⡁⠢⠀⠅⢸⢷⡣⢂\n⢂⢞⣽⠃⠌⠐⡁⠐⠄⢄⢁⠐⠄⡈⢐⠀⡂⢐⠈⠄⡁⠂⠄⠡⠀⠔⢀⠂⡐⢀⠂⡐⠠⠁⠌⠠⠐⡀⠂⠌⠠⠑⠈⢄⢡⣊⣔⣔⢄⠌⠠⡁⢘⣯⡎⡢\n⢂⢝⣮⠁⡊⣴⢮⣢⣆⢤⢀⠂⡂⠐⠄⢂⠐⠄⠨⡠⣄⢥⡈⢄⢁⠂⠔⡠⣂⢔⡀⡂⠌⠠⠁⢌⠠⠈⠄⡡⣈⣢⣳⢷⣯⣷⣯⣟⣿⢮⣆⠐⢬⡾⡪⡐\n⢁⢟⣮⠂⣘⣾⡻⡯⣿⢿⣟⣷⣬⣂⡁⢂⠐⣈⢞⣾⣻⣽⣟⣾⢧⣟⣾⡻⣯⢿⣻⣞⣦⣳⢮⣢⠔⡡⣸⡺⣾⣽⣟⣯⣿⣾⢿⡫⣞⢻⣷⢅⢪⡾⡕⠰\n⠠⡹⡧⡃⢜⣷⣻⢪⢞⣟⣿⣿⣻⡿⣷⣤⢑⡾⣻⠧⡣⣿⡺⢕⠿⡹⢎⣕⢪⡚⢴⢵⡣⣫⣿⣻⣯⢯⣻⢽⣞⢾⣪⣿⣽⡯⡻⡜⡮⣳⢟⡧⢳⡽⡊⢜\n⠢⡹⣞⠄⣫⣾⢯⡣⠋⠜⠱⣿⣻⢿⢿⣷⣻⡿⣝⢪⢪⠳⣍⢎⡣⡫⡲⡡⢇⢝⢆⢷⢸⢕⢕⢕⡵⣫⠳⡱⡱⣣⣿⣯⣟⠪⢙⢾⣕⢽⣫⡟⢬⣟⡌⡂\n⢃⢾⣫⠪⣺⣯⡣⠑⠁⠠⠀⠹⣿⣯⡪⡺⡽⣟⡵⡱⣓⢕⢎⢎⢎⢎⠮⡪⡣⡫⡪⡣⡳⣕⢝⢼⢕⢭⢪⡣⣙⠞⡷⣿⢇⠀⡑⠁⢊⡽⢯⠎⡸⣞⡎⡐\n⠔⢵⡯⡊⠘⢕⢟⠄⠁⠂⢁⠐⢽⣾⣕⢍⢞⢜⢮⡪⣕⢕⡕⣕⢕⢕⢝⢜⡪⣪⢚⡜⡪⡲⡱⢕⢕⡕⣕⢎⢮⠱⡽⣿⠢⠀⠄⡈⢔⣽⡢⢁⠸⣽⢎⠌\n⢑⢺⣞⠄⠑⢺⣟⣮⡀⠡⠀⠢⣣⢟⡜⡕⣝⢪⠲⡕⢎⢎⠮⡢⡫⡪⡕⡕⣕⢪⡪⡪⢎⢵⡩⡪⡣⡳⡡⣣⢣⡫⡪⣫⢇⠨⠀⠄⢈⢎⡧⡁⠰⣻⡦⡡\n⢄⢣⣟⠌⡂⠐⡩⣻⡊⢂⠠⡱⣕⣝⢜⢜⢬⡪⡣⡫⡪⡣⡫⡪⡪⢎⠮⡪⡪⡲⣑⢝⡪⢲⠱⡩⡪⡪⡪⡲⡱⡱⡱⣙⢮⡲⡡⣀⢊⢗⣿⡊⢐⣽⡖⡌\n⠢⢱⣏⠎⠠⠈⢔⣿⣵⣣⡳⡹⡢⣇⢳⠱⡕⣜⢌⢪⢪⠪⡪⡪⡣⡫⡪⡕⡭⡪⡪⡪⡘⡬⡣⣑⢕⢭⢪⡚⣜⢜⢕⢕⠵⡕⣽⡨⡷⣟⠝⠌⠀⢾⡯⠢\n⠑⡜⣾⡑⢁⠈⢂⠫⠞⡝⣵⢫⡪⡪⡕⡝⡌⢆⡳⡱⢕⢝⡢⣕⢕⢭⢪⡪⡪⣪⢪⡪⡪⡪⡪⡪⡪⡲⢕⢜⠴⡱⡕⡕⣝⢪⢮⡻⣷⢾⡀⢊⠀⢯⡗⢕\n⠢⠙⠮⡊⢀⠡⠐⢀⢪⣟⢾⢧⡫⣪⢪⡪⡪⡕⡕⡭⡪⡣⣚⠴⡱⡱⡕⡜⡕⡕⡕⢎⢮⡱⣙⢜⡪⡪⣣⡙⣎⢳⡸⡪⡜⣕⢏⣟⣮⣳⠀⡂⠈⢾⡿⡄\n⢑⢍⡾⡔⡀⢂⠁⠂⢼⡽⣯⣣⢕⡕⡕⡕⡵⢪⡪⣪⢪⡪⡪⡕⡝⡜⣜⢪⡪⣚⢜⢕⢕⢎⢮⡪⣪⢚⠴⣩⠲⡱⡪⡪⡪⢮⡪⣮⢾⣽⡣⡠⠁⡻⣞⠔\n⡁⢆⢿⡣⠂⢄⠁⣪⢮⣟⢷⡳⡵⡹⡜⡪⡪⣓⢜⢮⣵⣕⣗⢝⡼⣌⠮⡲⡱⡱⡱⣝⢎⢗⣵⣯⣾⣽⡣⣣⢫⢪⡪⡪⡳⢕⡝⣯⣻⣯⠳⠀⠂⣽⣧⠑\n⠜⡐⣟⠦⠁⢄⠈⠎⢿⡽⣽⡝⡝⡮⡪⣎⢕⡹⣪⢷⡟⢞⣯⡻⣪⢮⡚⣜⢜⢪⢎⡾⡱⣝⢳⢕⢮⡺⣏⠮⡲⡱⡱⡱⣍⢞⣼⡹⣝⣗⠃⠌⡀⢷⣝⢅\n⠔⡱⣽⠣⡁⢂⠈⡐⢀⢟⣿⢎⡯⣚⢮⠲⡕⡕⡵⡹⢜⢗⡼⡪⣎⢷⡝⡴⣩⢪⣗⢽⢪⢧⡫⣳⠑⡕⡜⢕⠝⠜⡱⡳⣪⢯⡾⡻⡻⡊⢂⠐⡀⣟⢷⢁\n⠢⢪⣾⡑⡀⢂⠐⡀⠂⠌⡹⢿⣽⡞⢅⠃⢈⠂⠌⠂⠡⢑⠉⡊⠎⢎⢿⡔⣕⢵⣣⢏⢧⠳⡑⢅⠁⠌⢈⠂⠨⠀⢌⢕⣾⡫⡟⡕⡀⠐⠠⠂⡠⣻⡣⡡\n⢊⢜⣧⠑⡀⠢⠠⡈⠐⢄⢪⣿⣳⡝⣤⣢⡢⢀⠄⡁⠐⠀⠘⢔⠀⠄⣽⣿⣿⣿⣷⠑⠄⠂⡐⠔⠈⢀⢂⢴⣕⡿⡾⡻⡓⡑⠠⠠⢀⠡⢁⠐⡨⣾⢇⠔\n⠢⣱⣏⠆⠐⠐⠄⠠⠁⢄⢁⠋⡓⠌⠐⠙⠯⡻⣞⢿⢯⢷⣥⣫⡣⠈⠻⡿⣿⡿⡋⠠⢀⢜⣌⢦⢾⡵⡿⡫⠓⠁⠌⠠⡈⢀⠂⢂⠐⡀⠢⢀⠘⣾⡣⡑\n⠘⢴⢯⡊⢈⠐⡈⠄⠡⠠⢀⠂⡐⢈⠈⡂⠐⠄⠠⠁⠄⠑⠽⢷⣻⣔⢀⠈⡪⢃⠀⡂⣬⣟⠯⠂⠡⢈⠌⡀⠡⢈⠂⢂⠐⡀⠡⠐⡀⠂⠔⢀⢑⣽⢆⠕\n⢁⠳⣯⢂⠁⡐⠠⠈⢄⠁⡂⠐⠄⠂⢄⠨⢀⠡⠈⠄⡑⠐⡀⠑⢍⠟⡿⢾⡴⣧⠮⢾⠳⠍⠂⠑⠐⠠⠠⠀⢅⠠⠂⡁⠐⠠⠁⡂⢈⠐⠈⠄⠰⣽⡇⠪\n⠡⡹⣮⠅⠂⡨⠀⡡⠐⠠⠠⡁⢈⠂⠄⠂⠄⢂⠁⡂⢐⠈⠠⠁⠄⠂⠨⠀⡡⠈⠄⡁⠌⠠⢁⠡⠁⡂⠡⢈⠀⡂⠐⠠⠁⠌⠂⡐⢀⢁⠡⠈⠂⣿⣌⠣\n⢊⢜⣳⡣⣂⢔⢄⡢⣈⢔⢤⡠⣅⢔⣌⢤⡡⣢⣐⢄⢆⡬⣠⡡⣌⣄⢕⡔⣤⣬⣔⣤⢮⣴⣤⡢⣢⣤⣕⣤⣥⣬⣮⡲⣵⣬⣦⢮⣴⣤⢷⣼⡢⡻⢎⠆\n⠡⢂⢍⠙⡍⢛⠍⡫⢙⠫⡋⢛⠝⠫⡙⠝⡙⢍⠫⡋⢛⠝⡙⠝⢍⠫⢋⠝⡡⢋⠜⡡⢉⠎⠍⢝⠩⢊⠍⢍⠪⡈⢆⢑⠡⡂⡑⡑⢌⠌⡢⠨⡂⡑⠔⡨\n\nIt’s a good game! I play with my friend who’s overseas (about 8+ hours away), and it works perfectly with Remote Play. I use a controller while my friend plays as Player 1 and I’m Player 2.\n\nI haven’t noticed any of the translation issues mentioned in earlier reviews — it seems like the developers have fixed those. For the price, this is a solid game. Some levels are pretty challenging, and there are tons of maps and a wide variety of different drinks to make.\n\nIt’s not a casual, laid-back, “healing” type of game — you’re working in a café with high-demand customers, kind of like PlateUp! Overall, I highly recommend it!\n\nP.s. The fox is Good for the second area, lots of stirring involved. (unlocked fast stir at level 2)",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I'm loving this game.  It's like a combination of Overcooked with the old Cake Mania.  You need to be able to manage your inventory, as well as your drinks.  It starts off easy, but gets very difficult very quickly.  I've been struggling on a number of levels as well as some of the higher difficulties.  I'll be sinking a bunch more hours into this one!\r\nI know this is early access, so here are a couple of my quibbles with the game.\r\nI'm not a huge fan of the devil character - I really would not have expected that in such a cute graphical style.  I also wish there was a way to start a day over (even if it's only once per week), as sometimes I've just made a massive ordering mistake.  A couple of other small visual things (like the steam is hard to see compared to the stale graphic), and it can be really hard to see what is or isn't already in the cup (so you get things wrong without knowing why).",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Help, my husband is addicted to this game and now he wouldn't let me go to sleep if we hadn't played at least one game together every night.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "My master thesis progress was paused for 7 days because of this game. 10 out of 10 would procrastinate again.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Charming and easy to pick up! I love that you can replay levels with increased difficulty. I look forward to watching the rest of the early access unfold, as there are small clunky elements that I'm certain will improve with more updates.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if you love plate up youll love this! my only complaint is no local and online co-op at the same time. my partner and i cant play online with our other friends. hopefully this changes once the game is fully released 1.0",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "There's really no game out there that's like feed the cups!! Making food/drinks with controlled chaos... but how accomplishing is completely up to us players!! We can make it easy and satisfying~ or make it hard on ourselves with insane menu options! It's so much better than overcooked where the game trying to screw you and that's the only thing fun about it. There is also amazing replayability with gift choosing/meta combination!! It truly is an awesome game both from the theme/art to game play/mechanics!!",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Though the core team has made some pretty controversial statements and the updates are super slow\\\\\\, this game is still one of this kind for me right now\\\\\\ I've always wanted to chill in a bobashop, and this game basically let me live that out in cyberspace, solid flow and various drinks. one thing worth griping about is that some of the debuffs are straightup broken, once u pull one, the round feels practically unwinnable. btw I've never qued up with friends in this game so I can't speak to the co op side. Thats the gist.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I love this game so much I started working at a bubble tea shop in real life to see if it's the same~ pretty accurate!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "as a solo player, Feed the Cups is so much fun! the feel of the game is different enough from overcooked, plateup and cooking sim, that it's now a permanent addition to my cooking game collection. where overcooked throws novel complications (moving stations, player-controlled platforms, ice/fire lvls, etc.), plateup throws time, space and floor management, and cooking sim yeets wonky 3d physics at you, feed the cups' bread and butter is requiring you to fulfill orders within seconds with near perfect accuracy while balancing inventory, space, stress, and cleanliness management with every order and potential customer. \nalthough both ftc and pu feature talent/resource selection inbetween days, ftc has a breakneck pace due to the stall setup. the customers will leave if their order is not taken or fulfilled quickly enough, and a mistake means you've wasted not just time, but resources. i think the most different aspect of ftc is how you deal with purchased resources.\nat the beginning of your first shift, you're met with a brand new location and boxes of supplies that need to be taken in and stocked before being torn down and trashed. not that big of a deal early game, but come the last few days when you've added a recipe that needs 3 new ingredients and a new cup size, you'll find that space management becomes a huge factor. \nadded to that, every buff (aside from reputation gifts) comes with an \"equal\" anti-buff and these are potentially devastating. tho, not enough to make you lose outright, unless you've already been screwing up. \n\noverall, i feel like this game truly stands on it's own legs apart from other popular games in the genre. \n\np.s. if you really cannot handle even cheeky depictions of the devil/pentagrams, this game is 1000% not for you. you will have no choice but to interact with the devil and his contracts.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "We're feeding the cups with cups, are the cups we're feeding the cups also sentient cups?",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "i love this game its so cute but so hardddddddd urggh",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "fun little game for 2ppl",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very fun, highly recommend",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Very good game, makes me feel like a starbucks employee",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Really nice game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "like it",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "⡠⠄⢔⡤⣤⣢⣄⢦⣔⣤⣢⣤⣢⣔⣤⣢⣔⣤⢦⣔⣤⣔⣤⣰⣄⣔⢤⡠⢤⢠⢄⡢⣄⢤⣄⢔⢤⣠⣢⣤⣢⣄⢦⡰⣤⣰⣤⣢⣴⣄⡦⣠⣔⡤⡠⢂\n⠢⢊⢾⣙⠕⠑⡉⠙⢈⠋⠘⡐⢁⠙⡈⠃⡑⠉⡉⢉⠊⠊⢊⠑⠍⠋⠓⡙⠏⠫⢋⠛⠞⠕⠻⠙⠇⠫⠊⢃⠙⡈⠋⠙⠑⡉⠊⠑⠁⢍⠙⡁⢹⣽⡳⢄\n⢆⢑⣝⡇⢂⠐⠠⠁⢂⠈⡐⢀⠂⡐⢀⠡⠐⡀⠢⠠⠈⢂⠐⡀⠊⠠⢁⠄⡈⢂⠁⡐⢀⠊⠠⠁⢌⠀⢊⠀⡂⠨⠀⠅⠨⠀⠌⡈⠂⠄⢂⠐⢨⢾⡕⢄\n⠤⡡⣻⠎⠄⠡⠈⢄⠁⡐⢀⠂⡐⠠⠁⡐⢀⠂⠔⠠⠁⢂⠄⠨⡀⡁⢂⠠⠂⡐⢀⠢⠠⠈⠄⠡⡀⠌⡀⠢⠀⠊⠠⠁⠌⠂⠂⠄⡁⠢⠀⠅⢸⢷⡣⢂\n⢂⢞⣽⠃⠌⠐⡁⠐⠄⢄⢁⠐⠄⡈⢐⠀⡂⢐⠈⠄⡁⠂⠄⠡⠀⠔⢀⠂⡐⢀⠂⡐⠠⠁⠌⠠⠐⡀⠂⠌⠠⠑⠈⢄⢡⣊⣔⣔⢄⠌⠠⡁⢘⣯⡎⡢\n⢂⢝⣮⠁⡊⣴⢮⣢⣆⢤⢀⠂⡂⠐⠄⢂⠐⠄⠨⡠⣄⢥⡈⢄⢁⠂⠔⡠⣂⢔⡀⡂⠌⠠⠁⢌⠠⠈⠄⡡⣈⣢⣳⢷⣯⣷⣯⣟⣿⢮⣆⠐⢬⡾⡪⡐\n⢁⢟⣮⠂⣘⣾⡻⡯⣿⢿⣟⣷⣬⣂⡁⢂⠐⣈⢞⣾⣻⣽⣟⣾⢧⣟⣾⡻⣯⢿⣻⣞⣦⣳⢮⣢⠔⡡⣸⡺⣾⣽⣟⣯⣿⣾⢿⡫⣞⢻⣷⢅⢪⡾⡕⠰\n⠠⡹⡧⡃⢜⣷⣻⢪⢞⣟⣿⣿⣻⡿⣷⣤⢑⡾⣻⠧⡣⣿⡺⢕⠿⡹⢎⣕⢪⡚⢴⢵⡣⣫⣿⣻⣯⢯⣻⢽⣞⢾⣪⣿⣽⡯⡻⡜⡮⣳⢟⡧⢳⡽⡊⢜\n⠢⡹⣞⠄⣫⣾⢯⡣⠋⠜⠱⣿⣻⢿⢿⣷⣻⡿⣝⢪⢪⠳⣍⢎⡣⡫⡲⡡⢇⢝⢆⢷⢸⢕⢕⢕⡵⣫⠳⡱⡱⣣⣿⣯⣟⠪⢙⢾⣕⢽⣫⡟⢬⣟⡌⡂\n⢃⢾⣫⠪⣺⣯⡣⠑⠁⠠⠀⠹⣿⣯⡪⡺⡽⣟⡵⡱⣓⢕⢎⢎⢎⢎⠮⡪⡣⡫⡪⡣⡳⣕⢝⢼⢕⢭⢪⡣⣙⠞⡷⣿⢇⠀⡑⠁⢊⡽⢯⠎⡸⣞⡎⡐\n⠔⢵⡯⡊⠘⢕⢟⠄⠁⠂⢁⠐⢽⣾⣕⢍⢞⢜⢮⡪⣕⢕⡕⣕⢕⢕⢝⢜⡪⣪⢚⡜⡪⡲⡱⢕⢕⡕⣕⢎⢮⠱⡽⣿⠢⠀⠄⡈⢔⣽⡢⢁⠸⣽⢎⠌\n⢑⢺⣞⠄⠑⢺⣟⣮⡀⠡⠀⠢⣣⢟⡜⡕⣝⢪⠲⡕⢎⢎⠮⡢⡫⡪⡕⡕⣕⢪⡪⡪⢎⢵⡩⡪⡣⡳⡡⣣⢣⡫⡪⣫⢇⠨⠀⠄⢈⢎⡧⡁⠰⣻⡦⡡\n⢄⢣⣟⠌⡂⠐⡩⣻⡊⢂⠠⡱⣕⣝⢜⢜⢬⡪⡣⡫⡪⡣⡫⡪⡪⢎⠮⡪⡪⡲⣑⢝⡪⢲⠱⡩⡪⡪⡪⡲⡱⡱⡱⣙⢮⡲⡡⣀⢊⢗⣿⡊⢐⣽⡖⡌\n⠢⢱⣏⠎⠠⠈⢔⣿⣵⣣⡳⡹⡢⣇⢳⠱⡕⣜⢌⢪⢪⠪⡪⡪⡣⡫⡪⡕⡭⡪⡪⡪⡘⡬⡣⣑⢕⢭⢪⡚⣜⢜⢕⢕⠵⡕⣽⡨⡷⣟⠝⠌⠀⢾⡯⠢\n⠑⡜⣾⡑⢁⠈⢂⠫⠞⡝⣵⢫⡪⡪⡕⡝⡌⢆⡳⡱⢕⢝⡢⣕⢕⢭⢪⡪⡪⣪⢪⡪⡪⡪⡪⡪⡪⡲⢕⢜⠴⡱⡕⡕⣝⢪⢮⡻⣷⢾⡀⢊⠀⢯⡗⢕\n⠢⠙⠮⡊⢀⠡⠐⢀⢪⣟⢾⢧⡫⣪⢪⡪⡪⡕⡕⡭⡪⡣⣚⠴⡱⡱⡕⡜⡕⡕⡕⢎⢮⡱⣙⢜⡪⡪⣣⡙⣎⢳⡸⡪⡜⣕⢏⣟⣮⣳⠀⡂⠈⢾⡿⡄\n⢑⢍⡾⡔⡀⢂⠁⠂⢼⡽⣯⣣⢕⡕⡕⡕⡵⢪⡪⣪⢪⡪⡪⡕⡝⡜⣜⢪⡪⣚⢜⢕⢕⢎⢮⡪⣪⢚⠴⣩⠲⡱⡪⡪⡪⢮⡪⣮⢾⣽⡣⡠⠁⡻⣞⠔\n⡁⢆⢿⡣⠂⢄⠁⣪⢮⣟⢷⡳⡵⡹⡜⡪⡪⣓⢜⢮⣵⣕⣗⢝⡼⣌⠮⡲⡱⡱⡱⣝⢎⢗⣵⣯⣾⣽⡣⣣⢫⢪⡪⡪⡳⢕⡝⣯⣻⣯⠳⠀⠂⣽⣧⠑\n⠜⡐⣟⠦⠁⢄⠈⠎⢿⡽⣽⡝⡝⡮⡪⣎⢕⡹⣪⢷⡟⢞⣯⡻⣪⢮⡚⣜⢜⢪⢎⡾⡱⣝⢳⢕⢮⡺⣏⠮⡲⡱⡱⡱⣍⢞⣼⡹⣝⣗⠃⠌⡀⢷⣝⢅\n⠔⡱⣽⠣⡁⢂⠈⡐⢀⢟⣿⢎⡯⣚⢮⠲⡕⡕⡵⡹⢜⢗⡼⡪⣎⢷⡝⡴⣩⢪⣗⢽⢪⢧⡫⣳⠑⡕⡜⢕⠝⠜⡱⡳⣪⢯⡾⡻⡻⡊⢂⠐⡀⣟⢷⢁\n⠢⢪⣾⡑⡀⢂⠐⡀⠂⠌⡹⢿⣽⡞⢅⠃⢈⠂⠌⠂⠡⢑⠉⡊⠎⢎⢿⡔⣕⢵⣣⢏⢧⠳⡑⢅⠁⠌⢈⠂⠨⠀⢌⢕⣾⡫⡟⡕⡀⠐⠠⠂⡠⣻⡣⡡\n⢊⢜⣧⠑⡀⠢⠠⡈⠐⢄⢪⣿⣳⡝⣤⣢⡢⢀⠄⡁⠐⠀⠘⢔⠀⠄⣽⣿⣿⣿⣷⠑⠄⠂⡐⠔⠈⢀⢂⢴⣕⡿⡾⡻⡓⡑⠠⠠⢀⠡⢁⠐⡨⣾⢇⠔\n⠢⣱⣏⠆⠐⠐⠄⠠⠁⢄⢁⠋⡓⠌⠐⠙⠯⡻⣞⢿⢯⢷⣥⣫⡣⠈⠻⡿⣿⡿⡋⠠⢀⢜⣌⢦⢾⡵⡿⡫⠓⠁⠌⠠⡈⢀⠂⢂⠐⡀⠢⢀⠘⣾⡣⡑\n⠘⢴⢯⡊⢈⠐⡈⠄⠡⠠⢀⠂⡐⢈⠈⡂⠐⠄⠠⠁⠄⠑⠽⢷⣻⣔⢀⠈⡪⢃⠀⡂⣬⣟⠯⠂⠡⢈⠌⡀⠡⢈⠂⢂⠐⡀⠡⠐⡀⠂⠔⢀⢑⣽⢆⠕\n⢁⠳⣯⢂⠁⡐⠠⠈⢄⠁⡂⠐⠄⠂⢄⠨⢀⠡⠈⠄⡑⠐⡀⠑⢍⠟⡿⢾⡴⣧⠮⢾⠳⠍⠂⠑⠐⠠⠠⠀⢅⠠⠂⡁⠐⠠⠁⡂⢈⠐⠈⠄⠰⣽⡇⠪\n⠡⡹⣮⠅⠂⡨⠀⡡⠐⠠⠠⡁⢈⠂⠄⠂⠄⢂⠁⡂⢐⠈⠠⠁⠄⠂⠨⠀⡡⠈⠄⡁⠌⠠⢁⠡⠁⡂⠡⢈⠀⡂⠐⠠⠁⠌⠂⡐⢀⢁⠡⠈⠂⣿⣌⠣\n⢊⢜⣳⡣⣂⢔⢄⡢⣈⢔⢤⡠⣅⢔⣌⢤⡡⣢⣐⢄⢆⡬⣠⡡⣌⣄⢕⡔⣤⣬⣔⣤⢮⣴⣤⡢⣢⣤⣕⣤⣥⣬⣮⡲⣵⣬⣦⢮⣴⣤⢷⣼⡢⡻⢎⠆\n⠡⢂⢍⠙⡍⢛⠍⡫⢙⠫⡋⢛⠝⠫⡙⠝⡙⢍⠫⡋⢛⠝⡙⠝⢍⠫⢋⠝⡡⢋⠜⡡⢉⠎⠍⢝⠩⢊⠍⢍⠪⡈⢆⢑⠡⡂⡑⡑⢌⠌⡢⠨⡂⡑⠔⡨\n\nIt’s a good game! I play with my friend who’s overseas (about 8+ hours away), and it works perfectly with Remote Play. I use a controller while my friend plays as Player 1 and I’m Player 2.\n\nI haven’t noticed any of the translation issues mentioned in earlier reviews — it seems like the developers have fixed those. For the price, this is a solid game. Some levels are pretty challenging, and there are tons of maps and a wide variety of different drinks to make.\n\nIt’s not a casual, laid-back, “healing” type of game — you’re working in a café with high-demand customers, kind of like PlateUp! Overall, I highly recommend it!\n\nP.s. The fox is Good for the second area, lots of stirring involved. (unlocked fast stir at level 2)",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I'm loving this game.  It's like a combination of Overcooked with the old Cake Mania.  You need to be able to manage your inventory, as well as your drinks.  It starts off easy, but gets very difficult very quickly.  I've been struggling on a number of levels as well as some of the higher difficulties.  I'll be sinking a bunch more hours into this one!\r\nI know this is early access, so here are a couple of my quibbles with the game.\r\nI'm not a huge fan of the devil character - I really would not have expected that in such a cute graphical style.  I also wish there was a way to start a day over (even if it's only once per week), as sometimes I've just made a massive ordering mistake.  A couple of other small visual things (like the steam is hard to see compared to the stale graphic), and it can be really hard to see what is or isn't already in the cup (so you get things wrong without knowing why).",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Help, my husband is addicted to this game and now he wouldn't let me go to sleep if we hadn't played at least one game together every night.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "My master thesis progress was paused for 7 days because of this game. 10 out of 10 would procrastinate again.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Charming and easy to pick up! I love that you can replay levels with increased difficulty. I look forward to watching the rest of the early access unfold, as there are small clunky elements that I'm certain will improve with more updates.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if you love plate up youll love this! my only complaint is no local and online co-op at the same time. my partner and i cant play online with our other friends. hopefully this changes once the game is fully released 1.0",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "There's really no game out there that's like feed the cups!! Making food/drinks with controlled chaos... but how accomplishing is completely up to us players!! We can make it easy and satisfying~ or make it hard on ourselves with insane menu options! It's so much better than overcooked where the game trying to screw you and that's the only thing fun about it. There is also amazing replayability with gift choosing/meta combination!! It truly is an awesome game both from the theme/art to game play/mechanics!!",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Though the core team has made some pretty controversial statements and the updates are super slow\\\\\\, this game is still one of this kind for me right now\\\\\\ I've always wanted to chill in a bobashop, and this game basically let me live that out in cyberspace, solid flow and various drinks. one thing worth griping about is that some of the debuffs are straightup broken, once u pull one, the round feels practically unwinnable. btw I've never qued up with friends in this game so I can't speak to the co op side. Thats the gist.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I love this game so much I started working at a bubble tea shop in real life to see if it's the same~ pretty accurate!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "as a solo player, Feed the Cups is so much fun! the feel of the game is different enough from overcooked, plateup and cooking sim, that it's now a permanent addition to my cooking game collection. where overcooked throws novel complications (moving stations, player-controlled platforms, ice/fire lvls, etc.), plateup throws time, space and floor management, and cooking sim yeets wonky 3d physics at you, feed the cups' bread and butter is requiring you to fulfill orders within seconds with near perfect accuracy while balancing inventory, space, stress, and cleanliness management with every order and potential customer. \nalthough both ftc and pu feature talent/resource selection inbetween days, ftc has a breakneck pace due to the stall setup. the customers will leave if their order is not taken or fulfilled quickly enough, and a mistake means you've wasted not just time, but resources. i think the most different aspect of ftc is how you deal with purchased resources.\nat the beginning of your first shift, you're met with a brand new location and boxes of supplies that need to be taken in and stocked before being torn down and trashed. not that big of a deal early game, but come the last few days when you've added a recipe that needs 3 new ingredients and a new cup size, you'll find that space management becomes a huge factor. \nadded to that, every buff (aside from reputation gifts) comes with an \"equal\" anti-buff and these are potentially devastating. tho, not enough to make you lose outright, unless you've already been screwing up. \n\noverall, i feel like this game truly stands on it's own legs apart from other popular games in the genre. \n\np.s. if you really cannot handle even cheeky depictions of the devil/pentagrams, this game is 1000% not for you. you will have no choice but to interact with the devil and his contracts.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "We're feeding the cups with cups, are the cups we're feeding the cups also sentient cups?",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "i love this game its so cute but so hardddddddd urggh",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "fun little game for 2ppl",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very fun, highly recommend",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Very good game, makes me feel like a starbucks employee",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Really nice game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "like it",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "⡠⠄⢔⡤⣤⣢⣄⢦⣔⣤⣢⣤⣢⣔⣤⣢⣔⣤⢦⣔⣤⣔⣤⣰⣄⣔⢤⡠⢤⢠⢄⡢⣄⢤⣄⢔⢤⣠⣢⣤⣢⣄⢦⡰⣤⣰⣤⣢⣴⣄⡦⣠⣔⡤⡠⢂\n⠢⢊⢾⣙⠕⠑⡉⠙⢈⠋⠘⡐⢁⠙⡈⠃⡑⠉⡉⢉⠊⠊⢊⠑⠍⠋⠓⡙⠏⠫⢋⠛⠞⠕⠻⠙⠇⠫⠊⢃⠙⡈⠋⠙⠑⡉⠊⠑⠁⢍⠙⡁⢹⣽⡳⢄\n⢆⢑⣝⡇⢂⠐⠠⠁⢂⠈⡐⢀⠂⡐⢀⠡⠐⡀⠢⠠⠈⢂⠐⡀⠊⠠⢁⠄⡈⢂⠁⡐⢀⠊⠠⠁⢌⠀⢊⠀⡂⠨⠀⠅⠨⠀⠌⡈⠂⠄⢂⠐⢨⢾⡕⢄\n⠤⡡⣻⠎⠄⠡⠈⢄⠁⡐⢀⠂⡐⠠⠁⡐⢀⠂⠔⠠⠁⢂⠄⠨⡀⡁⢂⠠⠂⡐⢀⠢⠠⠈⠄⠡⡀⠌⡀⠢⠀⠊⠠⠁⠌⠂⠂⠄⡁⠢⠀⠅⢸⢷⡣⢂\n⢂⢞⣽⠃⠌⠐⡁⠐⠄⢄⢁⠐⠄⡈⢐⠀⡂⢐⠈⠄⡁⠂⠄⠡⠀⠔⢀⠂⡐⢀⠂⡐⠠⠁⠌⠠⠐⡀⠂⠌⠠⠑⠈⢄⢡⣊⣔⣔⢄⠌⠠⡁⢘⣯⡎⡢\n⢂⢝⣮⠁⡊⣴⢮⣢⣆⢤⢀⠂⡂⠐⠄⢂⠐⠄⠨⡠⣄⢥⡈⢄⢁⠂⠔⡠⣂⢔⡀⡂⠌⠠⠁⢌⠠⠈⠄⡡⣈⣢⣳⢷⣯⣷⣯⣟⣿⢮⣆⠐⢬⡾⡪⡐\n⢁⢟⣮⠂⣘⣾⡻⡯⣿⢿⣟⣷⣬⣂⡁⢂⠐⣈⢞⣾⣻⣽⣟⣾⢧⣟⣾⡻⣯⢿⣻⣞⣦⣳⢮⣢⠔⡡⣸⡺⣾⣽⣟⣯⣿⣾⢿⡫⣞⢻⣷⢅⢪⡾⡕⠰\n⠠⡹⡧⡃⢜⣷⣻⢪⢞⣟⣿⣿⣻⡿⣷⣤⢑⡾⣻⠧⡣⣿⡺⢕⠿⡹⢎⣕⢪⡚⢴⢵⡣⣫⣿⣻⣯⢯⣻⢽⣞⢾⣪⣿⣽⡯⡻⡜⡮⣳⢟⡧⢳⡽⡊⢜\n⠢⡹⣞⠄⣫⣾⢯⡣⠋⠜⠱⣿⣻⢿⢿⣷⣻⡿⣝⢪⢪⠳⣍⢎⡣⡫⡲⡡⢇⢝⢆⢷⢸⢕⢕⢕⡵⣫⠳⡱⡱⣣⣿⣯⣟⠪⢙⢾⣕⢽⣫⡟⢬⣟⡌⡂\n⢃⢾⣫⠪⣺⣯⡣⠑⠁⠠⠀⠹⣿⣯⡪⡺⡽⣟⡵⡱⣓⢕⢎⢎⢎⢎⠮⡪⡣⡫⡪⡣⡳⣕⢝⢼⢕⢭⢪⡣⣙⠞⡷⣿⢇⠀⡑⠁⢊⡽⢯⠎⡸⣞⡎⡐\n⠔⢵⡯⡊⠘⢕⢟⠄⠁⠂⢁⠐⢽⣾⣕⢍⢞⢜⢮⡪⣕⢕⡕⣕⢕⢕⢝⢜⡪⣪⢚⡜⡪⡲⡱⢕⢕⡕⣕⢎⢮⠱⡽⣿⠢⠀⠄⡈⢔⣽⡢⢁⠸⣽⢎⠌\n⢑⢺⣞⠄⠑⢺⣟⣮⡀⠡⠀⠢⣣⢟⡜⡕⣝⢪⠲⡕⢎⢎⠮⡢⡫⡪⡕⡕⣕⢪⡪⡪⢎⢵⡩⡪⡣⡳⡡⣣⢣⡫⡪⣫⢇⠨⠀⠄⢈⢎⡧⡁⠰⣻⡦⡡\n⢄⢣⣟⠌⡂⠐⡩⣻⡊⢂⠠⡱⣕⣝⢜⢜⢬⡪⡣⡫⡪⡣⡫⡪⡪⢎⠮⡪⡪⡲⣑⢝⡪⢲⠱⡩⡪⡪⡪⡲⡱⡱⡱⣙⢮⡲⡡⣀⢊⢗⣿⡊⢐⣽⡖⡌\n⠢⢱⣏⠎⠠⠈⢔⣿⣵⣣⡳⡹⡢⣇⢳⠱⡕⣜⢌⢪⢪⠪⡪⡪⡣⡫⡪⡕⡭⡪⡪⡪⡘⡬⡣⣑⢕⢭⢪⡚⣜⢜⢕⢕⠵⡕⣽⡨⡷⣟⠝⠌⠀⢾⡯⠢\n⠑⡜⣾⡑⢁⠈⢂⠫⠞⡝⣵⢫⡪⡪⡕⡝⡌⢆⡳⡱⢕⢝⡢⣕⢕⢭⢪⡪⡪⣪⢪⡪⡪⡪⡪⡪⡪⡲⢕⢜⠴⡱⡕⡕⣝⢪⢮⡻⣷⢾⡀⢊⠀⢯⡗⢕\n⠢⠙⠮⡊⢀⠡⠐⢀⢪⣟⢾⢧⡫⣪⢪⡪⡪⡕⡕⡭⡪⡣⣚⠴⡱⡱⡕⡜⡕⡕⡕⢎⢮⡱⣙⢜⡪⡪⣣⡙⣎⢳⡸⡪⡜⣕⢏⣟⣮⣳⠀⡂⠈⢾⡿⡄\n⢑⢍⡾⡔⡀⢂⠁⠂⢼⡽⣯⣣⢕⡕⡕⡕⡵⢪⡪⣪⢪⡪⡪⡕⡝⡜⣜⢪⡪⣚⢜⢕⢕⢎⢮⡪⣪⢚⠴⣩⠲⡱⡪⡪⡪⢮⡪⣮⢾⣽⡣⡠⠁⡻⣞⠔\n⡁⢆⢿⡣⠂⢄⠁⣪⢮⣟⢷⡳⡵⡹⡜⡪⡪⣓⢜⢮⣵⣕⣗⢝⡼⣌⠮⡲⡱⡱⡱⣝⢎⢗⣵⣯⣾⣽⡣⣣⢫⢪⡪⡪⡳⢕⡝⣯⣻⣯⠳⠀⠂⣽⣧⠑\n⠜⡐⣟⠦⠁⢄⠈⠎⢿⡽⣽⡝⡝⡮⡪⣎⢕⡹⣪⢷⡟⢞⣯⡻⣪⢮⡚⣜⢜⢪⢎⡾⡱⣝⢳⢕⢮⡺⣏⠮⡲⡱⡱⡱⣍⢞⣼⡹⣝⣗⠃⠌⡀⢷⣝⢅\n⠔⡱⣽⠣⡁⢂⠈⡐⢀⢟⣿⢎⡯⣚⢮⠲⡕⡕⡵⡹⢜⢗⡼⡪⣎⢷⡝⡴⣩⢪⣗⢽⢪⢧⡫⣳⠑⡕⡜⢕⠝⠜⡱⡳⣪⢯⡾⡻⡻⡊⢂⠐⡀⣟⢷⢁\n⠢⢪⣾⡑⡀⢂⠐⡀⠂⠌⡹⢿⣽⡞⢅⠃⢈⠂⠌⠂⠡⢑⠉⡊⠎⢎⢿⡔⣕⢵⣣⢏⢧⠳⡑⢅⠁⠌⢈⠂⠨⠀⢌⢕⣾⡫⡟⡕⡀⠐⠠⠂⡠⣻⡣⡡\n⢊⢜⣧⠑⡀⠢⠠⡈⠐⢄⢪⣿⣳⡝⣤⣢⡢⢀⠄⡁⠐⠀⠘⢔⠀⠄⣽⣿⣿⣿⣷⠑⠄⠂⡐⠔⠈⢀⢂⢴⣕⡿⡾⡻⡓⡑⠠⠠⢀⠡⢁⠐⡨⣾⢇⠔\n⠢⣱⣏⠆⠐⠐⠄⠠⠁⢄⢁⠋⡓⠌⠐⠙⠯⡻⣞⢿⢯⢷⣥⣫⡣⠈⠻⡿⣿⡿⡋⠠⢀⢜⣌⢦⢾⡵⡿⡫⠓⠁⠌⠠⡈⢀⠂⢂⠐⡀⠢⢀⠘⣾⡣⡑\n⠘⢴⢯⡊⢈⠐⡈⠄⠡⠠⢀⠂⡐⢈⠈⡂⠐⠄⠠⠁⠄⠑⠽⢷⣻⣔⢀⠈⡪⢃⠀⡂⣬⣟⠯⠂⠡⢈⠌⡀⠡⢈⠂⢂⠐⡀⠡⠐⡀⠂⠔⢀⢑⣽⢆⠕\n⢁⠳⣯⢂⠁⡐⠠⠈⢄⠁⡂⠐⠄⠂⢄⠨⢀⠡⠈⠄⡑⠐⡀⠑⢍⠟⡿⢾⡴⣧⠮⢾⠳⠍⠂⠑⠐⠠⠠⠀⢅⠠⠂⡁⠐⠠⠁⡂⢈⠐⠈⠄⠰⣽⡇⠪\n⠡⡹⣮⠅⠂⡨⠀⡡⠐⠠⠠⡁⢈⠂⠄⠂⠄⢂⠁⡂⢐⠈⠠⠁⠄⠂⠨⠀⡡⠈⠄⡁⠌⠠⢁⠡⠁⡂⠡⢈⠀⡂⠐⠠⠁⠌⠂⡐⢀⢁⠡⠈⠂⣿⣌⠣\n⢊⢜⣳⡣⣂⢔⢄⡢⣈⢔⢤⡠⣅⢔⣌⢤⡡⣢⣐⢄⢆⡬⣠⡡⣌⣄⢕⡔⣤⣬⣔⣤⢮⣴⣤⡢⣢⣤⣕⣤⣥⣬⣮⡲⣵⣬⣦⢮⣴⣤⢷⣼⡢⡻⢎⠆\n⠡⢂⢍⠙⡍⢛⠍⡫⢙⠫⡋⢛⠝⠫⡙⠝⡙⢍⠫⡋⢛⠝⡙⠝⢍⠫⢋⠝⡡⢋⠜⡡⢉⠎⠍⢝⠩⢊⠍⢍⠪⡈⢆⢑⠡⡂⡑⡑⢌⠌⡢⠨⡂⡑⠔⡨\n\nIt’s a good game! I play with my friend who’s overseas (about 8+ hours away), and it works perfectly with Remote Play. I use a controller while my friend plays as Player 1 and I’m Player 2.\n\nI haven’t noticed any of the translation issues mentioned in earlier reviews — it seems like the developers have fixed those. For the price, this is a solid game. Some levels are pretty challenging, and there are tons of maps and a wide variety of different drinks to make.\n\nIt’s not a casual, laid-back, “healing” type of game — you’re working in a café with high-demand customers, kind of like PlateUp! Overall, I highly recommend it!\n\nP.s. The fox is Good for the second area, lots of stirring involved. (unlocked fast stir at level 2)",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I'm loving this game.  It's like a combination of Overcooked with the old Cake Mania.  You need to be able to manage your inventory, as well as your drinks.  It starts off easy, but gets very difficult very quickly.  I've been struggling on a number of levels as well as some of the higher difficulties.  I'll be sinking a bunch more hours into this one!\r\nI know this is early access, so here are a couple of my quibbles with the game.\r\nI'm not a huge fan of the devil character - I really would not have expected that in such a cute graphical style.  I also wish there was a way to start a day over (even if it's only once per week), as sometimes I've just made a massive ordering mistake.  A couple of other small visual things (like the steam is hard to see compared to the stale graphic), and it can be really hard to see what is or isn't already in the cup (so you get things wrong without knowing why).",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Help, my husband is addicted to this game and now he wouldn't let me go to sleep if we hadn't played at least one game together every night.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "My master thesis progress was paused for 7 days because of this game. 10 out of 10 would procrastinate again.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Charming and easy to pick up! I love that you can replay levels with increased difficulty. I look forward to watching the rest of the early access unfold, as there are small clunky elements that I'm certain will improve with more updates.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if you love plate up youll love this! my only complaint is no local and online co-op at the same time. my partner and i cant play online with our other friends. hopefully this changes once the game is fully released 1.0",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "There's really no game out there that's like feed the cups!! Making food/drinks with controlled chaos... but how accomplishing is completely up to us players!! We can make it easy and satisfying~ or make it hard on ourselves with insane menu options! It's so much better than overcooked where the game trying to screw you and that's the only thing fun about it. There is also amazing replayability with gift choosing/meta combination!! It truly is an awesome game both from the theme/art to game play/mechanics!!",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Though the core team has made some pretty controversial statements and the updates are super slow\\\\\\, this game is still one of this kind for me right now\\\\\\ I've always wanted to chill in a bobashop, and this game basically let me live that out in cyberspace, solid flow and various drinks. one thing worth griping about is that some of the debuffs are straightup broken, once u pull one, the round feels practically unwinnable. btw I've never qued up with friends in this game so I can't speak to the co op side. Thats the gist.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I love this game so much I started working at a bubble tea shop in real life to see if it's the same~ pretty accurate!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "as a solo player, Feed the Cups is so much fun! the feel of the game is different enough from overcooked, plateup and cooking sim, that it's now a permanent addition to my cooking game collection. where overcooked throws novel complications (moving stations, player-controlled platforms, ice/fire lvls, etc.), plateup throws time, space and floor management, and cooking sim yeets wonky 3d physics at you, feed the cups' bread and butter is requiring you to fulfill orders within seconds with near perfect accuracy while balancing inventory, space, stress, and cleanliness management with every order and potential customer. \nalthough both ftc and pu feature talent/resource selection inbetween days, ftc has a breakneck pace due to the stall setup. the customers will leave if their order is not taken or fulfilled quickly enough, and a mistake means you've wasted not just time, but resources. i think the most different aspect of ftc is how you deal with purchased resources.\nat the beginning of your first shift, you're met with a brand new location and boxes of supplies that need to be taken in and stocked before being torn down and trashed. not that big of a deal early game, but come the last few days when you've added a recipe that needs 3 new ingredients and a new cup size, you'll find that space management becomes a huge factor. \nadded to that, every buff (aside from reputation gifts) comes with an \"equal\" anti-buff and these are potentially devastating. tho, not enough to make you lose outright, unless you've already been screwing up. \n\noverall, i feel like this game truly stands on it's own legs apart from other popular games in the genre. \n\np.s. if you really cannot handle even cheeky depictions of the devil/pentagrams, this game is 1000% not for you. you will have no choice but to interact with the devil and his contracts.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "We're feeding the cups with cups, are the cups we're feeding the cups also sentient cups?",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "i love this game its so cute but so hardddddddd urggh",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "fun little game for 2ppl",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very fun, highly recommend",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Very good game, makes me feel like a starbucks employee",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Really nice game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "like it",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "⡠⠄⢔⡤⣤⣢⣄⢦⣔⣤⣢⣤⣢⣔⣤⣢⣔⣤⢦⣔⣤⣔⣤⣰⣄⣔⢤⡠⢤⢠⢄⡢⣄⢤⣄⢔⢤⣠⣢⣤⣢⣄⢦⡰⣤⣰⣤⣢⣴⣄⡦⣠⣔⡤⡠⢂\n⠢⢊⢾⣙⠕⠑⡉⠙⢈⠋⠘⡐⢁⠙⡈⠃⡑⠉⡉⢉⠊⠊⢊⠑⠍⠋⠓⡙⠏⠫⢋⠛⠞⠕⠻⠙⠇⠫⠊⢃⠙⡈⠋⠙⠑⡉⠊⠑⠁⢍⠙⡁⢹⣽⡳⢄\n⢆⢑⣝⡇⢂⠐⠠⠁⢂⠈⡐⢀⠂⡐⢀⠡⠐⡀⠢⠠⠈⢂⠐⡀⠊⠠⢁⠄⡈⢂⠁⡐⢀⠊⠠⠁⢌⠀⢊⠀⡂⠨⠀⠅⠨⠀⠌⡈⠂⠄⢂⠐⢨⢾⡕⢄\n⠤⡡⣻⠎⠄⠡⠈⢄⠁⡐⢀⠂⡐⠠⠁⡐⢀⠂⠔⠠⠁⢂⠄⠨⡀⡁⢂⠠⠂⡐⢀⠢⠠⠈⠄⠡⡀⠌⡀⠢⠀⠊⠠⠁⠌⠂⠂⠄⡁⠢⠀⠅⢸⢷⡣⢂\n⢂⢞⣽⠃⠌⠐⡁⠐⠄⢄⢁⠐⠄⡈⢐⠀⡂⢐⠈⠄⡁⠂⠄⠡⠀⠔⢀⠂⡐⢀⠂⡐⠠⠁⠌⠠⠐⡀⠂⠌⠠⠑⠈⢄⢡⣊⣔⣔⢄⠌⠠⡁⢘⣯⡎⡢\n⢂⢝⣮⠁⡊⣴⢮⣢⣆⢤⢀⠂⡂⠐⠄⢂⠐⠄⠨⡠⣄⢥⡈⢄⢁⠂⠔⡠⣂⢔⡀⡂⠌⠠⠁⢌⠠⠈⠄⡡⣈⣢⣳⢷⣯⣷⣯⣟⣿⢮⣆⠐⢬⡾⡪⡐\n⢁⢟⣮⠂⣘⣾⡻⡯⣿⢿⣟⣷⣬⣂⡁⢂⠐⣈⢞⣾⣻⣽⣟⣾⢧⣟⣾⡻⣯⢿⣻⣞⣦⣳⢮⣢⠔⡡⣸⡺⣾⣽⣟⣯⣿⣾⢿⡫⣞⢻⣷⢅⢪⡾⡕⠰\n⠠⡹⡧⡃⢜⣷⣻⢪⢞⣟⣿⣿⣻⡿⣷⣤⢑⡾⣻⠧⡣⣿⡺⢕⠿⡹⢎⣕⢪⡚⢴⢵⡣⣫⣿⣻⣯⢯⣻⢽⣞⢾⣪⣿⣽⡯⡻⡜⡮⣳⢟⡧⢳⡽⡊⢜\n⠢⡹⣞⠄⣫⣾⢯⡣⠋⠜⠱⣿⣻⢿⢿⣷⣻⡿⣝⢪⢪⠳⣍⢎⡣⡫⡲⡡⢇⢝⢆⢷⢸⢕⢕⢕⡵⣫⠳⡱⡱⣣⣿⣯⣟⠪⢙⢾⣕⢽⣫⡟⢬⣟⡌⡂\n⢃⢾⣫⠪⣺⣯⡣⠑⠁⠠⠀⠹⣿⣯⡪⡺⡽⣟⡵⡱⣓⢕⢎⢎⢎⢎⠮⡪⡣⡫⡪⡣⡳⣕⢝⢼⢕⢭⢪⡣⣙⠞⡷⣿⢇⠀⡑⠁⢊⡽⢯⠎⡸⣞⡎⡐\n⠔⢵⡯⡊⠘⢕⢟⠄⠁⠂⢁⠐⢽⣾⣕⢍⢞⢜⢮⡪⣕⢕⡕⣕⢕⢕⢝⢜⡪⣪⢚⡜⡪⡲⡱⢕⢕⡕⣕⢎⢮⠱⡽⣿⠢⠀⠄⡈⢔⣽⡢⢁⠸⣽⢎⠌\n⢑⢺⣞⠄⠑⢺⣟⣮⡀⠡⠀⠢⣣⢟⡜⡕⣝⢪⠲⡕⢎⢎⠮⡢⡫⡪⡕⡕⣕⢪⡪⡪⢎⢵⡩⡪⡣⡳⡡⣣⢣⡫⡪⣫⢇⠨⠀⠄⢈⢎⡧⡁⠰⣻⡦⡡\n⢄⢣⣟⠌⡂⠐⡩⣻⡊⢂⠠⡱⣕⣝⢜⢜⢬⡪⡣⡫⡪⡣⡫⡪⡪⢎⠮⡪⡪⡲⣑⢝⡪⢲⠱⡩⡪⡪⡪⡲⡱⡱⡱⣙⢮⡲⡡⣀⢊⢗⣿⡊⢐⣽⡖⡌\n⠢⢱⣏⠎⠠⠈⢔⣿⣵⣣⡳⡹⡢⣇⢳⠱⡕⣜⢌⢪⢪⠪⡪⡪⡣⡫⡪⡕⡭⡪⡪⡪⡘⡬⡣⣑⢕⢭⢪⡚⣜⢜⢕⢕⠵⡕⣽⡨⡷⣟⠝⠌⠀⢾⡯⠢\n⠑⡜⣾⡑⢁⠈⢂⠫⠞⡝⣵⢫⡪⡪⡕⡝⡌⢆⡳⡱⢕⢝⡢⣕⢕⢭⢪⡪⡪⣪⢪⡪⡪⡪⡪⡪⡪⡲⢕⢜⠴⡱⡕⡕⣝⢪⢮⡻⣷⢾⡀⢊⠀⢯⡗⢕\n⠢⠙⠮⡊⢀⠡⠐⢀⢪⣟⢾⢧⡫⣪⢪⡪⡪⡕⡕⡭⡪⡣⣚⠴⡱⡱⡕⡜⡕⡕⡕⢎⢮⡱⣙⢜⡪⡪⣣⡙⣎⢳⡸⡪⡜⣕⢏⣟⣮⣳⠀⡂⠈⢾⡿⡄\n⢑⢍⡾⡔⡀⢂⠁⠂⢼⡽⣯⣣⢕⡕⡕⡕⡵⢪⡪⣪⢪⡪⡪⡕⡝⡜⣜⢪⡪⣚⢜⢕⢕⢎⢮⡪⣪⢚⠴⣩⠲⡱⡪⡪⡪⢮⡪⣮⢾⣽⡣⡠⠁⡻⣞⠔\n⡁⢆⢿⡣⠂⢄⠁⣪⢮⣟⢷⡳⡵⡹⡜⡪⡪⣓⢜⢮⣵⣕⣗⢝⡼⣌⠮⡲⡱⡱⡱⣝⢎⢗⣵⣯⣾⣽⡣⣣⢫⢪⡪⡪⡳⢕⡝⣯⣻⣯⠳⠀⠂⣽⣧⠑\n⠜⡐⣟⠦⠁⢄⠈⠎⢿⡽⣽⡝⡝⡮⡪⣎⢕⡹⣪⢷⡟⢞⣯⡻⣪⢮⡚⣜⢜⢪⢎⡾⡱⣝⢳⢕⢮⡺⣏⠮⡲⡱⡱⡱⣍⢞⣼⡹⣝⣗⠃⠌⡀⢷⣝⢅\n⠔⡱⣽⠣⡁⢂⠈⡐⢀⢟⣿⢎⡯⣚⢮⠲⡕⡕⡵⡹⢜⢗⡼⡪⣎⢷⡝⡴⣩⢪⣗⢽⢪⢧⡫⣳⠑⡕⡜⢕⠝⠜⡱⡳⣪⢯⡾⡻⡻⡊⢂⠐⡀⣟⢷⢁\n⠢⢪⣾⡑⡀⢂⠐⡀⠂⠌⡹⢿⣽⡞⢅⠃⢈⠂⠌⠂⠡⢑⠉⡊⠎⢎⢿⡔⣕⢵⣣⢏⢧⠳⡑⢅⠁⠌⢈⠂⠨⠀⢌⢕⣾⡫⡟⡕⡀⠐⠠⠂⡠⣻⡣⡡\n⢊⢜⣧⠑⡀⠢⠠⡈⠐⢄⢪⣿⣳⡝⣤⣢⡢⢀⠄⡁⠐⠀⠘⢔⠀⠄⣽⣿⣿⣿⣷⠑⠄⠂⡐⠔⠈⢀⢂⢴⣕⡿⡾⡻⡓⡑⠠⠠⢀⠡⢁⠐⡨⣾⢇⠔\n⠢⣱⣏⠆⠐⠐⠄⠠⠁⢄⢁⠋⡓⠌⠐⠙⠯⡻⣞⢿⢯⢷⣥⣫⡣⠈⠻⡿⣿⡿⡋⠠⢀⢜⣌⢦⢾⡵⡿⡫⠓⠁⠌⠠⡈⢀⠂⢂⠐⡀⠢⢀⠘⣾⡣⡑\n⠘⢴⢯⡊⢈⠐⡈⠄⠡⠠⢀⠂⡐⢈⠈⡂⠐⠄⠠⠁⠄⠑⠽⢷⣻⣔⢀⠈⡪⢃⠀⡂⣬⣟⠯⠂⠡⢈⠌⡀⠡⢈⠂⢂⠐⡀⠡⠐⡀⠂⠔⢀⢑⣽⢆⠕\n⢁⠳⣯⢂⠁⡐⠠⠈⢄⠁⡂⠐⠄⠂⢄⠨⢀⠡⠈⠄⡑⠐⡀⠑⢍⠟⡿⢾⡴⣧⠮⢾⠳⠍⠂⠑⠐⠠⠠⠀⢅⠠⠂⡁⠐⠠⠁⡂⢈⠐⠈⠄⠰⣽⡇⠪\n⠡⡹⣮⠅⠂⡨⠀⡡⠐⠠⠠⡁⢈⠂⠄⠂⠄⢂⠁⡂⢐⠈⠠⠁⠄⠂⠨⠀⡡⠈⠄⡁⠌⠠⢁⠡⠁⡂⠡⢈⠀⡂⠐⠠⠁⠌⠂⡐⢀⢁⠡⠈⠂⣿⣌⠣\n⢊⢜⣳⡣⣂⢔⢄⡢⣈⢔⢤⡠⣅⢔⣌⢤⡡⣢⣐⢄⢆⡬⣠⡡⣌⣄⢕⡔⣤⣬⣔⣤⢮⣴⣤⡢⣢⣤⣕⣤⣥⣬⣮⡲⣵⣬⣦⢮⣴⣤⢷⣼⡢⡻⢎⠆\n⠡⢂⢍⠙⡍⢛⠍⡫⢙⠫⡋⢛⠝⠫⡙⠝⡙⢍⠫⡋⢛⠝⡙⠝⢍⠫⢋⠝⡡⢋⠜⡡⢉⠎⠍⢝⠩⢊⠍⢍⠪⡈⢆⢑⠡⡂⡑⡑⢌⠌⡢⠨⡂⡑⠔⡨\n\nIt’s a good game! I play with my friend who’s overseas (about 8+ hours away), and it works perfectly with Remote Play. I use a controller while my friend plays as Player 1 and I’m Player 2.\n\nI haven’t noticed any of the translation issues mentioned in earlier reviews — it seems like the developers have fixed those. For the price, this is a solid game. Some levels are pretty challenging, and there are tons of maps and a wide variety of different drinks to make.\n\nIt’s not a casual, laid-back, “healing” type of game — you’re working in a café with high-demand customers, kind of like PlateUp! Overall, I highly recommend it!\n\nP.s. The fox is Good for the second area, lots of stirring involved. (unlocked fast stir at level 2)",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I'm loving this game.  It's like a combination of Overcooked with the old Cake Mania.  You need to be able to manage your inventory, as well as your drinks.  It starts off easy, but gets very difficult very quickly.  I've been struggling on a number of levels as well as some of the higher difficulties.  I'll be sinking a bunch more hours into this one!\r\nI know this is early access, so here are a couple of my quibbles with the game.\r\nI'm not a huge fan of the devil character - I really would not have expected that in such a cute graphical style.  I also wish there was a way to start a day over (even if it's only once per week), as sometimes I've just made a massive ordering mistake.  A couple of other small visual things (like the steam is hard to see compared to the stale graphic), and it can be really hard to see what is or isn't already in the cup (so you get things wrong without knowing why).",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Help, my husband is addicted to this game and now he wouldn't let me go to sleep if we hadn't played at least one game together every night.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "My master thesis progress was paused for 7 days because of this game. 10 out of 10 would procrastinate again.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Charming and easy to pick up! I love that you can replay levels with increased difficulty. I look forward to watching the rest of the early access unfold, as there are small clunky elements that I'm certain will improve with more updates.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if you love plate up youll love this! my only complaint is no local and online co-op at the same time. my partner and i cant play online with our other friends. hopefully this changes once the game is fully released 1.0",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "There's really no game out there that's like feed the cups!! Making food/drinks with controlled chaos... but how accomplishing is completely up to us players!! We can make it easy and satisfying~ or make it hard on ourselves with insane menu options! It's so much better than overcooked where the game trying to screw you and that's the only thing fun about it. There is also amazing replayability with gift choosing/meta combination!! It truly is an awesome game both from the theme/art to game play/mechanics!!",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Though the core team has made some pretty controversial statements and the updates are super slow\\\\\\, this game is still one of this kind for me right now\\\\\\ I've always wanted to chill in a bobashop, and this game basically let me live that out in cyberspace, solid flow and various drinks. one thing worth griping about is that some of the debuffs are straightup broken, once u pull one, the round feels practically unwinnable. btw I've never qued up with friends in this game so I can't speak to the co op side. Thats the gist.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I love this game so much I started working at a bubble tea shop in real life to see if it's the same~ pretty accurate!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "as a solo player, Feed the Cups is so much fun! the feel of the game is different enough from overcooked, plateup and cooking sim, that it's now a permanent addition to my cooking game collection. where overcooked throws novel complications (moving stations, player-controlled platforms, ice/fire lvls, etc.), plateup throws time, space and floor management, and cooking sim yeets wonky 3d physics at you, feed the cups' bread and butter is requiring you to fulfill orders within seconds with near perfect accuracy while balancing inventory, space, stress, and cleanliness management with every order and potential customer. \nalthough both ftc and pu feature talent/resource selection inbetween days, ftc has a breakneck pace due to the stall setup. the customers will leave if their order is not taken or fulfilled quickly enough, and a mistake means you've wasted not just time, but resources. i think the most different aspect of ftc is how you deal with purchased resources.\nat the beginning of your first shift, you're met with a brand new location and boxes of supplies that need to be taken in and stocked before being torn down and trashed. not that big of a deal early game, but come the last few days when you've added a recipe that needs 3 new ingredients and a new cup size, you'll find that space management becomes a huge factor. \nadded to that, every buff (aside from reputation gifts) comes with an \"equal\" anti-buff and these are potentially devastating. tho, not enough to make you lose outright, unless you've already been screwing up. \n\noverall, i feel like this game truly stands on it's own legs apart from other popular games in the genre. \n\np.s. if you really cannot handle even cheeky depictions of the devil/pentagrams, this game is 1000% not for you. you will have no choice but to interact with the devil and his contracts.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "We're feeding the cups with cups, are the cups we're feeding the cups also sentient cups?",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "i love this game its so cute but so hardddddddd urggh",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "fun little game for 2ppl",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very fun, highly recommend",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Very good game, makes me feel like a starbucks employee",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Really nice game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "like it",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "⡠⠄⢔⡤⣤⣢⣄⢦⣔⣤⣢⣤⣢⣔⣤⣢⣔⣤⢦⣔⣤⣔⣤⣰⣄⣔⢤⡠⢤⢠⢄⡢⣄⢤⣄⢔⢤⣠⣢⣤⣢⣄⢦⡰⣤⣰⣤⣢⣴⣄⡦⣠⣔⡤⡠⢂\n⠢⢊⢾⣙⠕⠑⡉⠙⢈⠋⠘⡐⢁⠙⡈⠃⡑⠉⡉⢉⠊⠊⢊⠑⠍⠋⠓⡙⠏⠫⢋⠛⠞⠕⠻⠙⠇⠫⠊⢃⠙⡈⠋⠙⠑⡉⠊⠑⠁⢍⠙⡁⢹⣽⡳⢄\n⢆⢑⣝⡇⢂⠐⠠⠁⢂⠈⡐⢀⠂⡐⢀⠡⠐⡀⠢⠠⠈⢂⠐⡀⠊⠠⢁⠄⡈⢂⠁⡐⢀⠊⠠⠁⢌⠀⢊⠀⡂⠨⠀⠅⠨⠀⠌⡈⠂⠄⢂⠐⢨⢾⡕⢄\n⠤⡡⣻⠎⠄⠡⠈⢄⠁⡐⢀⠂⡐⠠⠁⡐⢀⠂⠔⠠⠁⢂⠄⠨⡀⡁⢂⠠⠂⡐⢀⠢⠠⠈⠄⠡⡀⠌⡀⠢⠀⠊⠠⠁⠌⠂⠂⠄⡁⠢⠀⠅⢸⢷⡣⢂\n⢂⢞⣽⠃⠌⠐⡁⠐⠄⢄⢁⠐⠄⡈⢐⠀⡂⢐⠈⠄⡁⠂⠄⠡⠀⠔⢀⠂⡐⢀⠂⡐⠠⠁⠌⠠⠐⡀⠂⠌⠠⠑⠈⢄⢡⣊⣔⣔⢄⠌⠠⡁⢘⣯⡎⡢\n⢂⢝⣮⠁⡊⣴⢮⣢⣆⢤⢀⠂⡂⠐⠄⢂⠐⠄⠨⡠⣄⢥⡈⢄⢁⠂⠔⡠⣂⢔⡀⡂⠌⠠⠁⢌⠠⠈⠄⡡⣈⣢⣳⢷⣯⣷⣯⣟⣿⢮⣆⠐⢬⡾⡪⡐\n⢁⢟⣮⠂⣘⣾⡻⡯⣿⢿⣟⣷⣬⣂⡁⢂⠐⣈⢞⣾⣻⣽⣟⣾⢧⣟⣾⡻⣯⢿⣻⣞⣦⣳⢮⣢⠔⡡⣸⡺⣾⣽⣟⣯⣿⣾⢿⡫⣞⢻⣷⢅⢪⡾⡕⠰\n⠠⡹⡧⡃⢜⣷⣻⢪⢞⣟⣿⣿⣻⡿⣷⣤⢑⡾⣻⠧⡣⣿⡺⢕⠿⡹⢎⣕⢪⡚⢴⢵⡣⣫⣿⣻⣯⢯⣻⢽⣞⢾⣪⣿⣽⡯⡻⡜⡮⣳⢟⡧⢳⡽⡊⢜\n⠢⡹⣞⠄⣫⣾⢯⡣⠋⠜⠱⣿⣻⢿⢿⣷⣻⡿⣝⢪⢪⠳⣍⢎⡣⡫⡲⡡⢇⢝⢆⢷⢸⢕⢕⢕⡵⣫⠳⡱⡱⣣⣿⣯⣟⠪⢙⢾⣕⢽⣫⡟⢬⣟⡌⡂\n⢃⢾⣫⠪⣺⣯⡣⠑⠁⠠⠀⠹⣿⣯⡪⡺⡽⣟⡵⡱⣓⢕⢎⢎⢎⢎⠮⡪⡣⡫⡪⡣⡳⣕⢝⢼⢕⢭⢪⡣⣙⠞⡷⣿⢇⠀⡑⠁⢊⡽⢯⠎⡸⣞⡎⡐\n⠔⢵⡯⡊⠘⢕⢟⠄⠁⠂⢁⠐⢽⣾⣕⢍⢞⢜⢮⡪⣕⢕⡕⣕⢕⢕⢝⢜⡪⣪⢚⡜⡪⡲⡱⢕⢕⡕⣕⢎⢮⠱⡽⣿⠢⠀⠄⡈⢔⣽⡢⢁⠸⣽⢎⠌\n⢑⢺⣞⠄⠑⢺⣟⣮⡀⠡⠀⠢⣣⢟⡜⡕⣝⢪⠲⡕⢎⢎⠮⡢⡫⡪⡕⡕⣕⢪⡪⡪⢎⢵⡩⡪⡣⡳⡡⣣⢣⡫⡪⣫⢇⠨⠀⠄⢈⢎⡧⡁⠰⣻⡦⡡\n⢄⢣⣟⠌⡂⠐⡩⣻⡊⢂⠠⡱⣕⣝⢜⢜⢬⡪⡣⡫⡪⡣⡫⡪⡪⢎⠮⡪⡪⡲⣑⢝⡪⢲⠱⡩⡪⡪⡪⡲⡱⡱⡱⣙⢮⡲⡡⣀⢊⢗⣿⡊⢐⣽⡖⡌\n⠢⢱⣏⠎⠠⠈⢔⣿⣵⣣⡳⡹⡢⣇⢳⠱⡕⣜⢌⢪⢪⠪⡪⡪⡣⡫⡪⡕⡭⡪⡪⡪⡘⡬⡣⣑⢕⢭⢪⡚⣜⢜⢕⢕⠵⡕⣽⡨⡷⣟⠝⠌⠀⢾⡯⠢\n⠑⡜⣾⡑⢁⠈⢂⠫⠞⡝⣵⢫⡪⡪⡕⡝⡌⢆⡳⡱⢕⢝⡢⣕⢕⢭⢪⡪⡪⣪⢪⡪⡪⡪⡪⡪⡪⡲⢕⢜⠴⡱⡕⡕⣝⢪⢮⡻⣷⢾⡀⢊⠀⢯⡗⢕\n⠢⠙⠮⡊⢀⠡⠐⢀⢪⣟⢾⢧⡫⣪⢪⡪⡪⡕⡕⡭⡪⡣⣚⠴⡱⡱⡕⡜⡕⡕⡕⢎⢮⡱⣙⢜⡪⡪⣣⡙⣎⢳⡸⡪⡜⣕⢏⣟⣮⣳⠀⡂⠈⢾⡿⡄\n⢑⢍⡾⡔⡀⢂⠁⠂⢼⡽⣯⣣⢕⡕⡕⡕⡵⢪⡪⣪⢪⡪⡪⡕⡝⡜⣜⢪⡪⣚⢜⢕⢕⢎⢮⡪⣪⢚⠴⣩⠲⡱⡪⡪⡪⢮⡪⣮⢾⣽⡣⡠⠁⡻⣞⠔\n⡁⢆⢿⡣⠂⢄⠁⣪⢮⣟⢷⡳⡵⡹⡜⡪⡪⣓⢜⢮⣵⣕⣗⢝⡼⣌⠮⡲⡱⡱⡱⣝⢎⢗⣵⣯⣾⣽⡣⣣⢫⢪⡪⡪⡳⢕⡝⣯⣻⣯⠳⠀⠂⣽⣧⠑\n⠜⡐⣟⠦⠁⢄⠈⠎⢿⡽⣽⡝⡝⡮⡪⣎⢕⡹⣪⢷⡟⢞⣯⡻⣪⢮⡚⣜⢜⢪⢎⡾⡱⣝⢳⢕⢮⡺⣏⠮⡲⡱⡱⡱⣍⢞⣼⡹⣝⣗⠃⠌⡀⢷⣝⢅\n⠔⡱⣽⠣⡁⢂⠈⡐⢀⢟⣿⢎⡯⣚⢮⠲⡕⡕⡵⡹⢜⢗⡼⡪⣎⢷⡝⡴⣩⢪⣗⢽⢪⢧⡫⣳⠑⡕⡜⢕⠝⠜⡱⡳⣪⢯⡾⡻⡻⡊⢂⠐⡀⣟⢷⢁\n⠢⢪⣾⡑⡀⢂⠐⡀⠂⠌⡹⢿⣽⡞⢅⠃⢈⠂⠌⠂⠡⢑⠉⡊⠎⢎⢿⡔⣕⢵⣣⢏⢧⠳⡑⢅⠁⠌⢈⠂⠨⠀⢌⢕⣾⡫⡟⡕⡀⠐⠠⠂⡠⣻⡣⡡\n⢊⢜⣧⠑⡀⠢⠠⡈⠐⢄⢪⣿⣳⡝⣤⣢⡢⢀⠄⡁⠐⠀⠘⢔⠀⠄⣽⣿⣿⣿⣷⠑⠄⠂⡐⠔⠈⢀⢂⢴⣕⡿⡾⡻⡓⡑⠠⠠⢀⠡⢁⠐⡨⣾⢇⠔\n⠢⣱⣏⠆⠐⠐⠄⠠⠁⢄⢁⠋⡓⠌⠐⠙⠯⡻⣞⢿⢯⢷⣥⣫⡣⠈⠻⡿⣿⡿⡋⠠⢀⢜⣌⢦⢾⡵⡿⡫⠓⠁⠌⠠⡈⢀⠂⢂⠐⡀⠢⢀⠘⣾⡣⡑\n⠘⢴⢯⡊⢈⠐⡈⠄⠡⠠⢀⠂⡐⢈⠈⡂⠐⠄⠠⠁⠄⠑⠽⢷⣻⣔⢀⠈⡪⢃⠀⡂⣬⣟⠯⠂⠡⢈⠌⡀⠡⢈⠂⢂⠐⡀⠡⠐⡀⠂⠔⢀⢑⣽⢆⠕\n⢁⠳⣯⢂⠁⡐⠠⠈⢄⠁⡂⠐⠄⠂⢄⠨⢀⠡⠈⠄⡑⠐⡀⠑⢍⠟⡿⢾⡴⣧⠮⢾⠳⠍⠂⠑⠐⠠⠠⠀⢅⠠⠂⡁⠐⠠⠁⡂⢈⠐⠈⠄⠰⣽⡇⠪\n⠡⡹⣮⠅⠂⡨⠀⡡⠐⠠⠠⡁⢈⠂⠄⠂⠄⢂⠁⡂⢐⠈⠠⠁⠄⠂⠨⠀⡡⠈⠄⡁⠌⠠⢁⠡⠁⡂⠡⢈⠀⡂⠐⠠⠁⠌⠂⡐⢀⢁⠡⠈⠂⣿⣌⠣\n⢊⢜⣳⡣⣂⢔⢄⡢⣈⢔⢤⡠⣅⢔⣌⢤⡡⣢⣐⢄⢆⡬⣠⡡⣌⣄⢕⡔⣤⣬⣔⣤⢮⣴⣤⡢⣢⣤⣕⣤⣥⣬⣮⡲⣵⣬⣦⢮⣴⣤⢷⣼⡢⡻⢎⠆\n⠡⢂⢍⠙⡍⢛⠍⡫⢙⠫⡋⢛⠝⠫⡙⠝⡙⢍⠫⡋⢛⠝⡙⠝⢍⠫⢋⠝⡡⢋⠜⡡⢉⠎⠍⢝⠩⢊⠍⢍⠪⡈⢆⢑⠡⡂⡑⡑⢌⠌⡢⠨⡂⡑⠔⡨\n\nIt’s a good game! I play with my friend who’s overseas (about 8+ hours away), and it works perfectly with Remote Play. I use a controller while my friend plays as Player 1 and I’m Player 2.\n\nI haven’t noticed any of the translation issues mentioned in earlier reviews — it seems like the developers have fixed those. For the price, this is a solid game. Some levels are pretty challenging, and there are tons of maps and a wide variety of different drinks to make.\n\nIt’s not a casual, laid-back, “healing” type of game — you’re working in a café with high-demand customers, kind of like PlateUp! Overall, I highly recommend it!\n\nP.s. The fox is Good for the second area, lots of stirring involved. (unlocked fast stir at level 2)",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I'm loving this game.  It's like a combination of Overcooked with the old Cake Mania.  You need to be able to manage your inventory, as well as your drinks.  It starts off easy, but gets very difficult very quickly.  I've been struggling on a number of levels as well as some of the higher difficulties.  I'll be sinking a bunch more hours into this one!\r\nI know this is early access, so here are a couple of my quibbles with the game.\r\nI'm not a huge fan of the devil character - I really would not have expected that in such a cute graphical style.  I also wish there was a way to start a day over (even if it's only once per week), as sometimes I've just made a massive ordering mistake.  A couple of other small visual things (like the steam is hard to see compared to the stale graphic), and it can be really hard to see what is or isn't already in the cup (so you get things wrong without knowing why).",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Help, my husband is addicted to this game and now he wouldn't let me go to sleep if we hadn't played at least one game together every night.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "My master thesis progress was paused for 7 days because of this game. 10 out of 10 would procrastinate again.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Charming and easy to pick up! I love that you can replay levels with increased difficulty. I look forward to watching the rest of the early access unfold, as there are small clunky elements that I'm certain will improve with more updates.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if you love plate up youll love this! my only complaint is no local and online co-op at the same time. my partner and i cant play online with our other friends. hopefully this changes once the game is fully released 1.0",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "There's really no game out there that's like feed the cups!! Making food/drinks with controlled chaos... but how accomplishing is completely up to us players!! We can make it easy and satisfying~ or make it hard on ourselves with insane menu options! It's so much better than overcooked where the game trying to screw you and that's the only thing fun about it. There is also amazing replayability with gift choosing/meta combination!! It truly is an awesome game both from the theme/art to game play/mechanics!!",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Though the core team has made some pretty controversial statements and the updates are super slow\\\\\\, this game is still one of this kind for me right now\\\\\\ I've always wanted to chill in a bobashop, and this game basically let me live that out in cyberspace, solid flow and various drinks. one thing worth griping about is that some of the debuffs are straightup broken, once u pull one, the round feels practically unwinnable. btw I've never qued up with friends in this game so I can't speak to the co op side. Thats the gist.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I love this game so much I started working at a bubble tea shop in real life to see if it's the same~ pretty accurate!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "as a solo player, Feed the Cups is so much fun! the feel of the game is different enough from overcooked, plateup and cooking sim, that it's now a permanent addition to my cooking game collection. where overcooked throws novel complications (moving stations, player-controlled platforms, ice/fire lvls, etc.), plateup throws time, space and floor management, and cooking sim yeets wonky 3d physics at you, feed the cups' bread and butter is requiring you to fulfill orders within seconds with near perfect accuracy while balancing inventory, space, stress, and cleanliness management with every order and potential customer. \nalthough both ftc and pu feature talent/resource selection inbetween days, ftc has a breakneck pace due to the stall setup. the customers will leave if their order is not taken or fulfilled quickly enough, and a mistake means you've wasted not just time, but resources. i think the most different aspect of ftc is how you deal with purchased resources.\nat the beginning of your first shift, you're met with a brand new location and boxes of supplies that need to be taken in and stocked before being torn down and trashed. not that big of a deal early game, but come the last few days when you've added a recipe that needs 3 new ingredients and a new cup size, you'll find that space management becomes a huge factor. \nadded to that, every buff (aside from reputation gifts) comes with an \"equal\" anti-buff and these are potentially devastating. tho, not enough to make you lose outright, unless you've already been screwing up. \n\noverall, i feel like this game truly stands on it's own legs apart from other popular games in the genre. \n\np.s. if you really cannot handle even cheeky depictions of the devil/pentagrams, this game is 1000% not for you. you will have no choice but to interact with the devil and his contracts.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "We're feeding the cups with cups, are the cups we're feeding the cups also sentient cups?",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "i love this game its so cute but so hardddddddd urggh",
+      "voted_up": true,
+      "votes_helpful": 1
+    }
+  ],
+  "negative": [
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Please fix your net code. Multiplayer currently is unplayabale without very stable connection.",
+      "voted_up": false,
+      "votes_helpful": 16
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game since it first came out in demo until now and even IF we looked beyond the obvious commentary that happened with this games devs, the majority of the time, it is unplayable for me and my friends. I crash on a constant basis (and you cannot tell me its my PC because this game should not require much to process/be playable), my game will constantly be stuck on a repetitive loading icon from my controller disconnecting on accident or even tabbing out during pauses between games, the servers itself have extreme lag when playing with friends, etc. I used to be able to do all of these things and be fine for the most part but ever since a certain point things have gotten worse and its truly unfortunate. I loved the idea of this game, I love games like these in general, I just cannot recommend at all anymore until things get fixed or looked into.\n\n(not to mention they flagged comments from showing in reviews so the game is falsely advertised as \"positive\" when it should be \"mixed\" considering that a lot of people are stating facts + their experiences with the bugs/problems of this game. those purchasing won't be able to make a fair judgement since all they see are positive reviews lol...)",
+      "voted_up": false,
+      "votes_helpful": 14
+    },
+    {
+      "review": "not recommend",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "跟撒旦借了多少阳寿研发的这游戏 无语至极",
+      "voted_up": false,
+      "votes_helpful": 1
+    }
+  ]
+}

@@ -1,0 +1,951 @@
+{
+  "positive": [
+    {
+      "review": "The best remake of all time. Not surprised considering the fact that it's a remake of the greatest video game of all time.",
+      "voted_up": true,
+      "votes_helpful": 98
+    },
+    {
+      "review": "Black Mesa is one of the best video game remakes of all time! I've spent countless hours over the past decade, shooting my way through the Black Mesa Research Facility, and Xen. This game has come a long way from being mod for Half-Life 2, to how it is today.",
+      "voted_up": true,
+      "votes_helpful": 24
+    },
+    {
+      "review": "Although this game is a 2020 remake, once you start playing, you can immediately smell that 1998 old-antique scent.\n\nThe visuals may be clean, but the design philosophy of that era was basically: “Back then, game designers absolutely didn’t want to be your mom or your nanny.” The guidance is really weak.\n\nIf you’re not a hardcore player, or an old player from that time period, you probably won’t be able to adapt so easily.\n\nI really can’t imagine how players in 1998 managed to beat the game. the internet back then was half-dead, with no guides, no forums, no YouTube. you could only wander around blindly + push through under pressure. nowadays when people get stuck, they say: “I’ll search a guide, watch a video.” players back then probably either cleared it or smashed their keyboard.\n\nOld-school guidance = your dad teaching you to swim: he just throws you into the water.\nModern guidance = God holding your hand and leading you across the street step by step.\n\nBut—\nIf you can accept this kind of “last-century game logic” in its bones, accept that style of having zero hand-holding and relying entirely on yourself to find the path, then Black Mesa is still very worth playing — a pure old-school design.",
+      "voted_up": true,
+      "votes_helpful": 14
+    },
+    {
+      "review": "There are games you play, and then there are games you [I]fall[/I] into. \nBlack Mesa is the latter, like a portal dragging you into a world built on awe and wonders.\nI first picked this masterpiece up a while back, when my old GPU wheezed like a dying reactor trying to render a headcrab. I couldn't go far but now on a new card and a calmer night, I crossed into Xen, into a story that felt less like fiction and more like philosophical canon event. \nBlack Mesa isn't a remake, it's an act of resurrection.\nIf this is the prologue to the Half-Life universe, then I can't wait to see what comes next.\n10/10 Masterpiece. A living example of Valve's quality and the community's love.",
+      "voted_up": true,
+      "votes_helpful": 15
+    },
+    {
+      "review": "Really great retelling of Half-Life (an already excellent game). \nI enjoyed seeing how the developers added their own little twists to the game, such as making certain NPCs (scientists and HECU) interact with each other. There's also how they expanded the Xen lore. I thought working alongside the Vortigaunts was cute too.\nLooking forward to OP4 and Blue Shift next",
+      "voted_up": true,
+      "votes_helpful": 9
+    },
+    {
+      "review": "Insanely faithful recreation, Haven't played Half Life since the PS2 port.\nThis is visually stunning. \nFirst playthrough back I taxi'd the Hidden Hat and Pizza box to the end together.\nDo not recommend doing that. Recommend the game to everyone tho.\n\n10/10",
+      "voted_up": true,
+      "votes_helpful": 12
+    },
+    {
+      "review": "\"Old game, obsolete thing from a bygone era\" \n\nThis game proves all nonsense points tossed at is as false. It is like a fresh game to me but still familiar enough to bring up memories of certain locations. The work they have done on this is a true labor of love. You cant buy this kind of attention to detail and quality from modern AAA no matter how many dollars you spend. \n\nI got nothing but praise to give to this thing and it is easily one of the most recommendable FPS games out there even if you did play the original a long time ago.",
+      "voted_up": true,
+      "votes_helpful": 7
+    },
+    {
+      "review": "Finally have the backstory to Half Life now. Good update to the original, smooth for the most part other than a memory leak which crashed the game every couple of hours.",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Great remake, such a labor of love. My only gripe is that the new Xen levels drag on too long.",
+      "voted_up": true,
+      "votes_helpful": 7
+    },
+    {
+      "review": "great lore and great gameplay",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I expected a standard remake. Something like the original game with better graphics. This however.... is epic.\n\nThe people behind this game didn't just do their job, it was their passion. And you will notice this as soon as you start playing. Actually, you will notice it as early as during the intro. The attention to detail and the level of immersion offered is unparalleled. And that is coming from a guy that normally doesn't even like FPS games.\n\nPersonally, I don't understand how anyone can be unhappy with this one. It's a 10/10 in all categories.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It is amazing that \"back in the day\" you didn't had compass, you didn't had mini map, and yet, just knew where to go and what to do. This remake is absolutely stunning. \n\nAs someone said, \"rise and shine Mr. Freeman, rise and... shine\"\n\nsolid 20/10",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "One of the few games that I had high expectations for, yet still managed to exceed those expectations. \n\nThis is how you remake a game.\n\n10/10.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "An updated version of the original HL1 made by passionate people with Valve's blessings. If you never played HL1, just get it. If you have played it decades ago, like me, get it too.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Fantastic! It's like the original but with a fresh coat of paint and improvements where it was needed (Xen)",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Amazing documentary on the downfall of Black Mesa Research Facility. Some parts are embellished for entertainment, but it's a worthy watch if you REALLY want to know what happened that day back in May of 2003.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Beautiful, but play the OG first. It's good, but by no means does it replace the original.\r\n\r\nI played through both Half Life and Black Mesa consecutively, and it was very fun to retread the same levels with the new physics, gunplay, and graphical fidelity. However there were many moments where I was unfortunately reminded of its fanmade nature. Buggy level design, assets lacking collision, seemingly omnipotent ai, etc. Elements lacking the polish AAA studios could provide. The HECU were not fun to fight at all, even moreso than in the original. Little technical stuff like that kept adding up throughout my playthrough, not enough to ruin my experience by any means, but enough to make me roll my eyes at people calling this the \"definitive\" way to play Half Life.  I found myself getting frustrated in spots that I had no issue with in the original way too often to be able to say that. The vibe is also much different in this remake. It's aesthetically more dark, grounded, and dramatic. While much simpler graphically, I did miss the visual clarity and brighter colors...\r\n\r\n...up until Xen. Xen was GORGEOUS and blows the original out of the fucking water. While lacking the lonely, windblown space purgatory vibes of the original (what I actually think of when I hear \"border world\"), Black Mesa makes up for it in not complete dogshit level design and amazing art direction. But holy shit, by Interloper it had vastly overstayed its welcome. I kept emerging into each new area wondering (hoping) if it was the last. But we all make mistakes in the heat of passion.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "running great on nvidia gtx linux, great to see such work on the source engine, this should be integrated into the base of future projects i reckon",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Fantastic Remake. Has the original feeling all around. Better graphics. Brought back the good old memories back then. Very worth it, especially since I only paid $5",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Best remake ever made of all time, and still one of the best shooters to this day every FPS game roots to half-life in some way or form and black Mesa does the same formula better.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Just finished it and gotta say, this is by far the best looking Source game and fan-made remake that I've ever played.\nNow, I wouldn't recommend playing it as your first introduction to Half-Life 1, it takes a lot of the OG \"atmosphere\" out and in some areas I think that this version of the game is kinda a downgrade (Xen specially, but this is entierly subjective) and music.\nIt's also kinda buggy, I got stuck in multiple areas and the auto save is just bad (got soft lock 3 TIMES due to it and had to restart the chapters, luckily I wasn't too far in). Quick save every now and then just to be safe.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Great game haven't 100% it yet but will. A great replacement for half life 1 if you dont like older games",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "half life 1 is already one of my favorite games and to see a amazing remake of it just makes it a whole lot better, i still love playing both but black mesa is just amazing, specially for a small team",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "An almost perfect remake of Half-Life, i'm glad Valve letting the team to keep working on the game even endorse it at their own platform. Which something you see very rarely in gaming industry.\nFunny thing is, without Half-life Source, Black Mesa won't be exist as well\nI do agree with some of the player complaining the Interloper chapter dragged way to long, nonetheless. You're doing great job remaking Xen from ground up, Crowbar collective.\n\n9/10",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This game is a true gem. Xen world is amazing and unexpectedly big! For me, it's the best part of the game! I love Black Mesa and I hope for a sequel. Also, a must-play for all Half-Life fans! ❤",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've played this game at least 3 times through. This is a labour of true love. \n\nThis is the way to play half life. This is the gold standard for a remake. \n\nAlso, there is a updated linux port. That's so rare and I love that so much. \nHell they still update this game. Bug fixes and updates!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "literally perfect. the baseline for what a perfect first-person shooter feels like.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "While Half-Life captures a very characteristic, unique boomer shooter vibe from the late 90s, I feel like Black Mesa accurately encapsulates the full, somber tragedy surrounding the events of Half-Life, and both the original Half-Life and Black Mesa are worth full playthroughs because there is so much to appreciate and love in both games.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "the fact this is only worth 20 dollars is just insane. it feels like there are two separate games in this, one in black mesa and the other in xen. most of the sections in black mesa are relatively the same, only they look amazing and don't detract from the original artstyle that much at all, making it ten trillion times more faithful than most \"modern remasters\". \nthe xen portion is ENTIRELY redone, it's not just a few unfinished green islands with a bullet sponge gonarch in the middle of it. it feels like what a triple A production SHOULD look like, from the sound and level design. new enemies with new areas and zones with puzzles that aren't obnoxious, but are relatively easy to understand and comprehend. at no point does it feel like the game is pointing directly at what you're supposed to do, but the level design is just that good that you can figure out all of it without taking that much time. \n\nit took me about 10 hours in total to beat the campaign, all of which only costed me 20 bucks WITHOUT a discount, which is just insane. I remember first seeing this on modDB over 10 years ago, and seeing it fully completed now is amazing to reminisce on. if whoever produced this isn't hired by valve, the world is a very bleak place indeed. I can't fully articulate just how good the xen portion is, how it safely veers and returns to the original art design and intention without losing the plot, it all feels like it could have been in the original half life. there are some parts where the color saturation and, soundtrack, gets a little bit offtrack and, inspired, from other medias but the amount of detail put into the levels completely nullifies any complaint I may have internalized. this game also has workshop support surprisingly enough, with very dedicated fans making interesting content and campaigns. this is probably one of the only good, actual games, that will come out in the 2020's ironically enough.\nignore the fact every human character in the game has the exact same cro magnon head and you will 100% get your moneys worth.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Fantastic remake and re-imagining of the ground-breaking champion FPS game that is and was Half-Life (1). This talented team of modders turned into game developers have done a beautiful thing in this game.\r\n\r\nValve and Lord GabeN is to be commended as well for not only allowing this, what started as a total conversion mod for Half-life 2 to not only be completed, but also allowing the team to finalize it as a full blown standalone game licensing Source engine and the Half-life universe. As opposed to Nintendo and other publishers that would be stomping them into the ground with a Cease and Desist.\r\n\r\nI followed this from way back when it was just a mod and I did finish it while it did not have the Xen part in it. But I decided now when working through my backlog to play through it again all the way through Xen as well. And boy am I glad I did!\r\n\r\nWhat this team did with their take on Xen is breathtaking and so immersive and simply stellar! I enjoyed that part of the game throurougly, introducing some new foes, lots of world story building and beautiful landscapes and biomes. If no WHEN we get to Half-Life 3 from Valve I do hope they cannonize some of what Crowbar collective did with Xen. Because it is simply that great!\r\n\r\nTLDR: If you love Half-Life universe but haven't played this. You simply have to! Or if you've never played the original Half-Life and want to get into the Half-Life universe but can't stand the dated graphics then give this a go since it is very faithful to the OG but expands on it a lot.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This is one of the best games of all time. A remake of the OG Half-Life. How anyone can possibly give it a negative review is beyond me. You don't need those people in your life.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "amazing how well it manages to hold up design wise even after 27 years. some genuinely amazing moments of hl1, polished visuals and great gameplay",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Half Life 1 is 27 years old and looks like a 27 year old game. Black Mesa turns that 27 year old looking game into a 2020's spectacle. It's not just visual updates, the final Xen chapters are completely redone and look spectacular, while maintaining the great vibe of the original.\n\nIn a time of next gen updates, remakes, remasters....Black Mesa is probably the most special of them all.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Honestly this is one of the best games I ever played. This game might as well be Half Life 3. \r\nAbsolutely amazing game that honestly everyone and anyone should play.\r\nGenuinely better than Half Life 2 in my opinion. \r\nSuch a fun experience to go through it and achievement hunt in. Definitely going to put in the time to 100% this game.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Half life with modernized graphics? Hell yeah! Could've cut down on Zen, it's just too long for its own good... 7.9/10",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "i am not great at shooters but this game is genuinely fantastic. This game looks really good and has a great soundtrack and sound design, and it seamlessly integrates the mechanics of the source engine into the design of half life. sadly, unlike many years ago, i can not sit down and play for many hours without getting tired and overstimulated.\n\ni myself have not played the xen chapters yet but it looks GORGEOUS.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Black Mesa reimagines the original Half-Life, rebuilding it from the ground up in the Source engine — not by Valve, but by dedicated fans who clearly adore the franchise. It retells the events leading up to Half-Life 2, but with modern visuals, updated mechanics, and a massive facelift to the environments.\n\nThe visual upgrade is striking. Lighting, models, and level details are far beyond what the 1998 game could do. The engine still requires the campaign to be split into multiple loading zones instead of one continuous map, which breaks immersion a bit, but considering the scale of the areas, it’s understandable. Whether we’ll ever see a fully seamless version remains a mystery.\n\nOn Earth, navigation feels intuitive and natural. Things change drastically once you reach Xen — especially the Frodiggan village area — where the atmosphere becomes almost pitch black. Even with brightness maxed out, figuring out where to go can turn into a challenge of its own. Gameplay mixes shooting, platforming, exploration, and puzzles, with the classic Half-Life rhythm of quiet moments interrupted by chaos. Early on you’re fighting soldiers and headcrabs, later it becomes all strange alien lifeforms.\n\nOne of the most unexpectedly fun parts of my playthrough wasn’t even the combat — it was the random objects you end up trying to carry through levels. Hats flying off during firefights, pizzas getting stuck on ladders, gas canisters rolling away at the worst time… these small emergent moments made the world feel oddly alive. The cyclops chase sequences in the “Black Mesa Decathlon,” and the laser-dodging infiltration segment that feels straight out of Mission: Impossible, were highlights I won’t forget.\n\nFinishing with 100% achievements left me genuinely impressed with how much effort and complexity went into every chapter. It’s not just a remake — it’s a reinvention.\n\nIf you enjoy story-driven FPS campaigns or just want to experience Half-Life with modern standards, Black Mesa is absolutely worth playing.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Finally I have beaten the first Half-Life, I never finished the original and the earlier version of Black Mesa (it doesn't include the Xen dimension). Graphics and sound are great. Gameplay can be very challenging even on Easy. Even though my heart is still with the Quake series, I'd still highly recommend this game.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "There is not much to say, it's an instant must-have in your library along the original HL. The graphic design, audio and ambient tracks, overhauls and re-imagination of the original concepts are amazing (especially XEN).\n\nOf course I do not recommend playing this over the original because you will be missing the point of this journey, one of the best remakes I ever played. Amazing job from Crowbar Collective.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Black Mesa es una clase de remake del primer Half-Life; agrega nuevo contenido y mejora partes del juego original que, aunque no ha envejecido mal, tiene secciones las cuales pueden ser un poco tediosas. Este juego las arregla sin perder la esencia del original, haciéndose mucho más emocionante tanto para fans como no-fans de la franquicia.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "This was pretty good. \nYou should still give the original a run, if you have the time.\nBut if you're just casually here for the story on your way to HL2, this should suffice.\n\nIf some purist wants to split hairs about it, I don't care. I'm a grown man with a hog that's bigger than yours.\n\nPlay this. It's great.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "excellent remake of half life 1. Xen is a bit too long for my liking but the game is solid overall",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's generally good shooter . But the ending is genuinely bad and tedious repeatative garbage.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a great HL1 reimagining for all audiences. Those who've enjoyed the first original game, finished HL2 and its episodes would definitely love it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Me acerqué a la franquicia Half-Life empezando por este remake. Muchos dicen que es uno de los mejores de la historia.\n\nYo solo tengo que decir que no volví a ser el mismo después de jugarlo. Todo lo relacionado con el universo Half-Life es increíble.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "pretty faithful to the original game and all around just really fun. 10/10 honestly",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If I could only play one game in my lifetime, it would be Black Mesa. What a work of art. I cannot believe how incredible this game is. This is a must play, for everyone.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is an amazing game in all aspects, im impressed on how they could push the source engine so far in both graphics and gameplay. Honestly you can play black mesa instead of the original half life thats how good it is",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game, definitely worth it picking it up. The weapons are so fun to use and sound amazing. I've never played the original Half Life but I think Black Mesa is better then the OG, manly because of its graphics, customizablility, overall map designs and the achievement is really fun and challenging. Overall 8.5/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing skillfull work of love, giving us a chance to relive some of the best gaming moments ever!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The greatest remake of all time, it looks so good and the gameplay is also really good, and the best part they didnt change like tye story, and its still really good, this is one of the best games ever in my opinion",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Black Mesa is an unofficial but worthy update for the original Half-Life game. This is an amazing game that adapts the old material for the newer Source engine and shows us what Half-Life could have looked like with today's technology, especially the Xen areas, which are breathtaking. If I were forced to play either this or the original, I would choose this game because of how polished and spectacular the action and dialogue are.\r\nOn a side note, the Blue Shift mod is something that makes getting this game even more worth it, as it expands upon the original expansion and turns it into a multi-hour action fest that never lets up! As someone who thought the original Blue Shift was nothing special, this changed my mind about the Barney led expansion.\r\n9.9/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The feat of longest time spent (by anyone) making a Half-Life game was achieved by Crowbar Collective on Black Mesa, which was in development for approximately 16 years from its inception as a fan project in 2004 to its full release in March 2020.\r\n\r\nThis is a love project all around, being a remake made from the ground up for the cult classic Half Life. It has the same level of shine and brilliance the original had, hard recommend.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Legjobb remake VALAHA,de szerintem az OG half life 1 is GOLD még minidig.Szóval szerintem megéri mindkettővel játszani,de egy ilyen resident evil remake szinten van.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Having played the original half-life before having played this i knew roughly where i was going, but some of the areas had been remade (for better or worse depends on the section) i must say Xen looks absolutely gorgeous, but it feels different to the original Xen which was far more barren. The Black Mesa soundtrack is superb, and the guns work quite well, the inclusion of achievements / badges that sort of thing is nice and can give you something to do if so inclined. Though the game is in various ways a sort of \"remaster\" of the original 1998 game, with various new puzzles / areas (especially on Xen) it keeps the period-guidance of \"figure it out yourself\" and basically never tells you where to go or what to do, which for some people can be challenging, but i find it to be mixed, i like not having to follow around NPCs or be stuck in areas waiting for something, and so the lack of cutscenes is pretty cool in that regard, but also for some of the new puzzles i had absolutely no idea what i was doing sometimes. \r\n\r\nOverall, quite a big fan of this game even if it does deviate from the original somewhat. It is good to see that there is a lively community and even mod support! The original 1998 game also sort of had mod support? Which led to some famous mods like \"They Hunger\" and, of course, (you can't mention half-life mods without it) 'Afraid of Monsters' (And later Cry of Fear).\r\n\r\nOverall very good, much approved!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Such an amazing recreation of Half-Life 1! Everything about this game is brilliant! If Valve actually did Half-Life: Source correctly, it would be this game. And on here, Xen looks beautiful and pretty, and completely unrecognizable from Half-Life 1. Please give this game a go! It's a masterpiece! (but HL1 is still worth playing)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you haven't played the original Half life and it's Source version and haven't tried to speedrun them. You will very much like this game. I hated it, made me bored and since i was already familiar with the title, the hat and pizza challenge really managed to make me go angry. Other than that, 10/10 fan base remaster, wonderful graphs and half game you can actually see that maybe there was a budget increase since the game looks beautiful. I do remember however this was just a project on steam greenlight. Goated remaster and so faithful to the original. Gabe, hope you see what happens after 10 years of not releasing a game with a 3 on it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Lovely world design and gameplay. Platforming levels were pretty good as well. The boss fight with a certain crab with a sack was especially challenging, but the whole outer space section was amazing, an absolute visual stunner.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Crowbar collective did an amazing job updating the graphics to current standards. The biggest surprise comes with the Xen levels. Arguably the weakest part of the original game has now become the best part of the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i sure do love when my game crashes randomly simulator is how i'd sum this game up although thats probably just my install being cursed or smt i dunno either way this is by far still the best way to HL1 due to the gameplay and graphics being MASSIVELY overhauled compared to the original (p much this game is what HL1:S should've been) so ive gotta give this game a 10/10 for just being great and my favorite way to play my favorite game where you can get infinite health by standing in a door absolute Half-Life.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good, but crashes constantly. im literally softlocked to crash every time i click resume now on the  menu.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game and remake. The Xen parts are cool (though maybe a bit too much of plugging things in for puzzles). The game looks great and plays great. A really neat way to experience HL1 again.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A very enjoyable and fresh way to play the original Half-Life game, with potential to arouse interest in newcomers and maybe make them go ahead and check out the original 1999 game 👍\n\nProps to devs for actually finishing the XEN section and adding overall cool stuff to compensate for the wait.\n\n10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I think Black Mesa is one of the closest experiences you can get to replaying Half-Life 1 as if it were your first time again, It's extremely well done, relevant to the original material and makes many many homages to the community through easter eggs or voice lines.\n\nExtremely well done, I love the nerds at Crowbar Collective",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The level of dedication and quality the devs did put in this product over many years is insane and became a love letter to the old Half-Life. I am so happy this game even exists and finds a great spot between honoring and respecting the old and bringing still some addition. Referring here to some new levels. A must have for Half-Life fans.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "even if you've played every other version of the original game, this one is so different you won't recognise half the stuff going on",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I followed this passion project for years, as it went from a mod to a pretty complete game with it's own stylistic contributions to an already superb foundation, albeit limited by its time. The inclusion of the Xen chapters really cemented this game as one of the greats.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "classic games have a different feeling, unlike all the new Ai created games",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A good ol classic game with enhanced graphics and physics! phenomenal game!! Seriously go buy this game it's better than most games now.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Support the passion, sweat, and devotion of the Crowbar Collective who took perhaps the greatest game of all time and made it impossibly better. The Crowbar Collective was originally two teams of fans and devotees that joined forces and worked for a decade to reboot the original game in the updated source engine, but with a massively improved ending that is so much more fun! \n\nTake the reality of great storytelling and awesome gameplay produced by the legendary valve software, yet reworked with modern graphics with the blessing of the original developer Valve...this just doesn't happen!!!...and yet...\n\nSo reward, support, and enjoy. \n\nP.S. Make sure you play all the Half-Life games though--the entire franchise is a masterpiece.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of my all time favorite games. Great Remake and Great Work to everyone who worked on it. Side Note: HL3 Hopium",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Except for the end of Interlopter when this game was dragging on too long imo, this remake of Half Life 1 is perfect. Cuz it doesnt settle at upgrading the textures, but changes parts of this game to a more modern standard. Xen chapters are like 3x longer and a lot better.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Pure nostalgia. A must play for fans of the original and for anyone curious to know why any of us who were around in the 90s still put Half-Life in our list of all-time favorites.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the best remakes ever made. Everything is super polished and high quality (save for maybe the view model). A must play for all half life fans!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "First playthrough review time.\r\n\r\nAll chapters from the original Half-Life 1 have been remade. Textures, models, NPC interactions, and a variety of updated weapons and enemies have been refreshed. The remake keeps the main structure and style of the 1998 original, so new players can start with this version without having played the first game. I played the original game along with its expansions and later titles in the series, and this remake still provides a clear and structured version of the classic experience.\r\n\r\nThe game includes clear voice acting and does not use constant background music. Short music sequences appear during certain parts, which add variation to the atmosphere. This approach allows the player to move through the chapters without distraction from continuous music, while still providing a sense of pacing and structure.\r\n\r\nOverall, the remake preserves the style and experience of the original game. It emphasizes level design, movement, and obstacles while keeping the gameplay smooth and consistent. For both new players and those familiar with the series, it provides a remade version of the classic game while maintaining the main elements of the original.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very good game I haven't at the time of writing played the original Half life but it is pretty accurate and faithful to to the original. from what i've been told",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's without a doubt a classic, that was improved on. I played the original when I was a child and I forgot almost everything about it, so I decided to play this in 2025.\r\nIt's worth it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "a very good game that suffers slightly from arenas not designed for its entirely different combat and weird changes to implement somewhat dull physics engine flexes from Half-Life 2 that had no place in Half-Life 1's level design. Black Mesa is a very good game on its own and does an excellent job at setting an atmosphere and tone (given you can get past how it's working off of the base of Half-Life 1, which to my knowledge was always meant to be vaguely comedic instead of wholly self-serious like Black Mesa is), but it's not a replacement for Half-Life 1 and never will be—it's a complete remake, maybe a little closer to a reimagining entirely. it's not very consistently faithful to the original Half-Life, especially in the latest parts of the game but also even earlier. off of the top of my head, Black Mesa chooses to almost entirely revamp and partially extend Unforeseen Consequences, and cuts down the infamous On a Rail extremely extensively and harshly to rid of the complaints that were given to the original equivalent. there are a couple of weird additions like aforementioned cable/plug and valve \"puzzles\" alongside, in one case, an interesting but maybe arguably unbalanced new fight against hitscan enemies in an open arena with little-to-no effective options for maneuvering or even cover without getting immediately pelted by bullets so thoroughly you become a sponge. whether this is fine to you or not will probably depend on the person, but it is probably good to have context on what this game really is in practice. this game and the original Half-Life are different games with wholly different goals, and Black Mesa is also just a passion project in general\n\nunfortunately, despite its best (and ultimately good for the most part!) efforts to redeem the mistakes that the original Half-Life's Xen made, Black Mesa ends up falling right back into many of the traps that the original fell into; those being that it's dull, drawn-out, and basically what would happen if you made several chapters out of the worst of the game's moments of downtime. it's gorgeous and the awe factor is there, but the pacing is slightly off in a way that basically makes every segment last too long for the awe factor to really remain at its maximum. basically every moment is a rollercoaster that oscillates between excruciating boredom and tediousness and an exciting or just mildly interesting moment\nInterloper is, to be frank, so much worse than the original Half-Life's equivalent; it starts off strong with a new segment that is maybe a little bit too unsubtle by Half-Life standards and a cool reimagining of a somewhat unmemorable moment but immediately nosedives into making the already infamous Vortigaunt factory infinitely worse than it already was. it is SO much longer to the point that Interloper itself is like one to two hours (probably much longer if you are playing blind/for the first time). there are like two or three cool moments in-between, and it ends with a really great moment, but otherwise it's just a bunch of mediocre platforming, plug puzzles, and monotonous Alien Controller combat that doesn't even come close to being as engaging as some of the more unmemorable HECU fights. Interloper is, as of writing, the only time that i have almost fallen asleep from playing a video game from how fucking dull it was, or at least become extremely drowsy just from playing it alone\n\nall-in-all, though, still a great game that also has Workshop support (even though it is extremely wonky and requires a lot of manual installation to get working). get it whenever, but you can also get it on a sale for really good prices",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gabe please just announce it. I'm begging of you my soul grows each time you utter the word three. Gaben please do it and my soul is yours",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Its a refresh of playing the original half life 1. It is something that should have been done to begin with. It brought out aspects of the story that was difficult to bring out in the late 1990s computer hardware and software. This remake made it possible for gamers to experience a much more deeper connecting with the story of Half Life that originally came out in the late 1998. The world of Zin was remastered to what, I believe, the original authors attended but couldn't possibly create due to time limit, budget, and older computer technology.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really good gaem with frame melting graphics... but its still cewl as hell",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "While not a complete 1:1 recreation of its inspiration, Half-Life, it has succeeded in the original goal that the teams set for themselves all those years ago: They recreated Half-Life in a new Valve engine and used the skills, knowledge and experiences to rebuild a fantastic game.\n\nThis is a fantastic product and we should keep a close eye on Crowbar Collective going forward, they are going places.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Un superbe hommage au jeu culte original. Toujours un plaisir de retrouver Gordon et son pied de biche.\r\nNiveau graphismes ça ne parait pas fou par rapport aux productions actuelles, mais en revoyant l'original on se souvient à quel point il était moche donc ça va mieux. ;-)\r\nMention spéciale à Xen, section très fortement embellie et méchamment rallongée (même si je peux comprendre que tout le monde n'ait pas apprécié).\r\nFélicitations !",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A very interesting game has received an updated version, and I like the plot of Black Mesa. Thank you to the creators of  the game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the work done to make this game a reality is amazing and I think anyone would get enjoyment out of this remake, worthwhile playthrough if you get the chance, it follows a lot of the story of Half life 1 while adding new puzzles and some interesting sequences that weren't in the original.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the game was really good i mean there were some bugs here and there and sometimes a few glitches but rarely the game mechanics were really good and interesting and its a half life 1 remake so overall i really loved this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "it's an alright remake\nit took some artistic liberties, especially with Xen, but it's alright",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Faithful reimagining of the classic we all love.  Would probably recommend this version to anyone who hasn't played the series before due to the updated graphics.  The Interloper chapter did feel a bit like a slog at times, but loved everything else.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The tribute to Half Life in it's best form, gamers couldn't have wished for better. Haven't played for long enough but I already enjoy it. <3",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Play it, you won't regret it.....well maybe the head crabs (they creep me out everytime) but nothing that a handy crowbar/firearm/High Explosive can't deal with.\n\nYour secret facility world goes awry, and you are the fixer - great fun! The chapters take you deeper in to an alternate reality and the sound design makes you forget that there's any other reality.\n\nPut it on your bucket list.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Beautiful re-imagination and faithful to the original. I would recommend this for anybody who is either looking for a nostalgia trip, or even if this is your first visit to the Black Mesa facility at all. My biggest complaint, is this game has some kind of memory leak that seems to have been an issues since 2017, and is still not really fixed. They have some troubleshooting tips on the community page - but it definitely hurts the experience having to set launch options.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "really good remake, nice graphics, nice level design, nice gameplay, and just overall a good game you should definitely check out if you like half life or fps in general\r\nHOWEVER\r\nFirst: some of the hecu combat encounters, most of them before surface tension, felt a tad bit unfair, their movements are very unpredictable and will usually throw a million grenades at you while moving everywhere, this wouldnt be much of a problem but a lot of the times theyre far away and its hard to hit them, good luck trying to hit them without a crossbow\r\nSecond: the level design, expecially in some earlier stages, doesnt really reward exploration like i wouldve hoped for, some rooms have literally nothing in them, and some even have enemies in them, but no loot, i think this was done so the levels could be more grounded in reality and believable, instead of rooms with like one entryway like the original game had, so the new rooms werent properly furnished, but this doesnt  happen that much and seems to have been addressed with the xen chapters, like there was this one place in residue processing where there was two completely optional bullsquids to kill and nothing else, i thought there mightve been at least an ammo pack but nope, wasted 4 shotgun blasts for nothing\r\nthats pretty much my only two complaints and they might not bother you\r\n7.5/10\r\nalso nihilanth is a walk in the fucking park, very anticlimactic",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Black Mesa is a remake of Half-Life in every sense of the word. While the 1998 original is undoubtedly a hallmark in video games, this game shows how much has changed over the twenty years since its release, and what it (probably) would've looked like given modern advancements.\n\nWhile the puzzles have been trimmed down to make them easier, Black Mesa makes up for it with more intense fights, and sometimes even longer chapters. Fights have been added where there were none before, and the later Xen chapters almost feel like their own game, which is fair since they encompass almost half of the game's development time.\n\nThe gunplay feels much improved, being a mod of Half-Life 2, enemies give more feedback when shot, and can even shoot while moving. This makes some fights much more dynamic, and taking on four enemies can make for a fun challenge.\n\nHowever, this doesn't mean that the game will necessarily run smoothly enough for an enjoyable experience. Unlike most Source titles, Black Mesa pushes the engine way further in terms of graphical fidelity, so much so that a gaming PC is pretty much required for the intended experience. Even then, my system far exceeds the 'recommended' list, and it still has difficulty within more cluttered areas, whereas others seem to be able to run it just fine. That being said, it has never crashed on me, except when trying to play with mods.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you've played the original Half-Life and loved it, then you gotta play this game, it's absolutely worth your money.\nIt's not just \"Half-Life with better graphics\" (which btw are stunning and run well even on toaster pcs) it's much more than that, so, even if you've completed the original, it's totally worth playing, it gets better the more you play.\n\nAnd the deathmatch mode is also very fun to play with friends.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "---{ Graphics }---\n☐ You forget what reality is\n☑ Beautiful\n☐ Good\n☐ Decent\n☐ Bad\n☐ Don‘t look too long at it\n☐ MS-DOS\n\n---{ Gameplay }---\n☐ Very good\n☑ Good\n☐ It's just gameplay\n☐ Mehh\n☐ Watch paint dry instead\n☐ Just don't\n\n---{ Audio }---\n☐ Eargasm\n☑ Very good\n☐ Good\n☐ Not too bad\n☐ Bad\n☐ I'm now deaf\n\n---{ Audience }---\n☐ Kids\n☑ Teens\n☑ Adults\n☐ Grandma\n\n---{ PC Requirements }---\n☐ Check if you can run paint\n☐ Potato\n☐ Decent\n☑ Fast\n☐ Rich boi\n☐ Ask NASA if they have a spare computer\n\n---{ Game Size }---\n☐ Floppy Disk\n☐ Old Fashioned\n☑ Workable\n☐ Big\n☐ Will eat 15% of your 1TB hard drive\n☐ You will want an entire hard drive to hold it\n☐ You will need to invest in a black hole to hold all the data\n\n---{ Difficulty }---\n☐ Just press 'W'\n☐ Easy\n☑ Easy to learn / Hard to master\n☐ Significant brain usage\n☐ Difficult\n☐ Dark Souls\n\n---{ Grind }---\n☐ Nothing to grind\n☑ Only if u care about leaderboards/ranks\n☐ Isn't necessary to progress\n☐ Average grind level\n☐ Too much grind\n☐ You'll need a second life for grinding\n\n---{ Story }---\n☐ No Story\n☐ Some lore\n☐ Average\n☑ Good\n☐ Lovely\n☐ It'll replace your life\n\n---{ Game Time }---\n☐ Long enough for a cup of coffee\n☐ Short\n☑ Average\n☐ Long\n☐ To infinity and beyond\n\n---{ Price }---\n☐ It's free!\n☐ Worth the price\n☑ If it's on sale\n☐ If u have some spare money left\n☐ Not recommended\n☐ You could also just burn your money\n\n---{ Bugs }---\n☐ Never heard of\n☑ Minor bugs\n☐ Can get annoying\n☐ ARK: Survival Evolved\n☐ The game itself is a big terrarium for bugs\n\n---{ ? / 10 }---\n☐ 1\n☐ 2\n☐ 3\n☐ 4\n☐ 5\n☐ 6\n☐ 7\n☐ 8\n☑ 9\n☐ 10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good graphics, stays loyal to the orginal Half Life and is well optimized.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I never played either Half Life until this year, I know this is different to HL1 somehow but holy moly it's an amazing game. Highly recommend it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Played it on Steam Deck. It used to not work that great on Linux, but it does now. So that's great!\n\nBeen playing Black Mesa since the modding days. It has come a long way since then. Only recently played the Xen chapters for the first time recently. This part is just amazing and feels very much like it's from 2025. I think this is because they took the most liberties in terms of gameplay. The earlier parts in Black Mesa have been refined over the original, but it still feels like 1998 gameplay with a 2020s coat of paint. For better and for worse.\n\nIt's still a classic, but it's an inbetween state. Some parts are modern, others are rooted in the 90s. Half-Life 2 on the other hand felt ahead of the curve in 2004, but holds up better as a whole. Because everything is from the same era.\n\nOnly thing i actively disliked is how inaccurate the weapons are or how bullet spongey the enemies are now. A firefight almost empties out half of my total ammo supply (especially f-ing headcrabs). Didn't feel that way in the OG Half-Life.\n\nOverall though, a very enjoyable experience that ever Half Life fan should enjoy. Especially for the Xen parts. That is 10/10.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really really good remaste of the original Half-life game, in my opinion it's a 1:1 scale of the original just with some more extra things and better places, id recommend this game to anyone who wants to explore the world of half life.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is basically Getting Over It, but instead of testing your sanity by making you climb a mountain, you have to carry a janky-ass pizza box through the whole game to deliver it to the G-Man.",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "Would be a fabulous game if it didn't crash every few times you load the game with \"Out of memory or address space.  Texture quality setting may be too high\". This has been happening for years, and it doesn't seem like the developers ever want to fix it.\r\n\r\nSome bits of the game are incredibly frustrating as well - the \"Captive Freight\" chapter, with the vautigaunts, zombies and turrets gets boring very, very quickly.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "A generally well crafted remake, but the gunplay and combat so horrendous it is actually a bit baffling. The aiming is some of the worst I've ever interfaced with, enemy AI is poor, attacks aren't well telegraphed and neither is your damage to enemies. Marines can see a single pixel of your character model from 5 football fields away and attack with accurate fire, often depleting your health before you even have a chance to react. And, on top of that, every single enemy is a bullet sponge. \nSomehow the combat is more dated than the original 90's game. It is weird, and it drags down the experience majorly. Ended up kinda not caring for it as a result, as much as I wanted to like it.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Sadly I will give this a negative review.\nIts a good remake overall and the most modern version of the game available. But the Xen took too long. While I appreciate the devs expanding on the world building and giving Xen more characrer, it dragged for age in my opinion. Especially since the encounters and \"puzzles\" got HELLA repetitive.\nGreat remake apart from that though. I have finsihed it solely for the reason that I wanted to be done with it though",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The new visuals look great, but the game is riddled with issues and overall is just not enjoyable experience. I played the original Half-Life and Black Mesa back to back and had much better time with the former.\n\nCONS:\n* Physics is outright broken. Physical objects jitter violently, boxes explode as you carry them, everything freaks out and feels extremely unstable. Just standing still on top of a barrel makes it shift and slide beneath you.\n* Collisions are way larger than they should be, you can barely fit through doorways. I got randomly caught and stuck on corners and some random stuff all the time. In some places collision is so broken you have to walk around invisible walls. Navigating levels feels like crawling through a narrow cave on rollerblades.\n* At the same time you can easily clip through enemies in melee combat if you get close enough. Go figure.\n* Ladders are super sticky and painful to deal with.\n* Shooting doesn't feel as good and hit feedback is almost non-existent, so most of the time you have to guess whether hit connected or not.\n* Broken AI and poor new enemy placement. Some enemies ignore you completely, others are literally silently waiting behind the corners and attack instantly.\n* Audio is mixed poorly, with some sounds being excessively loud.\n* Other lesser but annoying issues that add up.\n* I'm also not a big fan of cluttering the levels with tons of static objects for \"detailed environment\" as it makes it hard to figure out what you can actually interact with due to all that visual noise, but that is subjective.(I literally missed the very first red valve laying one step away from where you're supposed to use it and ran around the entire level looking for it).",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "fps drops from 144 to unplayable levels as soon as i get outside.\nchanging settings makes no difference. 7900xtx on linux.\n\ntoo bad. it's a good game.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad optimization and stability. Linux version runs like pure garbage, stutters hard in wide open areas, not even that much geometry on screen. DXVK has constant crashing even if the framerate is more stable. Random crashing at any time with \"Out of memory or address space. Texture quality setting may be too high\"... So I change the settings to medium, same issue. Turns out this is only a 32-bit build and is limited in how much RAM it can allocate. Volume levelling is all over the place. Sometimes ear ringingly loud, sometimes whisper quiet, especially in the options menus. Decent enough level design and cute little nods or visual story telling in there, graphics are nice, but man, they really need to revisit their optimizations and builds.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So much worse than the og, but that's subjective opinion. What isn't however is the long list of technical issues, from very frequent crashes, to horrible controller support; moving the camera with a joystick is so jittery and not at all smooth with no way to fix it. The list goes on, but those are 2 unfixable ones, most bugs can be reset by restarting the game, those 2 are permanent however. \r\nI understand this is basically a fan project, but it's still a product sold for real money, therefore I will judge it like any other.\r\n\r\nStick to the original - especially the ray tracing mod, it's fantastic.",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "It would be great if the game wasn't plagued by constant bugs and game-breaking annoyances.\r\n\r\nJust go play the original.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The Zen part is WAY too long, feels like it is half the game. It has no point or sense of direction ultimately making it insufferable.",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "Ugh.\r\n\r\nWell, this was going well enough.  I certainly wasn't enjoying it like Half-Life back in the day, but it was entertaining enough.  The enemies seemed more bullet spongey, navigation harder - I got lost more often than I remember!  But it was pretty enjoyable.  I liked the big Marine vs Alien warzone in Surface Tension a lot!\r\n\r\nThen I got to Xen.  Like with the original it was a downgrade in fun, but at least it was pretty this time.\r\n\r\nTHEN I got to the chapter called 'Interloper.'  This chapter may be one of the worst examples of a level in an FPS I have ever seen!  Wow, is it bad.  One long tedious, ugly, boring platform jumping puzzle mixed with 'plug in the thing' puzzles and many gotcha fights.  Atrocious.  It is hard to even see where you are going in there - everything looks the same and it is dark as well.  The conveyor belt section is...  I have no words.  I'll just say it is BAD!!!\r\n\r\nSomehow I pushed through it, because I knew I was near the end but it utterly soured everything that went before.  I am not recommending because of this interminable garbage level.  It simply isn't worth it to get that close to the end and then have to decide whether to not finish or metaphorically nail rusty spikes into your skull for 3 hours straight just to 'win'.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Why did the developers remove the Russian language from the game? This patch is fantastic, simply excellent. How could they mess up the main menu like that? You can't find the settings now.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Black Mesa is an ambitious project with a lot of effort put into it. However, its 15 year long development cycle has been a detriment to its vision, from starting as a Half-Life: Source remaster to now being touted as a \"reimagining\" of Half-Life to hide the fact that somewhere along the way the development team wanted to make this game their own thing, and while that isn't a bad thing on its own, the decisions taken with this game seem as if the developers were trying to one-up Half-Life, to make something better, but the reality is that, at the end of the day: This is an amateur game trying to compete with a game made by professionals, and more than 20 years later, this still shows, because professionals know something very important:\n\nRestraint.\n\n[h1]As a standalone game[/h1]\nThe main problems of Black Mesa as a standalone game are bloat, padding and repetition. Levels often go for longer than they need, padded with unfun platforming, repeating the same puzzles over and over again, and filling combat encounters with enemies to the brim (more enemies does not equal more fun, just look at how F.E.A.R. handles combat encounter with just FIVE enemies at a time). Navigation is also often times difficult due to the sheer amount of distracting details everywhere and poorly illuminated levels (having unlimited flashlight is NOT a replacement for good lighting).\n\nThis is unfortunately and ironically very prevalent in the Xen chapters, where you'll not only have to repeat the same exact puzzles time and time again, but you'll end up noticing that there levels just seem to be the same portion copied over and over again (Halo CE's Library level anyone?), making it not only boring but a pain in the ass to go through. And same as before applies: No, giving me unlimited ammunition and a shit ton of enemies to kill isn't fun, it's just boring and bad game design.\n\nAnd optimization... there are entire areas that run like ass on high end PCs which really kills any fun to be had there.\n\n[h1]As a remake of Half-Life[/h1]\nUnfortunately, it fails as a remake of Half-Life, and it's even less of a replacement. The attitude towards the original game feels often times disrespecting, trying to fix areas of the game that didn't need fixing while making them worse, and those that did need fixing either were completely removed (I'm looking at you On A Rail) or replaced with something that didn't make them any better (Interloper...). Combat encounters feel less fun and the weapons are less satisfying to use. Xen is beautiful but completely disregards the original concept.\n\nThe artstyle is also a downer because it doesn't even try to remotely replicate Half-Life's artstyle is any way. It's the typical \"tries to be realistic but fails and feels cartoonish\" generic kind of artstyle that makes a disservice to the original. They could've at least tried to lean more into the retro-futuristic aspect.\n\nScrewing up the introduction to the most iconic weapon, the crowbar, is an early sign of this.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "Runs poorly but other ran that its pretty good but I'm pretty sure i'm the only having problems so I'd recommended it to other people. I'm still gonna give it a No because the crashes were really annoying.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "This is not the great forthcoming of Half-Life that someone might think. This is barebones imitation with mostly amateur grade assets and it doesn't surprise since it was a free mod initially and then got turned into commercial product. Why? It certainly doesn't carry that Valve or professional quality in it.\n \nMy biggest gripe has gotta be the SOUND World and Music. OG HL is one of the better sounding and most immersive experiences out there. While 1998 the visuals are now fully dated, the sound still stands the test of time and it has all to do with the care and attention Valve put in it. OG HL sounds are creepy, realistic, disturbing, cool and just plain bizarre or eerie at times. This is coupled with the fact that environment is very realistically taken into consideration. When you are in a big bunker entrance to huge labyrinthian base, there will echo ALOT. In this \"professional\" product theres hardly any ECHO present and the little there is, it comes all mono from the center of your STEREO headphones. Meaning this product comes nowhere close to matching original 1998 release's immersion factor. \n\nIf you're boasting on all \"HD Graphics\" and state of art visuals and then half-ass the sound in such way, that's quite an epic moment. It wasn't just the fact that sound reacted in the environment in original version where it barely does in this HD version but all the sounds are also generic and un-inspired forgettable sounds. While classic HL had realism in it's sounds, it didn't focus around that because cool factor comes always before dull realism. OG lazer sound forexample from the chamber is something one would interpret as lazer yet it also sounds cool and disturbing. So it creates atmospheric tense feeling while providing the information that it's hazardous lazer that will cut your limbs or balls off or whatever you put in it.\n\nSome else to pick is the level design. HL was always a linear game but it never punished you for exploration. Remake is still linear game too but it actually tried to expand the current areas for some reason and when you see the original care thought level design and then see the new quickly hastely thought and put together amateur additions, it just doesnt work. One of the biggest flaws of amateur level design is trying to either cram too much stuff into one place/scene or making the scale too big or small. Now thankfully the scale part is alright here but you really notice that theres way too much stuff lying around for supposedly partially abandoned base.\n\nThe visuals are quite dated now in this HD version but they tried so I give them that. However should have stayed clearly a free product due to lack of quality in something that wants to attach itself to the Half-Life franchise.\n\nAlso it's been proven the AI is quite stupid in this when compared to the original HL which AI Still holds up really well and portrays itself intelligent.\n\nTHUMBS UP\n+visuals for the time were quite ok\n+Physics and liftable objects\n\n\nTHUMBS DOWN\n-AI which doesnt compare to originals standards\n-aim down sights\n-sprint mechanic\n-infinite battery on flashlight\n-obvious half-assed soundside\n-paid product for lack of quality\n-ost replaced by not so great new music",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "I want to love this. I've always loved the Half Life series and it's clear the devs of Black Mesa do too, but this game crashes far too often and after being released and out for over 5 years with still no fixes for some of the significant crashing issues, I just can't recommend it. I'm trying to play through it, but the constant crashing is turning it into a chore and my PC is no slouch so there's no reason to blame the hardware. Please fix the remaining major bugs in this game before putting advertisements for your next game into this one. I really feel like that shouldn't have to be asked for. I really want to recommend this... but I just can't... :(",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Has some very weird stutterings when moving around ingame while having no visible framerate and frametime issues. It's been like that since I bought this game 8 months? ago. So now after the third attempt, I giveup.  Unplayable for me. (9800x3d/5080)",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The game was great up until the Interloper level but became complete trash with the ridiculous amount of platforming and terrible controls. Also, the game crashes a lot.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Such a good initiative, a very cool development and thought-out approach to the original's events, was ruined by a completely disgusting, two hours long fight with the headcrab mother. It was a completely unnecessary undertaking, remakes shouldn't be done that way. Therefore, I don't recommend buying this game, you'll simply end up skipping it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I'd love to tell you how the game was, but I was too busy carrying a purple hat, pizza box, and tank through the game.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Well I have to say it - HL1 is just not a good game in this day and age no matter how much you try to improve the presentation (graphics and sound).\nThe movement is wonky and floaty, plus the headtilt while going side to side is nauseating. A lot of the times you will be either stuck (ESPECIALLY WITH THE LADDERS OR SMALL STEPS). Had to reload a save quite a few times in a single playthrough because I got stuck and could not move. While sliding or being in a position your character model perceives as falling/sliding you cannot jump at all. This is insanely frustrating while doing platforming sections... and also.. whose idea was it to put double space as a dash ?!!\nThe platforming is so outdated and boring, especially in the level Xen and later. They OVERSTAY their welcome and bring the experience down as much as possible. The enemies are not really balanced for this as well. Add in the visual effects + when you are damaged and it is not a fun experience to even look at. \nPuzzles were basic/simple but the issue is that, as with the previously mentioned lenth of the levels -these are overused. Sometimes I ask myself are we being programmed while playing games like this?\n\nHad no issues with performance on my laptop max graphics. \n\nThe story is, well Half Life 1. It is interesting and has worldbuilding that makes you want to know more, but for me that was always only good in 1, I am of the opinion that 2 ruined what 1 created - a mish mash of fun ideas and conspiracies. It is not groundbreaking nor new. I believe it is half serious half parody, and that was the intention.\nSo the story is good yet very simple with a bit of unanswered questions to make room for a sequel. Great worldbuilding. The gameplay is where it is bad, add all the issues and then some. I thought about going into detail mission by mission but I just want to be done with this game so this should do.\n\nI did not enjoy playing this.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "insanely unstable, constant crashes on every graphics preset, crashing when changing graphics preset, and crashing even when idling on the main menu",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Game crashes! Can't even finish the game. What a waste of money! Steam new the game was unplayable without a fix! IT IS A SCAM!",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is unplayable on linux right now. It is filled to the brim with bugs, fps drops and crashes. \n\nThe game itself is alright though.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "The end sections where they decided to add tons of material to xen was boring to me and basically renewed it. It was previously very faithful to the game but they decided to make the worst part of the game just drag on. Basically they burned any credibility they had by making the end of the game suck.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "on steam deck i have had to constantly switch between beta versions because it crashes so often. surface tension has now made it unplayable on any version i have tried. it has been so fustrating trying to play this game",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Kind of a mess of a remake and I didn't like the extended version of Xen at all, it's fine as a companion piece and a fan game but I highly recommend anyone play Half Life first.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "trash\n\nedit:\nIf you want to play a next gen duke nukem without worrying about achievements? go for it 8/10\n\nbut if you intend on going for a perfect game then better prepare to be constantly frustrated and demoralized, questioning your every action, decision and life path you ever made and ever will make...",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Yea HL1 is just not a good game in 2025 no matter how much you improve the graphics..",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you want to play Half Life 2, go play that, if you want to play Half Life 1, go play that, if you want to play Half Life 1 if it played just like Half Life 2, with all the downsides of Half Life 1 but none of the upsides? You play Black Mesa.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Black mesa didn't work on my Low End PC sadly even though I changed everything to a low quality setting",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "meh, boring, not worth the 5$, not even worth finishing..",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Crashes every 7 minutes. Hope for a fix during these two weeks or I'm refunding the game I've been dreaming to play.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "画皮画骨难画虎，自作聪明的拙劣模仿",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "game has just become unplayable after i tried to load a save in the lambda core. it won't even load the main menu it just crashes.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ANOTHER EDIT- 16/11/2025 21:45PM\n\nIf you have loads of patience and enjoy puzzles and getting lost then this game is for you!\n\nNot much story other than lab has big accident and you're trying to find out what happens and how to fix it. Final boss pretty mid and you will be more frustrated at puzzles that feel impossible but then you turn around and the big red button was behind you the whole time and then say \"ohhhhh so it was that all along\" and then move on. Rinse and repeat. The enemies were mostly all annoying and there are a few guns that I used some were awful and others satisfying.\n\nI love the music and the graphics in SELECT sections in this game. Sometimes this  game looks beautifiul and others? but ass ugly. \n\nI think i went into this game enjoying it and then it turned into a chore. The final section I was itching to finish this game and just beat the boss because I was sick and tired of how repetitive it felt. No story whatsoever i just felt like i was in a platformer going through different levels. boring. I really want to go on and on about how much I hated this game but I already sound like a baby.\n\nI have a lot of beautiful screenshots of the sombre lighting of the HEV and health stations in the facility but those were MOSTLY the only areas i found aesthetically pleasing to me. Xen was nice in the beginning and then i got tired of the space theme overall because they throw you in some ugly arse mega tower where boss baby the alien is at and his move pattern is incredibly basic. I am not looking forward to half life 2 if its more of the same bullshit GET LOST , do some tiny progress, kill some enemies that are basically bullet sponges and then maybe die and try again and then next section. \n\nI am glad this game is over. Never playing it again that's another game from my backlog finished thank goodness. Black Mesa done!\n\nI am about to finish the game and I have to say that this is a mixed bag with mostly goodies but with a few  razors hidden in the mix as well. I really enjoy the lighting of this game so much when it hits right, I've taken so many screenshots of very random places that just have that \"chef's kiss\" lighting and I adore the game's engine for that but I have some gripes with the gameplay.\n\nI know this game is old i get that, but the pacing (it could completely be my fault and lack of a sense of direction) but Its always a tiring cycle of: Start in new area, get lost, understand what's going on, maybe fight enemies, go to next area and i think that if I had gotten lost less times then the momentum of the game would be so much more engaging! I personally don't enjoy getting lost in games where it feels like a moment of frustration and not a moment of exploration.\n\nI also found that the most annoying areas in this game was in the chapter \"surface tension\". Constant fighting with annoying soldiers that are bullet sponges and that damn lazer section that tries to be a james bond stealth sequence but falls FLAT because of the engine and horrible momentum physics. \n\nI am glad that I am almost finished with this game but I am also sad that it's about to end. There aren't many games that I can say that I enjoy the aesthetic and lighting so much as this game and it holds up very well.\n\nI hope one day we will get a half life 2 remake and maybe even see Valve count to 3.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "eh its ok but my friend glazed it so much i bought it but i never really got into it",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "maps were changed too much from the original.\npoor performance.\nweird movement.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "game always crash cant load cant save",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Overaall a good experience i realy cant recomend enough",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its unplayable on steam deck",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "they just gave the enemy marine ai cs:go cheats",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "if you press delete you can remove objects",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Imagine thinking this is peak.",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "nah",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Would be a fabulous game if it didn't crash every few times you load the game with \"Out of memory or address space.  Texture quality setting may be too high\". This has been happening for years, and it doesn't seem like the developers ever want to fix it.\r\n\r\nSome bits of the game are incredibly frustrating as well - the \"Captive Freight\" chapter, with the vautigaunts, zombies and turrets gets boring very, very quickly.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Even though it looks amazing in terms of atmosphere and visual, also the feeling of the Half-Life universe has been preserved very well in the first half of the game, Xen parts are completely bullshit. Unnecessarily long and difficult, these both issues serve no purpose for the story nor the gameplay. Go play original Half-Life, it is the best game ever for a reason.",
+      "voted_up": false,
+      "votes_helpful": 12
+    },
+    {
+      "review": "A generally well crafted remake, but the gunplay and combat so horrendous it is actually a bit baffling. The aiming is some of the worst I've ever interfaced with, enemy AI is poor, attacks aren't well telegraphed and neither is your damage to enemies. Marines can see a single pixel of your character model from 5 football fields away and attack with accurate fire, often depleting your health before you even have a chance to react. And, on top of that, every single enemy is a bullet sponge. \nSomehow the combat is more dated than the original 90's game. It is weird, and it drags down the experience majorly. Ended up kinda not caring for it as a result, as much as I wanted to like it.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Sadly I will give this a negative review.\nIts a good remake overall and the most modern version of the game available. But the Xen took too long. While I appreciate the devs expanding on the world building and giving Xen more characrer, it dragged for age in my opinion. Especially since the encounters and \"puzzles\" got HELLA repetitive.\nGreat remake apart from that though. I have finsihed it solely for the reason that I wanted to be done with it though",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The new visuals look great, but the game is riddled with issues and overall is just not enjoyable experience. I played the original Half-Life and Black Mesa back to back and had much better time with the former.\n\nCONS:\n* Physics is outright broken. Physical objects jitter violently, boxes explode as you carry them, everything freaks out and feels extremely unstable. Just standing still on top of a barrel makes it shift and slide beneath you.\n* Collisions are way larger than they should be, you can barely fit through doorways. I got randomly caught and stuck on corners and some random stuff all the time. In some places collision is so broken you have to walk around invisible walls. Navigating levels feels like crawling through a narrow cave on rollerblades.\n* At the same time you can easily clip through enemies in melee combat if you get close enough. Go figure.\n* Ladders are super sticky and painful to deal with.\n* Shooting doesn't feel as good and hit feedback is almost non-existent, so most of the time you have to guess whether hit connected or not.\n* Broken AI and poor new enemy placement. Some enemies ignore you completely, others are literally silently waiting behind the corners and attack instantly.\n* Audio is mixed poorly, with some sounds being excessively loud.\n* Other lesser but annoying issues that add up.\n* I'm also not a big fan of cluttering the levels with tons of static objects for \"detailed environment\" as it makes it hard to figure out what you can actually interact with due to all that visual noise, but that is subjective.(I literally missed the very first red valve laying one step away from where you're supposed to use it and ran around the entire level looking for it).",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "fps drops from 144 to unplayable levels as soon as i get outside.\nchanging settings makes no difference. 7900xtx on linux.\n\ntoo bad. it's a good game.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad optimization and stability. Linux version runs like pure garbage, stutters hard in wide open areas, not even that much geometry on screen. DXVK has constant crashing even if the framerate is more stable. Random crashing at any time with \"Out of memory or address space. Texture quality setting may be too high\"... So I change the settings to medium, same issue. Turns out this is only a 32-bit build and is limited in how much RAM it can allocate. Volume levelling is all over the place. Sometimes ear ringingly loud, sometimes whisper quiet, especially in the options menus. Decent enough level design and cute little nods or visual story telling in there, graphics are nice, but man, they really need to revisit their optimizations and builds.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "So much worse than the og, but that's subjective opinion. What isn't however is the long list of technical issues, from very frequent crashes, to horrible controller support; moving the camera with a joystick is so jittery and not at all smooth with no way to fix it. The list goes on, but those are 2 unfixable ones, most bugs can be reset by restarting the game, those 2 are permanent however. \r\nI understand this is basically a fan project, but it's still a product sold for real money, therefore I will judge it like any other.\r\n\r\nStick to the original - especially the ray tracing mod, it's fantastic.",
+      "voted_up": false,
+      "votes_helpful": 9
+    },
+    {
+      "review": "It would be great if the game wasn't plagued by constant bugs and game-breaking annoyances.\r\n\r\nJust go play the original.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The Zen part is WAY too long, feels like it is half the game. It has no point or sense of direction ultimately making it insufferable.",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "Ugh.\r\n\r\nWell, this was going well enough.  I certainly wasn't enjoying it like Half-Life back in the day, but it was entertaining enough.  The enemies seemed more bullet spongey, navigation harder - I got lost more often than I remember!  But it was pretty enjoyable.  I liked the big Marine vs Alien warzone in Surface Tension a lot!\r\n\r\nThen I got to Xen.  Like with the original it was a downgrade in fun, but at least it was pretty this time.\r\n\r\nTHEN I got to the chapter called 'Interloper.'  This chapter may be one of the worst examples of a level in an FPS I have ever seen!  Wow, is it bad.  One long tedious, ugly, boring platform jumping puzzle mixed with 'plug in the thing' puzzles and many gotcha fights.  Atrocious.  It is hard to even see where you are going in there - everything looks the same and it is dark as well.  The conveyor belt section is...  I have no words.  I'll just say it is BAD!!!\r\n\r\nSomehow I pushed through it, because I knew I was near the end but it utterly soured everything that went before.  I am not recommending because of this interminable garbage level.  It simply isn't worth it to get that close to the end and then have to decide whether to not finish or metaphorically nail rusty spikes into your skull for 3 hours straight just to 'win'.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Why did the developers remove the Russian language from the game? This patch is fantastic, simply excellent. How could they mess up the main menu like that? You can't find the settings now.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Black Mesa is an ambitious project with a lot of effort put into it. However, its 15 year long development cycle has been a detriment to its vision, from starting as a Half-Life: Source remaster to now being touted as a \"reimagining\" of Half-Life to hide the fact that somewhere along the way the development team wanted to make this game their own thing, and while that isn't a bad thing on its own, the decisions taken with this game seem as if the developers were trying to one-up Half-Life, to make something better, but the reality is that, at the end of the day: This is an amateur game trying to compete with a game made by professionals, and more than 20 years later, this still shows, because professionals know something very important:\n\nRestraint.\n\n[h1]As a standalone game[/h1]\nThe main problems of Black Mesa as a standalone game are bloat, padding and repetition. Levels often go for longer than they need, padded with unfun platforming, repeating the same puzzles over and over again, and filling combat encounters with enemies to the brim (more enemies does not equal more fun, just look at how F.E.A.R. handles combat encounter with just FIVE enemies at a time). Navigation is also often times difficult due to the sheer amount of distracting details everywhere and poorly illuminated levels (having unlimited flashlight is NOT a replacement for good lighting).\n\nThis is unfortunately and ironically very prevalent in the Xen chapters, where you'll not only have to repeat the same exact puzzles time and time again, but you'll end up noticing that there levels just seem to be the same portion copied over and over again (Halo CE's Library level anyone?), making it not only boring but a pain in the ass to go through. And same as before applies: No, giving me unlimited ammunition and a shit ton of enemies to kill isn't fun, it's just boring and bad game design.\n\nAnd optimization... there are entire areas that run like ass on high end PCs which really kills any fun to be had there.\n\n[h1]As a remake of Half-Life[/h1]\nUnfortunately, it fails as a remake of Half-Life, and it's even less of a replacement. The attitude towards the original game feels often times disrespecting, trying to fix areas of the game that didn't need fixing while making them worse, and those that did need fixing either were completely removed (I'm looking at you On A Rail) or replaced with something that didn't make them any better (Interloper...). Combat encounters feel less fun and the weapons are less satisfying to use. Xen is beautiful but completely disregards the original concept.\n\nThe artstyle is also a downer because it doesn't even try to remotely replicate Half-Life's artstyle is any way. It's the typical \"tries to be realistic but fails and feels cartoonish\" generic kind of artstyle that makes a disservice to the original. They could've at least tried to lean more into the retro-futuristic aspect.\n\nScrewing up the introduction to the most iconic weapon, the crowbar, is an early sign of this.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "Runs poorly but other ran that its pretty good but I'm pretty sure i'm the only having problems so I'd recommended it to other people. I'm still gonna give it a No because the crashes were really annoying.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "This is not the great forthcoming of Half-Life that someone might think. This is barebones imitation with mostly amateur grade assets and it doesn't surprise since it was a free mod initially and then got turned into commercial product. Why? It certainly doesn't carry that Valve or professional quality in it.\n \nMy biggest gripe has gotta be the SOUND World and Music. OG HL is one of the better sounding and most immersive experiences out there. While 1998 the visuals are now fully dated, the sound still stands the test of time and it has all to do with the care and attention Valve put in it. OG HL sounds are creepy, realistic, disturbing, cool and just plain bizarre or eerie at times. This is coupled with the fact that environment is very realistically taken into consideration. When you are in a big bunker entrance to huge labyrinthian base, there will echo ALOT. In this \"professional\" product theres hardly any ECHO present and the little there is, it comes all mono from the center of your STEREO headphones. Meaning this product comes nowhere close to matching original 1998 release's immersion factor. \n\nIf you're boasting on all \"HD Graphics\" and state of art visuals and then half-ass the sound in such way, that's quite an epic moment. It wasn't just the fact that sound reacted in the environment in original version where it barely does in this HD version but all the sounds are also generic and un-inspired forgettable sounds. While classic HL had realism in it's sounds, it didn't focus around that because cool factor comes always before dull realism. OG lazer sound forexample from the chamber is something one would interpret as lazer yet it also sounds cool and disturbing. So it creates atmospheric tense feeling while providing the information that it's hazardous lazer that will cut your limbs or balls off or whatever you put in it.\n\nSome else to pick is the level design. HL was always a linear game but it never punished you for exploration. Remake is still linear game too but it actually tried to expand the current areas for some reason and when you see the original care thought level design and then see the new quickly hastely thought and put together amateur additions, it just doesnt work. One of the biggest flaws of amateur level design is trying to either cram too much stuff into one place/scene or making the scale too big or small. Now thankfully the scale part is alright here but you really notice that theres way too much stuff lying around for supposedly partially abandoned base.\n\nThe visuals are quite dated now in this HD version but they tried so I give them that. However should have stayed clearly a free product due to lack of quality in something that wants to attach itself to the Half-Life franchise.\n\nAlso it's been proven the AI is quite stupid in this when compared to the original HL which AI Still holds up really well and portrays itself intelligent.\n\nTHUMBS UP\n+visuals for the time were quite ok\n+Physics and liftable objects\n\n\nTHUMBS DOWN\n-AI which doesnt compare to originals standards\n-aim down sights\n-sprint mechanic\n-infinite battery on flashlight\n-obvious half-assed soundside\n-paid product for lack of quality\n-ost replaced by not so great new music",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "I want to love this. I've always loved the Half Life series and it's clear the devs of Black Mesa do too, but this game crashes far too often and after being released and out for over 5 years with still no fixes for some of the significant crashing issues, I just can't recommend it. I'm trying to play through it, but the constant crashing is turning it into a chore and my PC is no slouch so there's no reason to blame the hardware. Please fix the remaining major bugs in this game before putting advertisements for your next game into this one. I really feel like that shouldn't have to be asked for. I really want to recommend this... but I just can't... :(",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Has some very weird stutterings when moving around ingame while having no visible framerate and frametime issues. It's been like that since I bought this game 8 months? ago. So now after the third attempt, I giveup.  Unplayable for me. (9800x3d/5080)",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "The game was great up until the Interloper level but became complete trash with the ridiculous amount of platforming and terrible controls. Also, the game crashes a lot.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Such a good initiative, a very cool development and thought-out approach to the original's events, was ruined by a completely disgusting, two hours long fight with the headcrab mother. It was a completely unnecessary undertaking, remakes shouldn't be done that way. Therefore, I don't recommend buying this game, you'll simply end up skipping it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I'd love to tell you how the game was, but I was too busy carrying a purple hat, pizza box, and tank through the game.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Well I have to say it - HL1 is just not a good game in this day and age no matter how much you try to improve the presentation (graphics and sound).\nThe movement is wonky and floaty, plus the headtilt while going side to side is nauseating. A lot of the times you will be either stuck (ESPECIALLY WITH THE LADDERS OR SMALL STEPS). Had to reload a save quite a few times in a single playthrough because I got stuck and could not move. While sliding or being in a position your character model perceives as falling/sliding you cannot jump at all. This is insanely frustrating while doing platforming sections... and also.. whose idea was it to put double space as a dash ?!!\nThe platforming is so outdated and boring, especially in the level Xen and later. They OVERSTAY their welcome and bring the experience down as much as possible. The enemies are not really balanced for this as well. Add in the visual effects + when you are damaged and it is not a fun experience to even look at. \nPuzzles were basic/simple but the issue is that, as with the previously mentioned lenth of the levels -these are overused. Sometimes I ask myself are we being programmed while playing games like this?\n\nHad no issues with performance on my laptop max graphics. \n\nThe story is, well Half Life 1. It is interesting and has worldbuilding that makes you want to know more, but for me that was always only good in 1, I am of the opinion that 2 ruined what 1 created - a mish mash of fun ideas and conspiracies. It is not groundbreaking nor new. I believe it is half serious half parody, and that was the intention.\nSo the story is good yet very simple with a bit of unanswered questions to make room for a sequel. Great worldbuilding. The gameplay is where it is bad, add all the issues and then some. I thought about going into detail mission by mission but I just want to be done with this game so this should do.\n\nI did not enjoy playing this.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "insanely unstable, constant crashes on every graphics preset, crashing when changing graphics preset, and crashing even when idling on the main menu",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Game crashes! Can't even finish the game. What a waste of money! Steam new the game was unplayable without a fix! IT IS A SCAM!",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is unplayable on linux right now. It is filled to the brim with bugs, fps drops and crashes. \n\nThe game itself is alright though.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "The end sections where they decided to add tons of material to xen was boring to me and basically renewed it. It was previously very faithful to the game but they decided to make the worst part of the game just drag on. Basically they burned any credibility they had by making the end of the game suck.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "on steam deck i have had to constantly switch between beta versions because it crashes so often. surface tension has now made it unplayable on any version i have tried. it has been so fustrating trying to play this game",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Kind of a mess of a remake and I didn't like the extended version of Xen at all, it's fine as a companion piece and a fan game but I highly recommend anyone play Half Life first.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "trash\n\nedit:\nIf you want to play a next gen duke nukem without worrying about achievements? go for it 8/10\n\nbut if you intend on going for a perfect game then better prepare to be constantly frustrated and demoralized, questioning your every action, decision and life path you ever made and ever will make...",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Yea HL1 is just not a good game in 2025 no matter how much you improve the graphics..",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you want to play Half Life 2, go play that, if you want to play Half Life 1, go play that, if you want to play Half Life 1 if it played just like Half Life 2, with all the downsides of Half Life 1 but none of the upsides? You play Black Mesa.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Black mesa didn't work on my Low End PC sadly even though I changed everything to a low quality setting",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "meh, boring, not worth the 5$, not even worth finishing..",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Crashes every 7 minutes. Hope for a fix during these two weeks or I'm refunding the game I've been dreaming to play.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "画皮画骨难画虎，自作聪明的拙劣模仿",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "game has just become unplayable after i tried to load a save in the lambda core. it won't even load the main menu it just crashes.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ANOTHER EDIT- 16/11/2025 21:45PM\n\nIf you have loads of patience and enjoy puzzles and getting lost then this game is for you!\n\nNot much story other than lab has big accident and you're trying to find out what happens and how to fix it. Final boss pretty mid and you will be more frustrated at puzzles that feel impossible but then you turn around and the big red button was behind you the whole time and then say \"ohhhhh so it was that all along\" and then move on. Rinse and repeat. The enemies were mostly all annoying and there are a few guns that I used some were awful and others satisfying.\n\nI love the music and the graphics in SELECT sections in this game. Sometimes this  game looks beautifiul and others? but ass ugly. \n\nI think i went into this game enjoying it and then it turned into a chore. The final section I was itching to finish this game and just beat the boss because I was sick and tired of how repetitive it felt. No story whatsoever i just felt like i was in a platformer going through different levels. boring. I really want to go on and on about how much I hated this game but I already sound like a baby.\n\nI have a lot of beautiful screenshots of the sombre lighting of the HEV and health stations in the facility but those were MOSTLY the only areas i found aesthetically pleasing to me. Xen was nice in the beginning and then i got tired of the space theme overall because they throw you in some ugly arse mega tower where boss baby the alien is at and his move pattern is incredibly basic. I am not looking forward to half life 2 if its more of the same bullshit GET LOST , do some tiny progress, kill some enemies that are basically bullet sponges and then maybe die and try again and then next section. \n\nI am glad this game is over. Never playing it again that's another game from my backlog finished thank goodness. Black Mesa done!\n\nI am about to finish the game and I have to say that this is a mixed bag with mostly goodies but with a few  razors hidden in the mix as well. I really enjoy the lighting of this game so much when it hits right, I've taken so many screenshots of very random places that just have that \"chef's kiss\" lighting and I adore the game's engine for that but I have some gripes with the gameplay.\n\nI know this game is old i get that, but the pacing (it could completely be my fault and lack of a sense of direction) but Its always a tiring cycle of: Start in new area, get lost, understand what's going on, maybe fight enemies, go to next area and i think that if I had gotten lost less times then the momentum of the game would be so much more engaging! I personally don't enjoy getting lost in games where it feels like a moment of frustration and not a moment of exploration.\n\nI also found that the most annoying areas in this game was in the chapter \"surface tension\". Constant fighting with annoying soldiers that are bullet sponges and that damn lazer section that tries to be a james bond stealth sequence but falls FLAT because of the engine and horrible momentum physics. \n\nI am glad that I am almost finished with this game but I am also sad that it's about to end. There aren't many games that I can say that I enjoy the aesthetic and lighting so much as this game and it holds up very well.\n\nI hope one day we will get a half life 2 remake and maybe even see Valve count to 3.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "eh its ok but my friend glazed it so much i bought it but i never really got into it",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "maps were changed too much from the original.\npoor performance.\nweird movement.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "game always crash cant load cant save",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Overaall a good experience i realy cant recomend enough",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its unplayable on steam deck",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "they just gave the enemy marine ai cs:go cheats",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "if you press delete you can remove objects",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Imagine thinking this is peak.",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "nah",
+      "voted_up": false,
+      "votes_helpful": 2
+    }
+  ]
+}

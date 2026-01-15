@@ -1,0 +1,816 @@
+{
+  "positive": [
+    {
+      "review": "Been playing since it was a GameJam project and got me hooked even when it was still a barebones game.  If steam recorded the hundreds of hours I wasted with the itch.io version and the older versions from the mobile release this would be my first game reaching over 1k hours.\n\nEvery update keeps adding more and more content I don't get but enjoy very much to figure out, the mechanics are \"simple\" enough to understand, but its layered, and gets so complex at endgame.\n\nBy the end of one planet, your production will be global, and having a central command base sector will be where your resources will be beamed out towards other areas for conquering. I just love this game too much.\n\nHighly recommended, in fact I am in your walls right now whispering in your ear to buy and play this game and give it a try, but if you aren't sold go get the free version on itch before spending money in this game.\n\nIf I had a forever game this would be the game I would be playing in the retirement home.",
+      "voted_up": true,
+      "votes_helpful": 11
+    },
+    {
+      "review": "Just an excellent game. Love the strategy, schematic building, and base-building aspects. It's impressive how much is packed into this game; it has anything from single player campaigns to intense PvP to custom map-building. Air units are overpowered.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "---{ Graphics }---\n☐ You forget what reality is\n☐ Beautiful\n☐ Good\n☑ Decent\n☐ Bad\n☐ Don‘t look too long at it\n☐ MS-DOS\n\n---{ Gameplay }---\n☐ Very good\n☑ Good\n☐ It's just gameplay\n☐ Mehh\n☐ Watch paint dry instead\n☐ Just don't\n\n---{ Audio }---\n☐ Eargasm\n☐ Very good\n☐ Good\n☑ Not too bad\n☐ Bad\n☐ I'm now deaf\n\n---{ Audience }---\n☑ Kids\n☑ Teens\n☐ Adults\n☐ Grandma\n\n---{ PC Requirements }---\n☑ Check if you can run paint\n☐ Potato\n☐ Decent\n☐ Fast\n☐ Rich boi\n☐ Ask NASA if they have a spare computer\n\n---{ Game Size }---\n☑ Floppy Disk\n☐ Old Fashioned\n☐ Workable\n☐ Big\n☐ Will eat 15% of your 1TB hard drive\n☐ You will want an entire hard drive to hold it\n☐ You will need to invest in a black hole to hold all the data\n\n---{ Difficulty }---\n☐ Just press 'W'\n☐ Easy\n☐ Easy to learn / Hard to master\n☑ Significant brain usage\n☐ Difficult\n☐ Dark Souls\n\n---{ Grind }---\n☐ Nothing to grind\n☐ Only if u care about leaderboards/ranks\n☐ Isn't necessary to progress\n☑ Average grind level\n☐ Too much grind\n☐ You'll need a second life for grinding\n\n---{ Story }---\n☐ No Story\n☑ Some lore\n☐ Average\n☐ Good\n☐ Lovely\n☐ It'll replace your life\n\n---{ Game Time }---\n☐ Long enough for a cup of coffee\n☐ Short\n☐ Average\n☐ Long\n☑ To infinity and beyond\n\n---{ Price }---\n☐ It's free!\n☐ Worth the price\n☑ If it's on sale\n☐ If u have some spare money left\n☐ Not recommended\n☐ You could also just burn your money\n\n---{ Bugs }---\n☑ Never heard of\n☐ Minor bugs\n☐ Can get annoying\n☐ ARK: Survival Evolved\n☐ The game itself is a big terrarium for bugs\n\n---{ ? / 10 }---\n☐ 1\n☐ 2\n☐ 3\n☐ 4\n☐ 5\n☐ 6\n☐ 7\n☑ 8\n☐ 9\n☐ 10\n\n---{ Author }---\n☑ https://vojtastruhar.github.io/steam-review-template",
+      "voted_up": true,
+      "votes_helpful": 10
+    },
+    {
+      "review": "Get this game. It's $10 here or free from the creator's itch.io or GitHub if you don't care about Steam multiplayer. Whichever one of those you pay, it is very much worth it.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "One of my favorite games, I really like the amount of diffrent thing you can do I love especially the layouts. What I find really interesting is the way you have to supply fabrics and towers especially the towers most need ammo, some need energy and/or ammo and the advanced sometimes multiple.\nI think the multyplayer is really enjoiable but I think when you want to 100% the story is really boring to do all the levels. (I have 300h in the game just not on steam btw :(  )",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "So I started playing this game on mobile since V4 to V7 I purchase it on steam to support the developer it really deserves just everything game is perfect. \n\nThis game just keeps on getting better throughout every versions. Mindustry will really give you that engineering mindset of finding problems and designing/creating the thing that will fix it, improving from past mistakes, developing unconventional methods yet it works the control you can have over the game using logic processors this shit was just a dream now it is officially in the game, the amount of freedom you have is insane, the only limit is the ideas and imaginations you brain can come up with.\n\nI HIGHLY RECOMMEND this game to everyone to try it, for the price it offers so much content I would be willing to pay more honestly, it really deserves more.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "fun gameplay loop and interesting tech tree progression!!! love how you have to be smart to play the game to the end or you get overrun by 15 bosses.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is so underrated. Played it for so many years and still enjoy it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Inexpensive and quite deep, grat to scratch the conveyor belt itch.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Niche game, love it but for most people it gets boring quickly, and besides that its just not that popular",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Excellent resource management game combined with TD and RTS components. Can't believe such a small game to have such an extensive mechanic and design element. Very addicting especially for those who love organization and automation.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's amazing seeing an open source game! And one that is really really good too!\n\nI originally downloaded it from github but after I got completely sucked in for two weeks I knew for sure it was worth buying on Steam to show some support.\n\nThe game can be hard but it's super rewarding when you win, and spending a lot of time on a level is no issue with the pleasing graphics and smooth sound design.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good game, addicting, good gameplay",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Хорошая игрушка Tower Defense жанра,графика минималитсична и приятна,геймплей интересен,умерено и ПВП и ПВЕ,есть сервера,игра просто хороша\r\n\r\nГрафика: 3/10\r\nГеймплей: 9/10\r\nМузыка: 7/10\r\nЗвуки: 5/10\r\n\r\nДенег своих стоит,есть бесплатно,но поедржите анюка,он в подвале на Java игру написал",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Absolutley Goated at its price range(at the moment R$20) but its a great game that i would be willing to pay much more for.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A factory building real time strategy tower defense game that has taken days out of my life and is still being slowly but surely worked on with a lot of care. Great controls, and the gameplay more or less moves at your pace (there's a pause button with spacebar that lets you prepare schematics and the like). Give it a shot, its pretty cool.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "easy 8/10\n\nthis game is fantastic BUT, for those looking to play it i heavily reccomend playing with friends, this games harder segments feel like they need additional players, dont get me wrong its fun as hell but for those who get tunnel vision like i do friends are a must!, that bein said this game is fantastic and truly brings together everything i enjoyed about factorio and creeper world together.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game deserves the Overwhelmingly Positive. If you haven't played in a while, play it again. If you don't own it, buy it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "pretty goated for 10 dollar. guess its a automation logistics game a bit like satisfactory and factorio (i've never played factorio.) but a heavier focus on tower defense and after a bit it becomes an rts with you sending in troops to attack enemy bases.\n\nit also has 2 different campaigns with some different mechanics in both. I think theyre both worth checking out but the other one that uses lasers and stuff to mine has more features and content with a better difficulty curve imo.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Umazing!\r\nIt's increbibly addictive, has so much stuff to do and can be played with friends, it's really fun and complex.\r\nthe new update bringind difficulty changer will be incredible for everyone.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Can be gotten for free from the devs website if you do not want to pay, though the game has much more than a few hours worth of content so $10 is not bad",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A wonderfull game about automation and creating factories. If factorio is the best factory game, this is the second best.\n\nIt's wonderful to see a small project grow into such an excelent game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "favourite mobile factory game\r\nstill gets a lot of fun on pc\r\ngets repetetive once you understand most of it and unleck most of tech tree",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have played this game for a day and a half and already have 16 hours on it.\r\n11/10 would play for another 500 hours at least.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Easy recommendation. Great mix between factory building and tower defense and a steal for the price. Even better with a friend.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Basically a superset of Factorio, but can get way more technical.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "---{ Graphics }---\n☐ You forget what reality is\n☐ Beautiful\n☐ Good\n☑ Decent\n☐ Bad\n☐ Don‘t look too long at it\n☐ MS-DOS\n\n---{ Gameplay }---\n☑ Very good\n☐ Good\n☐ It's just gameplay\n☐ Mehh\n☐ Watch paint dry instead\n☐ Just don't\nMy favourite RTS/tower defense game, also probably the only popular one there is. But, it's very well made\n---{ Audio }---\n☑ Eargasm\n☐ Very good\n☐ Good\n☐ Not too bad\n☐ Bad\n☐ I'm now deaf\nhas some of the best music (in my opinion) and SFX I've seen. I always love hearing the guns shoot from the robots.\n---{ Audience }---\n☐ Kids\n☑ Teens\n☑ Adults\n☐ Grandma\nMade for people who have the patience and time to make their base, just like an RTS. When I played this game as a kid, I thought it was boring, but I may get back into this game now that I am more mature.\n---{ PC Requirements }---\n☑ Check if you can run paint\n☐ Potato\n☐ Decent\n☐ Fast\n☐ Rich boi\n☐ Ask NASA if they have a spare computer\nI think this game can actually run on a potato, it takes nothing to play this game\n---{ Game Size }---\n☐ Floppy Disk\n☑ Old Fashioned\n☐ Workable\n☐ Big\n☐ Will eat 15% of your 1TB hard drive\n☐ You will want an entire hard drive to hold it\n☐ You will need to invest in a black hole to hold all the data\n200 Mb of space needed, need I say more?\n---{ Difficulty }---\n☐ Just press 'W'\n☐ Easy\n☐ Easy to learn / Hard to master\n☐ Significant brain usage\n☑ Difficult\n☐ Dark Souls\nAt some point (where I'm at right now actually), you realise that you've gotta start playing smartly instead of just placing a million walls.\n---{ Grind }---\n☐ Nothing to grind\n☐ Only if u care about leaderboards/ranks\n☐ Isn't necessary to progress\n☑ Average grind level\n☐ Too much grind\n☐ You'll need a second life for grinding\nGotta play the game and lose some levels to fuller understand them, which might be a bit of a grind\n---{ Story }---\n☐ No Story\n☑ Some lore\n☐ Average\n☐ Good\n☐ Lovely\n☐ It'll replace your life\nThe planets have lore to them and why us, the player, are invading it, but I've never really looked at the lore too much\n---{ Game Time }---\n☐ Long enough for a cup of coffee\n☐ Short\n☑ Average\n☐ Long\n☐ To infinity and beyond\nAround 10 - 30 mins a game time per level, and you can pause pretty much whenever, very good game for casual players.\n---{ Price }---\n☐ It's free!\n☑ Worth the price\n☐ If it's on sale\n☐ If u have some spare money left\n☐ Not recommended\n☐ You could also just burn your money\nAround 11 bucks (for me in canada at least), the mobile game is free, but let's be real, nobody is playing mobile games in 2025.\n---{ Bugs }---\n☑ Never heard of\n☐ Minor bugs\n☐ Can get annoying\n☐ ARK: Survival Evolved\n☐ The game itself is a big terrarium for bugs\nHaven't found a bug yet\n---{ ? / 10 }---\n☐ 1\n☐ 2\n☐ 3\n☐ 4\n☐ 5\n☐ 6\n☐ 7\n☐ 8\n☐ 9\n☑ 10\nVery good game and I will definitely play this game once I get the time\n---{ Author }---\n☑ https://vojtastruhar.github.io/steam-review-template",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "+ Mindustry gets constantly improved\r\n+ Huge modding support\r\n+ Maybe better than Factorio\r\n+ Community involvement; like adding player maps/scenarios to the game that fulfill special conditions to fit the game \r\n- I would whish for a remake with graphics like in the game 'Riftbreaker'\r\n+ Two campaigns (planets) with totally different concepts and play style\r\n+ PVP & PVE\r\n+ Complex, but not too complex production chains\r\n+ While other games will get dusty in you games library, you will end up coming back even after a year or two not playing it. It will be fun again and it will have a lot of new content.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The skill level skyrockets and I now have a doctorates in logistic networks. 10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "this one goes out to the time my friend and i had a enemy aircraft that exploit a critical air defence gap to strike deep into vital supply lines in the hell known as Origin",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It was already good, yet it keeps getting better with every update",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "this one goes out to the enemy aircraft that exploited a critical air defence gap to strike deep into vital supply lines in the hell known as Origin",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If Factorio is a hardcore crack, this one is lite crack for beginner.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great game in general, I personally love it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I think it was reasonable to nominate this game for the labor of love award ;;)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing game, very fun to learn new things every time you play.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "sometimes yeah. copper walls and duos type shi",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Turing Complete and addicting",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Best factory game i've ever played, bought it 3 times to show my support to the devs. Keep killing it, excited for V8!!! :D",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Wherever I go is where the enemy isn't\r\n- Crux Tzu, The Art of Erekir",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i played this game so much back in the lead up to v7. still peak. i love this.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Just a fun lil game with tower defense n shit",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This game made me create a router cult.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good game bad community",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Yep, great game\nIf you like tower defence games this is one of them",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "play this game on phone for years, it peak",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "goes good with beans",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Block Give Block Put block by block = this block tech this block to do this block with that block block shoot thing thing die thing come back more and kill me i try again.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Game of my childhood🥰",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Tis but a great game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "cuppy game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The children crave for the mines",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "conveyor spaghetti",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Its good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Nice game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "router supremacy >>>>>>>>>>",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "fun",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The fact that Anuke gives such high quality game for free (on itch.io) is crazy.\nWorth every penny spent, would reccomend :3",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good Game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "soo fun",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Labor of love right here",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Mindustry my beloved",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "THE BEST GAME.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I like\r\n<3",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Perfect",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "9/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i no longer have a social life",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ǝɯɐƃ pooƃ ɐ llᴉʇs s,ʇᴉ ʇnq ɯǝʇsʎs sɔᴉʇsᴉƃol plo ǝɥʇ pǝʎoɹʇsǝp sᴉɥʇ pɐd ɥɔunɐl ʍǝu ǝʞᴉl ʇuop ᴉ",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ths so awesome",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Mind us try",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "idk what to put here",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "You need more time",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Elite",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "cool",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "OPTIMIZE OPTIMIZE OPTIMIZE OPTIMIZEOPTIMIZE OPTIMIZEOPTIMIZE OPTIMIZE\n\nRAAAAAAAAAAAAAAAAAAHHHH",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "yes",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "router",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "router",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "yes",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "yeah",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ROUTER-ROUTER-ROUTER-ROUTER!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "С В А Г А я знаю все эти 5 букв",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Yes",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": ":)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": ":)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ez",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I've been playing this since like 2018, it's the best open source game so far (yes, it's really an open source project).",
+      "voted_up": true,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Been playing since it was a GameJam project and got me hooked even when it was still a barebones game.  If steam recorded the hundreds of hours I wasted with the itch.io version and the older versions from the mobile release this would be my first game reaching over 1k hours.\n\nEvery update keeps adding more and more content I don't get but enjoy very much to figure out, the mechanics are \"simple\" enough to understand, but its layered, and gets so complex at endgame.\n\nBy the end of one planet, your production will be global, and having a central command base sector will be where your resources will be beamed out towards other areas for conquering. I just love this game too much.\n\nHighly recommended, in fact I am in your walls right now whispering in your ear to buy and play this game and give it a try, but if you aren't sold go get the free version on itch before spending money in this game.\n\nIf I had a forever game this would be the game I would be playing in the retirement home.",
+      "voted_up": true,
+      "votes_helpful": 12
+    },
+    {
+      "review": "One of the absolute best games I've ever played, finished it on my ipad, loved it so much I got it on steam too.\n\nBUY THIS GAME, even at full price it's an absolute steal. Hundreds of hours worth of content, two unique campaigns both with their own planet to conquer, materials to discover and tech tree to unlock.\n\nIt's similar to Factorio but leans way more into the tower defense RTS aspect which goes really hard, I used to play C&C Tiberian Sun and Red Alert 2 as a kid and 90% of my time in those games was just spent building ridiculously large bases with walls and turrets everywhere, Mindustry really takes me back to those days in that it gives you the freedom to basically just turtle into a section on the map and fortify yourself with crazy defenses while amassing an army of units, it's peak gaming imo.\n\nThe campaign is fantastic (START ON SERPULO!!), you land on a planet in one sector, you establish your first base there after evicting the enemy presence, and then you launch into new sectors from that base. You will either be defending your base from enemy waves in order to capture the sector, or you'll have to destroy the enemy bases to do so. Both mission types are a ton of fun and thanks to the variety in the maps, it never gets old. Every sector you capture expands your presence on the map, and remains useful throughout your gameplay since sectors keep passively farming resources for you. Later on you unlock the ability to ship your resources to your central base, from where you can launch into new sectors with a ton of resources to give you a head start. This really gives you the feeling that you grow more powerful, since new sectors improve your resource gathering, and having a lot of resources means you can land in new sectors with premium materials that allow you to set up the best turrets and units right out the gate.\n\nI could muse on and on about this game, it's that good, just grab it, even at full price it's an absolute steal, I have hundreds of hours already logged on my ipad and I plan to do the same on steam. 10/10 game\n\nBTW: Start with Serpulo. Devs recommend Erekir as your first planet but I don't understand why because when it comes to balancing and progression, Erekir is honestly kind of @ss, way less freedom and way too focused on units instead of towers. On Serpulo you can really turtle in behind walls and turrets, on Erekir the AI just spams waves of flying units and mechs that don't give a fuck about your walls, which almost killed my enjoyment of this game. If I had started on Erekir it's quite possible I wouldn't have liked this game, it's only because of Serpulo's much better progression that I'm able to stomach Erekir. Ignore devs advice, they claim it's better tuned, but in my experience, it's the complete opposite and Erekir is 100% the worst of the two planets, and it's not even close",
+      "voted_up": true,
+      "votes_helpful": 10
+    },
+    {
+      "review": "It's the \"industrial annihilation\" we won't get. Factorio with deeper combat.\n\nOne thing I want to highlight, is that the devs were extremely smart with what the player does when a level is lost: All your building locations are saved and you can just restart the level, hit the button and rebuild. You still need the resources, but you can bring plenty on level start. But the important thing is, you don't need to plan and you don't need to click a bunch just to get your solution so far up and running. The wave based levels have a button to start waves early to speed things up.\n\nProbably not a thousand hour game for me, but it's pretty good!\n\nThis is for the purple planet, I did not like the campaign on the orange planet.",
+      "voted_up": true,
+      "votes_helpful": 7
+    },
+    {
+      "review": "---{ Graphics }---\n☐ You forget what reality is\n☐ Beautiful\n☐ Good\n☑ Decent\n☐ Bad\n☐ Don‘t look too long at it\n☐ MS-DOS\n\n---{ Gameplay }---\n☐ Very good\n☑ Good\n☐ It's just gameplay\n☐ Mehh\n☐ Watch paint dry instead\n☐ Just don't\n\n---{ Audio }---\n☐ Eargasm\n☐ Very good\n☐ Good\n☑ Not too bad\n☐ Bad\n☐ I'm now deaf\n\n---{ Audience }---\n☑ Kids\n☑ Teens\n☐ Adults\n☐ Grandma\n\n---{ PC Requirements }---\n☑ Check if you can run paint\n☐ Potato\n☐ Decent\n☐ Fast\n☐ Rich boi\n☐ Ask NASA if they have a spare computer\n\n---{ Game Size }---\n☑ Floppy Disk\n☐ Old Fashioned\n☐ Workable\n☐ Big\n☐ Will eat 15% of your 1TB hard drive\n☐ You will want an entire hard drive to hold it\n☐ You will need to invest in a black hole to hold all the data\n\n---{ Difficulty }---\n☐ Just press 'W'\n☐ Easy\n☐ Easy to learn / Hard to master\n☑ Significant brain usage\n☐ Difficult\n☐ Dark Souls\n\n---{ Grind }---\n☐ Nothing to grind\n☐ Only if u care about leaderboards/ranks\n☐ Isn't necessary to progress\n☑ Average grind level\n☐ Too much grind\n☐ You'll need a second life for grinding\n\n---{ Story }---\n☐ No Story\n☑ Some lore\n☐ Average\n☐ Good\n☐ Lovely\n☐ It'll replace your life\n\n---{ Game Time }---\n☐ Long enough for a cup of coffee\n☐ Short\n☐ Average\n☐ Long\n☑ To infinity and beyond\n\n---{ Price }---\n☐ It's free!\n☐ Worth the price\n☑ If it's on sale\n☐ If u have some spare money left\n☐ Not recommended\n☐ You could also just burn your money\n\n---{ Bugs }---\n☑ Never heard of\n☐ Minor bugs\n☐ Can get annoying\n☐ ARK: Survival Evolved\n☐ The game itself is a big terrarium for bugs\n\n---{ ? / 10 }---\n☐ 1\n☐ 2\n☐ 3\n☐ 4\n☐ 5\n☐ 6\n☐ 7\n☑ 8\n☐ 9\n☐ 10\n\n---{ Author }---\n☑ https://vojtastruhar.github.io/steam-review-template",
+      "voted_up": true,
+      "votes_helpful": 11
+    },
+    {
+      "review": "Just an excellent game. Love the strategy, schematic building, and base-building aspects. It's impressive how much is packed into this game; it has anything from single player campaigns to intense PvP to custom map-building. Air units are overpowered.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Get this game. It's $10 here or free from the creator's itch.io or GitHub if you don't care about Steam multiplayer. Whichever one of those you pay, it is very much worth it.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "very captivating.   Love it.  need to try to play with other players someday.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "i like the mindustry becouse im straight up loosing it and by it lets just say...  my mindnits",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Mindustry is engaging and deep. Easy to learn but difficult to master. There are many details that are not obvious and probably need to be better explained but learning them is part of the fun.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "One of my favorite games, I really like the amount of diffrent thing you can do I love especially the layouts. What I find really interesting is the way you have to supply fabrics and towers especially the towers most need ammo, some need energy and/or ammo and the advanced sometimes multiple.\nI think the multyplayer is really enjoiable but I think when you want to 100% the story is really boring to do all the levels. (I have 300h in the game just not on steam btw :(  )",
+      "voted_up": true,
+      "votes_helpful": 1
+    }
+  ],
+  "negative": [
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If not good, why good shaped",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool design, but the gameplay loop of having to go trough the process of building a new factory every level can get boring quick.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad campaign design. Many maps will ambush the player with waves of enemies that can't be defended against without prior knowledge of how the map is designed. This forces pointless restarts that waste hours of game time.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets way too difficult, way too quickly. Learn what game balance means.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If not good, why good shaped",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool design, but the gameplay loop of having to go trough the process of building a new factory every level can get boring quick.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad campaign design. Many maps will ambush the player with waves of enemies that can't be defended against without prior knowledge of how the map is designed. This forces pointless restarts that waste hours of game time.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets way too difficult, way too quickly. Learn what game balance means.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If not good, why good shaped",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool design, but the gameplay loop of having to go trough the process of building a new factory every level can get boring quick.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad campaign design. Many maps will ambush the player with waves of enemies that can't be defended against without prior knowledge of how the map is designed. This forces pointless restarts that waste hours of game time.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets way too difficult, way too quickly. Learn what game balance means.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If not good, why good shaped",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool design, but the gameplay loop of having to go trough the process of building a new factory every level can get boring quick.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad campaign design. Many maps will ambush the player with waves of enemies that can't be defended against without prior knowledge of how the map is designed. This forces pointless restarts that waste hours of game time.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets way too difficult, way too quickly. Learn what game balance means.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If not good, why good shaped",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool design, but the gameplay loop of having to go trough the process of building a new factory every level can get boring quick.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad campaign design. Many maps will ambush the player with waves of enemies that can't be defended against without prior knowledge of how the map is designed. This forces pointless restarts that waste hours of game time.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets way too difficult, way too quickly. Learn what game balance means.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If not good, why good shaped",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool design, but the gameplay loop of having to go trough the process of building a new factory every level can get boring quick.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad campaign design. Many maps will ambush the player with waves of enemies that can't be defended against without prior knowledge of how the map is designed. This forces pointless restarts that waste hours of game time.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets way too difficult, way too quickly. Learn what game balance means.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If not good, why good shaped",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool design, but the gameplay loop of having to go trough the process of building a new factory every level can get boring quick.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad campaign design. Many maps will ambush the player with waves of enemies that can't be defended against without prior knowledge of how the map is designed. This forces pointless restarts that waste hours of game time.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets way too difficult, way too quickly. Learn what game balance means.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If not good, why good shaped",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool design, but the gameplay loop of having to go trough the process of building a new factory every level can get boring quick.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad campaign design. Many maps will ambush the player with waves of enemies that can't be defended against without prior knowledge of how the map is designed. This forces pointless restarts that waste hours of game time.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets way too difficult, way too quickly. Learn what game balance means.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If not good, why good shaped",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool design, but the gameplay loop of having to go trough the process of building a new factory every level can get boring quick.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad campaign design. Many maps will ambush the player with waves of enemies that can't be defended against without prior knowledge of how the map is designed. This forces pointless restarts that waste hours of game time.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets way too difficult, way too quickly. Learn what game balance means.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If not good, why good shaped",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool design, but the gameplay loop of having to go trough the process of building a new factory every level can get boring quick.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Seems interesting but the UI is among the worst I've ever seen. Too much clicking to see simple information that should be readily available.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bad campaign design. Many maps will ambush the player with waves of enemies that can't be defended against without prior knowledge of how the map is designed. This forces pointless restarts that waste hours of game time.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "It starts palatable as a tower defense game, but quickly tuns into a programming game where the simplest things must be coded, you have to program pathfinding, attack, defense, retreat, you don't control the units in the traditional sense, you have to write software to do it. \n\nit turns into a chore so fast, which is a shame, i was liking it.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Gets way too difficult, way too quickly. Learn what game balance means.",
+      "voted_up": false,
+      "votes_helpful": 0
+    }
+  ]
+}

@@ -1,0 +1,1006 @@
+{
+  "positive": [
+    {
+      "review": "Very fun and addicting TD.\r\n\r\nYou can create your own maze as you play. Many commanders, 3 distinct battlegroups to choose from.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Tower Dominion is a captivating tower defense strategy game that challenges players to protect their kingdom from invading forces. The Game offers a unique blend of tower building, resource management, and intense battles.\n\nThe core gameplay revolves around constructing a variety of defensive towers along the paths of enemy advancement. Players must strategically place and upgrade these towers to create an impenetrable fortification. The tower selection is diverse, ranging from basic arrow towers to devastating magical cannons, each with their own strengths and weaknesses.\n\nAs players progress, they can unlock new tower types, enhance their existing structures, and even research powerful spells to turn the tide of battle. This depth of customization allows for a high degree of replayability.\n\nThe game's visuals are a delightful mix of vibrant fantasy aesthetics and smooth, responsive animations.The game's difficulty curve is well-paced, gradually introducing new enemy types and challenges to keep players on their tip toes. Steam Achievements are also well implemented and are fun to obtain.\n\nOverall, Tower Dominion is a must-play for fans of the tower defense genre.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "If you like tower defense that ramps up to quite a challenge and don't mind having to reroll a few runs due to unkind RNG, this game is really good. I've played it a lot.",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Always enjoyed tower defense games despite the fact most arnt that creative or diffrent from eachother however i think this is quite possibly the best tower defense i have ever played it is increadibly enjoyable with plenty of replayability and easy to diffrent builds every time",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I've been a big fan of the Tower Defense genre for over 20 years, and have played many, but this is without any doubt the best TD game I have ever played. It is still fun to start up another round even though I've accomplished everything the game has asked of me.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Great fun but I wish it were more endless than it is. I'd love to spend hours building a huge base but the enemy is just too powerful no matter if you've fully upgraded and have a ton of resources. Doesn't feel fair.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "TLDR: Tower dominion is a very solid tower defense game with roguelike elements.\r\nIt's one of the best games in the tower defense genre, I highly recommend it.\r\nSome of your losses will feel really unfair, so you have to be able to handle that.\r\nI have had zero crashes and performance is good on mid-range or higher hardware, details at the end.\r\n\r\n# UI\r\nOverall the UI never gets in your way and works well.\r\nI have some nitpicks, but none of them really take away from the game.\r\n* the game always sets the difficulty to frontier, even if you never play that difficulty\r\n* mouse wheel scrolls too fast in codex and skips the only real important part (buildings)\r\n* viewing the characteristics of a building from anywhere it matters takes way too many clicks\r\n\r\n# gameplay\r\nThe game is run based and with experience you can complete a successful run in 20-30 mins.\r\nUpgrades work based on a an RNG card based system, so you have to adapt to the choices the game gives you.\r\nIt is very similar to rogue tower, I will give a comparison later.\r\n\r\n# RNG\r\nMost negative reviews on this game complain about balance and RNG.\r\nI originally felt that it is all RNG based, but after playing it more I feel like I just needed to learn.\r\nThe game has plenty of depth and there is some stuff you have to learn that's not obvious.\r\nI do think the game has balance issues most importantly the red faction being way harder to play than the others.\r\nThe game gives you plenty of tools to win reliably with the other two factions on difficulty IV.\r\nYou can make the game as hard as you want in frontier mode, which is basically a challenge mode.\r\nSo if your ego can't handle losing and your ego requires you to play at the highest difficulty,\r\nmaybe this game is not for you.\r\n\r\n# balance\r\nOne major balance issue that is totally legit and should be fixed is how the game spawns enemies.\r\nThe game argues that enemies are equally distributed over all entry points.\r\nWhat this means is that they are equally distrubuted numerically.\r\nSo all the most powerful enemies might spawn right next to your base and the rest everywhere else.\r\nThe path the enemies walk is distributed over the number of branches the path has.\r\nSo you can split them up by having branching paths with loops in them.\r\nMost of them seem to choose the same path though and which path they choose changes per wave.\r\nSo depending on RNG all the tanks might take the long way, or they might head straight for the base.\r\nThis is a poor implementation.\r\n\r\n# unlocks / achievements\r\nThe achievements for this game are uninspired and easy to get.\r\nUnlocking the doctrines in the codex is a total pain though and the how is not clearly communicated.\r\nIt doesn't really matter much, since the harder it is to unlock the less valuable it is in a run.\r\nSome expertise doctrines require such tight RNG to get that they are basically worthless (except for endless).\r\n\r\n# performance\r\nI tested the game on my i7-12650H / nvidia 3050 laptop gpu and it runs,\r\nbut suffers serious fps dips (less than 10) at various points.\r\nMy AMD 7600 Ryzen 5 / AMD RX 7800 XT runs the game perfectly fluid.\r\nIt rarely drops under 60 fps and is usually above 120 fps.\r\nIn endless mode the performance tanks and in a way that suggest an optimization issue.\r\nThe framerate tanks even when idle between waves and the game should be doing almost nothing.\r\n\r\ncompared to rogue tower\r\n+ looks better\r\n+ far better UI\r\n+ speed controls, yay!\r\n+ better balanced than rogue tower IMO\r\n+ you get to pick which sections to use to upgrade the path\r\n\r\n- no tower priorities; lack of control on tower targetting\r\n- rogue tower runs better on low end hardware.\r\n- rogue tower doesn't have massive frame rate dips in endless mode\r\n\r\nOverall I would recommend choosing this game over rogue tower if your hardware is up to snuf.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Excellent Tower Defense game, great progress, very relaxing. Great music. Recommended",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "The only Tower Defense that I feel has the right amount of challenge and replayability without exhausting its mechanics. \nAwesome! Four thumbs up!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "A refreshing approach to tower defense by allowing the user to aid in the creative layout of the board-like tiles.  Three unique factions with their own play styles and numerous generals to adjust a play strategy.  Recommended for tower defense enthusiasts in search of another game for their collection.  Happy hunting to all and to all a good night.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Simple to learn, endlessly replayable. Path-building and varied commanders make every run feel fresh. One of the most addictive tower-defense games I’ve played in years.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun tower defense game with original aspects like building your own map.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very creative and refreshing take on the ancient Tower Defense genre. Fun to play and watch in equal parts. I LOVE PICKING 1 OF 3!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "What can I say.  It's a very well balanced game with great graphics.  Progression is done in a way to keep you interested.  Love it!  Thanks Devs.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is not a ground breaking game by any stretch, but I can honestly say it is one of the most fun and well made of it's kind. Easy to play in the background, lots of options, variation and replayability. Great visuals, fun sound track too, though it is a little repetitive.\r\n\r\nIf I had to give it some criticism, I'd say that the harder difficulties can sometimes seem massively unbalanced. There are some enemies that will more less always destroy your base from 100 to 0, which just isn't fun.\r\n\r\nI'd also like to see the sound track expanded and some different game modes, maybe a sandbox mode. I hope they bring out more factions in the future too.\r\n\r\nAll in all, I recommend this game, especially if you are not some hardcore gamer with too much time on your hands.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It certainly is a fun game but it can as well be rather unfair\nI would enjoy more towers and enemies however",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is fun but I wish some improvement:\r\n\r\n1. Make stronger tower spawn more often as I like to play endless mode, but towards the end only weak tower available,  my resources 30,000+ and recon 1000 left\r\n\r\n2. if selling tower, to return blueprint \r\n\r\n3. can save halfway\r\n\r\n4. after map become bigger, fps drop to 30 (i use RTX 3080+ ryzen 5800x3d , 16gb ram)\r\n\r\n5. the strongest monster can one shot your HQ so it is useless to pick many HP for HQ\r\n\r\n6. during power up spawn, can choose to return to map so that i can choose properly",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "one of the most immersive tower defense games i've played so far, its fun yet challenging to beat, who can get the furthest?",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I really like how simple the game is while there is still deep strategy to learn from. while the land placing is cool, it can be infuriating to use depending on the faction you're playing.\r\n\r\nI also like the progression in the game. in order for you to unlock different leaders, you'll need to complete a challenge to unlock them. some are easy, others are harder so I'll take some time to unlock all of them. The challenges also encourage your growth in the game as some of them are difficult if you don't think on how to place towers.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Never been a tower defense or roguelike fan so but oh boy have I enjoyed this. Great way to chill out for a few hours. Addicitive gameplay. Some of the units and buildings remind me of Advance Wars.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Honestly a pretty nice game for what it's about. I mean its a TD game that has rouge like elements to it so not much to really say. Well besides that you will feel the difficulty at the start when you've got barely any tower upgrades unlocked.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Tower Dominion is a fun little game that'll scratch a Tower Defense itch.\r\n\r\nIt's slightly let down by keeping the cool doctrines locked behind progression so you'll only start to see them towards the end of your time playing the game; but hopefully they keep updating the game with more content.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great for little 40 minute sessions when you just want to focus on a simple task and watch your work reward you with success.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is actually difficult. Extremely fun and addicting. Even after loosing 10 times in a row, I want to play another round. I am just curious to see if anyone has actually beat the game on frontier mode with all skulls on. That's what I have been attempting and it seems impossible. But it is a fun challenge. I highly recommend this game to those who enjoy games like Bloon Tower Defense or Tower defense games. The fact that you get to build you maze is super neat and the tower variety is also nice. The amount of leaders you can have is also very good. I hope they add more content in the future. I haven't noticed any bugs since I have started playing. But I have had some damn near impossible starts.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good and complex little bit rogue-like tower defense game",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Beautiful and addictive. We need more game modes and achievements to chase!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Solid Tower Defense game. \r\n\r\nGood graphics and assortment of towers, but more importantly, the strategem is threefold:\r\n\r\n- Placement of towers\r\n- Placement of terrain tiles (you actually build the map as you go)\r\n- Robust number of base types (3) and hero types (20 or something), which impacts gameplay",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is what it must feel like to be a Warhammer 40k Imperial Guard commander in charge of holding a position against the Tyranids.\n\nSuccess is somewhat random, but the gameplay is surprisingly addicting.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very fun. Decent variation for replayability but sometimes you just get screwed with what towers you get and what enemies you are up against. Difficulties 3 and 4 feel much harder than 1 and 2, and sometimes I feel like early waves will go fine but then wave 30 or something will suddenly be much harder, but I'm pretty sure I don't have the finer points of the strategies down yet. There are many different leaders you can pick from that have different perks and gameplay styles.\r\n\r\nNot exactly gameplay related, but I think the art direction is really great. The towers and infantry look really cool. It makes me look through my options and get excited to build and upgrade them. The leaders I mentioned also have simultaneously cute and cool art for them. There are also little titles and descriptions for leaders and weapons here and there that really paint a picture of a setting much like Warhammer 40K. They even made a book with more art and lore.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Cool game, best Tower defence. Great graphics and dynamic gameplay.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Terrific roguelite tower defense game! Challenging and addictive with lots of replay value. It was fun exploring the three factions and each of the generals.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good game, but I wish there was more work and balance in endless.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bought this game after watching a few streamers play it. For the amount of time I have played it has been very enjoyable. I am excited for the future of the game. I would recommend it to people who want a fun roguelite tower defense game that spices it up with different characters that change how you play.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I played this game since the demo was available and loved it. Even though I've 100% the achievements I still occasionally log back into the game to play more since it is a nice little game that I can easily drop in and out of whenever I have some free time. The game still gets patched every couple of months, really hoping we get more new content in the future because it does get repetitive.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of my new favorite roguelikes, just so peak. Though I wish endless was a bit better...\nAnd for the love of god why do i need to produce 350k supply for one character please reduce that I still don't have it as I am typing this",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very nice Tower Defense game, good progress and relaxing.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A fun TD with a lot of RNG elements. Well worth the money in terms of enjoyment you can get out of it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A nice TD game that isn't immediately \"solved\" like so many others by a specific tower type. The game can feel a little cheesy at times, such as suddenly throwing a full camo batch of enemies in the final round when the entire rest of the game there have been none, but otherwise it is pretty fair. Has limitless replayability and each of the factions and their generals do have fairly unique playstyles. If you enjoy classic tower defence games, I'm sure you'll get enjoyment out of this.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Yes but with reservations. 383 hours into the game and it's virtually unplayable anymore. It became terribly unbalanced every update and just isn't fun anymore. You can barely win.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is great fun but it desperately needs more optimisation. \r\nThe base game is fun but as you get to waves 70-75 it turns into a slide show at best and completely unplayable at worst. (3080, 13900k, 32Gb RAM playing at low settings 1440p)\r\nAlso, take note, achievements are not completable using endless mode. \r\n\r\nGood solid game, but still room for improvement.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game has lots of replay-ability. Failure is common in this game as you learn the game and how to get the most out of your buildings. Progression is steady, you unlock new buildings and commanders the more you play. If you like TD games or strategy in general this is a good title to sink some hours into.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really unique tower defense game with rouge like element and paths building. Great replay values and would recommend to tower defense lovers.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I recommend it, but it's not balanced and it's tough as hell. You are doing fantastic then boom, random drop in a wave and you lost 30 waves of progress. Still, very enjoyable.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I'm a fan of tower defense games so this caught my eye. The visual style is simple but fun. The complexity is excellent. I also like that I gradually unlock new heroes and whatnot, it definitely lets me tweak my play style according to the hero character or the map layout, which I get to influence. Quite the enjoyable game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love this game. Looks great, lots of variety, and is an incredible challenge.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great game for a quick run here and there.\n\nI genuinely love how simple the first steps are and how it grows. Great game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the best tower defense games I've played in a long time. \r\nLooks good, controls well, difficulty ramps up accordingly without being too punishing. \r\nOnly minor gripe is I wish they would include a indicator about what/how many enemies come from X entry point, something similar to how Kingdom Rush games does it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A high quality Tower Defence game. Has replayability and progression.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is the perfect TD in my opinion and fun to play at any difficulty level. Somehow it just never gets old even after 50+ hours.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is dope. Some WH40k inspiration. The different factions are really cool, there is so much to love with this.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Game mechanics are good, but replayability is weak.  Many towers are useless, they feel like traps for the player.  Worth the money, overall.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A really excellent tower defense/roguelike.  Plus orbital doom cannons.  What are you waiting for?  it's the only way to be sure.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fantastic game for people who are busy and just want to get in on the action. No need for long storylines or elaborate time wasting.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Game is really fun,  just one thing currently it likes to crash usually around the 2 hour mark for me.   It freezes up then can't even force quit it in task manager  I have to sign out of the OS or restart the computer to get it to shut down.   Won't let me click on anything even if it's minimized.   That's really only bug I have found it's annoying but the game is fun if played shortly.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This quickly became my favorite Tower Defense game. The amount of content and variety surprised me.\r\nI like that there's many ways to play and that tower upgrades are really meaningful. I also like that you don't control a hero or have active \"spells\" during gameplay.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Sometime you just want to kill some time and play something simple. Its great... so you often play 2-3 hours instead of just half an hour.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fun! Mechanics there to be taken advantage of, and different ways to upgrade your towers depending on your needs without being overwhelmed by choice.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A pretty unique TD game with roguelike element, I really like it!\nAs of now my favorite TD!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It;s fun, has lots of features that makes the game very replayable.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fantastic game. Perfect blend of strategy and tower defense. The map building aspect makes every game feel intricate and intense. So many unlockables that they drip feed you at a perfect pace. The combinations and outcomes are endless. The difficulty is there if you want it and fair as can be. I could go on forever. This game will have you constantly coming back to it for just \"one more run\". I give it a 10!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Beautiful game. much replay-ability. thru randomized map tiles you can shape the battlefield as you like. 3 biomes with each 10 commanders to unlock. and a ton of awesome weaponary to choose from. deffenetly worth the 12 bucks i spent.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Addictive and fun, love testing myself on the endless mode!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A fun little rogue-lite-esque tower defense game. Unlock new characters with unique starting traits, from one of the 3 different factions that play very differently. Fairly challenging and somewhat RNG dependent, but still loads of fun.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It is a very fun little addictive game. 25 hr average game time for 15 pound. Since I like this genre I'll play more. I'll say its worth it. Only thing I need to criticize is, multiple battlefront techs need some buffs. I feel like its so hard to win with 3-4 battlefronts open. Feels like almost impossible sometimes. This force you to go down to 1 battlefront with early recon tech. With that tech I can defend the base every time no matter how unlucky rolls I am getting. But i think this little problem limits the gameplay and creativity little bit. This is the only major problem I faced.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's alright. One of the better Tower-Defense games with tons of variety.\r\n\r\nAfter clearing the first chapter with every character on the highest difficult I have one issue: it feels like there are active mechanics to prevent funneling. Unless you have insane rng with the start roads the game will throw you a boss spawn right onto the front door of your base if you try to funnel.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great to kill some time on Deck. Gets a lot of depth out of a simple set of mechanics",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The combination of characters and number of entry points has given me challenges beyond the achievements.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great td, good soundtrack.\nwith less than 20 bucks, cant go wrong with it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A Rogue like Tower Defence. In short, its very good.\n\nEach 'match' is played up to a number of increasingly difficult waves, depending on difficulty, with the harder levels going up to 35. At the start of each round you can pick from several options, either containing new towers you can place or upgrades. Placing towers costs resources earned through killing wave monsters. Every few waves you can place down a randomly assigned map tile. This gives decent player agency in map design while maintaining a need for luck.\n\nFrom the rougelike standpoint, towers you get are random, as are map tiles and enemy spawns.\nOne thing of note however is that the game can be hard. You can loose as much as you win, but its rarely frustrating, as its so easy to play another match.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "My buddy bought me this game for my birthday. What a legend! Good TD.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good Time Killer and like the towers, just want a sandbox mode.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A very solid tower defense game. Looks and feels great.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "So fckin hard stage 4 \nI never victory after upgrade all weapons 😂",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is ruining my life. Lots of fun. Wish there was a sandbox mode.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love td games, but there are not enought good ones. This is one of the few!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "excellent. the only thing on the wish list for this game is multiplayer",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I can't believe that I almost have 200 hours in a game that I consider casual. Quite entertaining.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "fun and interesting",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great little TD game. Reminds me of the Flash Games era.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Worth it. Ok replay with lots of potential.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Never the same game and it satisfies my base building needs.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "All in all I think it's in the top 5 TDs I've played. (Counting only the best game in a series)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "My new favourite Tower Defence game. It takes the best parts of other games in the genre and smooshes them into a delicious cocktail with great replayability and sometimes brutal challenge. My only criticism is the huge disparity between the strength of the different playable commanders, but I'll take it if that's the price the pay for the variety on offer.\nHuge RECO!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Highly Recommended (Extremely Addictive)\n\nTower Dominion is a brilliant take on the tower defense genre that blends clever strategic planning with satisfying progression. If you enjoy games that require you to constantly adapt and solve spatial puzzles, you absolutely need to check this one out. It’s been an absolute blast and a huge time sink for all the right reasons.\n\nThe core of the game is its tile-placing mechanic, which feels fantastic. Unlike traditional tower defense games where you're stuck to fixed paths, here you're actively shaping the maze and optimizing tower efficiency on the fly. Every tile placement feels meaningful, creating a dynamic puzzle where perfect synergy between your build order and the creep pathing is the key to survival.\n\nThe three distinct factions are the lifeblood of its replayability. They aren't just cosmetic swaps; each faction completely alters your strategic approach, offering different tower types, unique resource management, and playstyles. Mastering one faction is a great challenge, but learning how to effectively counter different maps and creep waves with all three provides dozens of hours of strategic depth.\n\nSpeaking of counters, the variety of creeps ensures you can never settle into a single meta build. You have to constantly react to armor types, speed bonuses, evasion units, and flying swarms, forcing you to utilize the full range of your arsenal. This reactive tactical layer is immensely rewarding when you successfully dismantle a seemingly impossible wave.\n\nFinally, the unlocking and progression of new abilities gives you that perfect sense of growing power. The progression system feels earned, steadily introducing powerful tools and upgrades that significantly impact your strategy and allow for fun, experimental builds.\n\nTower Dominion is deep, challenging, and wonderfully crafted. It successfully elevates the tile-placing mechanic into a strategic necessity, making every session feel fresh and demanding. Highly recommended for fans of strategic defense and puzzle-solving!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Exellent game well worth playing very adictive",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Rogue like tower defense.  Four words that work so perfectly in this game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great value, lots of replayability.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Tower Dominion hits the right notes for a roguelike tower defence. The format fits perfectly. There’s a solid roster of towers, and the different generals push you into genuinely distinct playstyles which keeps the replay value high. It’s harsh, but in a fair way. Every failed run teaches you something new. The pit mechanics are great too, there’s a good amount of variety there.\n\nThe rough edges start to show once you’ve put some time in. The RNG can swing a bit too wildly, even with the newer towers that tweak draw chances for adjacent cards. Not being able to pick a starter deck or specific opening cards makes the early game feel more luck-than-judgement. Performance drops hard after round sixty or so, and the lag becomes noticeable. And tunnelers, while thematic, are maddening. I plan my paths carefully, then a tunneler pops up and chews straight through the layout. It’s part of the challenge, but I’d still like some tools or flexibility to respond when they appear.\n\nOverall, it’s a strong game with a clever loop, but it has a few balance and quality-of-life issues that get in the way of longer sessions.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I love this game so much. I watched someone play on youtube and got hooked immediately. So replayable and enjoyable everytime! I wish they would do more updates and add even more to it. The pits were a great addition but have been casuing a few bugs on my end. Either way I love this game so much and would want more characters, weapons, and maps? Idk how maps would work but I love this game!!!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "+ It's addicting\r\n\r\n- It's addicting",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Warning! This game is extremely addictive.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Good game is good. thank you for your time. -2025",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "A great spin on the old school tower defense genre.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really nice game! One of the best tower defense ones!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the best tower defense I've played in recent years.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "best game to just chill and have fun",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A super refreshing take on the tower defense genre!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fantastic game i didnt know i needed in life",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very addicted tower defense game.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A fun, dynamic, tower defender",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "Sadly I have to recommend no on this one as it is now. The game is cool, lots of characters and cool towers and stuff. But there's some weird balancing issues... I've had a few runs in a row now where I get to level 29 or 30 with no problem, not a single enemy damaging my command center. And then die within seconds on level 31. Feels like the enemy scaling is off, going from crushing it to getting completely destroyed the very next one is very demoralizing and frustrating, especially after having played through to the very last levels. \n\nGreat game otherwise, graphics and variety and gameplay are cool. Maybe devs can do a rebalance of the last few levels and then I would change to thumbs up",
+      "voted_up": false,
+      "votes_helpful": 15
+    },
+    {
+      "review": "This game has excellent content. The production value is high, the art is lovely, and the concepts are pretty interesting. I enjoyed it.\r\n\r\nSo why can't I recommend it? Well, it's extremely poorly balanced, and gets worse the higher you go with it. Insert queue of fedora-tipping non-neurotypical keyboard warriors to rush in and defend the game with their \"trololololol u just suk git gud\".\r\n\r\nIt's true, though. Having played it, there are frustrating jumps in difficulty at a variety of points, variable depending on the difficulty you've set. In fairness, they've added a number of modifiers to the game, and one of them specifically scales things based on the number of single paths to the fortress. Realistically, it's not enough for the average player, and the modifiers aren't communicated particularly well.\r\n\r\nIn fact, a lot of things aren't communicated well, and it seems like that's actually a design choice. For example, they do have a setting to show tower stats- it's off by default. More than that, when it's on, you need to hover over specific weapons on a tower in order to see what's going on with the stats, and even then, it doesn't feel particularly easy to read or understand, and it's difficult to know exactly how the modifiers are playing out.\r\n\r\nThe balance, though, feels way off. One second you're doing fine, and the next, the escalation has become so severe that you simply get crushed. And not \"Ah man, I let a few through\", I mean going from leaking a couple, to leaking dozens.\r\n\r\nIt lacks a lot of polish and features from the genre, and that makes it difficult to make decisions. For example, you begin to really notice the lack of a way to track the enemies numbers and types when you're struggling to cover multiple points of entry. To make that worse, you don't know how that's going to do. One minute, you're building a side that's threatening to overrun you- the next, suddenly you get very little traffic on that side, and the side you were neglecting to build up because you couldn't afford to, suddenly gets massive waves.\r\n\r\nThe more you play and the higher your difficulty, the more it narrows your strategies that are realistically available. Most of the choices you get in the game don't really feel like choices, because there are clear winners. (This isn't always the case, but it is a lot of the time, for a lot of your choices).\r\n\r\nI did check out a couple guides that were trying to teach people things they were missing when they decided the game was too hard- very disappointed. They didn't teach anything out of the ordinary, just 20k words of very obvious Tower Defense basics with pictures.\r\n\r\nI'd like to change this review at some point, because it's got the makings of a good game, but it's just not there yet, in my opinion. There will be people who have no problem rerolling 50 times for a perfect start and with just enough of that \"I can see the Matrix\" vibe to do some crazy stuff, and I'm positive they're going to love it, but I think the average player will simply find it frustrating after a few games. Maybe it's just not for the casual gamers- and if it isn't, I hope some people read this and decide to wait on it. Maybe I'll be able to come back when the game is more balanced and change this.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "This game while fun, is also absolutely terribly balanced.\n\nOnce you start getting into the higher difficulties the game starts to show it's massive flaws, ones that honestly just ruin the game and any fun you could have playing it. Does not help that the end game is just making the worst mode, even more terrible to play.\n\nDon't get me wrong, behind some stupid decisions there is a enjoyable game to play on the 1-3 difficulties. The big issue comes in when you play with 4 and the challenge mode. You can most likely handle yourself through the waves for the most part but eventually you will start getting more special spawns than any combination of turrets can help you deal with at that point. For one reason mainly and that is that the basic towers are absolute shit for their cost. Upgraded? any tower is good. My gripe comes with the power of un-upgraded towers, you may as well not use anything below T2 this way. This is a problem when you have 4 lanes to defend since you hemorrhage money all the time trying to maximize your defenses but ultimately can't since the early game you have little to no generation for either resources or basic tower cards you can use.\n\nBest example I can give is the first handful of towers you can afford to put down early in the game and why it's an issue.\nMirador: 200 gold, can be reduced. Upgrades are pretty shit, basically works as a HQ buffer/repairer.\nBunker: 200 gold. Great tower when upgraded, waste un-upgraded. But your bread and butter when you have second level upgrades which costs 400 extra gold base.\nMortar: 100 gold. It's... okay, it can be good in a lot of situations but generally they are not worth the little gold they cost because positioning them to be effective is difficult, especially with how they target, they go for the one furthest away from them, sounds good right? Except that could mean they ignore a cluster and shoot open ground on a fast moving enemy that is further from the mortar, which means it can do nothing an entire wave simply cause the target priority is bad.\nWarwolf: Great tower all around, cheap first upgrade makes it a lot better for 150 gold. No downsides to this tower aside from upgrade costs being fairly steep for the early game where this tower is the best.\n\n\nThere are some others like the Puma and the Imperial barracks etc. But the main issue with all of these towers is the early game cost, and the fact that you just have to get lucky and find them in the random draw. Now mind you there is no Banish, no Re-roll, no Lock. You get 3-4 random cards after a wave and you best hope it has something useful to you or you can get rolled simply because you are not getting anything that can actually help you with no way to help yourself get the towers you need.\n\nSo all of that in mind, you now need to deal with how little gold you get a round. Base is +100 gold, plus some change for killing enemies and other factors. Most of your resource generation is entirely based on luck from Neutral buildings, if you get the right ones your run can be smooth, get nothing or bad ones? Your run is probably over pretty quickly from resource saturation.\n\nDoesn't help the only resource you can use to re-roll the terrain is also very rare among towers and hard to find in neutral buildings so you can end up in a game where you only get 3-6 terrain re-rolls for a full 35 wave game. While not the end of the world this game has a massive preference for giving you the worst piece which is a 4 way entry. It is absolutely skewed and no one can convince me other wise. \n\nI could get into the factions and why they suck as well, mainly boiling down to their early game and endgame towers.\nGreen just got crapped on for real.\n\n\n\n\n\nAll in all if the devs do some rework on the power and cost of certain towers the game would be more fun at the \"end game\" part of the game. But as it is now, it's a lot more fun to play on 1-3 entries, since a 2 of the factions always have terrible starts on 4 entries.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "This game is SO close to being fantastic, but it's clear that it needs better balance. Most rougelites that involve elements of randomness give the player some ability to respond to it with strategy, and Tower Dominion attempts this with a (frustrating) re-roll system for map tiles, but lacks any equivalent for map starts, towers, buffs, or enemy types. What's more, between two of the three factions being pretty underpowered and the enemy pathing logic, it seems that you're pretty much limited to a single strategy at higher difficulties.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Honestly, this game is just an RNG simulator and a pretty shitty one at that. Eventually you get to the point where you play Frontier mode and select a number of debuffs that make that round substantially more difficult. \r\n\r\nIn any case, if you don't receive specific Doctrine's you aren't clearing that level. Even if you do manage to make it to the later waves, it's a better than zero chance you don't get it due to the last couple waves of mobs. \r\n\r\nIt's over-tuned, and quite frankly a bad game because of it.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Who could have guessed that Poptropica graphics combined with the most egregious superficial complexity I think I've ever seen in a game could lead to a poor experience? This game is an unlock simulator with none of the mechanical depth to actually give those unlocks any weight whatsoever.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Scratches an itch but not in a really meaningful way.  If you are really looking for a tower defense fix, this might fill it for  a period.\r\n\r\nMusic/audio track is simpler than 1990s 8 bit games, repetitive, and frankly annoying.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Cool, BUT THE MOST UNFAIR GAME",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This is a fine Tower Defense but it lacks interesting depth. The final difficulty is so hard that it is almost unwinnable on certain characters without cheese strategies - and I'm a pretty good gamer. I platinumed this on the hardest difficulty and would not recommend it. The currently highest rated \"not recommended\" review by Aractos sums up my feelings - the actual mechanical design of the game is confused and at odds with itself, the balancing is awkward, and the difficulty scales up so rapidly that oftentimes when you lose you will have no idea what you could have done differently, making it hard to carry useful game knowledge from run to run. It's... fine. I would not recommend this unless it's on heavy sale or if they hire someone that understands the numeric art of game design a little better than they currently do.",
+      "voted_up": false,
+      "votes_helpful": 125
+    },
+    {
+      "review": "this game becomes less fun the more you play it.\r\nit forces you into a specific play style otherwise you fail. most upgrade paths on towers are useless. you need certain towers to progress, which makes 70% of towers just garbage.",
+      "voted_up": false,
+      "votes_helpful": 28
+    },
+    {
+      "review": "It honestly feels like your chance on winning is based on RNG. Like you can have the best defense imaginable and still lose because the game threw a monster at you that you have zero or low counters against. I had fun when i played it first but playing it more and more have made me realize this game is flawed and unfun to play. not to say it cant be fun but the downsides bring it down. I recommend you buy another TD game instead of this one",
+      "voted_up": false,
+      "votes_helpful": 64
+    },
+    {
+      "review": "Sadly I have to recommend no on this one as it is now. The game is cool, lots of characters and cool towers and stuff. But there's some weird balancing issues... I've had a few runs in a row now where I get to level 29 or 30 with no problem, not a single enemy damaging my command center. And then die within seconds on level 31. Feels like the enemy scaling is off, going from crushing it to getting completely destroyed the very next one is very demoralizing and frustrating, especially after having played through to the very last levels. \n\nGreat game otherwise, graphics and variety and gameplay are cool. Maybe devs can do a rebalance of the last few levels and then I would change to thumbs up",
+      "voted_up": false,
+      "votes_helpful": 15
+    },
+    {
+      "review": "This could be a great game, but as you play it really comes down to RNG and are you lucky enough to get certain towers/paths/enemies - more strategy less luck would be better",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "Wish I could like this more, but it just ends up being annoying to progress. The enemy attacks can switch suddenly to something you had no def to. Just insane balancing decisions that make it almost impossible to plan for. Heavily RNG based as combining lanes is obviously the way to go but the tiles are random. 4th difficulty should be the most fun and yet its a frustrating experience, where you will be stomping until the enemy switches what its sending and suddenly spams heavy flyers from entrances that didn't matter before. Very close to being a fun game, but very unsatisfying to progress in the end.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Seemingly more focused on forcing 'roguelike' RNG elements than on building a solid TD game. You can only build towers based on random cards you pull between waves, so you can spawn on a map, be given zero anti-air towers and then get heavily punished by air units that spawn three feet from your base because the map randomly generated itself to allow such cheese. It's a shame because there's some interesting ideas here but ultimately it's just too RNG reliant to be a compelling strategy game to me.",
+      "voted_up": false,
+      "votes_helpful": 12
+    },
+    {
+      "review": "This game has excellent content. The production value is high, the art is lovely, and the concepts are pretty interesting. I enjoyed it.\r\n\r\nSo why can't I recommend it? Well, it's extremely poorly balanced, and gets worse the higher you go with it. Insert queue of fedora-tipping non-neurotypical keyboard warriors to rush in and defend the game with their \"trololololol u just suk git gud\".\r\n\r\nIt's true, though. Having played it, there are frustrating jumps in difficulty at a variety of points, variable depending on the difficulty you've set. In fairness, they've added a number of modifiers to the game, and one of them specifically scales things based on the number of single paths to the fortress. Realistically, it's not enough for the average player, and the modifiers aren't communicated particularly well.\r\n\r\nIn fact, a lot of things aren't communicated well, and it seems like that's actually a design choice. For example, they do have a setting to show tower stats- it's off by default. More than that, when it's on, you need to hover over specific weapons on a tower in order to see what's going on with the stats, and even then, it doesn't feel particularly easy to read or understand, and it's difficult to know exactly how the modifiers are playing out.\r\n\r\nThe balance, though, feels way off. One second you're doing fine, and the next, the escalation has become so severe that you simply get crushed. And not \"Ah man, I let a few through\", I mean going from leaking a couple, to leaking dozens.\r\n\r\nIt lacks a lot of polish and features from the genre, and that makes it difficult to make decisions. For example, you begin to really notice the lack of a way to track the enemies numbers and types when you're struggling to cover multiple points of entry. To make that worse, you don't know how that's going to do. One minute, you're building a side that's threatening to overrun you- the next, suddenly you get very little traffic on that side, and the side you were neglecting to build up because you couldn't afford to, suddenly gets massive waves.\r\n\r\nThe more you play and the higher your difficulty, the more it narrows your strategies that are realistically available. Most of the choices you get in the game don't really feel like choices, because there are clear winners. (This isn't always the case, but it is a lot of the time, for a lot of your choices).\r\n\r\nI did check out a couple guides that were trying to teach people things they were missing when they decided the game was too hard- very disappointed. They didn't teach anything out of the ordinary, just 20k words of very obvious Tower Defense basics with pictures.\r\n\r\nI'd like to change this review at some point, because it's got the makings of a good game, but it's just not there yet, in my opinion. There will be people who have no problem rerolling 50 times for a perfect start and with just enough of that \"I can see the Matrix\" vibe to do some crazy stuff, and I'm positive they're going to love it, but I think the average player will simply find it frustrating after a few games. Maybe it's just not for the casual gamers- and if it isn't, I hope some people read this and decide to wait on it. Maybe I'll be able to come back when the game is more balanced and change this.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I guess buy if it is on sale and you are in the mood for tower defense. But just beware of weird ass balancing decisions that ruin the fun once you get a few hours into this game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "This game while fun, is also absolutely terribly balanced.\n\nOnce you start getting into the higher difficulties the game starts to show it's massive flaws, ones that honestly just ruin the game and any fun you could have playing it. Does not help that the end game is just making the worst mode, even more terrible to play.\n\nDon't get me wrong, behind some stupid decisions there is a enjoyable game to play on the 1-3 difficulties. The big issue comes in when you play with 4 and the challenge mode. You can most likely handle yourself through the waves for the most part but eventually you will start getting more special spawns than any combination of turrets can help you deal with at that point. For one reason mainly and that is that the basic towers are absolute shit for their cost. Upgraded? any tower is good. My gripe comes with the power of un-upgraded towers, you may as well not use anything below T2 this way. This is a problem when you have 4 lanes to defend since you hemorrhage money all the time trying to maximize your defenses but ultimately can't since the early game you have little to no generation for either resources or basic tower cards you can use.\n\nBest example I can give is the first handful of towers you can afford to put down early in the game and why it's an issue.\nMirador: 200 gold, can be reduced. Upgrades are pretty shit, basically works as a HQ buffer/repairer.\nBunker: 200 gold. Great tower when upgraded, waste un-upgraded. But your bread and butter when you have second level upgrades which costs 400 extra gold base.\nMortar: 100 gold. It's... okay, it can be good in a lot of situations but generally they are not worth the little gold they cost because positioning them to be effective is difficult, especially with how they target, they go for the one furthest away from them, sounds good right? Except that could mean they ignore a cluster and shoot open ground on a fast moving enemy that is further from the mortar, which means it can do nothing an entire wave simply cause the target priority is bad.\nWarwolf: Great tower all around, cheap first upgrade makes it a lot better for 150 gold. No downsides to this tower aside from upgrade costs being fairly steep for the early game where this tower is the best.\n\n\nThere are some others like the Puma and the Imperial barracks etc. But the main issue with all of these towers is the early game cost, and the fact that you just have to get lucky and find them in the random draw. Now mind you there is no Banish, no Re-roll, no Lock. You get 3-4 random cards after a wave and you best hope it has something useful to you or you can get rolled simply because you are not getting anything that can actually help you with no way to help yourself get the towers you need.\n\nSo all of that in mind, you now need to deal with how little gold you get a round. Base is +100 gold, plus some change for killing enemies and other factors. Most of your resource generation is entirely based on luck from Neutral buildings, if you get the right ones your run can be smooth, get nothing or bad ones? Your run is probably over pretty quickly from resource saturation.\n\nDoesn't help the only resource you can use to re-roll the terrain is also very rare among towers and hard to find in neutral buildings so you can end up in a game where you only get 3-6 terrain re-rolls for a full 35 wave game. While not the end of the world this game has a massive preference for giving you the worst piece which is a 4 way entry. It is absolutely skewed and no one can convince me other wise. \n\nI could get into the factions and why they suck as well, mainly boiling down to their early game and endgame towers.\nGreen just got crapped on for real.\n\n\n\n\n\nAll in all if the devs do some rework on the power and cost of certain towers the game would be more fun at the \"end game\" part of the game. But as it is now, it's a lot more fun to play on 1-3 entries, since a 2 of the factions always have terrible starts on 4 entries.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "really should be more fun.\ni wish the game was more varied, up to level 3 its marginally fun. level four becomes level three with more enemies because the entrances always converge. it would be nice if the paths were not always down the center of the placable tiles because certain turrets are damned useless otherwise. the largest turret ive seen is 4x4 and i have never placed it because the tiles are not really designed for it. so you have to put two tiles together which requires luck.\ni have never beat the game on level four and it seems like i never will. im just wasting time because the game doesnt give me anything i can use to win. its all random chance and i dont have luck. i can tell within a few seconds of a wave starting whether or not i will survive generally and there wasnt anything i could have done to change the outcome because i was not given the solution. \nthe art style is fine. controls are fine. i just feel like if they had gone with a proper strategy tower defense system instead of a random chance card based system it would be better.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's an OK tower defense game. It is basically Rogue Tower with a face lift, and seemingly to differentiate it the dev won't add priority selection to the towers. I don't care for that at all, and find it to be a huge pain in the ass when the waves get larger. \n\nTower upgrades and towers themselves are very expensive, never feels like you are in a good spot to upgrade your towers. Towers themselves are single use cards that you get a random draw of, which includes upgrades or resources. I think overall it's *too* random/chance based how well you do.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "To win at higher difficulties you need to be able to build a layout that connects all paths into one. This is only possible if you get very lucky with the starting layout. So you'll spend hours restarting your games over and over to even have a chance. Not fun to fish for lucky rng for hours :/",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Difficulty 1-3 is most times pretty easy, but rng has impact.\nEspecially difficulty 4 & 5 feels even more unbalanced and depends pretty much on rng. \nWhat Towers are available for you and how much income do you get.\n\nAlso you win one wave without any problems and suddenly next wave you lose.\n\nAt the beginning i liked the game and played the game quite often. \nBut i play it less and less.\n\nSo i cant really recommend the game. \nI really wish i could.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The main reason I wouldn't recommend this game is the extreme degree to which randomness plays a part in your odds of success. The most egregious example of this is the way in which monsters spawn in. I've had multiple games in which my defensive setup, which has been annihilating the monsters up to that point, gets suddenly beaten in a wave or two because the monsters spawned in [i]just so[/i] that a couple of powerful monsters slipped in and blew up the HQ.\n\nLosing because the game is hard and you need to refine your strategy is one thing, but losing because the game keeps throwing curveballs at you is just not fun.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "games fun but lacks balancing, gets stupid hard past round 30 on war mode. Otherwise, the progression is great and rewarding, but just not fun after the first couple of hours as there's no real reward after that without diving deep into the specific ass mechanics of everything.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "This game has so much potential and has some really great elements to it but in its current state i cant recommend it for anyone apart from perhaps light gamers who only play very casually for the following reasons:\nThe Lag in Endless mode is absolutely atrocious even on a graphics card that handles most games ive played just fine.\nThe game is also advertised has having an ENDLESS frontier mode...which is not true. It seems it ends at wave 103 because of a bug or something or maybe it isn't meant to go further and the store page simply has a false claim about it being Endless i dunno. So when you learn the game and try to go on a long run you get screwed over by that even if you can tolerate the extreme lag.\n\nOf course if you are just a very casual gamer not planning on actually trying to learn the game and progress too much then  it wont matter as the early waves may have no such issue.\n\nIt seems like such a shame as the bones of an amazing game are there, especially if those two issues were fixed and even more so if Leaderboards were added to make it interesting trying to strategize for furthest wave possible.. (And no, hackers posting fake scores of 1 billion gazillion doesnt bother me too much).\n\nIf these things are changed then i perhaps would say this is one of the best TW games on Steam because it does have a lot going for it...hopefully i will be able to update this review in future if so.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The RNG for this game is bad. \n\nThe map's layout is bad. \n\nThe enemies in the starting rounds before endless run are now bullet sponges or the initial towers are just weak \n\nTo generate income and recon in this game is hard. (you wont get any income or recon generating towers in the first 20 runs since the developers probably dont want you to play this tower defence games like how other tower defense games do, unlimited run and do what you want). \n \n\nThe enemies after level 60 is impossible to beat due to their immense health and bad RNG. \n\nThe starting tile is always bad. The recon to change the tile is expensive and will give your worse tiles after changing  it. \n\nIt is now even harder to get high tier building like fortress after the latest upgrade.\n\nOnly one hero out of the thirty heroes is worth playing and enough to help you get over level 60. \n\nFix the game and make it more enjoyable please.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Honestly, this game is just an RNG simulator and a pretty shitty one at that. Eventually you get to the point where you play Frontier mode and select a number of debuffs that make that round substantially more difficult. \r\n\r\nIn any case, if you don't receive specific Doctrine's you aren't clearing that level. Even if you do manage to make it to the later waves, it's a better than zero chance you don't get it due to the last couple waves of mobs. \r\n\r\nIt's over-tuned, and quite frankly a bad game because of it.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Like a 5/10 game. It's another casino rougelite full to the brim with useless things. \r\n\r\nThe entire game is anti-player: \r\nLike it desperately wants to be difficult, and will carve as much fun out of the game as possible to do it.\r\n\r\nHorrible balance, worthless AND uninteresting characters, enemies are hp sponges, 1 way to play, useless towers that will spam your rolls, the terrain is deliberately made to hamper large tower placement (you can build up... But you can't dig a hole? Why?), completely rng dependent... etc... etc... \r\n\r\nI never would have bought this game if Variables 2 wasn't also a complete mess for completely different reasons. \r\n\r\nIt's just banging your head against the wall. But, it runs great. And while the tool tips are just as unhelpful as Variables 2, at least I can read them. My money is already gone. So I'm probably going to keep messing around with it. Try and get my moneys worth. Maybe they fix it... Maybe the don't. \r\n\r\nBut if I could go back. I wouldn't have bought this. Certainly not for 13$. Variables 2 is basically this game, but it was like 3 bucks... And the mechanics were just..... SO much better. Like, genuinely, you have no idea, As close to perfection as humanly possible. The game itself is just unplayable. Crashes every 15 minutes, like clockwork. Very frustrating.\r\n\r\nGraphics and sound design are great! No question. I love the IDEA of blue team. But they suck. So imma try and explain a microcosm of what is wrong with the game.\r\n\r\nBlue teams whole schtik is they an hq which functions as one huge tower and their entire faction revolves around it. But. The H.Q. only has 4 big guns, 4 med guns, and 8 completely worthless guns. You need around 250 guns to get through wave 35. And you will most likely require a mix of guns. The guns on your hq are all regular ass machine guns... Cool. \r\n\r\nThen the support buildings. They sacrifice their DPS to make the hq better... So you think it would even out. Nope. Cus again. It's all machine guns. In order to get the most out of your HQ, which can only fire at 16 enemies, you have to build more machine guns. That means 0 detection units, 0 aoes, 0 anti air etc. Wave 35 can have over 1,000 enemies present on the screen at any given time. The average health of the enemies is in the thousands. Your hq's guns do 14? damage, which is 42 at 300%!!! boost. Like, 24? Which is 72 at 300% Boost. And like... 54? Which is 162 at 300% boost.... \r\n\r\nA regular tier three enemy has 7,000 (roughly a dozen or so on wave 35). Then splits into 3 enemies that each have 3,000 hp (roughly 36 of these will spawn independently). Each of them split into 3 enemies that have 900 hp (like... hundreds of these guys). Each of them split into 3 enemies that have 300 hp (bloody fousands of em). So 1 enemy has around 20,000 hp... and your HQ.... The entire reason you are playing blue... Puts out around 1,000 DPS... At 300% boost... IF you could use all 16 turrets on 1 enemy. Which you can't. You will only get like a 3rd usually. It is all just so poorly thought out. \r\n\r\nThe cost of war. Fully upgraded it costs around 2,500. Which isn't bad... But standard dps is 333, or as discussed, 111.... Which is embarrassing. You are actually better off ignoring it, then trying to buff it... Which basically means, you are better off playing a different faction. Well there is a 3rd of the game gone right there... Nice job devs.\r\n\r\nAnd don't even get me started on trenches... Again... They are \"supposed\" to support your infantry's hp.... Can you guess what kind of weapon they use? I think you can. Even though every tower has 6 upgrade slots. Even though there are around 20 weapons carried by other infantry in this game... ALL 6 upgrades are for the single most useless gun in the entire game. And each upgrade adds 3 more.... Sure... Sure... They can sort of slow SOME enemies... But with around 90% of enemies being immune to slow, and slows literally lasting one second, and the second they reload it moves out of range to be slowed.... It is just so poorly thought out. And all of that, is not even to mention... The hp buff they give to infantry... Do you know what enemies they actually do well against.... You guessed it. The same ones as the machine guns.... It is so fucking stupid.\r\n\r\nTimes that by 4... And you've got this game. Blue, Red, Green, Aliens, THE EARTH ITSELF... All nonsense.  Cool premise. Horrid execution. \r\n\r\nIf you LOVE LOVE LOVE (crossed out tower defense) Casino Rougelites as genre... Maybe get this on sale. It will scratch the itch for a bit. But it will never be truly enjoyable.\r\n\r\nHope this helps.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "This game is SO close to being fantastic, but it's clear that it needs better balance. Most rougelites that involve elements of randomness give the player some ability to respond to it with strategy, and Tower Dominion attempts this with a (frustrating) re-roll system for map tiles, but lacks any equivalent for map starts, towers, buffs, or enemy types. What's more, between two of the three factions being pretty underpowered and the enemy pathing logic, it seems that you're pretty much limited to a single strategy at higher difficulties.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Who could have guessed that Poptropica graphics combined with the most egregious superficial complexity I think I've ever seen in a game could lead to a poor experience? This game is an unlock simulator with none of the mechanical depth to actually give those unlocks any weight whatsoever.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Scratches an itch but not in a really meaningful way.  If you are really looking for a tower defense fix, this might fill it for  a period.\r\n\r\nMusic/audio track is simpler than 1990s 8 bit games, repetitive, and frankly annoying.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Cool, BUT THE MOST UNFAIR GAME",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "this game becomes less fun the more you play it.\r\nit forces you into a specific play style otherwise you fail. most upgrade paths on towers are useless. you need certain towers to progress, which makes 70% of towers just garbage.",
+      "voted_up": false,
+      "votes_helpful": 28
+    },
+    {
+      "review": "Sadly I have to recommend no on this one as it is now. The game is cool, lots of characters and cool towers and stuff. But there's some weird balancing issues... I've had a few runs in a row now where I get to level 29 or 30 with no problem, not a single enemy damaging my command center. And then die within seconds on level 31. Feels like the enemy scaling is off, going from crushing it to getting completely destroyed the very next one is very demoralizing and frustrating, especially after having played through to the very last levels. \n\nGreat game otherwise, graphics and variety and gameplay are cool. Maybe devs can do a rebalance of the last few levels and then I would change to thumbs up",
+      "voted_up": false,
+      "votes_helpful": 61
+    },
+    {
+      "review": "Devs stopped work on the game with no meaningful content for months, because they want to port it to Mobile... \r\n\r\nSad, because it had really great potential.",
+      "voted_up": false,
+      "votes_helpful": 20
+    },
+    {
+      "review": "It honestly feels like your chance on winning is based on RNG. Like you can have the best defense imaginable and still lose because the game threw a monster at you that you have zero or low counters against. I had fun when i played it first but playing it more and more have made me realize this game is flawed and unfun to play. not to say it cant be fun but the downsides bring it down. I recommend you buy another TD game instead of this one",
+      "voted_up": false,
+      "votes_helpful": 64
+    },
+    {
+      "review": "This could be a great game, but as you play it really comes down to RNG and are you lucky enough to get certain towers/paths/enemies - more strategy less luck would be better",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "Seemingly more focused on forcing 'roguelike' RNG elements than on building a solid TD game. You can only build towers based on random cards you pull between waves, so you can spawn on a map, be given zero anti-air towers and then get heavily punished by air units that spawn three feet from your base because the map randomly generated itself to allow such cheese. It's a shame because there's some interesting ideas here but ultimately it's just too RNG reliant to be a compelling strategy game to me.",
+      "voted_up": false,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Wish I could like this more, but it just ends up being annoying to progress. The enemy attacks can switch suddenly to something you had no def to. Just insane balancing decisions that make it almost impossible to plan for. Heavily RNG based as combining lanes is obviously the way to go but the tiles are random. 4th difficulty should be the most fun and yet its a frustrating experience, where you will be stomping until the enemy switches what its sending and suddenly spams heavy flyers from entrances that didn't matter before. Very close to being a fun game, but very unsatisfying to progress in the end.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "This game has excellent content. The production value is high, the art is lovely, and the concepts are pretty interesting. I enjoyed it.\r\n\r\nSo why can't I recommend it? Well, it's extremely poorly balanced, and gets worse the higher you go with it. Insert queue of fedora-tipping non-neurotypical keyboard warriors to rush in and defend the game with their \"trololololol u just suk git gud\".\r\n\r\nIt's true, though. Having played it, there are frustrating jumps in difficulty at a variety of points, variable depending on the difficulty you've set. In fairness, they've added a number of modifiers to the game, and one of them specifically scales things based on the number of single paths to the fortress. Realistically, it's not enough for the average player, and the modifiers aren't communicated particularly well.\r\n\r\nIn fact, a lot of things aren't communicated well, and it seems like that's actually a design choice. For example, they do have a setting to show tower stats- it's off by default. More than that, when it's on, you need to hover over specific weapons on a tower in order to see what's going on with the stats, and even then, it doesn't feel particularly easy to read or understand, and it's difficult to know exactly how the modifiers are playing out.\r\n\r\nThe balance, though, feels way off. One second you're doing fine, and the next, the escalation has become so severe that you simply get crushed. And not \"Ah man, I let a few through\", I mean going from leaking a couple, to leaking dozens.\r\n\r\nIt lacks a lot of polish and features from the genre, and that makes it difficult to make decisions. For example, you begin to really notice the lack of a way to track the enemies numbers and types when you're struggling to cover multiple points of entry. To make that worse, you don't know how that's going to do. One minute, you're building a side that's threatening to overrun you- the next, suddenly you get very little traffic on that side, and the side you were neglecting to build up because you couldn't afford to, suddenly gets massive waves.\r\n\r\nThe more you play and the higher your difficulty, the more it narrows your strategies that are realistically available. Most of the choices you get in the game don't really feel like choices, because there are clear winners. (This isn't always the case, but it is a lot of the time, for a lot of your choices).\r\n\r\nI did check out a couple guides that were trying to teach people things they were missing when they decided the game was too hard- very disappointed. They didn't teach anything out of the ordinary, just 20k words of very obvious Tower Defense basics with pictures.\r\n\r\nI'd like to change this review at some point, because it's got the makings of a good game, but it's just not there yet, in my opinion. There will be people who have no problem rerolling 50 times for a perfect start and with just enough of that \"I can see the Matrix\" vibe to do some crazy stuff, and I'm positive they're going to love it, but I think the average player will simply find it frustrating after a few games. Maybe it's just not for the casual gamers- and if it isn't, I hope some people read this and decide to wait on it. Maybe I'll be able to come back when the game is more balanced and change this.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Difficulty 3+ is just not fun. You're guaranteed to leak/take HQ damage no matter what the first 5 waves and then probably lose. You're just praying you get a perfectly lucky RNG start in order to progress.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I guess buy if it is on sale and you are in the mood for tower defense. But just beware of weird ass balancing decisions that ruin the fun once you get a few hours into this game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "This game while fun, is also absolutely terribly balanced.\n\nOnce you start getting into the higher difficulties the game starts to show it's massive flaws, ones that honestly just ruin the game and any fun you could have playing it. Does not help that the end game is just making the worst mode, even more terrible to play.\n\nDon't get me wrong, behind some stupid decisions there is a enjoyable game to play on the 1-3 difficulties. The big issue comes in when you play with 4 and the challenge mode. You can most likely handle yourself through the waves for the most part but eventually you will start getting more special spawns than any combination of turrets can help you deal with at that point. For one reason mainly and that is that the basic towers are absolute shit for their cost. Upgraded? any tower is good. My gripe comes with the power of un-upgraded towers, you may as well not use anything below T2 this way. This is a problem when you have 4 lanes to defend since you hemorrhage money all the time trying to maximize your defenses but ultimately can't since the early game you have little to no generation for either resources or basic tower cards you can use.\n\nBest example I can give is the first handful of towers you can afford to put down early in the game and why it's an issue.\nMirador: 200 gold, can be reduced. Upgrades are pretty shit, basically works as a HQ buffer/repairer.\nBunker: 200 gold. Great tower when upgraded, waste un-upgraded. But your bread and butter when you have second level upgrades which costs 400 extra gold base.\nMortar: 100 gold. It's... okay, it can be good in a lot of situations but generally they are not worth the little gold they cost because positioning them to be effective is difficult, especially with how they target, they go for the one furthest away from them, sounds good right? Except that could mean they ignore a cluster and shoot open ground on a fast moving enemy that is further from the mortar, which means it can do nothing an entire wave simply cause the target priority is bad.\nWarwolf: Great tower all around, cheap first upgrade makes it a lot better for 150 gold. No downsides to this tower aside from upgrade costs being fairly steep for the early game where this tower is the best.\n\n\nThere are some others like the Puma and the Imperial barracks etc. But the main issue with all of these towers is the early game cost, and the fact that you just have to get lucky and find them in the random draw. Now mind you there is no Banish, no Re-roll, no Lock. You get 3-4 random cards after a wave and you best hope it has something useful to you or you can get rolled simply because you are not getting anything that can actually help you with no way to help yourself get the towers you need.\n\nSo all of that in mind, you now need to deal with how little gold you get a round. Base is +100 gold, plus some change for killing enemies and other factors. Most of your resource generation is entirely based on luck from Neutral buildings, if you get the right ones your run can be smooth, get nothing or bad ones? Your run is probably over pretty quickly from resource saturation.\n\nDoesn't help the only resource you can use to re-roll the terrain is also very rare among towers and hard to find in neutral buildings so you can end up in a game where you only get 3-6 terrain re-rolls for a full 35 wave game. While not the end of the world this game has a massive preference for giving you the worst piece which is a 4 way entry. It is absolutely skewed and no one can convince me other wise. \n\nI could get into the factions and why they suck as well, mainly boiling down to their early game and endgame towers.\nGreen just got crapped on for real.\n\n\n\n\n\nAll in all if the devs do some rework on the power and cost of certain towers the game would be more fun at the \"end game\" part of the game. But as it is now, it's a lot more fun to play on 1-3 entries, since a 2 of the factions always have terrible starts on 4 entries.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "really should be more fun.\ni wish the game was more varied, up to level 3 its marginally fun. level four becomes level three with more enemies because the entrances always converge. it would be nice if the paths were not always down the center of the placable tiles because certain turrets are damned useless otherwise. the largest turret ive seen is 4x4 and i have never placed it because the tiles are not really designed for it. so you have to put two tiles together which requires luck.\ni have never beat the game on level four and it seems like i never will. im just wasting time because the game doesnt give me anything i can use to win. its all random chance and i dont have luck. i can tell within a few seconds of a wave starting whether or not i will survive generally and there wasnt anything i could have done to change the outcome because i was not given the solution. \nthe art style is fine. controls are fine. i just feel like if they had gone with a proper strategy tower defense system instead of a random chance card based system it would be better.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's an OK tower defense game. It is basically Rogue Tower with a face lift, and seemingly to differentiate it the dev won't add priority selection to the towers. I don't care for that at all, and find it to be a huge pain in the ass when the waves get larger. \n\nTower upgrades and towers themselves are very expensive, never feels like you are in a good spot to upgrade your towers. Towers themselves are single use cards that you get a random draw of, which includes upgrades or resources. I think overall it's *too* random/chance based how well you do.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "To win at higher difficulties you need to be able to build a layout that connects all paths into one. This is only possible if you get very lucky with the starting layout. So you'll spend hours restarting your games over and over to even have a chance. Not fun to fish for lucky rng for hours :/",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Difficulty 1-3 is most times pretty easy, but rng has impact.\nEspecially difficulty 4 & 5 feels even more unbalanced and depends pretty much on rng. \nWhat Towers are available for you and how much income do you get.\n\nAlso you win one wave without any problems and suddenly next wave you lose.\n\nAt the beginning i liked the game and played the game quite often. \nBut i play it less and less.\n\nSo i cant really recommend the game. \nI really wish i could.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The main reason I wouldn't recommend this game is the extreme degree to which randomness plays a part in your odds of success. The most egregious example of this is the way in which monsters spawn in. I've had multiple games in which my defensive setup, which has been annihilating the monsters up to that point, gets suddenly beaten in a wave or two because the monsters spawned in [i]just so[/i] that a couple of powerful monsters slipped in and blew up the HQ.\n\nLosing because the game is hard and you need to refine your strategy is one thing, but losing because the game keeps throwing curveballs at you is just not fun.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "games fun but lacks balancing, gets stupid hard past round 30 on war mode. Otherwise, the progression is great and rewarding, but just not fun after the first couple of hours as there's no real reward after that without diving deep into the specific ass mechanics of everything.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "This game has so much potential and has some really great elements to it but in its current state i cant recommend it for anyone apart from perhaps light gamers who only play very casually for the following reasons:\nThe Lag in Endless mode is absolutely atrocious even on a graphics card that handles most games ive played just fine.\nThe game is also advertised has having an ENDLESS frontier mode...which is not true. It seems it ends at wave 103 because of a bug or something or maybe it isn't meant to go further and the store page simply has a false claim about it being Endless i dunno. So when you learn the game and try to go on a long run you get screwed over by that even if you can tolerate the extreme lag.\n\nOf course if you are just a very casual gamer not planning on actually trying to learn the game and progress too much then  it wont matter as the early waves may have no such issue.\n\nIt seems like such a shame as the bones of an amazing game are there, especially if those two issues were fixed and even more so if Leaderboards were added to make it interesting trying to strategize for furthest wave possible.. (And no, hackers posting fake scores of 1 billion gazillion doesnt bother me too much).\n\nIf these things are changed then i perhaps would say this is one of the best TW games on Steam because it does have a lot going for it...hopefully i will be able to update this review in future if so.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The RNG for this game is bad. \n\nThe map's layout is bad. \n\nThe enemies in the starting rounds before endless run are now bullet sponges or the initial towers are just weak \n\nTo generate income and recon in this game is hard. (you wont get any income or recon generating towers in the first 20 runs since the developers probably dont want you to play this tower defence games like how other tower defense games do, unlimited run and do what you want). \n \n\nThe enemies after level 60 is impossible to beat due to their immense health and bad RNG. \n\nThe starting tile is always bad. The recon to change the tile is expensive and will give your worse tiles after changing  it. \n\nIt is now even harder to get high tier building like fortress after the latest upgrade.\n\nOnly one hero out of the thirty heroes is worth playing and enough to help you get over level 60. \n\nFix the game and make it more enjoyable please.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Like a 5/10 game. It's another casino rougelite full to the brim with useless things. \r\n\r\nThe entire game is anti-player: \r\nLike it desperately wants to be difficult, and will carve as much fun out of the game as possible to do it.\r\n\r\nHorrible balance, worthless AND uninteresting characters, enemies are hp sponges, 1 way to play, useless towers that will spam your rolls, the terrain is deliberately made to hamper large tower placement (you can build up... But you can't dig a hole? Why?), completely rng dependent... etc... etc... \r\n\r\nI never would have bought this game if Variables 2 wasn't also a complete mess for completely different reasons. \r\n\r\nIt's just banging your head against the wall. But, it runs great. And while the tool tips are just as unhelpful as Variables 2, at least I can read them. My money is already gone. So I'm probably going to keep messing around with it. Try and get my moneys worth. Maybe they fix it... Maybe the don't. \r\n\r\nBut if I could go back. I wouldn't have bought this. Certainly not for 13$. Variables 2 is basically this game, but it was like 3 bucks... And the mechanics were just..... SO much better. Like, genuinely, you have no idea, As close to perfection as humanly possible. The game itself is just unplayable. Crashes every 15 minutes, like clockwork. Very frustrating.\r\n\r\nGraphics and sound design are great! No question. I love the IDEA of blue team. But they suck. So imma try and explain a microcosm of what is wrong with the game.\r\n\r\nBlue teams whole schtik is they an hq which functions as one huge tower and their entire faction revolves around it. But. The H.Q. only has 4 big guns, 4 med guns, and 8 completely worthless guns. You need around 250 guns to get through wave 35. And you will most likely require a mix of guns. The guns on your hq are all regular ass machine guns... Cool. \r\n\r\nThen the support buildings. They sacrifice their DPS to make the hq better... So you think it would even out. Nope. Cus again. It's all machine guns. In order to get the most out of your HQ, which can only fire at 16 enemies, you have to build more machine guns. That means 0 detection units, 0 aoes, 0 anti air etc. Wave 35 can have over 1,000 enemies present on the screen at any given time. The average health of the enemies is in the thousands. Your hq's guns do 14? damage, which is 42 at 300%!!! boost. Like, 24? Which is 72 at 300% Boost. And like... 54? Which is 162 at 300% boost.... \r\n\r\nA regular tier three enemy has 7,000 (roughly a dozen or so on wave 35). Then splits into 3 enemies that each have 3,000 hp (roughly 36 of these will spawn independently). Each of them split into 3 enemies that have 900 hp (like... hundreds of these guys). Each of them split into 3 enemies that have 300 hp (bloody fousands of em). So 1 enemy has around 20,000 hp... and your HQ.... The entire reason you are playing blue... Puts out around 1,000 DPS... At 300% boost... IF you could use all 16 turrets on 1 enemy. Which you can't. You will only get like a 3rd usually. It is all just so poorly thought out. \r\n\r\nThe cost of war. Fully upgraded it costs around 2,500. Which isn't bad... But standard dps is 333, or as discussed, 111.... Which is embarrassing. You are actually better off ignoring it, then trying to buff it... Which basically means, you are better off playing a different faction. Well there is a 3rd of the game gone right there... Nice job devs.\r\n\r\nAnd don't even get me started on trenches... Again... They are \"supposed\" to support your infantry's hp.... Can you guess what kind of weapon they use? I think you can. Even though every tower has 6 upgrade slots. Even though there are around 20 weapons carried by other infantry in this game... ALL 6 upgrades are for the single most useless gun in the entire game. And each upgrade adds 3 more.... Sure... Sure... They can sort of slow SOME enemies... But with around 90% of enemies being immune to slow, and slows literally lasting one second, and the second they reload it moves out of range to be slowed.... It is just so poorly thought out. And all of that, is not even to mention... The hp buff they give to infantry... Do you know what enemies they actually do well against.... You guessed it. The same ones as the machine guns.... It is so fucking stupid.\r\n\r\nTimes that by 4... And you've got this game. Blue, Red, Green, Aliens, THE EARTH ITSELF... All nonsense.  Cool premise. Horrid execution. \r\n\r\nIf you LOVE LOVE LOVE (crossed out tower defense) Casino Rougelites as genre... Maybe get this on sale. It will scratch the itch for a bit. But it will never be truly enjoyable.\r\n\r\nHope this helps.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "This game is SO close to being fantastic, but it's clear that it needs better balance. Most rougelites that involve elements of randomness give the player some ability to respond to it with strategy, and Tower Dominion attempts this with a (frustrating) re-roll system for map tiles, but lacks any equivalent for map starts, towers, buffs, or enemy types. What's more, between two of the three factions being pretty underpowered and the enemy pathing logic, it seems that you're pretty much limited to a single strategy at higher difficulties.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Honestly, this game is just an RNG simulator and a pretty shitty one at that. Eventually you get to the point where you play Frontier mode and select a number of debuffs that make that round substantially more difficult. \r\n\r\nIn any case, if you don't receive specific Doctrine's you aren't clearing that level. Even if you do manage to make it to the later waves, it's a better than zero chance you don't get it due to the last couple waves of mobs. \r\n\r\nIt's over-tuned, and quite frankly a bad game because of it.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Played for 3 hours through the first mission (I am slow, others can easily do it faster) I was beating the waves back handily, No problem whatsoever. Getting a lot of good upgrades, setting new towers, upgrading them. Then...the final wave!!\r\n\r\nJust swept me completely away and killed my HQ in like 30 seconds. No idea WHY, no idea HOW I could have stopped it. Gave me a bunch of upgrade things which I ASSUME I am meant to use in my next try to win which won't happen.\r\n\r\nYou don't give me all the, \"yes, yes, yes, right, right, right\" and then kick the shit out of me and make me do it all over again. I would have played again if I did things sub-optimal during the first 25 waves and lost while learning to play. But I will NEVER understand the moron devs who insist on crushing their players on the first level right at the end after letting them think they are playing correctly.\r\n\r\nThis was terrible. I spent 3 hours playing through the mission, building towers, defeating waves, upgrading to get totally crushed at the boss wave with no idea why or how. On easy level.\r\n\r\nThere is NO tutorial, I went to Youtube to get some information. Is that where devs are putting tutorials and information about their games now?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "recent announcement has them shifting the game to a more mobile focus so I would expect the introduction of microtransactions soon and probably a slower cadence of updates... not bad game but not one you need to buy on steam.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Who could have guessed that Poptropica graphics combined with the most egregious superficial complexity I think I've ever seen in a game could lead to a poor experience? This game is an unlock simulator with none of the mechanical depth to actually give those unlocks any weight whatsoever.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Scratches an itch but not in a really meaningful way.  If you are really looking for a tower defense fix, this might fill it for  a period.\r\n\r\nMusic/audio track is simpler than 1990s 8 bit games, repetitive, and frankly annoying.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "ohh its a mobile game.. no wonder.. meh",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Cool, BUT THE MOST UNFAIR GAME",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "this game becomes less fun the more you play it.\r\nit forces you into a specific play style otherwise you fail. most upgrade paths on towers are useless. you need certain towers to progress, which makes 70% of towers just garbage.",
+      "voted_up": false,
+      "votes_helpful": 28
+    },
+    {
+      "review": "Sadly I have to recommend no on this one as it is now. The game is cool, lots of characters and cool towers and stuff. But there's some weird balancing issues... I've had a few runs in a row now where I get to level 29 or 30 with no problem, not a single enemy damaging my command center. And then die within seconds on level 31. Feels like the enemy scaling is off, going from crushing it to getting completely destroyed the very next one is very demoralizing and frustrating, especially after having played through to the very last levels. \n\nGreat game otherwise, graphics and variety and gameplay are cool. Maybe devs can do a rebalance of the last few levels and then I would change to thumbs up",
+      "voted_up": false,
+      "votes_helpful": 61
+    },
+    {
+      "review": "Devs stopped work on the game with no meaningful content for months, because they want to port it to Mobile... \r\n\r\nSad, because it had really great potential.",
+      "voted_up": false,
+      "votes_helpful": 20
+    },
+    {
+      "review": "It honestly feels like your chance on winning is based on RNG. Like you can have the best defense imaginable and still lose because the game threw a monster at you that you have zero or low counters against. I had fun when i played it first but playing it more and more have made me realize this game is flawed and unfun to play. not to say it cant be fun but the downsides bring it down. I recommend you buy another TD game instead of this one",
+      "voted_up": false,
+      "votes_helpful": 64
+    },
+    {
+      "review": "This could be a great game, but as you play it really comes down to RNG and are you lucky enough to get certain towers/paths/enemies - more strategy less luck would be better",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "Seemingly more focused on forcing 'roguelike' RNG elements than on building a solid TD game. You can only build towers based on random cards you pull between waves, so you can spawn on a map, be given zero anti-air towers and then get heavily punished by air units that spawn three feet from your base because the map randomly generated itself to allow such cheese. It's a shame because there's some interesting ideas here but ultimately it's just too RNG reliant to be a compelling strategy game to me.",
+      "voted_up": false,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Wish I could like this more, but it just ends up being annoying to progress. The enemy attacks can switch suddenly to something you had no def to. Just insane balancing decisions that make it almost impossible to plan for. Heavily RNG based as combining lanes is obviously the way to go but the tiles are random. 4th difficulty should be the most fun and yet its a frustrating experience, where you will be stomping until the enemy switches what its sending and suddenly spams heavy flyers from entrances that didn't matter before. Very close to being a fun game, but very unsatisfying to progress in the end.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "This game has excellent content. The production value is high, the art is lovely, and the concepts are pretty interesting. I enjoyed it.\r\n\r\nSo why can't I recommend it? Well, it's extremely poorly balanced, and gets worse the higher you go with it. Insert queue of fedora-tipping non-neurotypical keyboard warriors to rush in and defend the game with their \"trololololol u just suk git gud\".\r\n\r\nIt's true, though. Having played it, there are frustrating jumps in difficulty at a variety of points, variable depending on the difficulty you've set. In fairness, they've added a number of modifiers to the game, and one of them specifically scales things based on the number of single paths to the fortress. Realistically, it's not enough for the average player, and the modifiers aren't communicated particularly well.\r\n\r\nIn fact, a lot of things aren't communicated well, and it seems like that's actually a design choice. For example, they do have a setting to show tower stats- it's off by default. More than that, when it's on, you need to hover over specific weapons on a tower in order to see what's going on with the stats, and even then, it doesn't feel particularly easy to read or understand, and it's difficult to know exactly how the modifiers are playing out.\r\n\r\nThe balance, though, feels way off. One second you're doing fine, and the next, the escalation has become so severe that you simply get crushed. And not \"Ah man, I let a few through\", I mean going from leaking a couple, to leaking dozens.\r\n\r\nIt lacks a lot of polish and features from the genre, and that makes it difficult to make decisions. For example, you begin to really notice the lack of a way to track the enemies numbers and types when you're struggling to cover multiple points of entry. To make that worse, you don't know how that's going to do. One minute, you're building a side that's threatening to overrun you- the next, suddenly you get very little traffic on that side, and the side you were neglecting to build up because you couldn't afford to, suddenly gets massive waves.\r\n\r\nThe more you play and the higher your difficulty, the more it narrows your strategies that are realistically available. Most of the choices you get in the game don't really feel like choices, because there are clear winners. (This isn't always the case, but it is a lot of the time, for a lot of your choices).\r\n\r\nI did check out a couple guides that were trying to teach people things they were missing when they decided the game was too hard- very disappointed. They didn't teach anything out of the ordinary, just 20k words of very obvious Tower Defense basics with pictures.\r\n\r\nI'd like to change this review at some point, because it's got the makings of a good game, but it's just not there yet, in my opinion. There will be people who have no problem rerolling 50 times for a perfect start and with just enough of that \"I can see the Matrix\" vibe to do some crazy stuff, and I'm positive they're going to love it, but I think the average player will simply find it frustrating after a few games. Maybe it's just not for the casual gamers- and if it isn't, I hope some people read this and decide to wait on it. Maybe I'll be able to come back when the game is more balanced and change this.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Difficulty 3+ is just not fun. You're guaranteed to leak/take HQ damage no matter what the first 5 waves and then probably lose. You're just praying you get a perfectly lucky RNG start in order to progress.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I guess buy if it is on sale and you are in the mood for tower defense. But just beware of weird ass balancing decisions that ruin the fun once you get a few hours into this game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "This game while fun, is also absolutely terribly balanced.\n\nOnce you start getting into the higher difficulties the game starts to show it's massive flaws, ones that honestly just ruin the game and any fun you could have playing it. Does not help that the end game is just making the worst mode, even more terrible to play.\n\nDon't get me wrong, behind some stupid decisions there is a enjoyable game to play on the 1-3 difficulties. The big issue comes in when you play with 4 and the challenge mode. You can most likely handle yourself through the waves for the most part but eventually you will start getting more special spawns than any combination of turrets can help you deal with at that point. For one reason mainly and that is that the basic towers are absolute shit for their cost. Upgraded? any tower is good. My gripe comes with the power of un-upgraded towers, you may as well not use anything below T2 this way. This is a problem when you have 4 lanes to defend since you hemorrhage money all the time trying to maximize your defenses but ultimately can't since the early game you have little to no generation for either resources or basic tower cards you can use.\n\nBest example I can give is the first handful of towers you can afford to put down early in the game and why it's an issue.\nMirador: 200 gold, can be reduced. Upgrades are pretty shit, basically works as a HQ buffer/repairer.\nBunker: 200 gold. Great tower when upgraded, waste un-upgraded. But your bread and butter when you have second level upgrades which costs 400 extra gold base.\nMortar: 100 gold. It's... okay, it can be good in a lot of situations but generally they are not worth the little gold they cost because positioning them to be effective is difficult, especially with how they target, they go for the one furthest away from them, sounds good right? Except that could mean they ignore a cluster and shoot open ground on a fast moving enemy that is further from the mortar, which means it can do nothing an entire wave simply cause the target priority is bad.\nWarwolf: Great tower all around, cheap first upgrade makes it a lot better for 150 gold. No downsides to this tower aside from upgrade costs being fairly steep for the early game where this tower is the best.\n\n\nThere are some others like the Puma and the Imperial barracks etc. But the main issue with all of these towers is the early game cost, and the fact that you just have to get lucky and find them in the random draw. Now mind you there is no Banish, no Re-roll, no Lock. You get 3-4 random cards after a wave and you best hope it has something useful to you or you can get rolled simply because you are not getting anything that can actually help you with no way to help yourself get the towers you need.\n\nSo all of that in mind, you now need to deal with how little gold you get a round. Base is +100 gold, plus some change for killing enemies and other factors. Most of your resource generation is entirely based on luck from Neutral buildings, if you get the right ones your run can be smooth, get nothing or bad ones? Your run is probably over pretty quickly from resource saturation.\n\nDoesn't help the only resource you can use to re-roll the terrain is also very rare among towers and hard to find in neutral buildings so you can end up in a game where you only get 3-6 terrain re-rolls for a full 35 wave game. While not the end of the world this game has a massive preference for giving you the worst piece which is a 4 way entry. It is absolutely skewed and no one can convince me other wise. \n\nI could get into the factions and why they suck as well, mainly boiling down to their early game and endgame towers.\nGreen just got crapped on for real.\n\n\n\n\n\nAll in all if the devs do some rework on the power and cost of certain towers the game would be more fun at the \"end game\" part of the game. But as it is now, it's a lot more fun to play on 1-3 entries, since a 2 of the factions always have terrible starts on 4 entries.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "really should be more fun.\ni wish the game was more varied, up to level 3 its marginally fun. level four becomes level three with more enemies because the entrances always converge. it would be nice if the paths were not always down the center of the placable tiles because certain turrets are damned useless otherwise. the largest turret ive seen is 4x4 and i have never placed it because the tiles are not really designed for it. so you have to put two tiles together which requires luck.\ni have never beat the game on level four and it seems like i never will. im just wasting time because the game doesnt give me anything i can use to win. its all random chance and i dont have luck. i can tell within a few seconds of a wave starting whether or not i will survive generally and there wasnt anything i could have done to change the outcome because i was not given the solution. \nthe art style is fine. controls are fine. i just feel like if they had gone with a proper strategy tower defense system instead of a random chance card based system it would be better.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "It's an OK tower defense game. It is basically Rogue Tower with a face lift, and seemingly to differentiate it the dev won't add priority selection to the towers. I don't care for that at all, and find it to be a huge pain in the ass when the waves get larger. \n\nTower upgrades and towers themselves are very expensive, never feels like you are in a good spot to upgrade your towers. Towers themselves are single use cards that you get a random draw of, which includes upgrades or resources. I think overall it's *too* random/chance based how well you do.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "To win at higher difficulties you need to be able to build a layout that connects all paths into one. This is only possible if you get very lucky with the starting layout. So you'll spend hours restarting your games over and over to even have a chance. Not fun to fish for lucky rng for hours :/",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Difficulty 1-3 is most times pretty easy, but rng has impact.\nEspecially difficulty 4 & 5 feels even more unbalanced and depends pretty much on rng. \nWhat Towers are available for you and how much income do you get.\n\nAlso you win one wave without any problems and suddenly next wave you lose.\n\nAt the beginning i liked the game and played the game quite often. \nBut i play it less and less.\n\nSo i cant really recommend the game. \nI really wish i could.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The main reason I wouldn't recommend this game is the extreme degree to which randomness plays a part in your odds of success. The most egregious example of this is the way in which monsters spawn in. I've had multiple games in which my defensive setup, which has been annihilating the monsters up to that point, gets suddenly beaten in a wave or two because the monsters spawned in [i]just so[/i] that a couple of powerful monsters slipped in and blew up the HQ.\n\nLosing because the game is hard and you need to refine your strategy is one thing, but losing because the game keeps throwing curveballs at you is just not fun.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "games fun but lacks balancing, gets stupid hard past round 30 on war mode. Otherwise, the progression is great and rewarding, but just not fun after the first couple of hours as there's no real reward after that without diving deep into the specific ass mechanics of everything.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "This game has so much potential and has some really great elements to it but in its current state i cant recommend it for anyone apart from perhaps light gamers who only play very casually for the following reasons:\nThe Lag in Endless mode is absolutely atrocious even on a graphics card that handles most games ive played just fine.\nThe game is also advertised has having an ENDLESS frontier mode...which is not true. It seems it ends at wave 103 because of a bug or something or maybe it isn't meant to go further and the store page simply has a false claim about it being Endless i dunno. So when you learn the game and try to go on a long run you get screwed over by that even if you can tolerate the extreme lag.\n\nOf course if you are just a very casual gamer not planning on actually trying to learn the game and progress too much then  it wont matter as the early waves may have no such issue.\n\nIt seems like such a shame as the bones of an amazing game are there, especially if those two issues were fixed and even more so if Leaderboards were added to make it interesting trying to strategize for furthest wave possible.. (And no, hackers posting fake scores of 1 billion gazillion doesnt bother me too much).\n\nIf these things are changed then i perhaps would say this is one of the best TW games on Steam because it does have a lot going for it...hopefully i will be able to update this review in future if so.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The RNG for this game is bad. \n\nThe map's layout is bad. \n\nThe enemies in the starting rounds before endless run are now bullet sponges or the initial towers are just weak \n\nTo generate income and recon in this game is hard. (you wont get any income or recon generating towers in the first 20 runs since the developers probably dont want you to play this tower defence games like how other tower defense games do, unlimited run and do what you want). \n \n\nThe enemies after level 60 is impossible to beat due to their immense health and bad RNG. \n\nThe starting tile is always bad. The recon to change the tile is expensive and will give your worse tiles after changing  it. \n\nIt is now even harder to get high tier building like fortress after the latest upgrade.\n\nOnly one hero out of the thirty heroes is worth playing and enough to help you get over level 60. \n\nFix the game and make it more enjoyable please.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Like a 5/10 game. It's another casino rougelite full to the brim with useless things. \r\n\r\nThe entire game is anti-player: \r\nLike it desperately wants to be difficult, and will carve as much fun out of the game as possible to do it.\r\n\r\nHorrible balance, worthless AND uninteresting characters, enemies are hp sponges, 1 way to play, useless towers that will spam your rolls, the terrain is deliberately made to hamper large tower placement (you can build up... But you can't dig a hole? Why?), completely rng dependent... etc... etc... \r\n\r\nI never would have bought this game if Variables 2 wasn't also a complete mess for completely different reasons. \r\n\r\nIt's just banging your head against the wall. But, it runs great. And while the tool tips are just as unhelpful as Variables 2, at least I can read them. My money is already gone. So I'm probably going to keep messing around with it. Try and get my moneys worth. Maybe they fix it... Maybe the don't. \r\n\r\nBut if I could go back. I wouldn't have bought this. Certainly not for 13$. Variables 2 is basically this game, but it was like 3 bucks... And the mechanics were just..... SO much better. Like, genuinely, you have no idea, As close to perfection as humanly possible. The game itself is just unplayable. Crashes every 15 minutes, like clockwork. Very frustrating.\r\n\r\nGraphics and sound design are great! No question. I love the IDEA of blue team. But they suck. So imma try and explain a microcosm of what is wrong with the game.\r\n\r\nBlue teams whole schtik is they an hq which functions as one huge tower and their entire faction revolves around it. But. The H.Q. only has 4 big guns, 4 med guns, and 8 completely worthless guns. You need around 250 guns to get through wave 35. And you will most likely require a mix of guns. The guns on your hq are all regular ass machine guns... Cool. \r\n\r\nThen the support buildings. They sacrifice their DPS to make the hq better... So you think it would even out. Nope. Cus again. It's all machine guns. In order to get the most out of your HQ, which can only fire at 16 enemies, you have to build more machine guns. That means 0 detection units, 0 aoes, 0 anti air etc. Wave 35 can have over 1,000 enemies present on the screen at any given time. The average health of the enemies is in the thousands. Your hq's guns do 14? damage, which is 42 at 300%!!! boost. Like, 24? Which is 72 at 300% Boost. And like... 54? Which is 162 at 300% boost.... \r\n\r\nA regular tier three enemy has 7,000 (roughly a dozen or so on wave 35). Then splits into 3 enemies that each have 3,000 hp (roughly 36 of these will spawn independently). Each of them split into 3 enemies that have 900 hp (like... hundreds of these guys). Each of them split into 3 enemies that have 300 hp (bloody fousands of em). So 1 enemy has around 20,000 hp... and your HQ.... The entire reason you are playing blue... Puts out around 1,000 DPS... At 300% boost... IF you could use all 16 turrets on 1 enemy. Which you can't. You will only get like a 3rd usually. It is all just so poorly thought out. \r\n\r\nThe cost of war. Fully upgraded it costs around 2,500. Which isn't bad... But standard dps is 333, or as discussed, 111.... Which is embarrassing. You are actually better off ignoring it, then trying to buff it... Which basically means, you are better off playing a different faction. Well there is a 3rd of the game gone right there... Nice job devs.\r\n\r\nAnd don't even get me started on trenches... Again... They are \"supposed\" to support your infantry's hp.... Can you guess what kind of weapon they use? I think you can. Even though every tower has 6 upgrade slots. Even though there are around 20 weapons carried by other infantry in this game... ALL 6 upgrades are for the single most useless gun in the entire game. And each upgrade adds 3 more.... Sure... Sure... They can sort of slow SOME enemies... But with around 90% of enemies being immune to slow, and slows literally lasting one second, and the second they reload it moves out of range to be slowed.... It is just so poorly thought out. And all of that, is not even to mention... The hp buff they give to infantry... Do you know what enemies they actually do well against.... You guessed it. The same ones as the machine guns.... It is so fucking stupid.\r\n\r\nTimes that by 4... And you've got this game. Blue, Red, Green, Aliens, THE EARTH ITSELF... All nonsense.  Cool premise. Horrid execution. \r\n\r\nIf you LOVE LOVE LOVE (crossed out tower defense) Casino Rougelites as genre... Maybe get this on sale. It will scratch the itch for a bit. But it will never be truly enjoyable.\r\n\r\nHope this helps.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "This game is SO close to being fantastic, but it's clear that it needs better balance. Most rougelites that involve elements of randomness give the player some ability to respond to it with strategy, and Tower Dominion attempts this with a (frustrating) re-roll system for map tiles, but lacks any equivalent for map starts, towers, buffs, or enemy types. What's more, between two of the three factions being pretty underpowered and the enemy pathing logic, it seems that you're pretty much limited to a single strategy at higher difficulties.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Honestly, this game is just an RNG simulator and a pretty shitty one at that. Eventually you get to the point where you play Frontier mode and select a number of debuffs that make that round substantially more difficult. \r\n\r\nIn any case, if you don't receive specific Doctrine's you aren't clearing that level. Even if you do manage to make it to the later waves, it's a better than zero chance you don't get it due to the last couple waves of mobs. \r\n\r\nIt's over-tuned, and quite frankly a bad game because of it.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Played for 3 hours through the first mission (I am slow, others can easily do it faster) I was beating the waves back handily, No problem whatsoever. Getting a lot of good upgrades, setting new towers, upgrading them. Then...the final wave!!\r\n\r\nJust swept me completely away and killed my HQ in like 30 seconds. No idea WHY, no idea HOW I could have stopped it. Gave me a bunch of upgrade things which I ASSUME I am meant to use in my next try to win which won't happen.\r\n\r\nYou don't give me all the, \"yes, yes, yes, right, right, right\" and then kick the shit out of me and make me do it all over again. I would have played again if I did things sub-optimal during the first 25 waves and lost while learning to play. But I will NEVER understand the moron devs who insist on crushing their players on the first level right at the end after letting them think they are playing correctly.\r\n\r\nThis was terrible. I spent 3 hours playing through the mission, building towers, defeating waves, upgrading to get totally crushed at the boss wave with no idea why or how. On easy level.\r\n\r\nThere is NO tutorial, I went to Youtube to get some information. Is that where devs are putting tutorials and information about their games now?",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "recent announcement has them shifting the game to a more mobile focus so I would expect the introduction of microtransactions soon and probably a slower cadence of updates... not bad game but not one you need to buy on steam.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Who could have guessed that Poptropica graphics combined with the most egregious superficial complexity I think I've ever seen in a game could lead to a poor experience? This game is an unlock simulator with none of the mechanical depth to actually give those unlocks any weight whatsoever.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Scratches an itch but not in a really meaningful way.  If you are really looking for a tower defense fix, this might fill it for  a period.\r\n\r\nMusic/audio track is simpler than 1990s 8 bit games, repetitive, and frankly annoying.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "ohh its a mobile game.. no wonder.. meh",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Cool, BUT THE MOST UNFAIR GAME",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "this game becomes less fun the more you play it.\r\nit forces you into a specific play style otherwise you fail. most upgrade paths on towers are useless. you need certain towers to progress, which makes 70% of towers just garbage.",
+      "voted_up": false,
+      "votes_helpful": 28
+    },
+    {
+      "review": "Sadly I have to recommend no on this one as it is now. The game is cool, lots of characters and cool towers and stuff. But there's some weird balancing issues... I've had a few runs in a row now where I get to level 29 or 30 with no problem, not a single enemy damaging my command center. And then die within seconds on level 31. Feels like the enemy scaling is off, going from crushing it to getting completely destroyed the very next one is very demoralizing and frustrating, especially after having played through to the very last levels. \n\nGreat game otherwise, graphics and variety and gameplay are cool. Maybe devs can do a rebalance of the last few levels and then I would change to thumbs up",
+      "voted_up": false,
+      "votes_helpful": 61
+    },
+    {
+      "review": "Devs stopped work on the game with no meaningful content for months, because they want to port it to Mobile... \r\n\r\nSad, because it had really great potential.",
+      "voted_up": false,
+      "votes_helpful": 20
+    },
+    {
+      "review": "It honestly feels like your chance on winning is based on RNG. Like you can have the best defense imaginable and still lose because the game threw a monster at you that you have zero or low counters against. I had fun when i played it first but playing it more and more have made me realize this game is flawed and unfun to play. not to say it cant be fun but the downsides bring it down. I recommend you buy another TD game instead of this one",
+      "voted_up": false,
+      "votes_helpful": 64
+    },
+    {
+      "review": "This could be a great game, but as you play it really comes down to RNG and are you lucky enough to get certain towers/paths/enemies - more strategy less luck would be better",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "Seemingly more focused on forcing 'roguelike' RNG elements than on building a solid TD game. You can only build towers based on random cards you pull between waves, so you can spawn on a map, be given zero anti-air towers and then get heavily punished by air units that spawn three feet from your base because the map randomly generated itself to allow such cheese. It's a shame because there's some interesting ideas here but ultimately it's just too RNG reliant to be a compelling strategy game to me.",
+      "voted_up": false,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Wish I could like this more, but it just ends up being annoying to progress. The enemy attacks can switch suddenly to something you had no def to. Just insane balancing decisions that make it almost impossible to plan for. Heavily RNG based as combining lanes is obviously the way to go but the tiles are random. 4th difficulty should be the most fun and yet its a frustrating experience, where you will be stomping until the enemy switches what its sending and suddenly spams heavy flyers from entrances that didn't matter before. Very close to being a fun game, but very unsatisfying to progress in the end.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "This game has excellent content. The production value is high, the art is lovely, and the concepts are pretty interesting. I enjoyed it.\r\n\r\nSo why can't I recommend it? Well, it's extremely poorly balanced, and gets worse the higher you go with it. Insert queue of fedora-tipping non-neurotypical keyboard warriors to rush in and defend the game with their \"trololololol u just suk git gud\".\r\n\r\nIt's true, though. Having played it, there are frustrating jumps in difficulty at a variety of points, variable depending on the difficulty you've set. In fairness, they've added a number of modifiers to the game, and one of them specifically scales things based on the number of single paths to the fortress. Realistically, it's not enough for the average player, and the modifiers aren't communicated particularly well.\r\n\r\nIn fact, a lot of things aren't communicated well, and it seems like that's actually a design choice. For example, they do have a setting to show tower stats- it's off by default. More than that, when it's on, you need to hover over specific weapons on a tower in order to see what's going on with the stats, and even then, it doesn't feel particularly easy to read or understand, and it's difficult to know exactly how the modifiers are playing out.\r\n\r\nThe balance, though, feels way off. One second you're doing fine, and the next, the escalation has become so severe that you simply get crushed. And not \"Ah man, I let a few through\", I mean going from leaking a couple, to leaking dozens.\r\n\r\nIt lacks a lot of polish and features from the genre, and that makes it difficult to make decisions. For example, you begin to really notice the lack of a way to track the enemies numbers and types when you're struggling to cover multiple points of entry. To make that worse, you don't know how that's going to do. One minute, you're building a side that's threatening to overrun you- the next, suddenly you get very little traffic on that side, and the side you were neglecting to build up because you couldn't afford to, suddenly gets massive waves.\r\n\r\nThe more you play and the higher your difficulty, the more it narrows your strategies that are realistically available. Most of the choices you get in the game don't really feel like choices, because there are clear winners. (This isn't always the case, but it is a lot of the time, for a lot of your choices).\r\n\r\nI did check out a couple guides that were trying to teach people things they were missing when they decided the game was too hard- very disappointed. They didn't teach anything out of the ordinary, just 20k words of very obvious Tower Defense basics with pictures.\r\n\r\nI'd like to change this review at some point, because it's got the makings of a good game, but it's just not there yet, in my opinion. There will be people who have no problem rerolling 50 times for a perfect start and with just enough of that \"I can see the Matrix\" vibe to do some crazy stuff, and I'm positive they're going to love it, but I think the average player will simply find it frustrating after a few games. Maybe it's just not for the casual gamers- and if it isn't, I hope some people read this and decide to wait on it. Maybe I'll be able to come back when the game is more balanced and change this.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Difficulty 3+ is just not fun. You're guaranteed to leak/take HQ damage no matter what the first 5 waves and then probably lose. You're just praying you get a perfectly lucky RNG start in order to progress.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I guess buy if it is on sale and you are in the mood for tower defense. But just beware of weird ass balancing decisions that ruin the fun once you get a few hours into this game.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "This game while fun, is also absolutely terribly balanced.\n\nOnce you start getting into the higher difficulties the game starts to show it's massive flaws, ones that honestly just ruin the game and any fun you could have playing it. Does not help that the end game is just making the worst mode, even more terrible to play.\n\nDon't get me wrong, behind some stupid decisions there is a enjoyable game to play on the 1-3 difficulties. The big issue comes in when you play with 4 and the challenge mode. You can most likely handle yourself through the waves for the most part but eventually you will start getting more special spawns than any combination of turrets can help you deal with at that point. For one reason mainly and that is that the basic towers are absolute shit for their cost. Upgraded? any tower is good. My gripe comes with the power of un-upgraded towers, you may as well not use anything below T2 this way. This is a problem when you have 4 lanes to defend since you hemorrhage money all the time trying to maximize your defenses but ultimately can't since the early game you have little to no generation for either resources or basic tower cards you can use.\n\nBest example I can give is the first handful of towers you can afford to put down early in the game and why it's an issue.\nMirador: 200 gold, can be reduced. Upgrades are pretty shit, basically works as a HQ buffer/repairer.\nBunker: 200 gold. Great tower when upgraded, waste un-upgraded. But your bread and butter when you have second level upgrades which costs 400 extra gold base.\nMortar: 100 gold. It's... okay, it can be good in a lot of situations but generally they are not worth the little gold they cost because positioning them to be effective is difficult, especially with how they target, they go for the one furthest away from them, sounds good right? Except that could mean they ignore a cluster and shoot open ground on a fast moving enemy that is further from the mortar, which means it can do nothing an entire wave simply cause the target priority is bad.\nWarwolf: Great tower all around, cheap first upgrade makes it a lot better for 150 gold. No downsides to this tower aside from upgrade costs being fairly steep for the early game where this tower is the best.\n\n\nThere are some others like the Puma and the Imperial barracks etc. But the main issue with all of these towers is the early game cost, and the fact that you just have to get lucky and find them in the random draw. Now mind you there is no Banish, no Re-roll, no Lock. You get 3-4 random cards after a wave and you best hope it has something useful to you or you can get rolled simply because you are not getting anything that can actually help you with no way to help yourself get the towers you need.\n\nSo all of that in mind, you now need to deal with how little gold you get a round. Base is +100 gold, plus some change for killing enemies and other factors. Most of your resource generation is entirely based on luck from Neutral buildings, if you get the right ones your run can be smooth, get nothing or bad ones? Your run is probably over pretty quickly from resource saturation.\n\nDoesn't help the only resource you can use to re-roll the terrain is also very rare among towers and hard to find in neutral buildings so you can end up in a game where you only get 3-6 terrain re-rolls for a full 35 wave game. While not the end of the world this game has a massive preference for giving you the worst piece which is a 4 way entry. It is absolutely skewed and no one can convince me other wise. \n\nI could get into the factions and why they suck as well, mainly boiling down to their early game and endgame towers.\nGreen just got crapped on for real.\n\n\n\n\n\nAll in all if the devs do some rework on the power and cost of certain towers the game would be more fun at the \"end game\" part of the game. But as it is now, it's a lot more fun to play on 1-3 entries, since a 2 of the factions always have terrible starts on 4 entries.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "really should be more fun.\ni wish the game was more varied, up to level 3 its marginally fun. level four becomes level three with more enemies because the entrances always converge. it would be nice if the paths were not always down the center of the placable tiles because certain turrets are damned useless otherwise. the largest turret ive seen is 4x4 and i have never placed it because the tiles are not really designed for it. so you have to put two tiles together which requires luck.\ni have never beat the game on level four and it seems like i never will. im just wasting time because the game doesnt give me anything i can use to win. its all random chance and i dont have luck. i can tell within a few seconds of a wave starting whether or not i will survive generally and there wasnt anything i could have done to change the outcome because i was not given the solution. \nthe art style is fine. controls are fine. i just feel like if they had gone with a proper strategy tower defense system instead of a random chance card based system it would be better.",
+      "voted_up": false,
+      "votes_helpful": 2
+    }
+  ]
+}

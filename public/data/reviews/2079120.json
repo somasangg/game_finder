@@ -1,0 +1,696 @@
+{
+  "positive": [
+    {
+      "review": "I tried this on a \nwhim and it completely changed the way I streamed, it does everything I need and more. \n\nThere is a bit of a learning curve but the community is strong and there are lots of tutorials out there.\n\nHonestly I attribute my channels growth to this program. My chat loves how interactive my model is now and I never would have been able to do this with anything else. \n\nJust get it, it's free but honestly even if it wasn't it would still be worth it!",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "it took a second to figure it out and sometimes it just straight up doesnt work but its ok bc when it does work its AWESOME my little freak is REAL and ALIVE",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Out of all the different VTubing software I have tried, this one \"just works\". Everything else I tried had either too much configuration, weird format/version incompatibility, or was just too heavy to run with a game open. This just works really well, it has many features that others didn't, and it supports many different variations of model formats/versions. Thank you for making such a great software!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I honestly would pay for this program. Its so good. So much customization, very stable/runs better than other vtubing programs I had been using, and with node based interactions, the possibilities are endless.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "нужен компутер с райзен тредрипер и ртх 4090, иначе с этой программой игры не постримить, но вообще круто сделано",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "at first glance Warudo looks really intimidating but with the help of goated people in the official Discord server it's really one of the best vtuber programs out there",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The best tracking app for 3D Vtubing period. I used VNyan for about 2 years and while it has quite a lot of features once I swapped to VTube Studio tracking my model would sometimes lag and the app on my phone would randomly crash, none of these issues have happened anymore for me since the swap to Warudo and using the plugin to use VTS Tracking. On top of this I find myself now having features I can't live without to the point that reverting to VNyan would be extremely difficult for me. The only thing I hope to see in the future is for the hybrid lip sync feature to be natively replaced with OVRLipSync since OVRLipSync is what VNyan uses by default and you can integrate it with a plugin but a native implementation out of the box would be better since OVRLipSync gives way better mouth tracking!!! That being said a great example of what this app does better is Live 2d movement and the Live 2d Movement system that Gillie made is truly impeccable and achieves so much more than you can achieve with VNyan due to limitations that VNyan has and you should 100% check it out if you're planning to use this app to allow more expressive movement for your model <3",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "looks and works great!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "There's so many cool things i can make my model do!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "indubitably peak",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "UES THIS",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Was using vnyan before this and warudo has e/thing vnyan has and more. Also it seems to be more stable.",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "I tried this on a \nwhim and it completely changed the way I streamed, it does everything I need and more. \n\nThere is a bit of a learning curve but the community is strong and there are lots of tutorials out there.\n\nHonestly I attribute my channels growth to this program. My chat loves how interactive my model is now and I never would have been able to do this with anything else. \n\nJust get it, it's free but honestly even if it wasn't it would still be worth it!",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "it took a second to figure it out and sometimes it just straight up doesnt work but its ok bc when it does work its AWESOME my little freak is REAL and ALIVE",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Out of all the different VTubing software I have tried, this one \"just works\". Everything else I tried had either too much configuration, weird format/version incompatibility, or was just too heavy to run with a game open. This just works really well, it has many features that others didn't, and it supports many different variations of model formats/versions. Thank you for making such a great software!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I honestly would pay for this program. Its so good. So much customization, very stable/runs better than other vtubing programs I had been using, and with node based interactions, the possibilities are endless.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I highly recommend this for anyone using a 3D model. It's really smooth, the overlapping of poses is pretty clean. The only issue I have is how resource intensive the program is as someone who streams and games on the same PC. The program is still in Beta though and I am sure more optimization will come out as they develop it. Also it goes above and beyond what most paid tracking programs do. All in all 9/10. I can't wait to see what the creators add next.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VTubing has finally exited the Stone Age. We're never going back.\n\nEdit #1:\n130 hours played now. Still in awe at the potential of this software. Multicam tracking > Rhylive by a mile, as it turns out.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really good software. Whilst it can be overwhelming at first, it is easy to get into the swing of things. There are plenty of guides as well that allow you to get started easily. My only wish for improvement is the ragdoll system. I would like it if there was a \"flail\" option, that allows your ragdoll to flap their limbs about when in ragdoll form for a select amount of time.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very powerful tool. i haven't been able to apply blendshapes through nodes in a way that works as it should and there is no resources online about blendshapes or the help guide to see if im doing it wrong.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[b]Very highly recommend this program!![/b] It's simply the best of the best, the all-in-one package of your Vtubing dreams. The fact that it's free is absolutely insane to me with all the things you can do with it! And if you're unsure what you're doing, or need help, the community Discord is very helpful and active, along with many tutorials on Youtube for all sorts of things, and an official handbook available on the website\nIf you're scared of the node based coding, please don't be. I knew absolutely zero about it when I first downloaded this, and through questions and tutorials I learned my way around until I started making more and more complex things! You can make almost anything you can imagine, just be clear about your idea and people will help c:\n\n[b]What's some things you can do?[/b]\n- Simple and easy onboarding to set up your character and scene for the first time, with lots of settings and menus to pick through and fine tune (But aren't needed if you just want to plop your model in and go)\n- Support for many different cameras, VMC motion, VR systems, and blendshape conditions. Even completely free hand and/or body tracking just with a camera! In the rare case your tracker isn't in the onboarding default list, you can always ask the devs in the Discord! They reply frequently and want to help\n- No extra software needed to make redeems, like throwables, dances etc! As mentioned, there's tons of tutorials for all sorts of ideas, and you can make pretty much anything happen in your scene\n- No extra software for having your audience spawn in as models or props that you can interact with\n- A HUGE default library of poses, animations, environments, and props PLUS a whole workshop full of user made things! Make your model meme dance, put a spinning duck on your head, get caught in a Pokeball - the potential is limited only to your imagination!\n- Support for 2D images, video, and even other Vtubers, all in your own scene that can be interacted with! Has support for collabs of several 3D Vtubers in one scene, too!\n- Support for in-scene keyboard and mouse, controllers of different types, or drawing tablets, to link your character to what you're doing on your screen\n- MikuMikuDance motion support and tools to make music videos\n- Native Twitch and Youtube support, with extra websocket tools for things like StreamerBot to bridge to other platforms\n\nOne thing to note that does come up a bit: If you have a FBX or VSF avatar, you will need to convert it to VRM or WARUDO file type. There's tutorials for this, but might be an extra step for you - just be aware!\n\nPlease enjoy the program! Don't be afraid to ask questions in the Discord and look up Youtube tutorials! You'll feel so proud when your character comes alive and you make something like getting hit by a hammer, ragdolling out into the skybox, and dramatically zooming in as they burst into confetti! \\o/",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Excellent support both as user and dev. Cant reccomend this program enough for anyone wanted to delve into 3d vtubing for use or for experiment/development",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[strike] Crashes on load, updated webcam drivers, gpu drivers, verified files, reinstalled, crashes whenever a webcam or recommended settings are activated. [/strike]\n\nThe community discord had a fix I could use for the problem already in place and I found it in about 5 minutes. Replaced a .dll file. Good on them.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I had to find a new face tracking app after VUP shutdown and i will say this is honestly better than what i was using previously! the face tracking is pretty good, there is a lot you can do for streaming things even as a beginner! (I already have it so when someone donates 5 dollars something happens on screen!) and is just over all an amazing app, whether your a pro or a noob i think you be able to find something you like about it whether it is its simplistic design, or the amount of customization it has!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have been using this for Vtubing for about 4 days total, and this is the best one. If you're looking to get the most out of your model you need to get this.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I've hit a brick wall with mod creation as one of their core operations throws system exceptions (in their premade unity scene using the recommended version), and with no support or response from developers I'm giving up on using Warudo. Approximately I've wasted 36 hours trying to fix an issue that isn't mine to fix. If a more stable release is provided maybe it can be recommended but I can't recommend it in its current state.\n\nedit: For those that also have this issue, you can bypass character setup utilizing third party packages such as hai's denormalizer exporter. I can't comment yet on the rest of the software, but it seems to be high quality once you get it working.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "When I became a vtuber one of my things I wanted was knowledgeable control and room to change and customize a lot as needed. Warudo not only helped with that but did it for free. Pairing it with Sammi. It makes me streams feel more lively. I even teach what I know about it to friends. Im excited to see what the team and the community makes in the future with this tool. Thank you for this amazing software.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Warudo is the flexible & personalized 3D VTubing software you have always wanted. Built-in face & hand tracking, custom 3D assets, Twitch/YouTube integration, blueprint system, C# plugins, and so much more.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "at first glance Warudo looks really intimidating but with the help of goated people in the official Discord server it's really one of the best vtuber programs out there",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is one of the best software for Vtubing using your own 3D modeled characters.\n\nNo annoying limitations like the other Vtubing softwares which I've tried that are still stuck on Unity 2018/2019, there's also no file size limit either.\n\nThis one uses Unity 2021 which has many of the bug fixes for packages and CS fixes which you won't normally get on previous versions of Unity.\n\nI was able to import my entire Model with the existing shaders and custom shaders which I coded from scratch, including my MMD animations.\n\nIf you find a tutorial anywhere on how to use this Software, everything will work as it should.\n\nJust make sure in your Unity Project, there isn't a Folder located in \"Assets\" called \"Plugin\" with a script that overrides Warudo scripts.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The best tracking app for 3D Vtubing period. I used VNyan for about 2 years and while it has quite a lot of features once I swapped to VTube Studio tracking my model would sometimes lag and the app on my phone would randomly crash, none of these issues have happened anymore for me since the swap to Warudo and using the plugin to use VTS Tracking. On top of this I find myself now having features I can't live without to the point that reverting to VNyan would be extremely difficult for me. The only thing I hope to see in the future is for the hybrid lip sync feature to be natively replaced with OVRLipSync since OVRLipSync is what VNyan uses by default and you can integrate it with a plugin but a native implementation out of the box would be better since OVRLipSync gives way better mouth tracking!!! That being said a great example of what this app does better is Live 2d movement and the Live 2d Movement system that Gillie made is truly impeccable and achieves so much more than you can achieve with VNyan due to limitations that VNyan has and you should 100% check it out if you're planning to use this app to allow more expressive movement for your model <3",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Easy to use and has pretty good tracking.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "simple effective software that does its job",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great app for vtubing",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Finally, I, a fat man can become an anime boy",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "3D VTubing hits different.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "looks and works great!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "There's so many cool things i can make my model do!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "indubitably peak",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "UES THIS",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Was using vnyan before this and warudo has e/thing vnyan has and more. Also it seems to be more stable.",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "I tried this on a \nwhim and it completely changed the way I streamed, it does everything I need and more. \n\nThere is a bit of a learning curve but the community is strong and there are lots of tutorials out there.\n\nHonestly I attribute my channels growth to this program. My chat loves how interactive my model is now and I never would have been able to do this with anything else. \n\nJust get it, it's free but honestly even if it wasn't it would still be worth it!",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "it took a second to figure it out and sometimes it just straight up doesnt work but its ok bc when it does work its AWESOME my little freak is REAL and ALIVE",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Out of all the different VTubing software I have tried, this one \"just works\". Everything else I tried had either too much configuration, weird format/version incompatibility, or was just too heavy to run with a game open. This just works really well, it has many features that others didn't, and it supports many different variations of model formats/versions. Thank you for making such a great software!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I honestly would pay for this program. Its so good. So much customization, very stable/runs better than other vtubing programs I had been using, and with node based interactions, the possibilities are endless.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I highly recommend this for anyone using a 3D model. It's really smooth, the overlapping of poses is pretty clean. The only issue I have is how resource intensive the program is as someone who streams and games on the same PC. The program is still in Beta though and I am sure more optimization will come out as they develop it. Also it goes above and beyond what most paid tracking programs do. All in all 9/10. I can't wait to see what the creators add next.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VTubing has finally exited the Stone Age. We're never going back.\n\nEdit #1:\n130 hours played now. Still in awe at the potential of this software. Multicam tracking > Rhylive by a mile, as it turns out.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really good software. Whilst it can be overwhelming at first, it is easy to get into the swing of things. There are plenty of guides as well that allow you to get started easily. My only wish for improvement is the ragdoll system. I would like it if there was a \"flail\" option, that allows your ragdoll to flap their limbs about when in ragdoll form for a select amount of time.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very powerful tool. i haven't been able to apply blendshapes through nodes in a way that works as it should and there is no resources online about blendshapes or the help guide to see if im doing it wrong.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[b]Very highly recommend this program!![/b] It's simply the best of the best, the all-in-one package of your Vtubing dreams. The fact that it's free is absolutely insane to me with all the things you can do with it! And if you're unsure what you're doing, or need help, the community Discord is very helpful and active, along with many tutorials on Youtube for all sorts of things, and an official handbook available on the website\nIf you're scared of the node based coding, please don't be. I knew absolutely zero about it when I first downloaded this, and through questions and tutorials I learned my way around until I started making more and more complex things! You can make almost anything you can imagine, just be clear about your idea and people will help c:\n\n[b]What's some things you can do?[/b]\n- Simple and easy onboarding to set up your character and scene for the first time, with lots of settings and menus to pick through and fine tune (But aren't needed if you just want to plop your model in and go)\n- Support for many different cameras, VMC motion, VR systems, and blendshape conditions. Even completely free hand and/or body tracking just with a camera! In the rare case your tracker isn't in the onboarding default list, you can always ask the devs in the Discord! They reply frequently and want to help\n- No extra software needed to make redeems, like throwables, dances etc! As mentioned, there's tons of tutorials for all sorts of ideas, and you can make pretty much anything happen in your scene\n- No extra software for having your audience spawn in as models or props that you can interact with\n- A HUGE default library of poses, animations, environments, and props PLUS a whole workshop full of user made things! Make your model meme dance, put a spinning duck on your head, get caught in a Pokeball - the potential is limited only to your imagination!\n- Support for 2D images, video, and even other Vtubers, all in your own scene that can be interacted with! Has support for collabs of several 3D Vtubers in one scene, too!\n- Support for in-scene keyboard and mouse, controllers of different types, or drawing tablets, to link your character to what you're doing on your screen\n- MikuMikuDance motion support and tools to make music videos\n- Native Twitch and Youtube support, with extra websocket tools for things like StreamerBot to bridge to other platforms\n\nOne thing to note that does come up a bit: If you have a FBX or VSF avatar, you will need to convert it to VRM or WARUDO file type. There's tutorials for this, but might be an extra step for you - just be aware!\n\nPlease enjoy the program! Don't be afraid to ask questions in the Discord and look up Youtube tutorials! You'll feel so proud when your character comes alive and you make something like getting hit by a hammer, ragdolling out into the skybox, and dramatically zooming in as they burst into confetti! \\o/",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Excellent support both as user and dev. Cant reccomend this program enough for anyone wanted to delve into 3d vtubing for use or for experiment/development",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[strike] Crashes on load, updated webcam drivers, gpu drivers, verified files, reinstalled, crashes whenever a webcam or recommended settings are activated. [/strike]\n\nThe community discord had a fix I could use for the problem already in place and I found it in about 5 minutes. Replaced a .dll file. Good on them.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I had to find a new face tracking app after VUP shutdown and i will say this is honestly better than what i was using previously! the face tracking is pretty good, there is a lot you can do for streaming things even as a beginner! (I already have it so when someone donates 5 dollars something happens on screen!) and is just over all an amazing app, whether your a pro or a noob i think you be able to find something you like about it whether it is its simplistic design, or the amount of customization it has!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have been using this for Vtubing for about 4 days total, and this is the best one. If you're looking to get the most out of your model you need to get this.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I've hit a brick wall with mod creation as one of their core operations throws system exceptions (in their premade unity scene using the recommended version), and with no support or response from developers I'm giving up on using Warudo. Approximately I've wasted 36 hours trying to fix an issue that isn't mine to fix. If a more stable release is provided maybe it can be recommended but I can't recommend it in its current state.\n\nedit: For those that also have this issue, you can bypass character setup utilizing third party packages such as hai's denormalizer exporter. I can't comment yet on the rest of the software, but it seems to be high quality once you get it working.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "When I became a vtuber one of my things I wanted was knowledgeable control and room to change and customize a lot as needed. Warudo not only helped with that but did it for free. Pairing it with Sammi. It makes me streams feel more lively. I even teach what I know about it to friends. Im excited to see what the team and the community makes in the future with this tool. Thank you for this amazing software.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Warudo is the flexible & personalized 3D VTubing software you have always wanted. Built-in face & hand tracking, custom 3D assets, Twitch/YouTube integration, blueprint system, C# plugins, and so much more.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "at first glance Warudo looks really intimidating but with the help of goated people in the official Discord server it's really one of the best vtuber programs out there",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is one of the best software for Vtubing using your own 3D modeled characters.\n\nNo annoying limitations like the other Vtubing softwares which I've tried that are still stuck on Unity 2018/2019, there's also no file size limit either.\n\nThis one uses Unity 2021 which has many of the bug fixes for packages and CS fixes which you won't normally get on previous versions of Unity.\n\nI was able to import my entire Model with the existing shaders and custom shaders which I coded from scratch, including my MMD animations.\n\nIf you find a tutorial anywhere on how to use this Software, everything will work as it should.\n\nJust make sure in your Unity Project, there isn't a Folder located in \"Assets\" called \"Plugin\" with a script that overrides Warudo scripts.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The best tracking app for 3D Vtubing period. I used VNyan for about 2 years and while it has quite a lot of features once I swapped to VTube Studio tracking my model would sometimes lag and the app on my phone would randomly crash, none of these issues have happened anymore for me since the swap to Warudo and using the plugin to use VTS Tracking. On top of this I find myself now having features I can't live without to the point that reverting to VNyan would be extremely difficult for me. The only thing I hope to see in the future is for the hybrid lip sync feature to be natively replaced with OVRLipSync since OVRLipSync is what VNyan uses by default and you can integrate it with a plugin but a native implementation out of the box would be better since OVRLipSync gives way better mouth tracking!!! That being said a great example of what this app does better is Live 2d movement and the Live 2d Movement system that Gillie made is truly impeccable and achieves so much more than you can achieve with VNyan due to limitations that VNyan has and you should 100% check it out if you're planning to use this app to allow more expressive movement for your model <3",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Easy to use and has pretty good tracking.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "simple effective software that does its job",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great app for vtubing",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Finally, I, a fat man can become an anime boy",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "3D VTubing hits different.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "looks and works great!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "There's so many cool things i can make my model do!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "indubitably peak",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "UES THIS",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Was using vnyan before this and warudo has e/thing vnyan has and more. Also it seems to be more stable.",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "I tried this on a \nwhim and it completely changed the way I streamed, it does everything I need and more. \n\nThere is a bit of a learning curve but the community is strong and there are lots of tutorials out there.\n\nHonestly I attribute my channels growth to this program. My chat loves how interactive my model is now and I never would have been able to do this with anything else. \n\nJust get it, it's free but honestly even if it wasn't it would still be worth it!",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "it took a second to figure it out and sometimes it just straight up doesnt work but its ok bc when it does work its AWESOME my little freak is REAL and ALIVE",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Out of all the different VTubing software I have tried, this one \"just works\". Everything else I tried had either too much configuration, weird format/version incompatibility, or was just too heavy to run with a game open. This just works really well, it has many features that others didn't, and it supports many different variations of model formats/versions. Thank you for making such a great software!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I honestly would pay for this program. Its so good. So much customization, very stable/runs better than other vtubing programs I had been using, and with node based interactions, the possibilities are endless.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I highly recommend this for anyone using a 3D model. It's really smooth, the overlapping of poses is pretty clean. The only issue I have is how resource intensive the program is as someone who streams and games on the same PC. The program is still in Beta though and I am sure more optimization will come out as they develop it. Also it goes above and beyond what most paid tracking programs do. All in all 9/10. I can't wait to see what the creators add next.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VTubing has finally exited the Stone Age. We're never going back.\n\nEdit #1:\n130 hours played now. Still in awe at the potential of this software. Multicam tracking > Rhylive by a mile, as it turns out.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really good software. Whilst it can be overwhelming at first, it is easy to get into the swing of things. There are plenty of guides as well that allow you to get started easily. My only wish for improvement is the ragdoll system. I would like it if there was a \"flail\" option, that allows your ragdoll to flap their limbs about when in ragdoll form for a select amount of time.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very powerful tool. i haven't been able to apply blendshapes through nodes in a way that works as it should and there is no resources online about blendshapes or the help guide to see if im doing it wrong.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[b]Very highly recommend this program!![/b] It's simply the best of the best, the all-in-one package of your Vtubing dreams. The fact that it's free is absolutely insane to me with all the things you can do with it! And if you're unsure what you're doing, or need help, the community Discord is very helpful and active, along with many tutorials on Youtube for all sorts of things, and an official handbook available on the website\nIf you're scared of the node based coding, please don't be. I knew absolutely zero about it when I first downloaded this, and through questions and tutorials I learned my way around until I started making more and more complex things! You can make almost anything you can imagine, just be clear about your idea and people will help c:\n\n[b]What's some things you can do?[/b]\n- Simple and easy onboarding to set up your character and scene for the first time, with lots of settings and menus to pick through and fine tune (But aren't needed if you just want to plop your model in and go)\n- Support for many different cameras, VMC motion, VR systems, and blendshape conditions. Even completely free hand and/or body tracking just with a camera! In the rare case your tracker isn't in the onboarding default list, you can always ask the devs in the Discord! They reply frequently and want to help\n- No extra software needed to make redeems, like throwables, dances etc! As mentioned, there's tons of tutorials for all sorts of ideas, and you can make pretty much anything happen in your scene\n- No extra software for having your audience spawn in as models or props that you can interact with\n- A HUGE default library of poses, animations, environments, and props PLUS a whole workshop full of user made things! Make your model meme dance, put a spinning duck on your head, get caught in a Pokeball - the potential is limited only to your imagination!\n- Support for 2D images, video, and even other Vtubers, all in your own scene that can be interacted with! Has support for collabs of several 3D Vtubers in one scene, too!\n- Support for in-scene keyboard and mouse, controllers of different types, or drawing tablets, to link your character to what you're doing on your screen\n- MikuMikuDance motion support and tools to make music videos\n- Native Twitch and Youtube support, with extra websocket tools for things like StreamerBot to bridge to other platforms\n\nOne thing to note that does come up a bit: If you have a FBX or VSF avatar, you will need to convert it to VRM or WARUDO file type. There's tutorials for this, but might be an extra step for you - just be aware!\n\nPlease enjoy the program! Don't be afraid to ask questions in the Discord and look up Youtube tutorials! You'll feel so proud when your character comes alive and you make something like getting hit by a hammer, ragdolling out into the skybox, and dramatically zooming in as they burst into confetti! \\o/",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Excellent support both as user and dev. Cant reccomend this program enough for anyone wanted to delve into 3d vtubing for use or for experiment/development",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[strike] Crashes on load, updated webcam drivers, gpu drivers, verified files, reinstalled, crashes whenever a webcam or recommended settings are activated. [/strike]\n\nThe community discord had a fix I could use for the problem already in place and I found it in about 5 minutes. Replaced a .dll file. Good on them.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I had to find a new face tracking app after VUP shutdown and i will say this is honestly better than what i was using previously! the face tracking is pretty good, there is a lot you can do for streaming things even as a beginner! (I already have it so when someone donates 5 dollars something happens on screen!) and is just over all an amazing app, whether your a pro or a noob i think you be able to find something you like about it whether it is its simplistic design, or the amount of customization it has!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have been using this for Vtubing for about 4 days total, and this is the best one. If you're looking to get the most out of your model you need to get this.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I've hit a brick wall with mod creation as one of their core operations throws system exceptions (in their premade unity scene using the recommended version), and with no support or response from developers I'm giving up on using Warudo. Approximately I've wasted 36 hours trying to fix an issue that isn't mine to fix. If a more stable release is provided maybe it can be recommended but I can't recommend it in its current state.\n\nedit: For those that also have this issue, you can bypass character setup utilizing third party packages such as hai's denormalizer exporter. I can't comment yet on the rest of the software, but it seems to be high quality once you get it working.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "When I became a vtuber one of my things I wanted was knowledgeable control and room to change and customize a lot as needed. Warudo not only helped with that but did it for free. Pairing it with Sammi. It makes me streams feel more lively. I even teach what I know about it to friends. Im excited to see what the team and the community makes in the future with this tool. Thank you for this amazing software.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Warudo is the flexible & personalized 3D VTubing software you have always wanted. Built-in face & hand tracking, custom 3D assets, Twitch/YouTube integration, blueprint system, C# plugins, and so much more.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "at first glance Warudo looks really intimidating but with the help of goated people in the official Discord server it's really one of the best vtuber programs out there",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is one of the best software for Vtubing using your own 3D modeled characters.\n\nNo annoying limitations like the other Vtubing softwares which I've tried that are still stuck on Unity 2018/2019, there's also no file size limit either.\n\nThis one uses Unity 2021 which has many of the bug fixes for packages and CS fixes which you won't normally get on previous versions of Unity.\n\nI was able to import my entire Model with the existing shaders and custom shaders which I coded from scratch, including my MMD animations.\n\nIf you find a tutorial anywhere on how to use this Software, everything will work as it should.\n\nJust make sure in your Unity Project, there isn't a Folder located in \"Assets\" called \"Plugin\" with a script that overrides Warudo scripts.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "The best tracking app for 3D Vtubing period. I used VNyan for about 2 years and while it has quite a lot of features once I swapped to VTube Studio tracking my model would sometimes lag and the app on my phone would randomly crash, none of these issues have happened anymore for me since the swap to Warudo and using the plugin to use VTS Tracking. On top of this I find myself now having features I can't live without to the point that reverting to VNyan would be extremely difficult for me. The only thing I hope to see in the future is for the hybrid lip sync feature to be natively replaced with OVRLipSync since OVRLipSync is what VNyan uses by default and you can integrate it with a plugin but a native implementation out of the box would be better since OVRLipSync gives way better mouth tracking!!! That being said a great example of what this app does better is Live 2d movement and the Live 2d Movement system that Gillie made is truly impeccable and achieves so much more than you can achieve with VNyan due to limitations that VNyan has and you should 100% check it out if you're planning to use this app to allow more expressive movement for your model <3",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Easy to use and has pretty good tracking.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "simple effective software that does its job",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great app for vtubing",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Finally, I, a fat man can become an anime boy",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "3D VTubing hits different.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "looks and works great!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "There's so many cool things i can make my model do!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "indubitably peak",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program used to work great, but now I either can't get it to even start or it crashes the minute I try to change settings.  I don't know what happened to it, but it's totally broken now and won't even run on a brand new computer.  When it does to decide to run, half the features don't work properly and if I try to fix them, it crashes again.  It's just garbage now.",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Worked great a few days ago. Now, I can't use it at all. It freezes.",
+      "voted_up": false,
+      "votes_helpful": 1
+    }
+  ]
+}

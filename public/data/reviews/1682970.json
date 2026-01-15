@@ -1,0 +1,766 @@
+{
+  "positive": [
+    {
+      "review": "Very very cool sim\r\n\r\nOnly problem is the gravity, to simulate it as close to reality set it at 13.84",
+      "voted_up": true,
+      "votes_helpful": 28
+    },
+    {
+      "review": "Best FPV Drone simulator ever!! Ive tried countless options like TRYP FPV, Liftoff, and a lot of other ones, but this is hands down the best simulator. It also has thousands of different maps. Its worth every penny!!",
+      "voted_up": true,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Graphics are great, well optimized for Nvidia, stick input feels great and precise. I love that I can build my drone and test fly it without crashing IRL.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "As a new pilot to FPV It goes without saying that crashes are inevitable. That said, when playing in Uncrashed if you crash near obstacles many times you can get stuck trying to figure a way out. This is not real and proves to be more frustrating to the player trying to free the drone. The rest of the game is great but I find myself attracted to Liftoff that has less options and gameplay simply because your drone doesn't get stuck in environments.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "*Requires a specific controller*\nUnfortunately, it cannot be played with a standard Xbox style controller, you need some sort of actual FPV drone handheld RC control unit.\n\nIt is impossible to map throttle to the triggers, or roll/yaw to the bumpers, making the layout extremely unintuitive. Also, as an xbox controller isn't super accurate and has multiple axes on one stick, it's too easy to add in an unwanted control direction on a controller. There is not full customisation of controls and the expected/defaults are very unintuitive. If it is only trying to build muscle memory for real drones, this makes sense.\n\nSoftware itself seems like it could be fun and useful for practise, however you might REALLY need the actual drone controller to use it.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "really good sim, lots of mods in workshop. no music in game while flying but easily fixed with app in background.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My first FPV simulator, so I have no other experience (irl or simulated) to compare it to, but it feels good. It's exciting to see improvement in learning to control a FPV drone, and challenging myself to improve. Graphics look good, performance seems fine, and the physics feel like they should be pretty realistic (it's all customizable anyways).",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very good simulatior. The graphics are amazing and the controller inputs respond very well. The best thing is that it is being updated, community maps were introduced a while ago and many positive changes.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love this sim! \r\nI'm mostly a whoop and freestyle guy so the customization and variety are a huge plus to me!\r\n\r\nRacing is fun, and it's nice to be able to have friends join as well. The sim runs great and works well with all my radiomaster TX's without issue. My only complaint is the limited default models, but the workshop makes up for that in droves! \r\n\r\nAs others mention, gravity feels a bit low so turning that up helps quite a bit but overall I feel its a great tool.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Runs great on Linux! \nLots of negative reviews saying that you cannot use a standard game-pad but you can (throttle gamepad mode)\nI fly with a BetaFPV LiteRadio2 SIM and everything just works, super happy with this Sim.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fantastic simulator. The physics are snappy and customizable, and the graphics are great. It’s the perfect place to crash over and over again so you don't have to do it with your real quad.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is one of the best fpv games I've ever played the only problem is it used to work on my laptop now it needs something called shader 5.0 or better my DirectX is unenabled and I don't know how to enable it I can fly this game on the cheapest computer from TEMU but for some odd reason the versions changed now your computer has to be more expensive even stronger. I tell you what we need a developer who develops this game to teach us how to do tricks and moves by stick movement tutorial of a stick movement as you're doing them. This way we can get the muscle memory and it's easier true learn the trick doing it hands on so when you do go out to the field you come to the field with a much more skill and show your friends off all the tricks you learned on uncrashed. Otherwise I wouldn't buy any other game I bought them all but I always come back to uncrash because it has the largest open world than any other ones in a lot more maps fpv logic is only limited to not very many but can we please get this game to work on cheap laptops in a tutorial on how to do tricks and to learn to fly better.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I wouldnt call that a sim its more of a drone game. the physix are so off, the drones are mege floaty. the drones habe no wheight, no momentum and no innertia . the multiplayer lobby is still fun you get easy into a race with others.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Even though I am not a drone pilot and use an Xbox controller for this... 💀 This game is incredibly fun. You can be an FPV pilot with no conciquences. Awesome game. Only caviat is that there are not a ton of great maps, the factory and city park are probably best imo.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Far better than skydive, really pretty and fun, physics feel pretty good, especially when you tweak the settings and components",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Listen, I am a public menace, seriously, my atrocious flight skills should be studied.\n\nThis simulator right here will save thousands in property damage, well worth it!",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Great graphics! You’ll just want to tweak the gravity settings to match your style, once you get that dialed in, it’s an awesome sim to rip around with your friends. Perfect for getting that stick time in!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing graphics, deep drone customization, tons of drone options, and a thriving community with custom maps and a powerful map editor. It’s everything an FPV sim should be. Highly recommended!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "if you wanna not crash your real drone and learn in this game. its good for learning full Acro mode.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Super fun, graphics run beautifully and this is how I got into FPV!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Graphics and physics of flight look good. It is very difficult to learn but stick to it. You will get better. One thing lacking here (you have to search allover the web, and everyone is an expert so...) is the correct rates setting for beginners.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Great on Steam Deck! Runs smooth and seems to be exactly what I needed to train for a real one!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing graphics, I like the fact that the allows you to customize drone specs so I can replicate my IRL kwads such as motor kv, weight, etc which you can't do it in Liftoff.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Wondefull graphics and good physics, I wish there was an option to add simulated wind",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "One of the best FPV drone simulators. However configuration of the drone is quite complicate.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Probably one of the most realistic fpv sims other than velocidrone",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Only 13 hours in but I feel this has definitely helped to get me reaady for flying my drone FPV in the real world. Very happy.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "fucking awesome specially the physics/enertia..on point.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "🥇Лучше некоторых\n\nБыло бы круто если бы вы добавили достижения, а так этот симулятор, единственный весёлый симулятор фпв дрона \n10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "best most stable sim ive tried by far even epic settings",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It's a really good simulator for beginners and pro's",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Nobody reads my reviews anyway.\nI'll throw in a recipe for Varenyky.\n\nRecipe for Potato Dumplings (Varenyky)\nIngredients:\nFor the dough:\nWheat flour – 500 g\nWater – 200 ml\nEgg – 1\nSalt – 1 tsp\nFor the filling:\nPotatoes – 1 kg\nOnions – 2\nLard or butter – 50 g\nSalt – to taste\nGround black pepper – to taste\nPreparation steps:\nMaking the dough:\nSifting the flour: Sift the flour into a large bowl.\nMaking the dough: Add salt and the egg to the flour. Gradually pour in the water, constantly stirring. Knead the dough until it becomes smooth and elastic.\nResting the dough: Wrap the dough in plastic wrap or cover it with a towel and let it rest for 30 minutes.\nPreparing the filling:\nBoiling the potatoes: Peel the potatoes, cut them into large pieces, and boil until tender in salted water.\nPreparing the onions: While the potatoes are boiling, finely chop the onions. Sauté the onions in lard or butter until golden brown.\nMaking the potato puree: Drain the potatoes and mash them. Add the sautéed onions, salt, and pepper to taste, and mix well.\nForming the dumplings:\nRolling out the dough: Roll out the dough into a thin sheet about 2-3 mm thick. Use a glass or cutter to cut out circles approximately 7-8 cm in diameter.\nForming the dumplings: Place a spoonful of potato filling on each circle of dough. Fold the dough in half and pinch the edges tightly to seal the dumplings.\nCooking the dumplings:\nBoiling water: Bring a large pot of water to a boil, add salt.\nCooking the dumplings: Gently drop the dumplings into the boiling water, stirring carefully to prevent sticking. Cook until done (approximately 5-7 minutes after they float to the surface).\nServing:\nRemoving the dumplings: Remove the dumplings with a slotted spoon and place them on a plate.\nServing: Serve the dumplings hot, optionally drizzling with melted butter, sour cream, or sautéed onions.\nEnjoy your meal!",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "The best place to practice! excellent graphics",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you are an FPV drone pilot, you must have a simulator, especially if you are a beginner.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Great for learning fpv.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "absolutely the best FPV drone sim out there!!! 10/10",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Awesome sim. Very addicting",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "love FPV and this is the best freestyle sim",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very nice Simulator",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "ive had this for two days with 10 hours of playtime, im hooked",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "one of the best sims great maps",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Well worth the time invested improving flight skills",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is a lot better than fpv skydive",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Never actually flown a FPV drone but when I do I'll be so good!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Most complete FPV sim out there.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "this game is amazing",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very good sim",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "nice game my me",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "연습하기 좋아요.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "play this, fix quads less",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "nice",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very awesome",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Good :)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "yes veryy good",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "fun af",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I haven't played a lot of this game but out of the 15 minutes I have played it has been good. The flight seems realistic, graphics look decent and once you start getting the hang of it, it's good fun just flying around. My only issue with this game is that you pretty much have to have an actual fpv controller to play it, while your xbox, play station or steam controller will work; its just too difficult because of the types of joysticks they have. Your drone will pretty much always be powered to about 40 to 50 percent. I will admit, for learning to fly an fpv drone this was great because i could learn how to turn and move around without having to worry about how much throttle to give it. But once I started trying to adjust throttle on my own, it gets a bit difficult trying to balance the throttle and fight the stick a little as it trys to return to the middle. If you have the gear and you have the gear this game would be amazing and im sure that if I played with the xbox controller for a while I would get used to it and start to fly the drone a bit better as I learnt to fly. This looks like an absolutely fabulous game which is why I didn't give it a negative review, I just can't enjoy it properly without the right equiptment.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "👍",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i cant handle 5 inches",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Worth It",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "top",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "لاتلات",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Russkim pizda",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "best",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "nb",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A++++",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "2",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": ".",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very very cool sim\r\n\r\nOnly problem is the gravity, to simulate it as close to reality set it at 13.84",
+      "voted_up": true,
+      "votes_helpful": 28
+    },
+    {
+      "review": "Best FPV Drone simulator ever!! Ive tried countless options like TRYP FPV, Liftoff, and a lot of other ones, but this is hands down the best simulator. It also has thousands of different maps. Its worth every penny!!",
+      "voted_up": true,
+      "votes_helpful": 13
+    },
+    {
+      "review": "Graphics are great, well optimized for Nvidia, stick input feels great and precise. I love that I can build my drone and test fly it without crashing IRL.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "This is the best FPV sim ever. You can build different drones, train before you jump in the real FPV flying experience and the graphic is just stunning. 11 out of 10 man :) - best community btw",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "As a new pilot to FPV It goes without saying that crashes are inevitable. That said, when playing in Uncrashed if you crash near obstacles many times you can get stuck trying to figure a way out. This is not real and proves to be more frustrating to the player trying to free the drone. The rest of the game is great but I find myself attracted to Liftoff that has less options and gameplay simply because your drone doesn't get stuck in environments.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "*Requires a specific controller*\nUnfortunately, it cannot be played with a standard Xbox style controller, you need some sort of actual FPV drone handheld RC control unit.\n\nIt is impossible to map throttle to the triggers, or roll/yaw to the bumpers, making the layout extremely unintuitive. Also, as an xbox controller isn't super accurate and has multiple axes on one stick, it's too easy to add in an unwanted control direction on a controller. There is not full customisation of controls and the expected/defaults are very unintuitive. If it is only trying to build muscle memory for real drones, this makes sense.\n\nSoftware itself seems like it could be fun and useful for practise, however you might REALLY need the actual drone controller to use it.",
+      "voted_up": true,
+      "votes_helpful": 5
+    },
+    {
+      "review": "Edit: Great game, I have played over 150 hours. Helped me save thousands in crashes.\n\nNot sure why they decided to change the game, but now race mode has crash damage and the physics seem different. :(",
+      "voted_up": true,
+      "votes_helpful": 3
+    },
+    {
+      "review": "Very fun to see your progression in this game. Started with no experience at all and now I am able to float around pretty good. My favorite drone sim I have tried so far.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Graphics are pretty epic.\r\nThe drone flies also quite nice, but some of the maps are not optimised and with rtx3080 laptop i get less than 100fps even on low settings. \r\nThere are many training maps and settings, very high replayability. Good technical side of game\r\nThe online seems to be dead. There are only few super pros that finish the race a minute faster than me or just me flying solo ranked",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "really good sim, lots of mods in workshop. no music in game while flying but easily fixed with app in background.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Graphics are great for this type of content. Really nice looking landscapes/maps. The best part of it is, you don't bust up a thousand dollar drone when you crash.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "it has really large maps and beautiful graphics. It also has amazing physics I would definitely reccomend to others as their first fpv sim.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Freestyle seems good and easy editor.\r\nRACING is laughable arcade and far from reality, avoid learning here, you will get bad habbits.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This is a very realistic simulator. After playing this for 60 hours I had a good preparation to move to real drones. The graphics of the game are realistic with a great variation in lighting, weather and available flight space. Some levels are made for speed, others for precision. This game is perfect for preparation, but also just for fun.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "Big Upvote, this thing runs on Linux, it also has insane amount of content through Workshop, physics feel fine, tho like with other sims, checking out multiple drones is not a bad idea.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "My first FPV simulator, so I have no other experience (irl or simulated) to compare it to, but it feels good. It's exciting to see improvement in learning to control a FPV drone, and challenging myself to improve. Graphics look good, performance seems fine, and the physics feel like they should be pretty realistic (it's all customizable anyways).",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very good simulatior. The graphics are amazing and the controller inputs respond very well. The best thing is that it is being updated, community maps were introduced a while ago and many positive changes.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love this sim! \r\nI'm mostly a whoop and freestyle guy so the customization and variety are a huge plus to me!\r\n\r\nRacing is fun, and it's nice to be able to have friends join as well. The sim runs great and works well with all my radiomaster TX's without issue. My only complaint is the limited default models, but the workshop makes up for that in droves! \r\n\r\nAs others mention, gravity feels a bit low so turning that up helps quite a bit but overall I feel its a great tool.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Runs great on Linux! \nLots of negative reviews saying that you cannot use a standard game-pad but you can (throttle gamepad mode)\nI fly with a BetaFPV LiteRadio2 SIM and everything just works, super happy with this Sim.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fantastic simulator. The physics are snappy and customizable, and the graphics are great. It’s the perfect place to crash over and over again so you don't have to do it with your real quad.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This game is one of the best fpv games I've ever played the only problem is it used to work on my laptop now it needs something called shader 5.0 or better my DirectX is unenabled and I don't know how to enable it I can fly this game on the cheapest computer from TEMU but for some odd reason the versions changed now your computer has to be more expensive even stronger. I tell you what we need a developer who develops this game to teach us how to do tricks and moves by stick movement tutorial of a stick movement as you're doing them. This way we can get the muscle memory and it's easier true learn the trick doing it hands on so when you do go out to the field you come to the field with a much more skill and show your friends off all the tricks you learned on uncrashed. Otherwise I wouldn't buy any other game I bought them all but I always come back to uncrash because it has the largest open world than any other ones in a lot more maps fpv logic is only limited to not very many but can we please get this game to work on cheap laptops in a tutorial on how to do tricks and to learn to fly better.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I wouldnt call that a sim its more of a drone game. the physix are so off, the drones are mege floaty. the drones habe no wheight, no momentum and no innertia . the multiplayer lobby is still fun you get easy into a race with others.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Even though I am not a drone pilot and use an Xbox controller for this... 💀 This game is incredibly fun. You can be an FPV pilot with no conciquences. Awesome game. Only caviat is that there are not a ton of great maps, the factory and city park are probably best imo.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Far better than skydive, really pretty and fun, physics feel pretty good, especially when you tweak the settings and components",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A little hard but good for you if you want to test your drone with your drone's orginal joystick it will be awsome to test if you are a begginer of driving a drone or if you are trying a new joystick.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Bc I already liked it before I bought it. I like fpv flying and it is better that any other sim imo.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I recommend this game because the graphics are so beautiful and uncrashed is very intuitive for beginners and so completly but the game ave some bug on my mac air 13.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love this game! Its gets me closer to that classic ps wipeout feeling than redout\n\nThe learning curve is very long, dont give up. Your race time will start out at 16-20 + min, but as u learn control you will shave off minutes every time\n\nFew things in life are as rewarding as learning a slower drone u can control than plowing through with a flashy one\n\nThen as your learning to control the more powerful drones any your ghost of your former run passes you really teaches u to mind your limits untill you have the same level of skill\n\nStick with it! You will find yourself recovering automagicly with pure skill\n\nI would buy this again at full price because it scratches an itch i never knew i had",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Don't really care too much about the racing part, just wanted to refresh my memory on flying a drone before I receive training. Racing side of this game is pretty fun tho, I still sometimes use those tracks to practice my maneuvering. The controller 'Spektrum Interlink DX Simulator Controller' works just fine with this game. Including this as I was searching around trying to find info on it, of which worked best that would work on my pc. And couldn't fine info on that specific one.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Well worth it. It turns out graphics do matter in an FPV simulator. Going back and forth different simulators I feel like Uncrashed makes me stick around much longer. And i think it's because of the graphics.",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I HATED EVERY SINGLE SECOND OF PLAYING THIS\nGRAPHICS ARE ASS\nCONTROLLER IS MANDATORY BUT YOU STILL NEED THE MOUSE TO NAVIGATE MENUS AND SHI'\nEVERY TIME I LOAD MAP IT FLIPS MY CONTROLLS AND I HAVE TO OPEN SETTINGS AND RESET CONTROLLER\nTHIS WAS A HORRIBLE LEARNING EXPERIENCE\nCONTROLS ARE TOO SENSITIVE FOR BEGINNERS\nYOU CAN'T EVEN REMAP SHIT TO TRIGGERS LIKE WHAT THE ACTUAL FUCK \nTUTORIAL IS HORRIBLE\nNO PROMPT TO CHANGE MODE\nNO SLOWER DRONS IN DEFAULT CATALOGUE\nCOMPLETE FUCKING ASS\nTHIS WAS PROBABLY THE MOST UNFUN AND FRUSTRATING HOUR PLAYING A VIDEOGAME IN MY ENTIRE LIFE",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Shit controls and shit tutorial",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Steam please give me a refund it does not work PLEASE",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I HATED EVERY SINGLE SECOND OF PLAYING THIS\nGRAPHICS ARE ASS\nCONTROLLER IS MANDATORY BUT YOU STILL NEED THE MOUSE TO NAVIGATE MENUS AND SHI'\nEVERY TIME I LOAD MAP IT FLIPS MY CONTROLLS AND I HAVE TO OPEN SETTINGS AND RESET CONTROLLER\nTHIS WAS A HORRIBLE LEARNING EXPERIENCE\nCONTROLS ARE TOO SENSITIVE FOR BEGINNERS\nYOU CAN'T EVEN REMAP SHIT TO TRIGGERS LIKE WHAT THE ACTUAL FUCK \nTUTORIAL IS HORRIBLE\nNO PROMPT TO CHANGE MODE\nNO SLOWER DRONS IN DEFAULT CATALOGUE\nCOMPLETE FUCKING ASS\nTHIS WAS PROBABLY THE MOST UNFUN AND FRUSTRATING HOUR PLAYING A VIDEOGAME IN MY ENTIRE LIFE",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Shit controls and shit tutorial",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Steam please give me a refund it does not work PLEASE",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I HATED EVERY SINGLE SECOND OF PLAYING THIS\nGRAPHICS ARE ASS\nCONTROLLER IS MANDATORY BUT YOU STILL NEED THE MOUSE TO NAVIGATE MENUS AND SHI'\nEVERY TIME I LOAD MAP IT FLIPS MY CONTROLLS AND I HAVE TO OPEN SETTINGS AND RESET CONTROLLER\nTHIS WAS A HORRIBLE LEARNING EXPERIENCE\nCONTROLS ARE TOO SENSITIVE FOR BEGINNERS\nYOU CAN'T EVEN REMAP SHIT TO TRIGGERS LIKE WHAT THE ACTUAL FUCK \nTUTORIAL IS HORRIBLE\nNO PROMPT TO CHANGE MODE\nNO SLOWER DRONS IN DEFAULT CATALOGUE\nCOMPLETE FUCKING ASS\nTHIS WAS PROBABLY THE MOST UNFUN AND FRUSTRATING HOUR PLAYING A VIDEOGAME IN MY ENTIRE LIFE",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Shit controls and shit tutorial",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Steam please give me a refund it does not work PLEASE",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I HATED EVERY SINGLE SECOND OF PLAYING THIS\nGRAPHICS ARE ASS\nCONTROLLER IS MANDATORY BUT YOU STILL NEED THE MOUSE TO NAVIGATE MENUS AND SHI'\nEVERY TIME I LOAD MAP IT FLIPS MY CONTROLLS AND I HAVE TO OPEN SETTINGS AND RESET CONTROLLER\nTHIS WAS A HORRIBLE LEARNING EXPERIENCE\nCONTROLS ARE TOO SENSITIVE FOR BEGINNERS\nYOU CAN'T EVEN REMAP SHIT TO TRIGGERS LIKE WHAT THE ACTUAL FUCK \nTUTORIAL IS HORRIBLE\nNO PROMPT TO CHANGE MODE\nNO SLOWER DRONS IN DEFAULT CATALOGUE\nCOMPLETE FUCKING ASS\nTHIS WAS PROBABLY THE MOST UNFUN AND FRUSTRATING HOUR PLAYING A VIDEOGAME IN MY ENTIRE LIFE",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Shit controls and shit tutorial",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Steam please give me a refund it does not work PLEASE",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I HATED EVERY SINGLE SECOND OF PLAYING THIS\nGRAPHICS ARE ASS\nCONTROLLER IS MANDATORY BUT YOU STILL NEED THE MOUSE TO NAVIGATE MENUS AND SHI'\nEVERY TIME I LOAD MAP IT FLIPS MY CONTROLLS AND I HAVE TO OPEN SETTINGS AND RESET CONTROLLER\nTHIS WAS A HORRIBLE LEARNING EXPERIENCE\nCONTROLS ARE TOO SENSITIVE FOR BEGINNERS\nYOU CAN'T EVEN REMAP SHIT TO TRIGGERS LIKE WHAT THE ACTUAL FUCK \nTUTORIAL IS HORRIBLE\nNO PROMPT TO CHANGE MODE\nNO SLOWER DRONS IN DEFAULT CATALOGUE\nCOMPLETE FUCKING ASS\nTHIS WAS PROBABLY THE MOST UNFUN AND FRUSTRATING HOUR PLAYING A VIDEOGAME IN MY ENTIRE LIFE",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Shit controls and shit tutorial",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Steam please give me a refund it does not work PLEASE",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I HATED EVERY SINGLE SECOND OF PLAYING THIS\nGRAPHICS ARE ASS\nCONTROLLER IS MANDATORY BUT YOU STILL NEED THE MOUSE TO NAVIGATE MENUS AND SHI'\nEVERY TIME I LOAD MAP IT FLIPS MY CONTROLLS AND I HAVE TO OPEN SETTINGS AND RESET CONTROLLER\nTHIS WAS A HORRIBLE LEARNING EXPERIENCE\nCONTROLS ARE TOO SENSITIVE FOR BEGINNERS\nYOU CAN'T EVEN REMAP SHIT TO TRIGGERS LIKE WHAT THE ACTUAL FUCK \nTUTORIAL IS HORRIBLE\nNO PROMPT TO CHANGE MODE\nNO SLOWER DRONS IN DEFAULT CATALOGUE\nCOMPLETE FUCKING ASS\nTHIS WAS PROBABLY THE MOST UNFUN AND FRUSTRATING HOUR PLAYING A VIDEOGAME IN MY ENTIRE LIFE",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Shit controls and shit tutorial",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Steam please give me a refund it does not work PLEASE",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I HATED EVERY SINGLE SECOND OF PLAYING THIS\nGRAPHICS ARE ASS\nCONTROLLER IS MANDATORY BUT YOU STILL NEED THE MOUSE TO NAVIGATE MENUS AND SHI'\nEVERY TIME I LOAD MAP IT FLIPS MY CONTROLLS AND I HAVE TO OPEN SETTINGS AND RESET CONTROLLER\nTHIS WAS A HORRIBLE LEARNING EXPERIENCE\nCONTROLS ARE TOO SENSITIVE FOR BEGINNERS\nYOU CAN'T EVEN REMAP SHIT TO TRIGGERS LIKE WHAT THE ACTUAL FUCK \nTUTORIAL IS HORRIBLE\nNO PROMPT TO CHANGE MODE\nNO SLOWER DRONS IN DEFAULT CATALOGUE\nCOMPLETE FUCKING ASS\nTHIS WAS PROBABLY THE MOST UNFUN AND FRUSTRATING HOUR PLAYING A VIDEOGAME IN MY ENTIRE LIFE",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Shit controls and shit tutorial",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Steam please give me a refund it does not work PLEASE",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I HATED EVERY SINGLE SECOND OF PLAYING THIS\nGRAPHICS ARE ASS\nCONTROLLER IS MANDATORY BUT YOU STILL NEED THE MOUSE TO NAVIGATE MENUS AND SHI'\nEVERY TIME I LOAD MAP IT FLIPS MY CONTROLLS AND I HAVE TO OPEN SETTINGS AND RESET CONTROLLER\nTHIS WAS A HORRIBLE LEARNING EXPERIENCE\nCONTROLS ARE TOO SENSITIVE FOR BEGINNERS\nYOU CAN'T EVEN REMAP SHIT TO TRIGGERS LIKE WHAT THE ACTUAL FUCK \nTUTORIAL IS HORRIBLE\nNO PROMPT TO CHANGE MODE\nNO SLOWER DRONS IN DEFAULT CATALOGUE\nCOMPLETE FUCKING ASS\nTHIS WAS PROBABLY THE MOST UNFUN AND FRUSTRATING HOUR PLAYING A VIDEOGAME IN MY ENTIRE LIFE",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Shit controls and shit tutorial",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Steam please give me a refund it does not work PLEASE",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I HATED EVERY SINGLE SECOND OF PLAYING THIS\nGRAPHICS ARE ASS\nCONTROLLER IS MANDATORY BUT YOU STILL NEED THE MOUSE TO NAVIGATE MENUS AND SHI'\nEVERY TIME I LOAD MAP IT FLIPS MY CONTROLLS AND I HAVE TO OPEN SETTINGS AND RESET CONTROLLER\nTHIS WAS A HORRIBLE LEARNING EXPERIENCE\nCONTROLS ARE TOO SENSITIVE FOR BEGINNERS\nYOU CAN'T EVEN REMAP SHIT TO TRIGGERS LIKE WHAT THE ACTUAL FUCK \nTUTORIAL IS HORRIBLE\nNO PROMPT TO CHANGE MODE\nNO SLOWER DRONS IN DEFAULT CATALOGUE\nCOMPLETE FUCKING ASS\nTHIS WAS PROBABLY THE MOST UNFUN AND FRUSTRATING HOUR PLAYING A VIDEOGAME IN MY ENTIRE LIFE",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Shit controls and shit tutorial",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Steam please give me a refund it does not work PLEASE",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I HATED EVERY SINGLE SECOND OF PLAYING THIS\nGRAPHICS ARE ASS\nCONTROLLER IS MANDATORY BUT YOU STILL NEED THE MOUSE TO NAVIGATE MENUS AND SHI'\nEVERY TIME I LOAD MAP IT FLIPS MY CONTROLLS AND I HAVE TO OPEN SETTINGS AND RESET CONTROLLER\nTHIS WAS A HORRIBLE LEARNING EXPERIENCE\nCONTROLS ARE TOO SENSITIVE FOR BEGINNERS\nYOU CAN'T EVEN REMAP SHIT TO TRIGGERS LIKE WHAT THE ACTUAL FUCK \nTUTORIAL IS HORRIBLE\nNO PROMPT TO CHANGE MODE\nNO SLOWER DRONS IN DEFAULT CATALOGUE\nCOMPLETE FUCKING ASS\nTHIS WAS PROBABLY THE MOST UNFUN AND FRUSTRATING HOUR PLAYING A VIDEOGAME IN MY ENTIRE LIFE",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This Game runns very bad on my Pc witch an Ryzen 5 5600, 16gb ddr4 Ram and an Intel arc b580 with 12gb of vram",
+      "voted_up": false,
+      "votes_helpful": 8
+    },
+    {
+      "review": "tbh its a good game but i wish you  can controll how fast you move with rt and lt insted of your sticks or atleast have a option to do so it would have been a great game",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Shit controls and shit tutorial",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Steam please give me a refund it does not work PLEASE",
+      "voted_up": false,
+      "votes_helpful": 0
+    }
+  ]
+}

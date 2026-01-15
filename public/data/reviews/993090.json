@@ -1,0 +1,1006 @@
+{
+  "positive": [
+    {
+      "review": "Okay I was being stupid at first. I thought this whole “frame generation” thing was just a gimmick that adds fake frames and makes your game have some input lag. I always preferred boosting FPS by lowering graphic settings.\n\nBut after seeing a YouTube video showcasing how lossless scaling performs on the steam deck, I decided to give it a try. And holyyy, it works really well. Back then, whenever I played some triple-A games on my deck, my FPS is consistently between 32 to 45, and now it went over 70 in some demanding games after i set it to 2X multiplier on LSFG-VK, and its still feels responsive. It makes me feel stupid for being ignorant here.\n\nLater on, before I purchased this product, I learned that lossless scaling is using a mathematical-based frame method, not an AI-based method like NVIDIA DLSS. So i guess thats why it performs great on steam deck, because lossless scaling is based on math formulas to create extra frames, and not having a neural network/thinking like an AI, so it doesnt make the device work too hard.\n\nAlso, thing works great on steamOS, and its super easy to set up. As a steam deck user, Im really impressed.\n\nBig thanks to Valve and the devs behind this tool!!!",
+      "voted_up": true,
+      "votes_helpful": 113
+    },
+    {
+      "review": "snake oil that actually works\n\nfunny to use on older/emulated games with FPS caps then being able to run them above 30 fps, also works on video players if you're a psychopath who enjoys movies in 300 fps",
+      "voted_up": true,
+      "votes_helpful": 16
+    },
+    {
+      "review": "I've been a user since this program was only scaling and seeing the developer add so much on top of it like FG has been incredible.\nThis app might be the best 7 usd ive ever spent in my life\nGreat app with an even better developer who actually cares about us\n11/10",
+      "voted_up": true,
+      "votes_helpful": 17
+    },
+    {
+      "review": "Must buy app if you own handheld PCs. Works wonders for Rog Ally X,  most recent AAA games now plays with decent FPS.",
+      "voted_up": true,
+      "votes_helpful": 7
+    },
+    {
+      "review": "Okay, imagine your Steam Deck calls up a tiny, hyperactive circus ringmaster, that’s Lossless Scaling. This app sneaks in like a sneaky jester and says, ‘You want more frames? Hold my popcorn,’ then uses its LSFG magic to conjure up extra frames out of thin air. Suddenly, your 30 FPS feels like it’s taken a double espresso and hit 60 or more. But yes, it’s not all unicorns riding rainbows you do pay a price: a dash of input lag, and sometimes things go a little wibbly-wobbly. On the Deck, it kinda works via community plugins (lsfg-vk), but you’ll need to baby-sit the settings because if the gremlin goes overboard, your gameplay can feel dreamy and sluggish instead of slick. Still, for the price (~$7) and the boost it gives, it’s like hiring a tiny frame-making clown who steals your latency but makes your games so much smoother",
+      "voted_up": true,
+      "votes_helpful": 10
+    },
+    {
+      "review": "This app is amazing for retro games. Instantly fixed the stuttering in Fallout New Vegas for me. The best couple of pounds I've spent from my steam balance. I can't recommend this enough if you like playing older games",
+      "voted_up": true,
+      "votes_helpful": 6
+    },
+    {
+      "review": "Great tool, especially for anything that ties its calculations or physics to the framerate, i.e. any game that breaks when the FPS is uncapped. My main use is emulation, while some games offer patches to push the FPS beyond the original value, often it's imperfect, breaks the game or it just isn't possible, going from 30 to 60fps or to even as far as 120/240fps is a game changer, I do like to play on original HW but games like Burnout 3 and other fast paced titles can benefit massively from this tool.",
+      "voted_up": true,
+      "votes_helpful": 7
+    },
+    {
+      "review": "For what I play, it works great. Most of my older games are locked to 60 FPS, same with Identity V, everything feels smooth. system boosts it up to 240 FPS without struggling at all. Honestly, zero complaints.",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "great software rly i mean its good for videos like yt or Netflix even old games like re4 2005 and other games ..... final review 10/10 and recommended",
+      "voted_up": true,
+      "votes_helpful": 2
+    },
+    {
+      "review": "I have a top of the line gaming PC with a very beefy nvidia gpu and even then Lossless Scaling has turned into one of the most useful tools in my library especially when it comes to single-player games and emulation.(yes i dont have a alot of time on it but its testing for this review)\n\nWhat really surprised me, though, is how much value it adds even when brute-force hardware isn't the limiting factor. Many single-player titles, especially older or poorly optimized ones, just don't support modern frame-generation tech, no matter how powerful your system is. Lossless Scaling fills that gap perfectly. Turning on frame generation through LS instantly makes these games feel smoother and more responsive while keeping the original look intact.\n\nAnd that's not all for emulation it's equally impressive. Even on really high-end hardware a lot of classic games are locked to low framerates or have odd aspect ratios. LS handles it with ease-integer scaling looks incredibly clean, and adding extra smoothness to old titles makes them feel surprisingly modern without losing any of their charm.\n\nI love the simplicity most of all launch a game toggle LS, and enjoy a much smoother experience. It's lightweight, stable, and works across a huge range of titles that would otherwise be stuck with dated limitations.\n\nAssuming you have powerful hardware and want to get the most value from single-player games ones, in particular without native frame generation anyway Lossless Scaling is definitely worth the investment.",
+      "voted_up": true,
+      "votes_helpful": 4
+    },
+    {
+      "review": "\"Not sure about its use in modern games\" my ass\n\nInstant doubling of fps in elden ring nightreign and monster hunter wilds\n\nAmazing product",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I personally use it for movies, to get from the usual 24 or 30fps base framerate to the 240 fps of my display.\r\nThe artifacts in some scenes are noticable (espacially ones with lots of vertical bars like fences etc. Or in changes in camera angles), but the added fluidity is worth it in my opinion, and its hard to go back once you test it.\r\nVery fun piece of software that deserves the hype, though keep in mind that for lower end and older gpus, the frame gen and/or upscaling can come at a cost to base frame rate.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Short Review: Why would you pay 600-100 dollars for fake frames when you can just download fps for 7dollars??????\n\nLong Review: I am utterly amazed. Such an incredible app. \nI have a 1080ti, been using it for years and years... Since the announcement of driver support coming to its end for 10x nvidia cards, I thought I should slowly start building a new pc. However, the prices... as well as the ram prices going up, a pc to my liking costs around 2.500 dollars in my country, which is 4-5 months of the avarage wage (simply not paying rent or even buying food) which is basically impossible to build a strong PC that would last for at least 5 years (and we also do not really know what kind of technologies or video games we will have in the future so it might even die faster or might last longer). Which made me think to find other ways to simply have more FPS.\n\nFirst, I downloaded Opti Scaler (another amazing tool to get). That makes your games use DLSS / FSR4 without your card having it. However, it is still new and not supported in most games and in multiplayer titles... Well... you might get banned (as far as I know the anti-cheat system flags the tool as it plays with the in game files or whatever was not really knowledable about that part but the creator of the tool heavily warns the users about it.\n\nThen, I tried NIS (image scaling) from Nvidia driver. Yes, it was good at first but the images were blurry, it did give me 144fps (my native hz for my monitor resolution). Without any latency forever, but the image quality was same as my eye vision in real life. And, well, I do not want to worsen it even more to be honest :D\n\nSo, I thought to myself, maybe there could be other ways and I remembered this yellow duck app :D Lossless Scaling. And, wanted to give it a try, it's simply 7 dollars? Why not, right?\nAnd, it is simply amazing...\n\nI have a 2K monitor running games at 2K. With all the new gen games, my FPS is normally in between 30-60 FPS everything on ultra / high. \nWith this app settings LSFG 3.1, multiplier 2, scaling type FSR with 1 latency. My fps, simply, \"downloading\" 60 more fps. Whatever fps I had, it just simply doubles it.\n\nI used to have concerns about the Latency / Artifacts / Lag or whatever etc,\nSimply no, I have never seen an artifact nor latency was noticable. Like, barely even noticable. HOWEVER, I do use the app for singleplayer games and for multiplayer games you will feel the latency, I have played cs for 3k hours and chivalry 2 for 1k so I can safely say that you will feel it slightly but not that terrible. My nvidia app shows 0 MS latency for the game.\n\nA 2nd strategy to have even MORE FPS: Optiscaler. I have combined Lossless Scaling with Optiscaler and well... I can get 20 to 50fps even more. \nI could write more about how nice this app is, and I am definitely looking forward to do more tweaks with this and try it out even more.\n\nGames I have tried goes like this: Total War / Warhammer titles / Dying Light 2 / No rest For the Wicked. \n\nWhat makes Lossless Scaling even better?\nEven an older title like Medieval 2, with Tsardoms mods and bunch of Reshade options, game hits 40-50 fps in battles and with Lossless scaling, my fps is around 80-90, game is a lot more smooth and no visible problems either. And the latency is barely noticable. \nAnd, this is what makes Lossless Scaling even better, for example, Opti scaler is an amazing app, but it can only support new games as old titles don't have DLSS or FSR settings. \n\nAdditional: My card, 1080ti, does not support DLSS or Frame Gen, but thanks to Opti Scaler and Lossless Scaling put together, or just simply using the Lossless Scaling, my dear old friend found life again, even though the support is cut from the drivers side, hopefully, I will be able to use my friend 2-3 years more. \n\nDEVs, thank you. This app gets even more and more uptades and fixes as the time goes on and I find literally NO reason to not buy it. Buy it people, and support the people or the person behind this. They completely deserve it, even though you won't use it, a little 7 dollar support won't hurt.\n\n\nIn short, if anyone plays single player titles, and your PC is slowly coming to its end... This app will simply give it life for 7 dollars. It is amazing, and I thank to people or the person who made this amazing gem.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Lossless Scaling is an amazing tool. Whether your PC is low-end or high-end, this software still gives a real boost. It helps you squeeze out extra FPS and makes your monitor feel smoother without sacrificing quality. Super useful and absolutely worth it.*",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Good.\r\nUse it for movies and anime at 120 FPS without any problems.\r\nWorth buying.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "For Steam Deck this is a no brainer (Deck Wizard has a lot of game settings guides to optimize fps).  For PC it's great, but can seem a bit overwhelming at first if you don't like to tinker.    Highly recommend",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Works great on Cities Skylines 2 with 2X Frame Gen. Makes my 1660 Super run the game at a decent frame rate.\n\nThis game is also very static, which makes FG technology work super well.\n\nOverall. In the correct use cases, this software is amazing for older GPUs that Nvidia or AMD want you to replace.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I have trouble playing older games due to frame-rate related motion sickness. Now I can play those games, including ones in my GOG library, and not become violently ill. 11/10 will not vomit again.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "It really helped with playing games that used to be borderline unplayable in a mediocre laptop. It's not a magic item so be realistic and understand what to tweak",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "amazing program, running a 24gb vram 4090 I still get better results using this program for framegen than I do nvidias DLSS or dlss+frame gen from nvidia",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "There is a big use case for Lossless Scaling that people may not realize, this can be used as a video interpolation/smoothing app similar to SVP, except way better and work with pretty much any video app/website.\n\nTry this: Set frame gen option on and upscaling off, play Netflix or YouTube, then activate LS via shortcut (default ctrl + alt + s), sit back and enjoy.\n\nSure there are purists out there who will say some contents are intended to be at lower fps (especially movies and animes) so your brain is filling the gap and you're not supposed to smoothen it etc etc, but if you enjoy the movie better at 144 fps then who are they to say you can't do that?\n\nHowever you shouldn't keep this app on when you're just browsing since it's a bit buggy when nothing is moving on screen, hence it's better to use the shortcut.\n\nOn sale this costs no more than a cup of coffee, totally worth it.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I wanted to play Euro Truck simulator 2 after an exhausting day at school but my experience wasn't so pleasant with it until i got my hands on Lossless Scaling. It is a great application to Upscale the games, apply decent amount of quality upgrades like V-Sync, HDR, and FRAME GENERATION, even if your graphics card is as weak as an Intel Iris XE. all you have to do is lock your in game fps to whatever your system can attain without dropping, set frame gen to LSFG3 and multiplier to X2, and you have yourself a nice little fps upgrade with minimal ghosting and Input lag. Don't use it with games that require hyper precision like Counter Strike and Call of Duty because you can still feel the input lag. But if you yourself are a gamer who wants to enjoy story games at decent fps without having to destroy your experience with potato graphics, this application is really great.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Game changer for old and unoptimized games.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Very useful for making your old GPU do a little more work. With how newer cards are getting more expensive with less improvements over previous gens and games being poorly optimized having a second card doing the frame gen stuff on adaptive mode helps you keep a stable FPS without having to spend all the money on what some developers claim are \"recommended specs\". You will notice some input lag depending on your hardware and how much frame gen you do, but I think it's an okay sacrifice to make to avoid having nausea from weird frame rate dips happening all the time. It sometimes messes up UI elements in video games so if you mostly play games that have lots of UI elements on the screen that don't move while the gameplay involves fast movement it might get wonky, but I haven't noticed it much on most FPS and other action RPGs I've played so it should be fine for most cases.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "im missing like 50 hours in this because of launching it in admin mode but its really lovely for games capped at 30 or games you cant run very well",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "A game that gives u 40 fps, this app makes it 70 fps!\r\nA great app to have in any library..",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "[h1] 10/10 product [/h1]\r\n\r\nIdeal for [u] visual novels or rpgmaker games [/u], or any other game without an option to fullscreen/change the res of the game. \r\n\r\nContains everything needed to have a great experience for a low price, buy it on sale if you're really cheap like me.\r\nIncludes a very straightforward tutorial, even without it you can just mess around and figure it out by yourself!",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "This program is such a game changer, really really strong upscaler and good for squeezing a little bit more performce out of your system to really maximize your experience and inputs to the highest degree. My only regret is not getting this earlier because i could have optimezed so many games! (even works on non-steam games like minecraft ) * and it does this all without chewing up your systems resources*, basically for 4-7$ you are getting more fps and better graphics.",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Amazing tool, easy to set up, very little input delay or artifacts and for the price its a steal, be aware though that it is just a software tool, not a trick to magically gain more frames, for some configurations and games where youre GPU bound it might be useless, but for CPU bound scenarios its a godsend, amen",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Does work as it's supposed to unfortunately the input lag is quite bad",
+      "voted_up": true,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Lossless Scaling works well on YouTube Videos, Emulated Games and Native Steam Games. Even 30fps pre-rendered cutscenes will look much smoother with this turned on. 100% worth it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Getting an fps boost in so many games from 25 to 60 for just a couple of bucks?! Incredible.\r\n Works great on the Steam Deck. For example. I played AI Limits on the Deck at 25 fps, and with Lossless Scaling 60 fps.\r\nStalker 2 on PC went from 25 to 60 fps, and around 45 in heavy scenes.\r\nFor the Steam Deck it's a must buy. On PC, if you're missing those comfortable frames.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This shit is awesome for older games. I mainly bought this to have frame gen in skyrim for the hell of it and it feels incredibly smooth when your base fps is around 70 which in most modlists just means turning down a few graphical mods",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Laptop - rtx 3060 6gb. i9 11gen. 64 gb ram, 300hz screen. + 2fan each 5000rpm cooling pad.\r\n\r\nMy laptop can run Once Human at 120 fps  medium graphics. with high temp( 80+ )\r\n\r\nOnce Human-\r\nBut I use 60 fps option in game. temp ( below 80 )\r\nLossless Scaling to 3x Multiplier. no other settings.\r\n60fps + 3x = 180fps smoothness. temp below 70 like 65 sometimes.\r\n\r\njust magic with 300hz screen when you can really enjoy the smoothness( 180 fps ) you get. \r\njust amazing.\r\n\r\nYou cannot get back to 60 fps from 120fps & 180lossless fps. 60fps looks leggy and not enjoyable.\r\n\r\nSo get it installed. very cheap upgrade. very important upgrade. \r\nfor those with basic system.\r\n\r\n\r\nOther Games I tried it On.\r\n\r\nNot for Battlefield 6. I already get 80 fps. ( 85 fps lock in game settings. )\r\n60 fps bf6 + 3x multiplier Lossless = 110fps latency disaster. \r\nit gets smooth but the latency just kills you both in game in frustration from delay.\r\nAny other type of game that is like battlefield like. on CPU and  GPU.\r\n\r\n\r\nWRC 9 - \r\nlock at 60 fps + 2x multiplier = Really good. + 3x multiplier = amazing 180fps smoothness.\r\ntemp stays at like 65+ blow 70. amazing.\r\nLove this game.\r\n\r\n\r\n\"WRC 10\" - \r\n60 fps + 3x multiplier( lossless ). = 180 fps smoothness.\r\nAlready get 120+fps with \"default\" maxed out settings.\r\nso I don't use lossless here.\r\n\r\n\r\n\r\n\"TINY GLADE\" must use for lower temp.\r\nlock at 60 fps, 3x lossless = perfection. \r\n*better smoothness experience then once human.*\r\nYou \"cannot\" tell that you are using generated frames. \r\n\r\n\"But if you wanna complain, you can be a weirdo complaining about that 1 pixel.( Tiny glade only )\" ruining others mood for getting this software instead of getting them a system with 5090. so shut up.\r\n\r\n\r\n\r\nPACIFIC DRIVE\r\ndon't know how i finished that game. today i tried after an year.\r\ni got default 30 fps after locking fps to 60. with high settings.\r\nwith lossless 3x multiplier & its basic 25 - 31 fps. = 90 fps.\r\nit was playable. loved the smoothness. but get the settings to low and get that \r\n60 fps + 3x Multiplier magic ON.\r\nlove this game.\r\n\r\n\r\nCONCLUSION \r\n\r\nMUST HAVE FOR EVERYONE.\r\n\r\nGet it if you have RTX 3060 laptop. & if below RTX 3060 performance in your system. TRY TO use it for less heavy games then mentioned.\r\n\r\nGood for games that give you 90 fps easy on your system, \r\nthen lock that game to 60 fps and use lossless with 2x only. \r\nit will be amazing.\r\nDon't use it with 30 fps game settings. not good visuals. But playable if you can ignore those massive deformities.\r\n\r\nFRAME DROPS.\r\nGAME FRAMES 60 + lossless 3x multiplier = 180 fps smoothness.\r\nno, it drops obviously  170, 179, 165, 178, 179, 180,. 55, 58, 59, 60, 54, 60. \r\nSo that is common. \r\n\r\nGUESS WHAT YOU DON'T EVEN NOTICE THEM WITHOUT FPS METER BECAUSE IT IS 180 FREAKING FPS SMOOTHNESS.\r\n\r\nRuns good with GPU.\r\nRuns bad with integrated Graphics of any CPU.\r\n\r\nSo test it with your games and have fun.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I can't believe how well this works. I've always been happy enough to lower my settings for a better frame rate especially nowadays on my older laptop with these insane requirements for AAA titles. Not only did this boost my fps making these games actually playable but I don't even have to sacrifice quality? Madness. Fair play to the wizards behind this.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its surprisingly good on youtube videos and great for making helldivers actually run at a good framerate (as long as your base framerate is around 60)\n\ndoesn't work on everything and the interpolation can be really wack sometimes but for the most part isn't noticable unless you're looking for it",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It takes some time for you to find the appropriate settings, but once you find it, you can not watch anything without Lossless scaling(and I mean ANYTHING ;)). It will be the best $3.50 you will ever spend. $1.50 in a sale. Been watching series and movies with LS and they have definitely became much much more enjoyable. Thank you, THS.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "[b] Lossless Scaling [/b] works well in many different situations. In older games with strict FPS limits, it finally lets you feel smooth animation and gives new life to titles that stopped improving long ago. In newer games, the tool can create extra smoothness when your hardware can't keep up, making gameplay more comfortable. It is not real power, but for many players the difference can be good enough to make the game more enjoyable. I am really happy with it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "makes little frames into many frames, and has breathed new life into my poor 2060 super. it also just works, which is rare nowadays. highly recommended.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "setup right this works very well expecially with older titles like arma 3. i been using it for tarkov and fallout 4 heavily modded works well.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Yes, dual GPU really works. Yes, it is as fantastic as it seems.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I realized that I must have a powerful enough PC to run better after I tried to run some games at my job place.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is quite the handy little tool for a lot of random cases (not even just games). It really just lets you use frame generation and a light bit of upscaling in literally anything you want! And you can outsource the work to a second GPU or your integrated GPU!\n\nSome cases I've used it:\n- Minecraft with shaders - Set the game to 60hz and run in a smaller window, and you can get 240hz with decent upscaled resolution with rather low GPU utilization.\n- Any old videos or movies, upscale and framegen anything in real time!\n- The 1997 original, Riven: upscales the renders a bit and adds frames to all animations.\n- Random software that does not support high DPI/GUI scaling.\n- Old 3d games running in DOSBOX \n- Hover! from Windows 95 or Pinball from Windows XP",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Excellent software. Movies and games benefit immensely with multiple ways to customize",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "lossless scaling is a game changer, i was suffering from horrible optimization of warhammer 40k space marine 2, was playing at 50 fps dlss performance with some dips to 30, but with lossless scaling my fps got pushed to 200, and yes it does feel like 200 in motion.\n\n10/10 program",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "WORLD'S BEST APP i literally use it for almost every single video and video game. Sure some movies and videos are made for a cinematic 24 fps BUT i just love experimenting with this and want maximum smoothness(even if it isn't the best option).  Absolute MUST Purchase can be used on more than games.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I honestly just use it for youtube right now but watching gameplay on youtube at 360hz with sharpening is an absolute lifechanger",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Brilliant little app, game changer for older titles. Little bit buggy here and there but I can totally overlook it, for the wonder it can add.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If this will ever run on Linux... Windows is coocked.\r\nGreat product. I use it almost every day. Workes for every game I have ever played. Its crazy good after all he updates.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Best purchase you can make for any old machines. Also great to use with old GPU as it can be utilized simultaneously with modern GPUs,",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Works in literally everything, not just games. I found it really helpful for emulation, watching videos, etc. The configurability is really great too.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I was skeptical about this software at first, but after trying it I'm in actual disbelief. This has to be magic or something. I just spent 7€ to triple my FPS in every game I play, with no loss in image quality. Simply amazing!\nThe only downside is a small but noticeable input/mouse lag in some games. I wouldn't use it for titles that require minimal latency, like competitive shooters, but for almost everything else it's perfect.\nOverall, definitely recommended. And certainly cheaper than buying a new GPU.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "the only scaling that is better than this is the very newest so unless you have the newest graphics card i would definitly recommend",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great, just great, does what it does if you fix the settings to your pc. Highly recommend!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Tried with MH Wilds and Rise of the Ronin and didn't help at all. Might work for other games idk",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great tool, makes everything better and if you wanna know more, watch some videos about it... also use different configurations for emulators, this makes a huge difference for xenia and rcps3",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This was and still is an absolute gem of a program.  Easy to read albeit initially a little confusing but soon rectified with a little common sense and a little research.  This is the antidote for weaker hardware or rubbish optimizations by game companies.   I'm quite surprised how many don't know or use it.  Top Job by all involved :)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It worked fine for fallout 76. Game not crash anymore and slightly better performance. I'm not much a thecnical person I don't know how exacly it happen. My friend recommended me I'm still paranoid about it but it worked it's sure.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This is something that has changed my life. And I hate ai frames.\r\nWhy?\r\nBecause old games that are capped at different fps are now not.. command conquer series at 144hz looks INCREDIBLE. Buy it.\r\nYou know you want too.\r\n\r\nPS. The image quality seems to be infintely better than using frame gen from AMD and nvidia, crisp quality images with higher fake frame rates, yes even in Elderscrolls oblivion remaster",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "A very, very useful utility for any gaming PC, especially if you have a low end end graphics card.  For instance, I was able to use it to play Shadow Warrior 2 scaled up to 4k from 1080p at a decent framerate using nothing more than the integrated GPU in my intel 265k CPU while I was waiting to get a new dedicated GPU.  Also, its great for scaling up games to 4k that don't normally support it.  Case in point - Dragon Quest 1+2 HD2 remake.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "THIS IS THE BEST APP I EVER INSTALLED IN MY LIFE I USED TO HAVE 40FPS IN ESCAPE FROM TARKOV NOW IM HAVING 140+ FPS THATS CRAZY!!!!!!!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "i love this app great value and helps my laptop with 2060 to get some smooth gamig down , this is a must for gamers , 25/10 i appreciate this more than you could imagine for emulation for classics , my favourite use case is command and conquer red alert 2( cnc reloaded) for 2 x fps and integer full screen this makes it a game changer , for laptop without mux switch this is a option ( 2020 a15 ) soo much good for 6 aud <3",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "uncapped frame generation in any window, capable of uncapping everything to monitor Hz",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very useful for low-end pc's, no stutters, optimizing perfectly!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "$7 gaming upgrade. Only reason you don't have this installed already is because you heard about it month ago and forgot to buy it.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "great for boosting performance while almost retaining the visuals, that is when you get the hang of its settings",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Terraria is locked to 60 fps because the game slows down if it's lower or has some things speed up if it's higher. This allows the game to look better and appear at more than 60 fps while still performing as if it was running on 60 fps. Also it's an absolute LIFESAVER on Steam Deck. The performance is really good.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "VERY worth the money. Very stable, and even at 4x framegen with upscaling to 4k, this is great software, and using both gpus in my computer is very nice.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great FPS boost for the money. I get double the fps in most games without any crazy artifacting or visual glitches.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I use this with my steam deck, for games like MK1 and can get a decent 60fps experience on medium settings. I also use it for Helldivers 2 on PC, and it seriously improves the Helldivers 2 experience. Well worth the 7 bucks.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "works like magic you need to experiment yourself the settings to make it stable, if you are getting fps drops in games give it a try, i tested it out in PUBG NFS HEAT Cyberpunk and other games works well\n\n\nkinda stable in AAA games more, there will be some games lag alot even with this tool so not all games give smoother experience based on ur hardware especially GPU",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "very good software, actually gaining fps in game, little to almost no additional input lag",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Amazing little program for what it does, and keeps getting better over time",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great for singleplayer games and watching videos with much smoother frame rates. Highly recommend.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Alright I've done extensive testing on all different types of games. And let me tell you, this is magic. Weirdly enough, it actually works. I honestly didn't think it would make a difference. It takes some getting used to, theres alot of setting that, if you don't know what you're doing can mess up some things (as in not \"feel well\", or make the game artifact like crazy).\r\n\r\nAs I mentioned, I've tested this on many games; BF6, Arc Raiders, Minecraft, Hogwarts Legacy, Cyberpunk 2077, Tarkov, FF XIV, WoW. And keep this in mind. They all behave differently to LS Framegen. I don't dabble in the scaling. Not my jam, but the framegen is where this app's bread and butter is made. \r\n\r\nHogwarts Legacy, on High graphics, I get ~75 natively. I cap it to 60, triple my frames with LS and I can see 180 fps on my panel. A truly spectacle sight. It looks, and FEELS amazing. Thats the important part. And game can look smooth. But if it doesn't feel correct, its unplayable. Im referring to input latency. Theres gonna be input latency at all times. You're generating frames from basically an algorithm from my understanding. So your computer has to essentially guess where the things are gonna be. And yes, there will be artifacting, as in the UI jumbles around a bit. But with the settings, you can make the artifacting and input latency very minor.\r\n\r\nI've played BF6, and it runs quite well. I can hit some crazy runs in a helo, or go boots on ground and run my M4 and still kill with no issue. MMORPGs looks spectacular as well. It baffles me how I can run framegen and actually see 144+ frames reliably on most games, and tweak the settings to make it feel better/look better. \r\n\r\nNow, it did not run well on Cyberpunk. The input latecy was too great for my liking. But it was one of my first tests, so if I tried it again Im sure I could fix some of it but I digress. And in comparison, Hogwarts Legacy runs a solid 180 fps with no input latency and minimal artifacting. Its wild. Arc Raiders runs like a dream as well. It truly lets you appreciate the game better when you're able to see the frames on your high hertz panel.\r\n\r\nAll in all, this is a crazy good app. Took a bit of getting used to of course, but once I started getting the hang of it, almost every game I've testing it on works well. But your experience may vary.\r\n\r\nHere are my basic settings for most games\r\n*** IF YOURE ON WINDOWS 11*** Capture API is WGC. The other one will break the app when you go to use it. \r\nQueue Target 1 (0 if you want less input latency)\r\nSync mode, OFF\r\nMax Frame Latency 1 - 5 depending on the game *Higher number affects latency)\r\nHDR support OFF (You may wanna have this on if you're running HDR)\r\nGSYNC Support ON\r\nDraw FPS ON\r\n*Framegen* LSFG 3.1\r\nMode Fixed (Adaptive has had mixed results imo)\r\nMultiplier (This is important. This is the number it will multiply your frames. If you're getting 60 FPS and you put 2 here, it'll render 120. You can put decimals, like 1.5 for example and get 90)\r\nFlow Scale (This varies by game. From my experience this handles the artifacting. Further left, more artifacting, less latency if only a minor difference. Further right, less artifacting, but a bit more latency. Take into account your monitor's resolution. 1440p recommends 75, but I've played around with this alot. Its personal preference imo)\r\nPerformance On or Off depending on your computer. I have it On, Less latency, and I don't notice a visual difference with it Off\r\nMulti-display mode ON.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I bought this because games with mods were tanking my FPS, and this helped a lot,especially since some of them are older titles without any frame generation, like Men of War 2: Assault Squad or Dawn of War. I also use it for emulation, and it works perfectly so far. Solid 10/10.”",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Absolutely necessary for any games that just refuse to use your GPU's full power or unoptimized like crap\nFor example Helldivers 2.\n\nEven when not gaming, can be used to upscale and FG any low quality content.\nFor example anime where majority of them are made in either 720p or 1080p\n\nObviously it uses GPU power so remember that whenever you watch something.\n\nOverall 10/10. I cant believe it actually goes on sale",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Simply stated, it works. \n\nI have a 5070ti and a 4k 160hz monitor. But I wanted to try FG on some older games that don't have some of the more modern graphics settings, like fully modded Skyrim, Fallout 4, Witcher 3, and so on. It takes a little tweaking to get the setting you want. But once it's setup, it works.\n\nI definitely recommend buying this even if it's not on sale.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "takes some fine tuning but got it to work with reshade on a low poly game at above 70 fps which is a win. would definatly recommend it for anyone with a low budget PC",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its ok, with small tweaks, it smooths out the frames in every game i tried, just as long as frame rates are uncapped ingame and vsync off, its not gonna help much if your game is already running at under 30 FPS to begin with. its more useful for games that dont come with frame generation and scaling settings as default",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I was hesitant, but WOW. For the discounted price it is a steal! Works perfectly, the image is very good and the only downside for now is absence of VR support.\nBut it is still 10/10 for the price.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Clever little program that does what it promises.  It's essentially a better made and more customizable stand alone version of the poorly designed upscaler in your GPU control software.  We're fast approaching the golden age of \"ugly\" games made by actual people and LS is basically the perfect way to implement AI-powered upscaling into that space.\nLossless Scaling works well on older or indie games that weren't built for modern resolutions and/or frame rates, but it really shines with emulation!  Additionally, it does a decent job of upscaling video, but the soundtrack lag can be noticable during particularly kinetic scenes.\n\nAll in all, I love LS for what it is and what it can do.  Absolutely worth a shot if you're curious.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "At first I felt stupid for buying FPS. Then, I noticed how useful this is, I don't play games at 30fps anymore.\n\nThis is a game changer for steam deck, having it to lock games at 30fps with X2 has a very stable frame pacing. For me so far, it even seems better (because of stability) than those in-game FG options.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I love this program! And the best part is that it's not just for games, it's for everything! I also use it for streaming and it works perfectly. Watching animes at 225 fps for example with Lossless Scaling is like night and day.\nThank you so much!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Being able to play any old game and add FG has been absolutely amazing! Playing Stalker GAMMA at 240 FPS no stutter and the artifacts are barely noticable?! Get out of here Stalker!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Handy little software, worth every penny to whoever wants to play older title games in bigger resolutions.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "With the exception of some current titles, this app is absolutely killer. A MUST HAVE. I am a gamer that enjoys many old school titles but after making the jump to PC gaming close to a decade ago, anything under 60FPS kills me. This provides that extra steadiness I need to continue enjoying those games! A definite must buy for any vintage emulation gamer or even new day gamers on PC. Just know this is NOT a plug-and-play solution as user intervention is a must. Each game needs the setting tweaked individually for the best result.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I Recommend this app for games that have a 60 fps lock or just run like shit.\n\nI have no idea why but for anime games, it is hard to see any artifacts in the generated frames.\n\nHowever with games full of detail, it is really obvious if you stare at a certain spot for long enough.\n\nFor example, grass cannot be predicted properly and some patterns have artifacts IF YOU LOOK FOR THEM.\n\nI do not know if I am blind but shit just works.\n\nI DO NOT RECOMMEND THIS FOR FPS BUT ONLY SOLO ADVENTURE GAMES.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Took 10 seconds to setup, tried it with Metroid Prime 2, instant butter smooth 165fps on a game with fps tied to physics, actual black magic.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Wow great tool, able to do resolution scaling for the games that doesn't support it, which means your old computer can probably play some newer games now. With support for technology like FSR, the quality doesn't really suffer either, brilliant!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "absolute game changer for fps-locked games to improve smoothness!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Very useful tool when you are playing retro games to upscale them to be less blurry but it won't work wonders like just downloading a HD texture mod, it is still good enough, the frame gen tech is also useful on games that don't have built-in frame gen supports and has FPS lock at 60fps (e.g. Elden Ring) to make the motion looks smoother on high refresh rate monitors.\n\nRecommend getting this software if you play lots of old classics or retro games or games that has FPS cap lock but since it works more like an overlay instead of in-game support features, you will notice artifacting on U.I/HUDS and when moving around places with lots of lines textures.(grass,walls with lots of textures or bars etc)",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Best purchase ever, I can play almost any game with ultra graphics, cap my fps to 83 and then get 166 frames with beautiful graphics, I don't get why people complain of artifacts and things, I don't really use the scaling method, but frame generation is 100% worth, not worth for multiplayer games though, you can feel the added input lag but you can do if you don't mind anyway, tested with an RTX 3060.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Really good, app. It has a lit bit of ghosting and input lag, which is to be expected. But hey, almost free FPS! So I will give it a 9/10 to non competitive games and a 5/10 to competitive games. Playing games like CS is just not worth it, but I have tried playing EFT with this, and made my experience a lot better since I cant run this game really well.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Works really well with emulators! when some of the games are locked in 30 fps, this is how you cheat the frames to 60 fps",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Genuine black magic how this thing works \n\nThis completely transforms some games on the steam deck by literally just letting you use basic frame gen. Smooths out so much of the gameplay for some games and gives some genuine uplifts. My biggest examples so far are Clair Obscur getting 60fps at medium - high settings with lfg on at 2x. Along with digimon time stranger and Date everything both getting solid 90fps by basically doing nothing\n\nIf you have a steam deck try this out the uplift it gives to some games is monumental for the price its at",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Fallout 76 runs best in windowed borderless. If you have a 4k monitor but run the game at 2k or 1080p the window won't fill the screen. Lossless Scaling fixed that issue for me.\r\n\r\nEasy to use.\r\nDoes what it says.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "This software is genuinely impressive. It allowed me to play games such as Red Dead Redemption 2, BeamNG drive, Shredders, and several others with consistently smooth performance. The adaptive frame generation is particularly effective, reducing performance dips with the steadiness of a brick placed on a stack of papers.\nOverall, it is an excellent choice for anyone seeking a clearer and more stable visual experience, provided they do not mind a small increase in input latency.                                                          Buy it now!!!!!!",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I think it's great. I use it quite a lot now. The only thing I find a disadvantage of is that even if you have the mouse set to not disappear, it still disappears.",
+      "voted_up": true,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Great for Gaming Laptop longevity, I use an Oculink connected to my spare M.2 port to connect a full size GPU to boost performance, having the ability to dual GPU using both my integrated GPU and external GPU with this app is amazing.",
+      "voted_up": true,
+      "votes_helpful": 0
+    }
+  ],
+  "negative": [
+    {
+      "review": "after tinkering with quite a few games, i don't really get the appeal. too much configuration for not enough results. if you're a graphics nerd you can definitely get something out of this.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I'm happy to change my review to a positive one if someone can point out what I'm missing to make this so called \"amazing\" software do it's thing. I'll admit, I've only tried this on one modern game - Arma Reforger, but after endless tweaking and tuning, LS has given me subpar results. I read on several forums and watched several videos claiming that Lossless Scaling can achieve amazing results on Arma games. Before I attempted this on my Arma, I googled dozens of people's preferred LS settings for Arma and came to a fairly common configuration that many claimed worked well. \n\nFor background on my GPU, I have an nVidia RTX 4070 Ti, so out of the gates, it's no slouch of a GPU and it already achieves silky smooth 49-68 FPS natively in Arma at 3440 x 1440 resolution with most settings on ultra. \n\nIn my every attempt to upscale Arma's performance, my LS generated FPS got worse and stuttered horrifically rather than got any smoother. I tried Arma in both Borderless Fullscreen, and Windowed mode with locked FPS in-game. \n\nThe generated FPS in borderless fullscreen mode barely made an improvement with a base FPS of about 47-60 and a generated FPS of about 58-65, but the actual look and feel of LS's generative FPS was WAY worse than what genuine 65 FPS feels like. The generated FPS always appeared stuttery and sluggish versus my already silky smooth native FPS, no matter the LS settings I used. I should note that I capped the games FPS to 60 (half my monitors Hz as advised) and this was running at a resolution of 3440 x 1440. \n\nWindowed mode was an improvement, and I got a generated FPS of about 110 off a base FPS of 47-60. That said, this was very deceiving, because for some unknown reason Arma's windowed resolution restricted the game to a lousy 2560 x 1080 maximum despite my monitors native resolution being 3440 x 1440. If I'm running Arma natively at 2560 x 1080 resolution, my GPU achieves similar native results of around 100+ FPS to LS, so despite the fact that LS is showing my base and gen FPS as stated above, I'm not 100% sure I can trust it, because I know my GPU can deliver that FPS at those resolutions natively. \n\nAnyway, I'm not a hater of the app, I'm happy to be convinced otherwise and change my review accordingly. Please show me what I'm doing wrong! I'm just confused as to why so many positive reviews say how quickly and easily LS improves their FPS, on both old and new gen hardware and games, yet I can't even get one game to show remotely better results.",
+      "voted_up": false,
+      "votes_helpful": 35
+    },
+    {
+      "review": "You can't have an FPS cap if you use an AMD GPU. LS totally ignores what you have set in AMD Adrenaline. In Adrenaline there is just a global option for FPS cap and not individual for every game/app that I think is possible with Nvidia GPU's. VSync combined with lowering the refresh rate to your desired max fps is the only option but then it is a fixed FPS, which is not a solution if your GPU can't keep the game constantly at e.g. 90 fps. The only \"solution\" I've found is using another third party software such as RTSS, but that is a workaround, not a solution. If FPS cap worked I would absolutely recommend LS, but now it is just useless to me. Have requested a refund.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "I was trying to use frame generation in Borderlands 4 without having it eat up as much VRAM. It scarred my game so bad it started performing better than it was before after I turned this crap off, as to not be subjected to that torture again. The artifacting is also pretty bad.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "While everyone sings the praises about LS I haven't got it to improve a single game I tried it on... maybe you need to be a coder or something to make it work.\nAlso in games where I got scalling to work, like total war, then the cursor in game does not work as you cannot click on anything on the screen.\nNegative vote as it is not easy to use for people without technical knowledge. And instructions/manual are not clear.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Kinda useless if you have a GTX 1650.. Trying to get even 8 more frames out of this thing is a hassle and contrary to what other people say.. the input lag is noticeable. Another thing to add would be this is for powerful gpus only which don't even need this crap. The only best usecase is if you wanna play mario at 144fps. And it's also probably for kids who want that quick fps boost and cannot notice stutters or input lag.. atleast that's the only way it makes sense why it has positive reviews?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "It didnt help and made my fps worse and made the game look worse.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "No reason getting this over Magpie, which works better and allows for custom scaling algorithms and combinations.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have been suggested to use this Lossless Scaling (LS) to improve my gaming experience.\n\nI know this software is not that expensive, but I still tried to do some research by watching some Tech Youtuber about it.\n\n\nMy Conclusions :\n\n1. To use this tool, as Linus (from LTT Youtuber) suggest, you need some spare GPU power to run it properly.\n\nHe mentioned, keep the GPU utilization below 85%.\n\n\n2. I mostly play FPS and RTS, so good reaction time is a must. And as a lot of people has been saying LS is not good for competitive gaming, and it's true.\n\nFor example, my poor laptop (AMD 6600H, 16GB RAM dual channel), when running PUBG without LS can run about 45-50 FPS. However when LS is turned out, it's original FPS drop to 25 FPS, but the apparent FPS, after using LS' LSFG 3.1 adaptive to 75 FPS, appear to be 75 FPS.\n\nBut your actual input is still \"connected\" to that low 25 FPS, hence the lags when moving around.\n\n\n3. Contradictorily, if your GPU have spare power to run LS properly, then it's actually have enough power to push higher FPS without LS ? So it's kinda in unusual situation, unless like what Linus did : using 2nd older GPU to run LS dedicatedly.\n\nAgain, contradictorily, if you do have spare GPU, you should sell it in the first place, then buy a better GPU rather than your current one.\n\n\n4. But in those reviews from Youtuber I saw, there is other uses that I haven't tried. For example, it's supposedly could also make old retro / emulation games looks much better.\nBut I don't do Retro / Emulation, so I can't vouch for it.\n\n\nIn the end, if you play FPS, especially multiplayer, don't buy this thing. But since it's rather cheap, you could have fun tweaking with it, and support indie developer.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I bought this to boost the capped 30fps to 60 on Final Fantasy X. it's amazing when it works, and the FMVs look great, but it hitches and drops frames during gameplay frequently with no apparent reason. It also has problems with my XBox controller, which is insane, because frame gen shouldn't have anything to do with input devices.\n\nI've been trying to troubleshoot the issues for a few hours, and finally decided to leave a negative review after it started crashing my GPU mid-game. It's finicky and problematic. Try it if you don't have another solution, but YMMV.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "if i play roblox with it it dosent lock my mouse so if i im in an game that locks your mouse the mouse still moves",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "As soon I launch it, 10 seconds later it stop. Everytime!\nI can't recommand it, when it work it is probably nice, but I guess i'll never know.\nIs it because I am on Linux??",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "whats the point of upscaling  if it caps its performance at 60 fps resulting in games already running above 60fps zero improvements. blurry visuals, broken window scaling, and zero performance boosts. the only thing this program has is frame gen and even that is snake oil.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Removes LOTROs cursor no matter what I do and nothing online changes it. The cursor can never come back.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "uses 50% of my gpu resources and bricks my fps just for frame gen, what is the point?",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It \"works\" but is entirely unusable by the fact that it won't let you play your game. I tried using this to FG minecraft, but whenever I open this app, it forces itself to be the active window. If you alt tab to your game or to another window, it will force itself back on top of all windows, and make it so you can't use ANY apps or games while it's open. Even if you minimize it, you cannot do anything with your PC. All you can do is close it. Terrible.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "does literally nothing (not exaggerating) other than giving me 1 second of input lag.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "to be completely honest, I've only tested this on 1 game (BF6) and it actually drops my frames and reduces the quality. I've tried almost every single option and it either doesnt make a difference or makes it works. Its very possible it just doesnt work well with BF6 but thats my experience.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "absolutely fake software\r\nit just forces windowed mode to fullscreen and very high latency, very high input lag\r\nand gives zoomed in $hitty Blurry textures\r\nunplayable... Better save money and build a good gaming setup rather than doing this\r\n\r\nI dont care about the positive reviews... telling you from my experience.. this is just waste of money and complete SCAM. I dont Recommend anyone to buy this. Have a Nice Day everyone!",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "don't use this or use with the right setting if you have low vram card, i use default setting and it just literally nuked my 2gb vram video driver card.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I am uncertain if I made a mistake but using the FPS booster seemed to result in a decrease in frames per second.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "MADE MY FPS WORSE BY 30 STUPID CULTISTS AND MADE MY GAME DELAYED NOT GOOD FOR GAMING",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you have a 40 or 50 series NVIDIA card, NVIDIA's Smooth Motion is much better then this!",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "Dog shit dont buy -100 frames",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its bad",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "no its gay",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "shit is ass",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Overrated....",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "nepadeda gaidys",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Overrated",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Pashol nahui grazinkit pinigus",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "this is useless",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "meh",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "used to work great. i used it in Helldivers 2 all the time. Now when i use it it cuts my frames down by about 15 and everything becomes choppy. Basically useless in its current state. I've read the guides, watched the Youtube videos, everything. Nothing works. Had used it for well over 100 hours previously. now its just frustrating. \r\n\r\nI would LOVE some help to figure this out.",
+      "voted_up": false,
+      "votes_helpful": 57
+    },
+    {
+      "review": "If something sounds too good to be true, it probably is.\n\nWith this program enabled, the game doesn't look or run any better than without, and that's after following a step by step guide that displays the best settings. What it does introduce, however, is a massive amount of input lag that makes any game unplayable.",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "All it does is replace fps with input lag and screen artefacts, which is considerably worse than lower fps",
+      "voted_up": false,
+      "votes_helpful": 41
+    },
+    {
+      "review": "after tinkering with quite a few games, i don't really get the appeal. too much configuration for not enough results. if you're a graphics nerd you can definitely get something out of this.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I'm happy to change my review to a positive one if someone can point out what I'm missing to make this so called \"amazing\" software do it's thing. I'll admit, I've only tried this on one modern game - Arma Reforger, but after endless tweaking and tuning, LS has given me subpar results. I read on several forums and watched several videos claiming that Lossless Scaling can achieve amazing results on Arma games. Before I attempted this on my Arma, I googled dozens of people's preferred LS settings for Arma and came to a fairly common configuration that many claimed worked well. \n\nFor background on my GPU, I have an nVidia RTX 4070 Ti, so out of the gates, it's no slouch of a GPU and it already achieves silky smooth 49-68 FPS natively in Arma at 3440 x 1440 resolution with most settings on ultra. \n\nIn my every attempt to upscale Arma's performance, my LS generated FPS got worse and stuttered horrifically rather than got any smoother. I tried Arma in both Borderless Fullscreen, and Windowed mode with locked FPS in-game. \n\nThe generated FPS in borderless fullscreen mode barely made an improvement with a base FPS of about 47-60 and a generated FPS of about 58-65, but the actual look and feel of LS's generative FPS was WAY worse than what genuine 65 FPS feels like. The generated FPS always appeared stuttery and sluggish versus my already silky smooth native FPS, no matter the LS settings I used. I should note that I capped the games FPS to 60 (half my monitors Hz as advised) and this was running at a resolution of 3440 x 1440. \n\nWindowed mode was an improvement, and I got a generated FPS of about 110 off a base FPS of 47-60. That said, this was very deceiving, because for some unknown reason Arma's windowed resolution restricted the game to a lousy 2560 x 1080 maximum despite my monitors native resolution being 3440 x 1440. If I'm running Arma natively at 2560 x 1080 resolution, my GPU achieves similar native results of around 100+ FPS to LS, so despite the fact that LS is showing my base and gen FPS as stated above, I'm not 100% sure I can trust it, because I know my GPU can deliver that FPS at those resolutions natively. \n\nAnyway, I'm not a hater of the app, I'm happy to be convinced otherwise and change my review accordingly. Please show me what I'm doing wrong! I'm just confused as to why so many positive reviews say how quickly and easily LS improves their FPS, on both old and new gen hardware and games, yet I can't even get one game to show remotely better results.",
+      "voted_up": false,
+      "votes_helpful": 35
+    },
+    {
+      "review": "No Linux support and doesn't even run with Proton...",
+      "voted_up": false,
+      "votes_helpful": 11
+    },
+    {
+      "review": "You can't have an FPS cap if you use an AMD GPU. LS totally ignores what you have set in AMD Adrenaline. In Adrenaline there is just a global option for FPS cap and not individual for every game/app that I think is possible with Nvidia GPU's. VSync combined with lowering the refresh rate to your desired max fps is the only option but then it is a fixed FPS, which is not a solution if your GPU can't keep the game constantly at e.g. 90 fps. The only \"solution\" I've found is using another third party software such as RTSS, but that is a workaround, not a solution. If FPS cap worked I would absolutely recommend LS, but now it is just useless to me. Have requested a refund.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "[Not recommended for up-scaling Visual Novels]\nUSE MAGPIE INSTEAD + ITS FREE + OPEN SOURCE\n\nBought it to try and upscale old visual novel games, however it caused more issues than I had before, specifically with the cursor and was impossible to troubleshoot.\n\nI then tried magpie instead, an up-scaler that was supposedly \"tedious and requires tinkering\" to get good results, and it was instantly working perfectly.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "Too much latency for me on a single card (3060ti), and buying a 2nd card just for LS makes no sense, as I would just upgrade my GPU. Rip $7 lol\n\nIMO if you have access to DLSS or FRS use it. it will work 100% better\nif you don't then upgrade",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I was trying to use frame generation in Borderlands 4 without having it eat up as much VRAM. It scarred my game so bad it started performing better than it was before after I turned this crap off, as to not be subjected to that torture again. The artifacting is also pretty bad.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "While everyone sings the praises about LS I haven't got it to improve a single game I tried it on... maybe you need to be a coder or something to make it work.\nAlso in games where I got scalling to work, like total war, then the cursor in game does not work as you cannot click on anything on the screen.\nNegative vote as it is not easy to use for people without technical knowledge. And instructions/manual are not clear.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Kinda useless if you have a GTX 1650.. Trying to get even 8 more frames out of this thing is a hassle and contrary to what other people say.. the input lag is noticeable. Another thing to add would be this is for powerful gpus only which don't even need this crap. The only best usecase is if you wanna play mario at 144fps. And it's also probably for kids who want that quick fps boost and cannot notice stutters or input lag.. atleast that's the only way it makes sense why it has positive reviews?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "It didnt help and made my fps worse and made the game look worse.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "No reason getting this over Magpie, which works better and allows for custom scaling algorithms and combinations.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have been suggested to use this Lossless Scaling (LS) to improve my gaming experience.\n\nI know this software is not that expensive, but I still tried to do some research by watching some Tech Youtuber about it.\n\n\nMy Conclusions :\n\n1. To use this tool, as Linus (from LTT Youtuber) suggest, you need some spare GPU power to run it properly.\n\nHe mentioned, keep the GPU utilization below 85%.\n\n\n2. I mostly play FPS and RTS, so good reaction time is a must. And as a lot of people has been saying LS is not good for competitive gaming, and it's true.\n\nFor example, my poor laptop (AMD 6600H, 16GB RAM dual channel), when running PUBG without LS can run about 45-50 FPS. However when LS is turned out, it's original FPS drop to 25 FPS, but the apparent FPS, after using LS' LSFG 3.1 adaptive to 75 FPS, appear to be 75 FPS.\n\nBut your actual input is still \"connected\" to that low 25 FPS, hence the lags when moving around.\n\n\n3. Contradictorily, if your GPU have spare power to run LS properly, then it's actually have enough power to push higher FPS without LS ? So it's kinda in unusual situation, unless like what Linus did : using 2nd older GPU to run LS dedicatedly.\n\nAgain, contradictorily, if you do have spare GPU, you should sell it in the first place, then buy a better GPU rather than your current one.\n\n\n4. But in those reviews from Youtuber I saw, there is other uses that I haven't tried. For example, it's supposedly could also make old retro / emulation games looks much better.\nBut I don't do Retro / Emulation, so I can't vouch for it.\n\n\nIn the end, if you play FPS, especially multiplayer, don't buy this thing. But since it's rather cheap, you could have fun tweaking with it, and support indie developer.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I bought this to boost the capped 30fps to 60 on Final Fantasy X. it's amazing when it works, and the FMVs look great, but it hitches and drops frames during gameplay frequently with no apparent reason. It also has problems with my XBox controller, which is insane, because frame gen shouldn't have anything to do with input devices.\n\nI've been trying to troubleshoot the issues for a few hours, and finally decided to leave a negative review after it started crashing my GPU mid-game. It's finicky and problematic. Try it if you don't have another solution, but YMMV.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "if i play roblox with it it dosent lock my mouse so if i im in an game that locks your mouse the mouse still moves",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "As soon I launch it, 10 seconds later it stop. Everytime!\nI can't recommand it, when it work it is probably nice, but I guess i'll never know.\nIs it because I am on Linux??",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "whats the point of upscaling  if it caps its performance at 60 fps resulting in games already running above 60fps zero improvements. blurry visuals, broken window scaling, and zero performance boosts. the only thing this program has is frame gen and even that is snake oil.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Removes LOTROs cursor no matter what I do and nothing online changes it. The cursor can never come back.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "uses 50% of my gpu resources and bricks my fps just for frame gen, what is the point?",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It \"works\" but is entirely unusable by the fact that it won't let you play your game. I tried using this to FG minecraft, but whenever I open this app, it forces itself to be the active window. If you alt tab to your game or to another window, it will force itself back on top of all windows, and make it so you can't use ANY apps or games while it's open. Even if you minimize it, you cannot do anything with your PC. All you can do is close it. Terrible.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "does literally nothing (not exaggerating) other than giving me 1 second of input lag.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "to be completely honest, I've only tested this on 1 game (BF6) and it actually drops my frames and reduces the quality. I've tried almost every single option and it either doesnt make a difference or makes it works. Its very possible it just doesnt work well with BF6 but thats my experience.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "absolutely fake software\r\nit just forces windowed mode to fullscreen and very high latency, very high input lag\r\nand gives zoomed in $hitty Blurry textures\r\nunplayable... Better save money and build a good gaming setup rather than doing this\r\n\r\nI dont care about the positive reviews... telling you from my experience.. this is just waste of money and complete SCAM. I dont Recommend anyone to buy this. Have a Nice Day everyone!",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "don't use this or use with the right setting if you have low vram card, i use default setting and it just literally nuked my 2gb vram video driver card.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I am uncertain if I made a mistake but using the FPS booster seemed to result in a decrease in frames per second.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "MADE MY FPS WORSE BY 30 STUPID CULTISTS AND MADE MY GAME DELAYED NOT GOOD FOR GAMING",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "If you have a 40 or 50 series NVIDIA card, NVIDIA's Smooth Motion is much better then this!",
+      "voted_up": false,
+      "votes_helpful": 10
+    },
+    {
+      "review": "Dog shit dont buy -100 frames",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "its bad",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "no its gay",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "shit is ass",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Overrated....",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "nepadeda gaidys",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "Overrated",
+      "voted_up": false,
+      "votes_helpful": 4
+    },
+    {
+      "review": "Pashol nahui grazinkit pinigus",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "this is useless",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "meh",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "used to work great. i used it in Helldivers 2 all the time. Now when i use it it cuts my frames down by about 15 and everything becomes choppy. Basically useless in its current state. I've read the guides, watched the Youtube videos, everything. Nothing works. Had used it for well over 100 hours previously. now its just frustrating. \r\n\r\nI would LOVE some help to figure this out.",
+      "voted_up": false,
+      "votes_helpful": 57
+    },
+    {
+      "review": "If something sounds too good to be true, it probably is.\n\nWith this program enabled, the game doesn't look or run any better than without, and that's after following a step by step guide that displays the best settings. What it does introduce, however, is a massive amount of input lag that makes any game unplayable.",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "All it does is replace fps with input lag and screen artefacts, which is considerably worse than lower fps",
+      "voted_up": false,
+      "votes_helpful": 41
+    },
+    {
+      "review": "after tinkering with quite a few games, i don't really get the appeal. too much configuration for not enough results. if you're a graphics nerd you can definitely get something out of this.",
+      "voted_up": false,
+      "votes_helpful": 5
+    },
+    {
+      "review": "I'm happy to change my review to a positive one if someone can point out what I'm missing to make this so called \"amazing\" software do it's thing. I'll admit, I've only tried this on one modern game - Arma Reforger, but after endless tweaking and tuning, LS has given me subpar results. I read on several forums and watched several videos claiming that Lossless Scaling can achieve amazing results on Arma games. Before I attempted this on my Arma, I googled dozens of people's preferred LS settings for Arma and came to a fairly common configuration that many claimed worked well. \n\nFor background on my GPU, I have an nVidia RTX 4070 Ti, so out of the gates, it's no slouch of a GPU and it already achieves silky smooth 49-68 FPS natively in Arma at 3440 x 1440 resolution with most settings on ultra. \n\nIn my every attempt to upscale Arma's performance, my LS generated FPS got worse and stuttered horrifically rather than got any smoother. I tried Arma in both Borderless Fullscreen, and Windowed mode with locked FPS in-game. \n\nThe generated FPS in borderless fullscreen mode barely made an improvement with a base FPS of about 47-60 and a generated FPS of about 58-65, but the actual look and feel of LS's generative FPS was WAY worse than what genuine 65 FPS feels like. The generated FPS always appeared stuttery and sluggish versus my already silky smooth native FPS, no matter the LS settings I used. I should note that I capped the games FPS to 60 (half my monitors Hz as advised) and this was running at a resolution of 3440 x 1440. \n\nWindowed mode was an improvement, and I got a generated FPS of about 110 off a base FPS of 47-60. That said, this was very deceiving, because for some unknown reason Arma's windowed resolution restricted the game to a lousy 2560 x 1080 maximum despite my monitors native resolution being 3440 x 1440. If I'm running Arma natively at 2560 x 1080 resolution, my GPU achieves similar native results of around 100+ FPS to LS, so despite the fact that LS is showing my base and gen FPS as stated above, I'm not 100% sure I can trust it, because I know my GPU can deliver that FPS at those resolutions natively. \n\nAnyway, I'm not a hater of the app, I'm happy to be convinced otherwise and change my review accordingly. Please show me what I'm doing wrong! I'm just confused as to why so many positive reviews say how quickly and easily LS improves their FPS, on both old and new gen hardware and games, yet I can't even get one game to show remotely better results.",
+      "voted_up": false,
+      "votes_helpful": 35
+    },
+    {
+      "review": "No Linux support and doesn't even run with Proton...",
+      "voted_up": false,
+      "votes_helpful": 11
+    },
+    {
+      "review": "You can't have an FPS cap if you use an AMD GPU. LS totally ignores what you have set in AMD Adrenaline. In Adrenaline there is just a global option for FPS cap and not individual for every game/app that I think is possible with Nvidia GPU's. VSync combined with lowering the refresh rate to your desired max fps is the only option but then it is a fixed FPS, which is not a solution if your GPU can't keep the game constantly at e.g. 90 fps. The only \"solution\" I've found is using another third party software such as RTSS, but that is a workaround, not a solution. If FPS cap worked I would absolutely recommend LS, but now it is just useless to me. Have requested a refund.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "[Not recommended for up-scaling Visual Novels]\nUSE MAGPIE INSTEAD + ITS FREE + OPEN SOURCE\n\nBought it to try and upscale old visual novel games, however it caused more issues than I had before, specifically with the cursor and was impossible to troubleshoot.\n\nI then tried magpie instead, an up-scaler that was supposedly \"tedious and requires tinkering\" to get good results, and it was instantly working perfectly.",
+      "voted_up": false,
+      "votes_helpful": 7
+    },
+    {
+      "review": "Too much latency for me on a single card (3060ti), and buying a 2nd card just for LS makes no sense, as I would just upgrade my GPU. Rip $7 lol\n\nIMO if you have access to DLSS or FRS use it. it will work 100% better\nif you don't then upgrade",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I was trying to use frame generation in Borderlands 4 without having it eat up as much VRAM. It scarred my game so bad it started performing better than it was before after I turned this crap off, as to not be subjected to that torture again. The artifacting is also pretty bad.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "While everyone sings the praises about LS I haven't got it to improve a single game I tried it on... maybe you need to be a coder or something to make it work.\nAlso in games where I got scalling to work, like total war, then the cursor in game does not work as you cannot click on anything on the screen.\nNegative vote as it is not easy to use for people without technical knowledge. And instructions/manual are not clear.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Kinda useless if you have a GTX 1650.. Trying to get even 8 more frames out of this thing is a hassle and contrary to what other people say.. the input lag is noticeable. Another thing to add would be this is for powerful gpus only which don't even need this crap. The only best usecase is if you wanna play mario at 144fps. And it's also probably for kids who want that quick fps boost and cannot notice stutters or input lag.. atleast that's the only way it makes sense why it has positive reviews?",
+      "voted_up": false,
+      "votes_helpful": 6
+    },
+    {
+      "review": "It didnt help and made my fps worse and made the game look worse.",
+      "voted_up": false,
+      "votes_helpful": 3
+    },
+    {
+      "review": "No reason getting this over Magpie, which works better and allows for custom scaling algorithms and combinations.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I have been suggested to use this Lossless Scaling (LS) to improve my gaming experience.\n\nI know this software is not that expensive, but I still tried to do some research by watching some Tech Youtuber about it.\n\n\nMy Conclusions :\n\n1. To use this tool, as Linus (from LTT Youtuber) suggest, you need some spare GPU power to run it properly.\n\nHe mentioned, keep the GPU utilization below 85%.\n\n\n2. I mostly play FPS and RTS, so good reaction time is a must. And as a lot of people has been saying LS is not good for competitive gaming, and it's true.\n\nFor example, my poor laptop (AMD 6600H, 16GB RAM dual channel), when running PUBG without LS can run about 45-50 FPS. However when LS is turned out, it's original FPS drop to 25 FPS, but the apparent FPS, after using LS' LSFG 3.1 adaptive to 75 FPS, appear to be 75 FPS.\n\nBut your actual input is still \"connected\" to that low 25 FPS, hence the lags when moving around.\n\n\n3. Contradictorily, if your GPU have spare power to run LS properly, then it's actually have enough power to push higher FPS without LS ? So it's kinda in unusual situation, unless like what Linus did : using 2nd older GPU to run LS dedicatedly.\n\nAgain, contradictorily, if you do have spare GPU, you should sell it in the first place, then buy a better GPU rather than your current one.\n\n\n4. But in those reviews from Youtuber I saw, there is other uses that I haven't tried. For example, it's supposedly could also make old retro / emulation games looks much better.\nBut I don't do Retro / Emulation, so I can't vouch for it.\n\n\nIn the end, if you play FPS, especially multiplayer, don't buy this thing. But since it's rather cheap, you could have fun tweaking with it, and support indie developer.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "I bought this to boost the capped 30fps to 60 on Final Fantasy X. it's amazing when it works, and the FMVs look great, but it hitches and drops frames during gameplay frequently with no apparent reason. It also has problems with my XBox controller, which is insane, because frame gen shouldn't have anything to do with input devices.\n\nI've been trying to troubleshoot the issues for a few hours, and finally decided to leave a negative review after it started crashing my GPU mid-game. It's finicky and problematic. Try it if you don't have another solution, but YMMV.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "if i play roblox with it it dosent lock my mouse so if i im in an game that locks your mouse the mouse still moves",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "As soon I launch it, 10 seconds later it stop. Everytime!\nI can't recommand it, when it work it is probably nice, but I guess i'll never know.\nIs it because I am on Linux??",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "whats the point of upscaling  if it caps its performance at 60 fps resulting in games already running above 60fps zero improvements. blurry visuals, broken window scaling, and zero performance boosts. the only thing this program has is frame gen and even that is snake oil.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "Removes LOTROs cursor no matter what I do and nothing online changes it. The cursor can never come back.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "uses 50% of my gpu resources and bricks my fps just for frame gen, what is the point?",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "It \"works\" but is entirely unusable by the fact that it won't let you play your game. I tried using this to FG minecraft, but whenever I open this app, it forces itself to be the active window. If you alt tab to your game or to another window, it will force itself back on top of all windows, and make it so you can't use ANY apps or games while it's open. Even if you minimize it, you cannot do anything with your PC. All you can do is close it. Terrible.",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "does literally nothing (not exaggerating) other than giving me 1 second of input lag.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "to be completely honest, I've only tested this on 1 game (BF6) and it actually drops my frames and reduces the quality. I've tried almost every single option and it either doesnt make a difference or makes it works. Its very possible it just doesnt work well with BF6 but thats my experience.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "absolutely fake software\r\nit just forces windowed mode to fullscreen and very high latency, very high input lag\r\nand gives zoomed in $hitty Blurry textures\r\nunplayable... Better save money and build a good gaming setup rather than doing this\r\n\r\nI dont care about the positive reviews... telling you from my experience.. this is just waste of money and complete SCAM. I dont Recommend anyone to buy this. Have a Nice Day everyone!",
+      "voted_up": false,
+      "votes_helpful": 2
+    },
+    {
+      "review": "don't use this or use with the right setting if you have low vram card, i use default setting and it just literally nuked my 2gb vram video driver card.",
+      "voted_up": false,
+      "votes_helpful": 1
+    },
+    {
+      "review": "I am uncertain if I made a mistake but using the FPS booster seemed to result in a decrease in frames per second.",
+      "voted_up": false,
+      "votes_helpful": 0
+    },
+    {
+      "review": "MADE MY FPS WORSE BY 30 STUPID CULTISTS AND MADE MY GAME DELAYED NOT GOOD FOR GAMING",
+      "voted_up": false,
+      "votes_helpful": 0
+    }
+  ]
+}
