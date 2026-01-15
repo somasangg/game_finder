@@ -17,6 +17,9 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 git clone https://github.com/somasangg/game_finder.git
+
 cd steam-games-dashboard
+
 npm install
+
 npm run dev
