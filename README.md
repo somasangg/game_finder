@@ -7,3 +7,7 @@ cd steam-games-dashboard
 npm install
 
 npm run dev
+
+
+アンケートのWordファイルをダウンロード、タイマーを準備
+[Steam公式ページ](https://store.steampowered.com/?l=japanese)を手元に準備
