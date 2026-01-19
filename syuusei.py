@@ -1,47 +1,73 @@
 import json
 
-# ファイル読み込み
-with open('games_cleaned.json', 'r', encoding='utf-8') as f:
-    games = json.load(f)
+# タグの対応表（小文字アンダースコア → 正しい形式）
+tag_mapping = {
+    "game_mechanics": "Game Mechanics",
+    "game_balance": "Game Balance",
+    "music": "Music",
+    "story": "Story",
+    "immersion": "Immersion",
+    "user_interface": "User Interface",
+    "usability": "Usability",
+    "graphics": "Graphics",
+    "community": "Community",
+    "dlc": "DLC",
+    "mods": "Mods",
+    "content_volume": "Content Volume",
+    "player_skill": "Player Skill",
+}
 
-with open('genres.json', 'r', encoding='utf-8') as f:
-    genres = json.load(f)
+# game_tags.json を読み込み
+with open('game_tags.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
 
-# games.json に実際に使われているジャンルを集計
-used_genres = set()
-for game in games:
-    if 'genres' in game:
-        game_genres = game['genres']
-        # 文字列の場合、カンマで分割
-        if isinstance(game_genres, str):
-            game_genres = [g.strip() for g in game_genres.split(',')]
-        # リストの場合、そのまま使用
-        if isinstance(game_genres, list):
-            used_genres.update(game_genres)
+# 配列の場合、オブジェクトに変換しながらタグ名を修正
+if isinstance(data, list):
+    converted_data = {}
+    for item in data:
+        if 'appid' not in item:
+            continue
+        
+        appid = str(item['appid'])
+        
+        # タグ名を正しい形式に変換
+        if 'tags' in item:
+            item['tags'] = [
+                tag_mapping.get(tag.lower(), tag) 
+                for tag in item['tags']
+            ]
+        
+        # scores キーも同じように変換
+        if 'scores' in item:
+            new_scores = {}
+            for key, value in item['scores'].items():
+                new_key = tag_mapping.get(key.lower(), key)
+                new_scores[new_key] = value
+            item['scores'] = new_scores
+        
+        converted_data[appid] = item
+    
+    data = converted_data
+else:
+    # オブジェクトの場合
+    for appid in data:
+        if 'tags' in data[appid]:
+            data[appid]['tags'] = [
+                tag_mapping.get(tag.lower(), tag) 
+                for tag in data[appid]['tags']
+            ]
+        if 'scores' in data[appid]:
+            new_scores = {}
+            for key, value in data[appid]['scores'].items():
+                new_key = tag_mapping.get(key.lower(), key)
+                new_scores[new_key] = value
+            data[appid]['scores'] = new_scores
 
-print(f"games.json に含まれるジャンル数: {len(used_genres)}")
-print(f"genres.json のジャンル数: {len(genres)}")
+# 修正後のファイルを保存
+with open('game_tags.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)
 
-# 使用されていないジャンルをフィルタリング
-cleaned_genres = [g for g in genres if g in used_genres]
-
-# アルファベット順にソート
-cleaned_genres.sort()
-
-print(f"クリーニング後: {len(cleaned_genres)}")
-print(f"削除数: {len(genres) - len(cleaned_genres)}")
-
-# 削除されたジャンルを表示
-deleted_genres = [g for g in genres if g not in used_genres]
-if deleted_genres:
-    print("\n削除されたジャンル:")
-    for g in sorted(deleted_genres)[:10]:  # 最初の10個を表示
-        print(f"  - {g}")
-    if len(deleted_genres) > 10:
-        print(f"  ... 他 {len(deleted_genres) - 10} 個")
-
-# ファイルに保存
-with open('genres.json', 'w', encoding='utf-8') as f:
-    json.dump(cleaned_genres, f, indent=2, ensure_ascii=False)
-
-print("\n✅ genres.json を更新しました！")
+print('✅ game_tags.json のタグ名を修正しました！')
+print('変換内容:')
+for small, correct in tag_mapping.items():
+    print(f'  {small} → {correct}')
